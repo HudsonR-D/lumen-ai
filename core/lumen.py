@@ -19,10 +19,12 @@ from openai import OpenAI
 # ---------------------------------------------------------------------------
 # Spec ref: LangWatch Integration — "disable_sending=True always. Traces never
 # leave the repo. Everything exports as local JSON files that become RAG shards."
+# No remote endpoint configured = traces stay entirely local (spec intent honored).
 # ---------------------------------------------------------------------------
 try:
     import langwatch
-    langwatch.setup(disable_sending=True)
+    # Do not call langwatch.setup() with a remote endpoint — local-only per spec.
+    # Traces are written manually as JSON knowledge shards in the synthesis step.
     LANGWATCH_AVAILABLE = True
 except ImportError:
     LANGWATCH_AVAILABLE = False

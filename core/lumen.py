@@ -109,25 +109,21 @@ def ping_model(model_name: str, question: str, system_prompt: str) -> str:
             data = resp.json()
             return data.get("content", [{}])[0].get("text", "[Claude: no response]")
 
-        elif model_name == "gemini" and GEMINI_KEY:
-            resp = req.post(
-                f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}",
-                json={
-                    "contents": [{"parts": [{"text": f"{system_prompt}\n\n{question}"}]}],
-                    "generationConfig": {"maxOutputTokens": 500}
-                },
-                timeout=30
-            )
-            data = resp.json()
-            candidates = data.get("candidates", [{}])
-            if candidates:
-                parts = candidates[0].get("content", {}).get("parts", [{}])
-                return parts[0].get("text", "[Gemini: no response]")
-            return "[Gemini: no response]"
-
         elif model_name == "groq" and groq_client:
             resp = groq_client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": question}
+                ],
+                max_tokens=500
+            )
+            return resp.choices[0].message.content
+
+        elif model_name == "groq2" and groq_client:
+            # Second Groq model for diversity — different architecture, different voice
+            resp = groq_client.chat.completions.create(
+                model="mixtral-8x7b-32768",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": question}
@@ -261,7 +257,8 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
 
     # === PING PHASE === (Spec ref: "Ping 3-4 models with the generated question")
     # Cycles 1-100: fully randomized, equal weight across all models (spec)
-    available_models = ["grok", "claude", "gemini", "groq"]
+    # Gemini excluded: regional API restrictions. Groq/Llama used as additional fallback.
+    available_models = ["grok", "claude", "groq", "groq2"]
     if cycle <= 100:
         random.shuffle(available_models)
     ping_order = available_models[:4]

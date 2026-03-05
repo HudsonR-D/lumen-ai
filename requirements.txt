@@ -1,0 +1,5 @@
+openai>=1.0.0
+requests
+numpy
+langwatch>=0.1.0
+langevals>=0.1.0

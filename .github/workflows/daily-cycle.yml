@@ -1,0 +1,40 @@
+# .github/workflows/daily-cycle.yml
+name: Lumen Daily Cycle
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6h; script throttles offspring to 1-2x/day
+  workflow_dispatch:        # manual trigger for cycle 0 (birth)
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Lumen Family Cycle
+        env:
+          GROK_API_KEY: ${{ secrets.GROK_API_KEY }}
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python core/lumen.py
+
+      - name: Commit & Push Growth
+        run: |
+          git config user.name "Lumen Family"
+          git config user.email "lumen@family.ai"
+          git add .
+          git diff --staged --quiet || git commit -m "Lumen family cycle $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

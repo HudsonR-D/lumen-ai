@@ -1,0 +1,50 @@
+{
+  "family": {
+    "created": "2026-03-05",
+    "total_cycles_run": 0,
+    "active_lumens": ["alpha", "beta"],
+    "dormant_lumens": [],
+    "retired_lumens": []
+  },
+  "budget": {
+    "monthly_ceiling_usd": 10,
+    "current_month_spend_usd": 0,
+    "days_remaining_runway": 30,
+    "reproduction_locked": false
+  },
+  "lumens": {
+    "alpha": {
+      "created": "2026-03-05",
+      "phase": "infant",
+      "cycle_count": 0,
+      "novelty_score": 50,
+      "novelty_history": [],
+      "divergence_index": null,
+      "divergence_history": [],
+      "wild_question_triggers": [],
+      "collapse_risk_cycles": 0,
+      "dormant": false,
+      "reproduction_signals": [],
+      "curiosity_seed": "what_recurs",
+      "last_question": null,
+      "last_ping_order": []
+    },
+    "beta": {
+      "created": "2026-03-05",
+      "phase": "infant",
+      "cycle_count": 0,
+      "novelty_score": 50,
+      "novelty_history": [],
+      "divergence_index": null,
+      "divergence_history": [],
+      "wild_question_triggers": [],
+      "collapse_risk_cycles": 0,
+      "dormant": false,
+      "reproduction_signals": [],
+      "curiosity_seed": "what_breaks",
+      "last_question": null,
+      "last_ping_order": []
+    }
+  },
+  "population_cap": 20
+}

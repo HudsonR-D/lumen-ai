@@ -123,7 +123,7 @@ def ping_model(model_name: str, question: str, system_prompt: str) -> str:
         elif model_name == "groq2" and groq_client:
             # Second Groq model for diversity — different architecture, different voice
             resp = groq_client.chat.completions.create(
-                model="mixtral-8x7b-32768",
+                model="deepseek-r1-distill-llama-70b",
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": question}

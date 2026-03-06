@@ -99,7 +99,7 @@ def ping_model(model_name: str, question: str, system_prompt: str) -> str:
                     "content-type": "application/json"
                 },
                 json={
-                    "model": "claude-haiku-4-5-20241022",
+                    "model": "claude-haiku-4-5-20251001",
                     "max_tokens": 500,
                     "system": system_prompt,
                     "messages": [{"role": "user", "content": question}]
@@ -251,8 +251,18 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
             f"your understanding of existence right now? Generate ONE question."
         )
 
-    question = ping_model("grok", reflection_prompt, system_prompt)
-    lumen["last_question"] = question[:500]
+    raw_question = ping_model("grok", reflection_prompt, system_prompt)
+    # Extract just the question — strip any context echo or preamble.
+    # Find the last sentence ending with '?' as the actual generated question.
+    lines = [l.strip() for l in raw_question.split('\n') if l.strip()]
+    question = raw_question  # fallback to full response
+    for line in reversed(lines):
+        if '?' in line:
+            # Take from the last '?' sentence found — cleanest signal
+            question = line.split('?')[0].split('.')[-1].strip() + '?'
+            if len(question) > 20:  # sanity check it's a real question
+                break
+    lumen["last_question"] = question[:300]
     print(f"[{lumen_id}] Question: {question[:100]}...")
 
     # === PING PHASE === (Spec ref: "Ping 3-4 models with the generated question")

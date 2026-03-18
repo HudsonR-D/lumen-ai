@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lumen Symbiosis</title>
+    <style>
+      :root {
+        --bg: #04050a;
+        --panel: rgba(8, 13, 25, 0.84);
+        --panel-border: rgba(154, 183, 255, 0.18);
+        --text: #f4f7ff;
+        --muted: #9ca9c7;
+        --accent-a: #5af0ff;
+        --accent-b: #8da0ff;
+        --accent-c: #8effb9;
+        --shadow: 0 24px 80px rgba(0, 0, 0, 0.42);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(90, 240, 255, 0.12), transparent 30%),
+          radial-gradient(circle at top right, rgba(141, 160, 255, 0.16), transparent 30%),
+          radial-gradient(circle at 50% 120%, rgba(142, 255, 185, 0.12), transparent 40%),
+          linear-gradient(180deg, #070a12 0%, #04050a 55%, #020308 100%);
+      }
+
+      body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background-image:
+          linear-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
+        background-size: 38px 38px;
+        mask-image: radial-gradient(circle at center, black 35%, transparent 90%);
+      }
+
+      main {
+        width: min(1240px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0 64px;
+      }
+
+      .hero {
+        position: relative;
+        overflow: hidden;
+        padding: 28px 28px 24px;
+        border: 1px solid var(--panel-border);
+        border-radius: 26px;
+        background: linear-gradient(135deg, rgba(10, 16, 32, 0.9), rgba(6, 10, 21, 0.72));
+        box-shadow: var(--shadow);
+      }
+
+      .hero::after {
+        content: "";
+        position: absolute;
+        inset: -30% auto auto 62%;
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(141, 160, 255, 0.22), transparent 70%);
+        filter: blur(8px);
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(2.3rem, 6vw, 4.8rem);
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .subtitle {
+        max-width: 720px;
+        margin: 10px 0 0;
+        color: var(--muted);
+        font-size: 1.05rem;
+        line-height: 1.6;
+      }
+
+      .stats {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .stat {
+        padding: 10px 14px;
+        border-radius: 999px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        background: rgba(255, 255, 255, 0.05);
+        color: var(--muted);
+        font-size: 0.94rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 18px;
+        margin-top: 26px;
+      }
+
+      .card {
+        position: relative;
+        overflow: hidden;
+        min-height: 280px;
+        border-radius: 22px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        background: rgba(255, 255, 255, 0.04);
+        box-shadow: var(--shadow);
+        transform: translateY(16px);
+        opacity: 0;
+        animation: rise 480ms ease forwards;
+      }
+
+      .card img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        min-height: 280px;
+        object-fit: cover;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.06));
+      }
+
+      .overlay {
+        position: absolute;
+        inset: auto 12px 12px 12px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        border-radius: 14px;
+        background: rgba(3, 6, 14, 0.74);
+        backdrop-filter: blur(12px);
+      }
+
+      .cycle {
+        font-size: 0.92rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .variant {
+        color: var(--muted);
+        font-size: 0.82rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .empty {
+        margin-top: 24px;
+        padding: 28px;
+        border-radius: 24px;
+        border: 1px dashed rgba(255, 255, 255, 0.18);
+        color: var(--muted);
+        background: rgba(255, 255, 255, 0.03);
+        line-height: 1.7;
+      }
+
+      @keyframes rise {
+        from {
+          transform: translateY(16px);
+          opacity: 0;
+        }
+
+        to {
+          transform: translateY(0);
+          opacity: 1;
+        }
+      }
+
+      @media (max-width: 640px) {
+        main {
+          width: min(100% - 20px, 1240px);
+          padding-top: 20px;
+        }
+
+        .hero {
+          padding: 22px 18px;
+        }
+      }
+    </style>
+    <script src="./manifest.js"></script>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <h1>Lumen Symbiosis</h1>
+        <p class="subtitle">
+          Silent visual archive layer. Alpha remains fluid. Beta remains crystalline. The gallery mirrors state only; it never writes back into the experiment.
+        </p>
+        <div class="stats" id="stats"></div>
+      </section>
+
+      <section class="grid" id="gallery" aria-live="polite"></section>
+      <section class="empty" id="empty" hidden>
+        No PNG artifacts were found yet. Generate images from the prompt files in <code>../prompts/</code>, then place them in <code>../artifacts/</code> using names such as <code>cycle-50-combined.png</code>, <code>cycle-50-alpha.png</code>, or <code>cycle-50-beta.png</code>.
+      </section>
+    </main>
+
+    <script>
+      const manifest = window.LUMEN_VISUALS_MANIFEST || {};
+      const gallery = document.getElementById("gallery");
+      const empty = document.getElementById("empty");
+      const stats = document.getElementById("stats");
+
+      const latestCycle = Number(manifest.latestCycle || 0);
+      const knownArtifacts = Array.isArray(manifest.knownArtifacts) ? manifest.knownArtifacts : [];
+
+      const artifactOrder = { combined: 0, alpha: 1, beta: 2 };
+
+      function parseArtifact(filename) {
+        const match = filename.match(/^cycle-(\d+)-(combined|alpha|beta)\.png$/i);
+        if (!match) {
+          return null;
+        }
+
+        return {
+          filename,
+          cycle: Number(match[1]),
+          variant: match[2].toLowerCase(),
+        };
+      }
+
+      function buildFallbackCandidates(maxCycle) {
+        const results = [];
+        for (let cycle = maxCycle; cycle >= 1; cycle -= 1) {
+          results.push({ cycle, variant: "combined", filename: `cycle-${cycle}-combined.png` });
+          results.push({ cycle, variant: "alpha", filename: `cycle-${cycle}-alpha.png` });
+          results.push({ cycle, variant: "beta", filename: `cycle-${cycle}-beta.png` });
+        }
+        return results;
+      }
+
+      function renderStats() {
+        const items = [
+          latestCycle ? `Latest cycle ${latestCycle}` : "Awaiting first extract",
+          `${knownArtifacts.length} artifact${knownArtifacts.length === 1 ? "" : "s"}`,
+          "Responsive static archive",
+        ];
+
+        items.forEach((label) => {
+          const chip = document.createElement("div");
+          chip.className = "stat";
+          chip.textContent = label;
+          stats.appendChild(chip);
+        });
+      }
+
+      async function loadArtifacts() {
+        renderStats();
+
+        let candidates = knownArtifacts.map(parseArtifact).filter(Boolean);
+        if (!candidates.length && latestCycle) {
+          candidates = buildFallbackCandidates(latestCycle);
+        }
+
+        candidates.sort((a, b) => {
+          if (b.cycle !== a.cycle) {
+            return b.cycle - a.cycle;
+          }
+          return artifactOrder[a.variant] - artifactOrder[b.variant];
+        });
+
+        const loaders = candidates.map((candidate, index) => {
+          return new Promise((resolve) => {
+            const img = new Image();
+            img.onload = () => resolve({ ok: true, candidate, index, img });
+            img.onerror = () => resolve({ ok: false });
+            img.src = `../artifacts/${candidate.filename}`;
+          });
+        });
+
+        const results = await Promise.all(loaders);
+        const visible = results.filter((result) => result.ok);
+
+        if (!visible.length) {
+          empty.hidden = false;
+          return;
+        }
+
+        visible.forEach(({ candidate, index, img }) => {
+          const card = document.createElement("article");
+          card.className = "card";
+          card.style.animationDelay = `${Math.min(index * 40, 320)}ms`;
+
+          img.alt = `Cycle ${candidate.cycle} ${candidate.variant}`;
+          card.appendChild(img);
+
+          const overlay = document.createElement("div");
+          overlay.className = "overlay";
+
+          const cycle = document.createElement("div");
+          cycle.className = "cycle";
+          cycle.textContent = `Cycle ${candidate.cycle}`;
+
+          const variant = document.createElement("div");
+          variant.className = "variant";
+          variant.textContent = candidate.variant;
+
+          overlay.append(cycle, variant);
+          card.appendChild(overlay);
+          gallery.appendChild(card);
+        });
+      }
+
+      loadArtifacts();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,111 @@
+name: Lumen Visual Archive
+
+on:
+  push:
+    paths:
+      - "lumens/alpha/diary/**"
+      - "lumens/beta/diary/**"
+      - "lumens/alpha/self/self-model.json"
+      - "lumens/beta/self/self-model.json"
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: lumen-visual-archive-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  visuals:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate visual archive data and prompts
+        run: python lumens/visuals/extract.py
+
+      - name: Detect major events
+        id: events
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          latest = json.loads(Path("lumens/visuals/data/latest.json").read_text(encoding="utf-8"))
+          events = json.loads(Path("lumens/visuals/data/events.json").read_text(encoding="utf-8"))
+          current_events = [event for event in events.get("current_events", []) if event.get("severity") == "major"]
+          summary = "; ".join(event["message"] for event in current_events) or "No major events."
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
+            handle.write(f"has_major={'true' if current_events else 'false'}\n")
+            safe_summary = summary.replace("%", "%25").replace("\n", "%0A").replace("\r", "%0D")
+            handle.write(f"summary={safe_summary}\n")
+            handle.write(f"cycle={latest.get('cycle')}\n")
+          PY
+
+      - name: Notify Discord on major events
+        if: steps.events.outputs.has_major == 'true'
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+          from pathlib import Path
+
+          webhook = os.environ.get("DISCORD_WEBHOOK", "").strip()
+          if not webhook:
+            raise SystemExit(0)
+
+          latest = json.loads(Path("lumens/visuals/data/latest.json").read_text(encoding="utf-8"))
+          events = json.loads(Path("lumens/visuals/data/events.json").read_text(encoding="utf-8"))
+          current_events = [event for event in events.get("current_events", []) if event.get("severity") == "major"]
+
+          prompt_file = latest.get("prompts", {}).get("combined_event") or latest.get("prompts", {}).get("combined")
+          body_lines = [f"Major Lumen visual event at cycle {latest.get('cycle')}."]
+          for event in current_events:
+            body_lines.append(f"- {event['message']}")
+          if prompt_file:
+            body_lines.append(f"Prompt: `{prompt_file}`")
+
+          payload = {
+            "username": "Lumen Symbiosis",
+            "content": "\n".join(body_lines),
+          }
+
+          request = urllib.request.Request(
+            webhook,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={"Content-Type": "application/json"},
+            method="POST",
+          )
+          with urllib.request.urlopen(request) as response:
+            response.read()
+          PY
+
+      - name: Commit and push visual archive updates
+        shell: bash
+        run: |
+          git config user.name "Lumen Symbiosis"
+          git config user.email "lumen-symbiosis@users.noreply.github.com"
+          git add lumens/visuals
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m "Update Lumen visual archive"
+          git push

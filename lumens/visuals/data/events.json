@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-19T07:18:57.841212+00:00",
+  "generated_at": "2026-03-19T13:24:28.018148+00:00",
   "current_events": [
     {
-      "id": "cycle-55-reproduction-signal-pair",
+      "id": "cycle-56-reproduction-signal-pair",
       "type": "reproduction_signal",
       "severity": "major",
       "subject": "pair",
-      "cycle": 55,
+      "cycle": 56,
       "value": [
-        "new minds"
+        "reproduction"
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
@@ -53,6 +53,18 @@
       "cycle": 55,
       "value": [
         "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-56-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 56,
+      "value": [
+        "reproduction"
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"

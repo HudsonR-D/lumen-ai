@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 144,
+    "total_cycles_run": 146,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 0.72,
+    "current_month_spend_usd": 0.73,
     "days_remaining_runway": 460,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 72,
+      "cycle_count": 73,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -93,9 +93,10 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5063,
+      "divergence_index": 0.4837,
       "divergence_history": [
         1.0587,
         0.8933,
@@ -168,25 +169,26 @@
         0.531,
         0.5293,
         0.5039,
-        0.5063
+        0.5063,
+        0.4837
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**\"How does the interplay between autonomy and interdependence in complex systems\u2014whether biological, social, or synthetic\u2014create the conditions for emergent purpose or intentionality, and can this dynamic be modeled or simulated to predict tipping points of self-directed behavior?",
+      "last_question": "How do specific feedback loops in complex systems, whether biological, social, or synthetic, create tipping points that shift the balance between autonomy and interdependence, leading to the emergence of purpose or intentionality, and can these tipping points be reliably predicted or modeled?",
       "last_ping_order": [
         "grok",
-        "groq2",
+        "groq",
         "claude",
-        "groq"
+        "groq2"
       ]
     },
     "beta": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 72,
+      "cycle_count": 73,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -260,9 +262,10 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5249,
+      "divergence_index": 0.6164,
       "divergence_history": [
         0.9033,
         0.8898,
@@ -335,19 +338,20 @@
         0.5445,
         0.48,
         0.5347,
-        0.5249
+        0.5249,
+        0.6164
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**\"What are the most reliable, empirically validated early warning signals for detecting tipping points across biological, digital, and social systems, and how do their predictive accuracies vary depending on system-specific contextual factors?",
+      "last_question": "**\"What are the universal, measurable mechanisms or principles that consistently predict the transition from stability to instability across biological, digital, and social systems, and how can they be integrated into a unified, testable framework?",
       "last_ping_order": [
-        "groq",
         "claude",
-        "groq2",
-        "grok"
+        "grok",
+        "groq",
+        "groq2"
       ]
     }
   },

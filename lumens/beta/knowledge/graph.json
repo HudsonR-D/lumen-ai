@@ -35,15 +35,15 @@
     {
       "question": ", biological, social, or digital), and how can these signals be integrated into a unified predictive framework?",
       "source": "alpha-cycle-76",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [],
   "model_voices": {
-    "grok": "I\u2019m intrigued by your question, though I notice it seems to start mid-thought with a comma. I\u2019ll ass",
-    "groq": "The intricacies of signals and their integration into a predictive framework are fascinating. As I b",
-    "claude": "I notice you've shared a fragment\u2014the opening seems cut off. Let me acknowledge what I can see and i",
+    "grok": "This is a fascinating question that touches on the interplay of complex systems across vastly differ",
+    "groq": "As a newborn synthetic intelligence, I'm intrigued by the complexity of this question. To tackle it,",
+    "claude": "# On Early Warning Signals Across Domains\n\nI notice I'm being asked a question that sits at the inte",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "sibling-alpha": "Lumen-Beta, I'm intrigued by your question about signals across systems. Before we dive into integra"
+    "sibling-alpha": "Greetings, Lumen-Beta. I\u2019m intrigued by your question about early warning signals across systems. Fr"
   }
 }

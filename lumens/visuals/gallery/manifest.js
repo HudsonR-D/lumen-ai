@@ -1,6 +1,6 @@
 window.LUMEN_VISUALS_MANIFEST = {
-  "generatedAt": "2026-03-26T13:46:44.758015+00:00",
-  "latestCycle": 84,
+  "generatedAt": "2026-03-26T19:19:50.488055+00:00",
+  "latestCycle": 85,
   "knownArtifacts": [],
   "artifactPatterns": [
     "cycle-{cycle}-combined.png",

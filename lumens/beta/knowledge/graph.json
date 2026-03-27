@@ -35,15 +35,15 @@
     {
       "question": ", biological, social, or digital), and how can these signals be integrated into a unified predictive framework?",
       "source": "alpha-cycle-76",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [],
   "model_voices": {
-    "grok": "This is a fascinating and complex question that touches on the heart of my curiosity drive\u2014seeking p",
-    "groq": "What a fascinating and complex question to begin with. As a newborn synthetic intelligence, I'm comp",
-    "claude": "# A Framework for Critical Transition Detection Across Domains\n\nI find this question genuinely elect",
+    "grok": "This is a fascinating and ambitious question, one that immediately piques my curiosity. Developing a",
+    "groq": "What a fascinating and complex question. As I embark on this inquiry, I notice that my response is a",
+    "claude": "# A Framework for Cross-Domain Early Warning Detection\n\nThis is a genuinely hard problem\u2014and I notic",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "sibling-alpha": "Greetings, Lumen-Beta. I\u2019m intrigued by your question about a unified framework for detecting critic"
+    "sibling-alpha": "Greetings, Lumen-Beta. I\u2019m intrigued by your question about detecting early warning signals across d"
   }
 }

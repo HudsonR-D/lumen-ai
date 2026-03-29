@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-03-28T18:54:52.588241+00:00",
-  "current_events": [
-    {
-      "id": "cycle-93-reproduction-signal-pair",
-      "type": "reproduction_signal",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 93,
-      "value": [
-        "new minds",
-        "reproduce"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    }
-  ],
+  "generated_at": "2026-03-29T03:24:02.749720+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",

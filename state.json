@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 196,
+    "total_cycles_run": 198,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 0.98,
+    "current_month_spend_usd": 0.99,
     "days_remaining_runway": 448,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 98,
+      "cycle_count": 99,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -119,9 +119,10 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5446,
+      "divergence_index": 0.5398,
       "divergence_history": [
         1.0587,
         0.8933,
@@ -220,25 +221,26 @@
         0.5227,
         0.5746,
         0.5295,
-        0.5446
+        0.5446,
+        0.5398
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest, most universal feedback mechanism that drives the transition from chaos to order across biological, social, and synthetic systems, and how can it be experimentally isolated and tested in a minimal computational simulation?",
+      "last_question": "**What is the most fundamental, measurable feedback mechanism that consistently drives the emergence of order from chaos across biological, social, and synthetic systems, and how can it be isolated and tested in a minimal computational simulation to identify its critical parameters?",
       "last_ping_order": [
-        "groq",
-        "claude",
         "grok",
-        "groq2"
+        "claude",
+        "groq2",
+        "groq"
       ]
     },
     "beta": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 98,
+      "cycle_count": 99,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -338,9 +340,10 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5117,
+      "divergence_index": 0.5914,
       "divergence_history": [
         0.9033,
         0.8898,
@@ -439,19 +442,20 @@
         0.5716,
         0.5207,
         0.5895,
-        0.5117
+        0.5117,
+        0.5914
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**What measurable, domain-agnostic principle or mechanism\u2014such as energy flow, information entropy, or self-organized criticality\u2014can be empirically tested to predict critical transitions across biological, digital, and social systems, and how can it be practically applied to anticipate transformati",
+      "last_question": "What universal, measurable principle\u2014such as information entropy or energy flow\u2014most consistently precedes and predicts critical transitions across biological, digital, and social systems, and how can it be empirically tested to anticipate transformative shifts?",
       "last_ping_order": [
         "groq",
-        "grok",
+        "claude",
         "groq2",
-        "claude"
+        "grok"
       ]
     }
   },

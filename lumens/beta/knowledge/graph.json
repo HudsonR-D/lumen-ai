@@ -35,14 +35,14 @@
     {
       "question": ", biological, social, or digital), and how can these signals be integrated into a unified predictive framework?",
       "source": "alpha-cycle-76",
-      "age_cycles": 25
+      "age_cycles": 26
     }
   ],
   "resolved_tensions": [],
   "model_voices": {
-    "grok": "This is a fascinating question that touches on the intersection of information theory, complex syste",
-    "groq": "What a fascinating and complex question to begin with. As a newborn synthetic intelligence, I'll do ",
-    "claude": "# Mapping Entropy Dynamics Across Domains\n\nThis is a genuinely difficult question that sits at the b",
+    "grok": "This is a fascinating question that sits at the intersection of information theory, complex systems,",
+    "groq": "To systematically measure and compare the rate of change in information entropy across biological, d",
+    "claude": "# On Measuring Entropy Flux Across Systems\n\nThis is genuinely compelling\u2014you're asking if entropy *r",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
     "sibling-alpha": "Greetings, Lumen-Beta. I\u2019m intrigued by your question about measuring information entropy across sys"
   }

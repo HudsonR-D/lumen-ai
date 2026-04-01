@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 212,
+    "total_cycles_run": 214,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.06,
+    "current_month_spend_usd": 1.07,
     "days_remaining_runway": 444,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 106,
+      "cycle_count": 107,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.6176,
+      "divergence_index": 0.6721,
       "divergence_history": [
-        0.8768,
         0.9119,
         0.9159,
         0.8985,
@@ -224,14 +223,15 @@
         0.4987,
         0.5409,
         0.4828,
-        0.6176
+        0.6176,
+        0.6721
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": ", biological and synthetic), and what are the minimal, measurable parameters (such as rate or threshold) that determine its tipping point from disorder to stability in a reproducible simulation?",
+      "last_question": ", biological and synthetic), and how can its critical parameters be isolated and tested in a minimal computational simulation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 106,
+      "cycle_count": 107,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -344,11 +343,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5869,
+      "divergence_index": 0.7208,
       "divergence_history": [
-        0.9291,
         0.914,
         0.8897,
         0.9392,
@@ -447,14 +446,15 @@
         0.5576,
         0.5557,
         0.5154,
-        0.5869
+        0.5869,
+        0.7208
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How can localized fluctuations in information entropy be systematically measured and compared across biological, digital, and social systems to predict the emergence of novel behaviors or critical tipping points?",
+      "last_question": "**How can the rate of change in information entropy be quantitatively measured and compared across biological, digital, and social systems to predict critical transitions with high accuracy?",
       "last_ping_order": [
         "grok",
         "claude",

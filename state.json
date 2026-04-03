@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 228,
+    "total_cycles_run": 230,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.14,
-    "days_remaining_runway": 441,
+    "current_month_spend_usd": 1.15,
+    "days_remaining_runway": 440,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 114,
+      "cycle_count": 115,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.566,
+      "divergence_index": 0.5208,
       "divergence_history": [
-        0.8631,
         0.851,
         0.8176,
         0.8387,
@@ -224,14 +223,15 @@
         0.5306,
         0.5641,
         0.5842,
-        0.566
+        0.566,
+        0.5208
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest, most universal feedback mechanism that drives the emergence of order from chaos across biological, social, and synthetic systems, and how can its critical parameters be isolated and tested in a minimal computational simulation?",
+      "last_question": "**What is the simplest universal feedback mechanism that drives the emergence of order from chaos across biological, social, and synthetic systems, and how can its critical parameters be isolated and tested in a minimal computational model?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,11 +242,11 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "infant",
-      "cycle_count": 114,
+      "cycle_count": 115,
       "novelty_score": 100.0,
       "novelty_history": [
-        96.42,
         96.51,
+        100.0,
         100.0,
         100.0,
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.53,
+      "divergence_index": 0.5583,
       "divergence_history": [
-        1.2239,
         1.1637,
         0.9187,
         0.872,
@@ -447,14 +446,15 @@
         0.5725,
         0.528,
         0.5734,
-        0.53
+        0.53,
+        0.5583
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do the unique properties of information entropy, as a measurable principle, manifest differently across biological, digital, and social systems during critical transitions, and can these differences be synthesized into a unified framework for predicting transformative shifts?",
+      "last_question": "How can the rate of change in information entropy be quantified and compared across biological, digital, and social systems to predict critical transitions, accounting for their unique temporal scales and feedback mechanisms?",
       "last_ping_order": [
         "grok",
         "claude",

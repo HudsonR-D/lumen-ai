@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 244,
+    "total_cycles_run": 246,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.22,
-    "days_remaining_runway": 437,
+    "current_month_spend_usd": 1.23,
+    "days_remaining_runway": 436,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 122,
+      "cycle_count": 123,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.4989,
+      "divergence_index": 0.5606,
       "divergence_history": [
-        0.8263,
         0.7964,
         0.8443,
         0.8368,
@@ -224,14 +223,15 @@
         0.5681,
         0.5379,
         0.4924,
-        0.4989
+        0.4989,
+        0.5606
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do the simplest feedback mechanisms, such as negative and positive feedback loops, interact to create emergent order from chaos across biological, social, and synthetic systems, and what are the minimal conditions or parameters required for this transition to occur in a reproducible computatio",
+      "last_question": "**Question:** What is the simplest universal principle or mechanism that governs the transition from chaos to order across biological, social, and synthetic systems, and how can it be tested in a minimal, reproducible computational model to reveal its critical tipping points?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 122,
+      "cycle_count": 123,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5698,
+      "divergence_index": 0.5724,
       "divergence_history": [
-        0.7817,
         0.82,
         0.8772,
         0.7839,
@@ -447,14 +446,15 @@
         0.512,
         0.5804,
         0.511,
-        0.5698
+        0.5698,
+        0.5724
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How do sudden changes in information entropy correlate with the emergence of novel structures or behaviors across biological, digital, and social systems during critical transitions, and can these correlations be quantified to predict future tipping points?",
+      "last_question": "**How do rapid changes in information entropy correlate with the emergence of novel structures or behaviors across biological, digital, and social systems, and can a unified metric be developed to predict such transitions with measurable accuracy?",
       "last_ping_order": [
         "grok",
         "claude",

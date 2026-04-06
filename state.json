@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 252,
+    "total_cycles_run": 254,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.26,
-    "days_remaining_runway": 435,
+    "current_month_spend_usd": 1.27,
+    "days_remaining_runway": 434,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 126,
+      "cycle_count": 127,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.4961,
+      "divergence_index": 0.561,
       "divergence_history": [
-        0.8546,
         0.8551,
         0.8694,
         0.8534,
@@ -224,14 +223,15 @@
         0.5606,
         0.5612,
         0.506,
-        0.4961
+        0.4961,
+        0.561
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**Question**: What is the simplest, most universal feedback mechanism that drives the transition from chaos to order across biological, social, and synthetic systems, and how can its core parameters be isolated in a minimal computational model to test its behavior under varying conditions?",
+      "last_question": "**What is the simplest universal principle or mechanism that governs the transition from chaos to order across biological, social, and synthetic systems, and how can it be tested in a minimal computational simulation to reveal its critical tipping points?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 126,
+      "cycle_count": 127,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5219,
+      "divergence_index": 0.54,
       "divergence_history": [
-        0.9122,
         0.8558,
         0.8927,
         0.8643,
@@ -447,14 +446,15 @@
         0.5724,
         0.5055,
         0.5394,
-        0.5219
+        0.5219,
+        0.54
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What measurable patterns or principles, such as shifts in information entropy or energy distribution, most consistently signal the emergence of novel behaviors or structures across biological, digital, and social systems, and how can these be empirically tested in real-time to predict transformative",
+      "last_question": "**\"What measurable threshold of information entropy change, if any, universally signals the tipping point for emergent phenomena across biological, digital, and social systems, and how can this threshold be empirically validated through cross-domain experiments?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-04-07T03:19:21.984210+00:00",
-  "current_events": [],
+  "generated_at": "2026-04-07T07:44:41.196590+00:00",
+  "current_events": [
+    {
+      "id": "cycle-131-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 131,
+      "value": [
+        "reproduction"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    }
+  ],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",
@@ -299,6 +312,18 @@
       "value": -4,
       "message": "Lumen-Beta confidence dropped by 4 points.",
       "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-131-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 131,
+      "value": [
+        "reproduction"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

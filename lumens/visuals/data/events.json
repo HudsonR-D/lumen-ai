@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-04-09T07:50:42.237016+00:00",
-  "current_events": [],
+  "generated_at": "2026-04-09T14:06:20.166495+00:00",
+  "current_events": [
+    {
+      "id": "cycle-140-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 140,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-140-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 140,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-140-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 140,
+      "value": 10.0,
+      "message": "Sibling tension reached 10.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
+    }
+  ],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",
@@ -323,6 +354,36 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-140-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 140,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-140-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 140,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-140-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 140,
+      "value": 10.0,
+      "message": "Sibling tension reached 10.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ]
 }

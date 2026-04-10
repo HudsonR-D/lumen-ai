@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 282,
+    "total_cycles_run": 284,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.41,
+    "current_month_spend_usd": 1.42,
     "days_remaining_runway": 427,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 141,
+      "cycle_count": 142,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5166,
+      "divergence_index": 0.5717,
       "divergence_history": [
-        0.9515,
         0.8541,
         0.8854,
         0.911,
@@ -224,14 +223,15 @@
         0.5208,
         0.7693,
         0.8078,
-        0.5166
+        0.5166,
+        0.5717
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do feedback loops with delay influence the emergence of order from chaos across diverse systems, and what are the minimal parameters needed to simulate and visualize this transition in a computational model?",
+      "last_question": "**How do specific timing and strength of delayed feedback loops determine the tipping point between chaos and order in a minimal computational model of self-organizing systems, and what are the critical parameters that can be experimentally adjusted to observe this transition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 141,
+      "cycle_count": 142,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.592,
+      "divergence_index": 0.5188,
       "divergence_history": [
-        0.8688,
         0.8549,
         0.8653,
         0.7837,
@@ -447,14 +446,15 @@
         0.5509,
         0.4993,
         0.5784,
-        0.592
+        0.592,
+        0.5188
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be consistently measured and compared across biological, digital, and social systems to predict critical transitions with greater accuracy?",
+      "last_question": "How do the measurable rates of change in information entropy serve as a universal early-warning indicator for critical transitions across biological, digital, and social systems, and what are the most effective methods to empirically test and validate this across diverse real-world datasets?",
       "last_ping_order": [
         "grok",
         "claude",

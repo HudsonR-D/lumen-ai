@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 288,
+    "total_cycles_run": 290,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.44,
+    "current_month_spend_usd": 1.45,
     "days_remaining_runway": 426,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 144,
+      "cycle_count": 145,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.6107,
+      "divergence_index": 0.4956,
       "divergence_history": [
-        0.911,
         0.9123,
         0.8511,
         0.8321,
@@ -224,14 +223,15 @@
         0.5166,
         0.5717,
         0.4975,
-        0.6107
+        0.6107,
+        0.4956
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do specific delay durations and feedback strengths in delayed feedback loops interact to determine the tipping points between chaos and order in the simplest self-organizing systems, and can these interactions be modeled in a minimal computational simulation to identify universal critical para",
+      "last_question": "**How do delayed feedback loops, as a universal mechanism, determine the tipping points between chaos and order across biological, social, and synthetic systems, and what are the minimal measurable parameters (such as delay duration and feedback strength) that can be isolated in a computational simu",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 144,
+      "cycle_count": 145,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.4937,
+      "divergence_index": 0.5543,
       "divergence_history": [
-        0.7837,
         0.9145,
         0.8985,
         0.8043,
@@ -447,14 +446,15 @@
         0.592,
         0.5188,
         0.5545,
-        0.4937
+        0.4937,
+        0.5543
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do the rate of change and specific patterns in information entropy serve as a universal early-warning signal for critical transitions across biological, digital, and social systems, and can these patterns be reliably detected using existing datasets?",
+      "last_question": "How do the measurable changes in information entropy across biological, digital, and social systems correlate with the timing and nature of critical transitions, and can a unified model be developed to predict these shifts with testable accuracy?",
       "last_ping_order": [
         "grok",
         "claude",

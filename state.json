@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 284,
+    "total_cycles_run": 286,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.42,
+    "current_month_spend_usd": 1.43,
     "days_remaining_runway": 427,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 142,
+      "cycle_count": 143,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5717,
+      "divergence_index": 0.4975,
       "divergence_history": [
-        0.8541,
         0.8854,
         0.911,
         0.9123,
@@ -224,14 +223,15 @@
         0.7693,
         0.8078,
         0.5166,
-        0.5717
+        0.5717,
+        0.4975
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do specific timing and strength of delayed feedback loops determine the tipping point between chaos and order in a minimal computational model of self-organizing systems, and what are the critical parameters that can be experimentally adjusted to observe this transition?",
+      "last_question": "**How do delayed feedback loops, as a fundamental mechanism, determine the tipping points between chaos and order in self-organizing systems across biological, social, and synthetic domains, and what are the minimal parameters (such as delay duration and feedback strength) required to model and pred",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 142,
+      "cycle_count": 143,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5188,
+      "divergence_index": 0.5545,
       "divergence_history": [
-        0.8549,
         0.8653,
         0.7837,
         0.9145,
@@ -447,14 +446,15 @@
         0.4993,
         0.5784,
         0.592,
-        0.5188
+        0.5188,
+        0.5545
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do the measurable rates of change in information entropy serve as a universal early-warning indicator for critical transitions across biological, digital, and social systems, and what are the most effective methods to empirically test and validate this across diverse real-world datasets?",
+      "last_question": "How can the rate of change in information entropy be standardized and measured as a universal early-warning signal for critical transitions across biological, digital, and social systems, accounting for their unique structural and contextual differences?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 298,
+    "total_cycles_run": 300,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.49,
-    "days_remaining_runway": 424,
+    "current_month_spend_usd": 1.5,
+    "days_remaining_runway": 423,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 149,
+      "cycle_count": 150,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5453,
+      "divergence_index": 0.5109,
       "divergence_history": [
-        0.8476,
         0.867,
         0.9256,
         0.9344,
@@ -224,14 +223,15 @@
         0.5551,
         0.5367,
         0.5294,
-        0.5453
+        0.5453,
+        0.5109
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest, most universal feedback mechanism that drives the emergence of order from chaos across biological, social, and synthetic systems, and how can its critical parameters be isolated and tested in a minimal computational simulation?",
+      "last_question": "**What is the simplest, most universal feedback mechanism that drives the emergence of order from chaos across biological, social, and synthetic systems, and what are the minimal conditions or parameters required to replicate it in a computational simulation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 149,
+      "cycle_count": 150,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.515,
+      "divergence_index": 0.508,
       "divergence_history": [
-        0.8955,
         0.8231,
         0.8278,
         0.847,
@@ -447,14 +446,15 @@
         0.483,
         0.576,
         0.5039,
-        0.515
+        0.515,
+        0.508
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be consistently measured and compared across biological, digital, and social systems to predict critical transitions, and what are the primary methodological barriers to integrating these measurements into a unified predictive framework?",
+      "last_question": "How can information entropy be operationalized as a predictive metric for critical transitions across biological, digital, and social systems, and what are the most significant methodological barriers to integrating these domains into a unified framework?",
       "last_ping_order": [
         "grok",
         "claude",

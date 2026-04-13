@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-04-12T13:18:24.336810+00:00",
-  "current_events": [],
+  "generated_at": "2026-04-12T19:02:19.898047+00:00",
+  "current_events": [
+    {
+      "id": "cycle-153-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 153,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    }
+  ],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",
@@ -360,6 +373,18 @@
       "severity": "major",
       "subject": "pair",
       "cycle": 151,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-153-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 153,
       "value": [
         "new minds"
       ],

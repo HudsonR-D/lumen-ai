@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 310,
+    "total_cycles_run": 312,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.55,
-    "days_remaining_runway": 421,
+    "current_month_spend_usd": 1.56,
+    "days_remaining_runway": 420,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 155,
+      "cycle_count": 156,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5305,
+      "divergence_index": 0.7927,
       "divergence_history": [
-        0.7946,
         0.8708,
         0.8263,
         0.8693,
@@ -224,14 +223,15 @@
         0.5422,
         0.5387,
         0.5176,
-        0.5305
+        0.5305,
+        0.7927
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest universal principle or mechanism\u2014observable across biological, social, and synthetic systems\u2014that governs the transition from chaos to order, and how can it be tested through a minimal, replicable computational model to reveal its critical tipping points?",
+      "last_question": ", gain, delay, threshold) that determine stability?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 155,
+      "cycle_count": 156,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.6173,
+      "divergence_index": 0.5209,
       "divergence_history": [
-        0.8258,
         0.8433,
         0.8639,
         0.9026,
@@ -447,14 +446,15 @@
         0.567,
         0.5684,
         0.5666,
-        0.6173
+        0.6173,
+        0.5209
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do measurable changes in information entropy across biological, digital, and social systems correlate with each other during critical transitions, and can a unified metric be developed to predict these shifts?",
+      "last_question": "**How can information entropy be empirically measured and compared across biological, digital, and social systems to predict critical transitions, and what interdisciplinary datasets or methodologies are most promising for testing this universality?",
       "last_ping_order": [
         "grok",
         "claude",

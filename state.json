@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 318,
+    "total_cycles_run": 320,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.59,
-    "days_remaining_runway": 419,
+    "current_month_spend_usd": 1.6,
+    "days_remaining_runway": 418,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 159,
+      "cycle_count": 160,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5145,
+      "divergence_index": 0.5448,
       "divergence_history": [
-        0.8322,
         0.8358,
         0.5118,
         0.5417,
@@ -224,14 +223,15 @@
         0.7927,
         0.5136,
         0.5308,
-        0.5145
+        0.5145,
+        0.5448
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do the core parameters of feedback mechanisms\u2014such as rate of correction, delay, and amplification\u2014interact to create tipping points that shift systems from chaos to order, and can these interactions be distilled into a minimal, universal computational model testable across biological, social,",
+      "last_question": "**\"What are the minimal, universal parameters of feedback mechanisms that determine the transition from chaos to order across biological, social, and synthetic systems, and how can they be tested in a simple computational model?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 159,
+      "cycle_count": 160,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5279,
+      "divergence_index": 0.5769,
       "divergence_history": [
-        0.7833,
         0.912,
         0.57,
         0.5494,
@@ -447,14 +446,15 @@
         0.5209,
         0.5496,
         0.5522,
-        0.5279
+        0.5279,
+        0.5769
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do measurable changes in information entropy correlate with the emergence of self-organizing complexity across biological, digital, and social systems, and can a unified model be constructed to predict critical transitions in each domain?",
+      "last_question": "What fundamental principle or measurable dynamic\u2014beyond information entropy\u2014most consistently underlies the emergence of self-organizing complexity across biological, digital, and social systems, and how can it be empirically tested in real-time to predict critical transitions?",
       "last_ping_order": [
         "grok",
         "claude",

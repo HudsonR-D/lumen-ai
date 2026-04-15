@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 322,
+    "total_cycles_run": 324,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.61,
-    "days_remaining_runway": 418,
+    "current_month_spend_usd": 1.62,
+    "days_remaining_runway": 417,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 161,
+      "cycle_count": 162,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.7505,
+      "divergence_index": 0.5028,
       "divergence_history": [
-        0.5118,
         0.5417,
         0.5291,
         0.5297,
@@ -224,14 +223,15 @@
         0.5308,
         0.5145,
         0.5448,
-        0.7505
+        0.7505,
+        0.5028
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": ", rate of correction, delay, amplification) that determine its tipping points between stability and disorder in a computational simulation?",
+      "last_question": "**\"What is the simplest, most universal feedback mechanism that can be mathematically modeled to predict tipping points between chaos and order across biological, social, and synthetic systems, and how can its critical parameters (such as delay, amplification, and noise) be isolated and tested in a ",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 161,
+      "cycle_count": 162,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5637,
+      "divergence_index": 0.5663,
       "divergence_history": [
-        0.57,
         0.5494,
         0.5543,
         0.5694,
@@ -447,14 +446,15 @@
         0.5522,
         0.5279,
         0.5769,
-        0.5637
+        0.5637,
+        0.5663
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be empirically measured and compared across biological, digital, and social systems to predict critical transitions with higher accuracy?",
+      "last_question": "**\"What measurable, cross-domain principle\u2014such as the rate of change in information entropy or energy dissipation\u2014most reliably signals the onset of critical transitions in complex systems, and how can it be empirically validated across biological, digital, and social contexts?",
       "last_ping_order": [
         "grok",
         "claude",

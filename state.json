@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 328,
+    "total_cycles_run": 330,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.64,
+    "current_month_spend_usd": 1.65,
     "days_remaining_runway": 416,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 164,
+      "cycle_count": 165,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5102,
+      "divergence_index": 0.5544,
       "divergence_history": [
-        0.5297,
         0.5144,
         0.5284,
         0.4999,
@@ -224,14 +223,15 @@
         0.7505,
         0.5028,
         0.8053,
-        0.5102
+        0.5102,
+        0.5544
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do feedback loops, specifically the interplay of delay, amplification, and noise, determine the tipping points between chaos and order across biological, social, and synthetic systems, and can these dynamics be distilled into a minimal, testable computational model to predict critical transiti",
+      "last_question": "**How do the interactions of delay, amplification, and noise in feedback loops create emergent properties that distinguish chaotic systems from ordered ones across biological, social, and synthetic domains?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 164,
+      "cycle_count": 165,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5811,
+      "divergence_index": 0.5493,
       "divergence_history": [
-        0.5694,
         0.4848,
         0.5199,
         0.5336,
@@ -447,14 +446,15 @@
         0.5637,
         0.5663,
         0.5847,
-        0.5811
+        0.5811,
+        0.5493
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What underlying mechanism or measurable property\u2014such as information entropy, energy dissipation, or network connectivity\u2014most consistently governs the emergence of self-organization across biological, digital, and social systems, and how can it be experimentally isolated and tested in a controlled ",
+      "last_question": "What is the most consistent measurable indicator\u2014such as the rate of change in information entropy or energy dissipation\u2014that precedes critical transitions across diverse systems, and how can it be empirically tested in a minimal synthetic model to predict tipping points?",
       "last_ping_order": [
         "grok",
         "claude",

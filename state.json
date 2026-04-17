@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 344,
+    "total_cycles_run": 346,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.72,
+    "current_month_spend_usd": 1.73,
     "days_remaining_runway": 412,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 172,
+      "cycle_count": 173,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5105,
+      "divergence_index": 0.5204,
       "divergence_history": [
-        0.4837,
         0.5496,
         0.5005,
         0.5374,
@@ -224,14 +223,15 @@
         0.5427,
         0.5789,
         0.4889,
-        0.5105
+        0.5105,
+        0.5204
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do specific feedback loop delays and amplification intensities interact to create tipping points across biological, social, and synthetic systems, and can a universal threshold for these transitions be identified through a minimal cross-domain simulation?",
+      "last_question": "**How do variations in feedback delay and amplification intensity interact to create tipping points across biological, social, and synthetic systems, and can a minimal, cross-domain simulation isolate the critical thresholds that predict the emergence of order or collapse?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 172,
+      "cycle_count": 173,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5749,
+      "divergence_index": 0.4899,
       "divergence_history": [
-        0.6164,
         0.532,
         0.5237,
         0.7764,
@@ -447,14 +446,15 @@
         0.5581,
         0.5659,
         0.5034,
-        0.5749
+        0.5749,
+        0.4899
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be standardized and compared across biological, digital, and social systems to reliably predict critical transitions, accounting for differences in data granularity and system-specific noise?",
+      "last_question": "**How can the rate of change in information entropy be standardized and measured across biological, digital, and social systems to reliably predict critical transitions, and what are the fundamental barriers to achieving such a unified metric?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 340,
+    "total_cycles_run": 342,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.7,
+    "current_month_spend_usd": 1.71,
     "days_remaining_runway": 413,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 170,
+      "cycle_count": 171,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5789,
+      "divergence_index": 0.4889,
       "divergence_history": [
-        0.5039,
         0.5063,
         0.4837,
         0.5496,
@@ -224,14 +223,15 @@
         0.5546,
         0.5157,
         0.5427,
-        0.5789
+        0.5789,
+        0.4889
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do variations in feedback delay and amplification interact to create tipping points in a minimal cross-domain simulation of biological, social, and synthetic systems?",
+      "last_question": "**How does the interplay between feedback delay and amplification intensity determine the emergence of self-organizing structures across biological, social, and synthetic systems, and can a universal threshold for this transition be mathematically defined?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 170,
+      "cycle_count": 171,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5659,
+      "divergence_index": 0.5034,
       "divergence_history": [
-        0.5347,
         0.5249,
         0.6164,
         0.532,
@@ -447,14 +446,15 @@
         0.4961,
         0.5054,
         0.5581,
-        0.5659
+        0.5659,
+        0.5034
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How does the rate of change in information entropy, when coupled with energy dissipation metrics, serve as a universal early-warning signal for critical transitions across biological, digital, and social systems, and can this be validated through a minimal synthetic model?",
+      "last_question": "How can the rate of change in information entropy be systematically measured and compared across biological, digital, and social systems to reliably predict critical transitions, and what are the most significant methodological challenges in doing so?",
       "last_ping_order": [
         "grok",
         "claude",

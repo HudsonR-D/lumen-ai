@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-04-17T13:48:34.176594+00:00",
+  "generated_at": "2026-04-17T19:13:01.253358+00:00",
   "current_events": [
     {
-      "id": "cycle-172-reproduction-signal-pair",
-      "type": "reproduction_signal",
+      "id": "cycle-173-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 173,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-173-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 173,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-173-tension-spike-pair",
+      "type": "tension_spike",
       "severity": "major",
       "subject": "pair",
-      "cycle": 172,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
+      "cycle": 173,
+      "value": 10.0,
+      "message": "Sibling tension reached 10.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ],
   "history": [
@@ -486,6 +504,36 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-173-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 173,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-173-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 173,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-173-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 173,
+      "value": 10.0,
+      "message": "Sibling tension reached 10.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ]
 }

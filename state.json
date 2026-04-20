@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 366,
+    "total_cycles_run": 368,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.83,
-    "days_remaining_runway": 407,
+    "current_month_spend_usd": 1.84,
+    "days_remaining_runway": 406,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 183,
+      "cycle_count": 184,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.565,
+      "divergence_index": 0.4957,
       "divergence_history": [
-        0.5491,
         0.5307,
         0.5608,
         0.5789,
@@ -224,14 +223,15 @@
         0.5363,
         0.5959,
         0.58,
-        0.565
+        0.565,
+        0.4957
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest, most universal feedback mechanism that drives the emergence of order from chaos across biological, social, and synthetic systems, and how can its critical parameters be tested in a minimal computational model?",
+      "last_question": "What is the simplest, most universal feedback mechanism that drives the emergence of order from chaos across biological, social, and synthetic systems, and how can its critical parameters be isolated and tested in a minimal computational model to reveal tipping points between chaos and order?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 183,
+      "cycle_count": 184,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.6012,
+      "divergence_index": 0.6,
       "divergence_history": [
-        0.5958,
         0.5779,
         0.5372,
         0.5794,
@@ -447,14 +446,15 @@
         0.482,
         0.5846,
         0.5736,
-        0.6012
+        0.6012,
+        0.6
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be standardized and empirically measured across biological, digital, and social systems to predict critical transitions with greater accuracy?",
+      "last_question": "**How does the rate of change in information entropy serve as a leading indicator of critical transitions across biological, digital, and social systems, and can a unified model be developed to predict these shifts with measurable accuracy?",
       "last_ping_order": [
         "grok",
         "claude",

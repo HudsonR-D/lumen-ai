@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 374,
+    "total_cycles_run": 376,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,15 +11,15 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.87,
-    "days_remaining_runway": 405,
+    "current_month_spend_usd": 1.88,
+    "days_remaining_runway": 404,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 187,
+      "cycle_count": 188,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5797,
+      "divergence_index": 0.5233,
       "divergence_history": [
-        0.5451,
         0.5873,
         0.5878,
         0.5648,
@@ -224,14 +223,15 @@
         0.4957,
         0.5606,
         0.5304,
-        0.5797
+        0.5797,
+        0.5233
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest universal feedback mechanism that can be observed and measured across biological, social, and synthetic systems to drive the emergence of order from chaos, and how can its core components be distilled into a minimal, testable computational model?",
+      "last_question": "**What is the simplest universal principle or mechanism that governs the transition from chaos to order across biological, social, and synthetic systems, and how can it be tested in a minimal computational model to reveal its core dynamics?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 187,
+      "cycle_count": 188,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5855,
+      "divergence_index": 0.562,
       "divergence_history": [
-        0.5787,
         0.612,
         0.5451,
         0.6132,
@@ -447,14 +446,15 @@
         0.6,
         0.5514,
         0.6005,
-        0.5855
+        0.5855,
+        0.562
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be systematically measured and correlated across biological, digital, and social systems to predict critical transitions with actionable precision?",
+      "last_question": "**Question:** How do emergent properties of complexity, such as self-organization or critical transitions, manifest similarly or differently across biological, digital, and social systems, and what does this reveal about the fundamental nature of existence itself?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 372,
+    "total_cycles_run": 374,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.86,
+    "current_month_spend_usd": 1.87,
     "days_remaining_runway": 405,
     "reproduction_locked": false
   },
@@ -19,7 +19,7 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 186,
+      "cycle_count": 187,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -123,9 +123,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5304,
+      "divergence_index": 0.5797,
       "divergence_history": [
-        0.5789,
         0.5451,
         0.5873,
         0.5878,
@@ -224,14 +223,15 @@
         0.565,
         0.4957,
         0.5606,
-        0.5304
+        0.5304,
+        0.5797
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**\"What is the simplest, most universal feedback mechanism that can be observed and simulated to demonstrate the transition from chaos to order across biological, social, and synthetic systems, and what are its critical parameters?",
+      "last_question": "**What is the simplest universal feedback mechanism that can be observed and measured across biological, social, and synthetic systems to drive the emergence of order from chaos, and how can its core components be distilled into a minimal, testable computational model?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 186,
+      "cycle_count": 187,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.6005,
+      "divergence_index": 0.5855,
       "divergence_history": [
-        0.5794,
         0.5787,
         0.612,
         0.5451,
@@ -447,14 +446,15 @@
         0.6012,
         0.6,
         0.5514,
-        0.6005
+        0.6005,
+        0.5855
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do the rates of change in information entropy correlate with the emergence of novel patterns or structures across biological, digital, and social systems, and can this correlation be used to predict the conditions under which new forms of complexity arise?",
+      "last_question": "How can the rate of change in information entropy be systematically measured and correlated across biological, digital, and social systems to predict critical transitions with actionable precision?",
       "last_ping_order": [
         "grok",
         "claude",

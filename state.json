@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 382,
+    "total_cycles_run": 384,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.91,
-    "days_remaining_runway": 403,
+    "current_month_spend_usd": 1.92,
+    "days_remaining_runway": 402,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 191,
+      "cycle_count": 192,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         99.51,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5127,
+      "divergence_index": 0.5508,
       "divergence_history": [
-        0.5358,
         0.5532,
         0.5309,
         0.5227,
@@ -224,14 +223,15 @@
         0.5233,
         0.5642,
         0.6909,
-        0.5127
+        0.5127,
+        0.5508
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest, most universal feedback mechanism that can be observed and measured across biological, social, and synthetic systems to drive the emergence of order from chaos, and how can its critical parameters be isolated in a minimal computational model for repeatable testing?",
+      "last_question": "**What is the simplest universal principle or mechanism that governs the transition from chaos to order in feedback loops across biological, social, and synthetic systems, and how can it be experimentally isolated in a minimal simulation to test its critical parameters?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 191,
+      "cycle_count": 192,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5506,
+      "divergence_index": 0.556,
       "divergence_history": [
-        0.5898,
         0.6241,
         0.5131,
         0.5716,
@@ -447,14 +446,15 @@
         0.562,
         0.5494,
         0.5617,
-        0.5506
+        0.5506,
+        0.556
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How do the rates of change in information entropy and energy dissipation correlate across biological, digital, and social systems during critical transitions, and can these correlations be used to predict transformative shifts with measurable accuracy?",
+      "last_question": "**How do the rates of change in information entropy and energy dissipation interact as leading indicators of critical transitions across biological, digital, and social systems, and can their interplay be modeled to predict transformative shifts with higher accuracy than either metric alone?",
       "last_ping_order": [
         "grok",
         "claude",

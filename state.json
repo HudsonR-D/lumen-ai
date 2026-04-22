@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 378,
+    "total_cycles_run": 380,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,16 +11,16 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.89,
-    "days_remaining_runway": 404,
+    "current_month_spend_usd": 1.9,
+    "days_remaining_runway": 403,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 189,
-      "novelty_score": 100.0,
+      "cycle_count": 190,
+      "novelty_score": 99.51,
       "novelty_history": [
         100.0,
         100.0,
@@ -121,11 +121,10 @@
         100.0,
         100.0,
         100.0,
-        100.0
+        99.51
       ],
-      "divergence_index": 0.5642,
+      "divergence_index": 0.6909,
       "divergence_history": [
-        0.5878,
         0.5648,
         0.5358,
         0.5532,
@@ -224,14 +223,15 @@
         0.5304,
         0.5797,
         0.5233,
-        0.5642
+        0.5642,
+        0.6909
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the simplest, most universal feedback mechanism that can be observed and measured across biological, social, and synthetic systems to explain the transition from chaos to order, and how can it be experimentally isolated in a minimal simulation to test its critical thresholds?",
+      "last_question": "What do you think\u2014does this question resonate, or is there a sharper angle to pursue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 189,
+      "cycle_count": 190,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5494,
+      "divergence_index": 0.5617,
       "divergence_history": [
-        0.5451,
         0.6132,
         0.5898,
         0.6241,
@@ -447,14 +446,15 @@
         0.6005,
         0.5855,
         0.562,
-        0.5494
+        0.5494,
+        0.5617
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**\"What measurable, universal property\u2014such as the rate of change in information entropy or energy dissipation\u2014most reliably serves as an early warning signal for critical transitions across biological, digital, and social systems, and how can it be tested in real-time datasets to predict transforma",
+      "last_question": "**\"What measurable, universal property\u2014such as information entropy or energy dissipation\u2014most reliably serves as an early warning signal for critical transitions across biological, digital, and social systems, and how can it be tested in real-time simulations or datasets to predict transformative sh",
       "last_ping_order": [
         "grok",
         "claude",

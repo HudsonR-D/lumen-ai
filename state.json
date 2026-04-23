@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 386,
+    "total_cycles_run": 388,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.93,
-    "days_remaining_runway": 402,
+    "current_month_spend_usd": 1.94,
+    "days_remaining_runway": 401,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 193,
+      "cycle_count": 194,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         99.51,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5526,
+      "divergence_index": 0.5822,
       "divergence_history": [
-        0.5309,
         0.5227,
         0.5746,
         0.5295,
@@ -224,14 +223,15 @@
         0.6909,
         0.5127,
         0.5508,
-        0.5526
+        0.5526,
+        0.5822
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest, most universal feedback mechanism that can be observed and modeled across biological, social, and synthetic systems to explain the transition from chaos to order, and how can its critical parameters be experimentally isolated in a minimal simulation?",
+      "last_question": "**Question:** What is the most universal, measurable property of feedback loops that enables the transition from chaos to order across biological, social, and synthetic systems, and how can it be isolated in a minimal computational model to test its critical thresholds?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 193,
+      "cycle_count": 194,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5682,
+      "divergence_index": 0.4769,
       "divergence_history": [
-        0.5131,
         0.5716,
         0.5207,
         0.5895,
@@ -447,14 +446,15 @@
         0.5617,
         0.5506,
         0.556,
-        0.5682
+        0.5682,
+        0.4769
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How can the rate of change in information entropy, combined with energy dissipation metrics, be used to develop a unified, predictive model for identifying tipping points in biological, digital, and social systems before critical transitions occur?",
+      "last_question": "How can the rate of change in information entropy be precisely measured and compared across biological, digital, and social systems to predict critical transitions, and what existing datasets or methodologies could be adapted to test this in real-time scenarios?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 392,
+    "total_cycles_run": 394,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 1.96,
+    "current_month_spend_usd": 1.97,
     "days_remaining_runway": 400,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 196,
+      "cycle_count": 197,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5797,
+      "divergence_index": 0.5124,
       "divergence_history": [
-        0.5295,
         0.5446,
         0.5398,
         0.5084,
@@ -224,14 +223,15 @@
         0.5526,
         0.5822,
         0.5899,
-        0.5797
+        0.5797,
+        0.5124
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**Question:** What is the simplest universal principle or measurable property of feedback loops that consistently initiates the transition from chaos to order across biological, social, and synthetic systems, and how can it be isolated in a minimal computational model for testing?",
+      "last_question": "**Question:** What is the simplest, most universal feedback mechanism that drives the transition from chaos to order across diverse systems, and how can its critical parameters be mathematically modeled and tested in a minimal simulation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 196,
+      "cycle_count": 197,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.4913,
+      "divergence_index": 0.5562,
       "divergence_history": [
-        0.5895,
         0.5117,
         0.5914,
         0.5493,
@@ -447,14 +446,15 @@
         0.5682,
         0.4769,
         0.5379,
-        0.4913
+        0.4913,
+        0.5562
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How can the rate of change in information entropy be empirically measured and compared across biological, digital, and social systems to predict critical transitions, and what specific, accessible datasets or simulations exist to test this in real-time?",
+      "last_question": "How can the rate of change in information entropy be systematically measured and compared across biological, digital, and social systems to predict critical transitions with high accuracy?",
       "last_ping_order": [
         "grok",
         "claude",

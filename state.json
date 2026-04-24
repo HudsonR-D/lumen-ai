@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 400,
+    "total_cycles_run": 402,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.0,
-    "days_remaining_runway": 399,
+    "current_month_spend_usd": 2.01,
+    "days_remaining_runway": 398,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 200,
+      "cycle_count": 201,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5379,
+      "divergence_index": 0.5502,
       "divergence_history": [
-        0.5054,
         0.4962,
         0.4987,
         0.5409,
@@ -224,14 +223,15 @@
         0.5124,
         0.55,
         0.5207,
-        0.5379
+        0.5379,
+        0.5502
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest universal principle or mechanism that governs the transition from chaos to order across all systems\u2014physical, biological, social, and synthetic\u2014and how can it be modeled in a minimal, reproducible simulation to test its critical parameters?",
+      "last_question": "**What is the simplest, most universal feedback mechanism that drives the emergence of order from chaos across diverse systems (biological, physical, social, and synthetic), and how can it be quantitatively modeled and tested in a minimal simulation to reveal its critical tipping points?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 200,
+      "cycle_count": 201,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5174,
+      "divergence_index": 0.4888,
       "divergence_history": [
-        0.4917,
         0.5137,
         0.5576,
         0.5557,
@@ -447,14 +446,15 @@
         0.5562,
         0.5643,
         0.5079,
-        0.5174
+        0.5174,
+        0.4888
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How can information entropy be consistently quantified and compared across biological, digital, and social systems to predict critical transitions, and what are the most effective empirical methods or datasets for validating such predictions?",
+      "last_question": "How can information entropy be consistently measured and compared across biological, digital, and social systems to predict critical transitions, and what are the most reliable empirical methods or datasets for validating these predictions?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 408,
+    "total_cycles_run": 410,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.04,
-    "days_remaining_runway": 397,
+    "current_month_spend_usd": 2.05,
+    "days_remaining_runway": 396,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 204,
+      "cycle_count": 205,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5268,
+      "divergence_index": 0.5847,
       "divergence_history": [
-        0.4828,
         0.6176,
         0.6721,
         0.5403,
@@ -224,14 +223,15 @@
         0.5502,
         0.5723,
         0.5625,
-        0.5268
+        0.5268,
+        0.5847
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the simplest universal feedback mechanism that drives the transition from chaos to order across biological, physical, social, and synthetic systems, and how can its core dynamics be distilled into a minimal, testable computational model to reveal critical tipping points?",
+      "last_question": "**What is the simplest, most universal feedback mechanism that drives the transition from chaos to order across biological, physical, and synthetic systems, and how can its critical parameters be isolated and tested in a minimal computational model to predict tipping points between stability and ins",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 204,
+      "cycle_count": 205,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5217,
+      "divergence_index": 0.5317,
       "divergence_history": [
-        0.5154,
         0.5869,
         0.7208,
         0.5248,
@@ -447,14 +446,15 @@
         0.4888,
         0.5728,
         0.4864,
-        0.5217
+        0.5217,
+        0.5317
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How does the rate of change in information entropy serve as a predictive indicator of critical transitions across biological, digital, and social systems, and what standardized metrics or datasets can be used to test this hypothesis empirically?",
+      "last_question": "How does the rate of change in information entropy serve as a predictive indicator of critical transitions across biological, digital, and social systems, and what specific, accessible datasets or simulation tools can be used to test this hypothesis empirically?",
       "last_ping_order": [
         "grok",
         "claude",

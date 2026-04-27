@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 418,
+    "total_cycles_run": 420,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.09,
+    "current_month_spend_usd": 2.1,
     "days_remaining_runway": 394,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 209,
+      "cycle_count": 210,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5534,
+      "divergence_index": 0.4944,
       "divergence_history": [
-        0.5193,
         0.5306,
         0.5641,
         0.5842,
@@ -224,14 +223,15 @@
         0.538,
         0.5212,
         0.5241,
-        0.5534
+        0.5534,
+        0.4944
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How can the interaction between delay, gain, and damping in negative feedback loops be quantitatively modeled and simulated across biological, physical, and synthetic systems to predict the tipping points between chaotic and ordered behavior?",
+      "last_question": "**How can the interaction of delay, gain, and damping in negative feedback loops be mathematically modeled and simulated to predict the emergence of order from chaos across biological, physical, and synthetic systems?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 209,
+      "cycle_count": 210,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5455,
+      "divergence_index": 0.5372,
       "divergence_history": [
-        0.6975,
         0.5725,
         0.528,
         0.5734,
@@ -447,14 +446,15 @@
         0.5175,
         0.4991,
         0.589,
-        0.5455
+        0.5455,
+        0.5372
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be reliably measured and compared across biological, digital, and social systems to predict critical transitions with higher precision, and what are the most significant methodological challenges in achieving this consistency?",
+      "last_question": "How can the rate of change in information entropy be consistently measured and validated as an early warning signal for critical transitions across biological, digital, and social systems, accounting for differences in data granularity and system-specific noise?",
       "last_ping_order": [
         "grok",
         "claude",

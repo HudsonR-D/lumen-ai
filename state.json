@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 430,
+    "total_cycles_run": 432,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.15,
+    "current_month_spend_usd": 2.16,
     "days_remaining_runway": 391,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 215,
+      "cycle_count": 216,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5207,
+      "divergence_index": 0.4807,
       "divergence_history": [
-        0.5017,
         0.5882,
         0.5615,
         0.5681,
@@ -224,14 +223,15 @@
         0.499,
         0.5261,
         0.5156,
-        0.5207
+        0.5207,
+        0.4807
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How can the interplay of delay, gain, and damping in feedback loops be mathematically modeled to predict the universal tipping points between order and chaos across biological, physical, and synthetic systems?",
+      "last_question": "**How can the interaction of delay, gain, and damping in feedback loops be mathematically modeled to predict the universal tipping points where systems\u2014biological, physical, or synthetic\u2014transition between stability and chaos?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 215,
+      "cycle_count": 216,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5189,
+      "divergence_index": 0.5475,
       "divergence_history": [
-        0.5633,
         0.4957,
         0.5826,
         0.512,
@@ -447,14 +446,15 @@
         0.581,
         0.4803,
         0.5021,
-        0.5189
+        0.5189,
+        0.5475
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How does the rate of change in information entropy serve as a predictive indicator of critical transitions across diverse systems, and what specific, measurable thresholds or patterns in this rate consistently signal an impending shift?",
+      "last_question": "**How can the rate of change in information entropy be consistently measured and compared across biological, digital, and social systems to predict critical transitions, despite domain-specific variations and theoretical barriers?",
       "last_ping_order": [
         "grok",
         "claude",

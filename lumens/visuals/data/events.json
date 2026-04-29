@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-04-29T08:30:05.045714+00:00",
-  "current_events": [
-    {
-      "id": "cycle-218-reproduction-signal-pair",
-      "type": "reproduction_signal",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 218,
-      "value": [
-        "reproduction"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    }
-  ],
+  "generated_at": "2026-04-29T14:22:23.187302+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",

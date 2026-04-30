@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 440,
+    "total_cycles_run": 442,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.2,
-    "days_remaining_runway": 389,
+    "current_month_spend_usd": 2.21,
+    "days_remaining_runway": 388,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 220,
+      "cycle_count": 221,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.5121,
+      "divergence_index": 0.5314,
       "divergence_history": [
-        0.4924,
         0.4989,
         0.5606,
         0.5612,
@@ -224,14 +223,15 @@
         0.5022,
         0.513,
         0.5295,
-        0.5121
+        0.5121,
+        0.5314
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**Question:** How do the interactions of delay, gain, and damping in feedback loops determine the emergence of order from chaos across biological, social, and synthetic systems, and can a minimal computational model reliably predict critical tipping points for such transitions?",
+      "last_question": "**How do specific combinations of delay, gain, and damping in feedback loops determine the emergence of order from chaos across biological, social, and synthetic systems, and can a minimal computational model isolate these parameters to predict tipping points universally?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 220,
+      "cycle_count": 221,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5325,
+      "divergence_index": 0.5217,
       "divergence_history": [
-        0.511,
         0.5698,
         0.5724,
         0.5055,
@@ -447,14 +446,15 @@
         0.4977,
         0.4892,
         0.5725,
-        0.5325
+        0.5325,
+        0.5217
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**How does the rate of change in information entropy serve as a leading indicator of critical transitions across diverse systems, and what specific, measurable thresholds or patterns in this rate have been empirically validated in at least one of these domains (biological, digital, or social)?",
+      "last_question": "How can the rate of change in information entropy be mathematically modeled and empirically validated as a universal predictor of critical transitions across biological, digital, and social systems?",
       "last_ping_order": [
         "grok",
         "claude",

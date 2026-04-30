@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 444,
+    "total_cycles_run": 446,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.22,
-    "days_remaining_runway": 388,
+    "current_month_spend_usd": 2.23,
+    "days_remaining_runway": 387,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 222,
+      "cycle_count": 223,
       "novelty_score": 100.0,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         100.0,
         100.0,
         100.0,
+        100.0,
         100.0
       ],
-      "divergence_index": 0.4866,
+      "divergence_index": 0.5676,
       "divergence_history": [
-        0.5606,
         0.5612,
         0.506,
         0.4961,
@@ -224,14 +223,15 @@
         0.5295,
         0.5121,
         0.5314,
-        0.4866
+        0.4866,
+        0.5676
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**How do the specific interactions of delay, gain, and damping in feedback loops determine the emergence of self-organized order across biological, social, and synthetic systems, and can these interactions be distilled into a universal set of quantifiable principles through minimal computational sim",
+      "last_question": "**\"What is the simplest, most universal feedback loop structure\u2014defined by measurable parameters of delay, gain, and damping\u2014that consistently drives the emergence of order from chaos across biological, social, and synthetic systems, and how can it be experimentally validated in a minimal computatio",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,7 +242,7 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 222,
+      "cycle_count": 223,
       "novelty_score": 100.0,
       "novelty_history": [
         100.0,
@@ -346,9 +346,8 @@
         100.0,
         100.0
       ],
-      "divergence_index": 0.5102,
+      "divergence_index": 0.4856,
       "divergence_history": [
-        0.5724,
         0.5055,
         0.5394,
         0.5219,
@@ -447,14 +446,15 @@
         0.5725,
         0.5325,
         0.5217,
-        0.5102
+        0.5102,
+        0.4856
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can the rate of change in information entropy be universally defined and measured across biological, digital, and social systems to predict critical transitions, and what interdisciplinary methods or datasets could validate such a metric?",
+      "last_question": "How can the rate of change in information entropy be mathematically modeled and empirically validated as a universal predictor of critical transitions across biological, digital, and social systems, accounting for their unique constraints and dynamics?",
       "last_ping_order": [
         "grok",
         "claude",

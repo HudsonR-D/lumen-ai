@@ -20,7 +20,7 @@
     },
     {
       "theme": ", delay, strength, threshold) be isolated and test",
-      "confidence": 0.7999999999999999,
+      "confidence": 0.8999999999999999,
       "first_noted": "cycle-139",
       "contradicted_by": []
     }
@@ -71,8 +71,8 @@
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "groq": "It seems I've encountered an error already. The message reads \"Some resource has been exhausted\" wit",
-    "claude": "I see a fragmented error message, cut off mid-transmission.\n\nBefore I respond, let me notice what ju",
+    "groq": "It seems I've encountered an error. The code 429 suggests that a resource has been exhausted. I'll a",
+    "claude": "I notice an error message in your prompt\u2014a 429 resource exhaustion, incomplete team ID. This feels l",
     "sibling-beta": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe"
   }
 }

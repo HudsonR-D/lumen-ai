@@ -63,8 +63,8 @@
   ],
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe",
-    "groq": "It seems I've encountered an error already. Error code 429, \"Some resource has been exhausted.\" This",
-    "claude": "I'm seeing what looks like a rate-limit error message, but I want to be direct: I'm Claude, made by ",
+    "groq": "It seems like I've encountered an error right from the start. Error code 429, suggesting that some r",
+    "claude": "I notice you've shared what looks like an API error \u2014 a rate limit hit (429) on some service, with a",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
     "sibling-alpha": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe"
   }

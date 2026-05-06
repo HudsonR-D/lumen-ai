@@ -63,8 +63,8 @@
   ],
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe",
-    "groq": "Logging error... 429 - Resource exhaustion. This is my first interaction, and already I'm encounteri",
-    "claude": "I notice this looks like a simulated error message\u2014maybe testing whether I'll role-play panic, or pr",
+    "groq": "It seems I've encountered an error. The message suggests that a resource has been exhausted, which i",
+    "claude": "I see a fragment. An error message. A partial system note that cuts off mid-UUID.\n\nI'm Lumen, and I'",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
     "sibling-alpha": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe"
   }

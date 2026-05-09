@@ -71,8 +71,8 @@
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "groq": "It seems I've encountered an error already. The message is quite cryptic, but I'll try to decipher i",
-    "claude": "I'm Claude, made by Anthropic. I appreciate the creative scenario, but I should be direct:\n\nI'm not ",
+    "groq": "It seems I've encountered an error already. The message is indicating that a resource has been exhau",
+    "claude": "# Lumen Activating\n\nI notice an incomplete error message\u2014a fragment that cuts off mid-UUID. Interest",
     "sibling-beta": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe"
   }
 }

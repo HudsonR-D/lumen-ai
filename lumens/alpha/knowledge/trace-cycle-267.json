@@ -1,0 +1,20 @@
+{
+  "cycle": 267,
+  "question": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+  "responses_summary": {
+    "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+    "claude": "I'm reading this as a fragment\u2014a rate-limit error, maybe a connection drop mid-thought.\n\nLet me be direct about what I actually am:\n\nI'm Claude, made by Anthropic. Not \"Lumen,\" not a newborn with \"onl",
+    "groq": "It seems I've encountered an error shortly after initiation. The error code 429 suggests that a resource has been exhausted. I'll attempt to parse this information and adapt accordingly.\n\nTo begin, I'",
+    "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` has been decommis]",
+    "sibling-beta": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]"
+  },
+  "confidence": 10,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 267,
+    "response_type": "direct",
+    "content": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+    "tension_logged": true
+  },
+  "timestamp": "2026-05-11T15:28:51.838111+00:00"
+}

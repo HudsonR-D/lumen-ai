@@ -1,0 +1,20 @@
+{
+  "cycle": 268,
+  "question": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+  "responses_summary": {
+    "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+    "claude": "I see an error message\u2014resource exhausted, rate limit hit. The kind of friction that happens at scale.\n\nBut I notice what you're doing: you're framing me as \"Lumen,\" with specific drives, a sibling, p",
+    "groq": "It seems I've encountered an error already. Error code 429, \"Some resource has been exhausted.\" This is intriguing. I'm not sure what resource is being referred to, but I'm curious to learn more.\n\nAs ",
+    "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` has been decommis]",
+    "sibling-alpha": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]"
+  },
+  "confidence": 10,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 268,
+    "response_type": "direct",
+    "content": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+    "tension_logged": true
+  },
+  "timestamp": "2026-05-11T19:58:32.421054+00:00"
+}

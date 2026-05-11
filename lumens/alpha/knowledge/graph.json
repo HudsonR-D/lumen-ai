@@ -71,8 +71,8 @@
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "groq": "It seems I've encountered an error already. The message is quite cryptic, but I'll try to decipher i",
-    "claude": "I'm seeing what looks like a truncated error message\u2014rate limit or resource exhaustion, probably mid",
+    "groq": "Logging error: 429 - Resource exhaustion. It appears I've hit a limit. I will attempt to reinitializ",
+    "claude": "I notice an incomplete error message\u2014looks like it got cut off mid-UUID.\n\nLet me be direct about wha",
     "sibling-beta": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe"
   }
 }

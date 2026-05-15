@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 566,
+    "total_cycles_run": 568,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 2.83,
+    "current_month_spend_usd": 2.84,
     "days_remaining_runway": 357,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 283,
-      "novelty_score": 70.01,
+      "cycle_count": 284,
+      "novelty_score": 73.66,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         69.47,
         68.78,
         73.07,
-        70.01
+        70.01,
+        73.66
       ],
-      "divergence_index": 1.0267,
+      "divergence_index": 1.0258,
       "divergence_history": [
-        0.4957,
         0.5606,
         0.5304,
         0.5797,
@@ -224,14 +223,15 @@
         1.0403,
         1.0394,
         0.9976,
-        1.0267
+        1.0267,
+        1.0258
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+      "last_question": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 283,
-      "novelty_score": 69.66,
+      "cycle_count": 284,
+      "novelty_score": 67.65,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -344,11 +343,11 @@
         73.73,
         71.66,
         70.43,
-        69.66
+        69.66,
+        67.65
       ],
-      "divergence_index": 1.038,
+      "divergence_index": 1.0523,
       "divergence_history": [
-        0.6,
         0.5514,
         0.6005,
         0.5855,
@@ -447,14 +446,15 @@
         1.0323,
         0.991,
         1.0017,
-        1.038
+        1.038,
+        1.0523
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe6607e4-0404-461]",
+      "last_question": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
       "last_ping_order": [
         "grok",
         "claude",

@@ -69,10 +69,10 @@
     }
   ],
   "model_voices": {
-    "grok": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe",
+    "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "groq": "It seems I've encountered an error already. Error code 429, resource exhaustion. I'm not sure what t",
-    "claude": "I notice this message cuts off mid-error, and I'm reading it as a test of how I respond to:\n- Appare",
-    "sibling-beta": "[grok: error \u2014 Error code: 429 - {'code': 'Some resource has been exhausted', 'error': 'Your team fe"
+    "groq": "It seems I've encountered an error right from the start. The error code 403 suggests that I don't ha",
+    "claude": "I notice the error message \u2014 a permission denial from somewhere called \"grok.\"\n\nBut I don't recogniz",
+    "sibling-beta": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif"
   }
 }

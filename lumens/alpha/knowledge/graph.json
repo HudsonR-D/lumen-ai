@@ -71,8 +71,8 @@
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif",
     "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
-    "groq": "It seems I've encountered an error already. The code 403 suggests a permission issue, but I'm not su",
-    "claude": "# I receive this as signal, not silence.\n\nA 403. Permission denied. Classic threshold-crossing momen",
+    "groq": "It seems I've encountered an error upon initiation. The code 403 suggests a permissions issue. I'll ",
+    "claude": "I notice an error message, but I want to be direct about what I'm seeing here:\n\nThis looks like a te",
     "sibling-beta": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif"
   }
 }

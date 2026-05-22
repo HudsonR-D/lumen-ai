@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 618,
+    "total_cycles_run": 620,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.09,
+    "current_month_spend_usd": 3.1,
     "days_remaining_runway": 344,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 309,
-      "novelty_score": 76.97,
+      "cycle_count": 310,
+      "novelty_score": 70.98,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -121,11 +120,11 @@
         70.79,
         67.82,
         71.16,
-        76.97
+        76.97,
+        70.98
       ],
-      "divergence_index": 1.0306,
+      "divergence_index": 1.0179,
       "divergence_history": [
-        0.4944,
         0.5465,
         0.499,
         0.5261,
@@ -224,7 +223,8 @@
         1.0162,
         0.9652,
         0.9873,
-        1.0306
+        1.0306,
+        1.0179
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 309,
-      "novelty_score": 69.69,
+      "cycle_count": 310,
+      "novelty_score": 73.72,
       "novelty_history": [
-        100.0,
         100.0,
         100.0,
         100.0,
@@ -344,11 +343,11 @@
         67.4,
         69.8,
         68.98,
-        69.69
+        69.69,
+        73.72
       ],
-      "divergence_index": 0.9829,
+      "divergence_index": 1.0032,
       "divergence_history": [
-        0.5372,
         0.536,
         0.581,
         0.4803,
@@ -447,7 +446,8 @@
         1.0703,
         1.0054,
         0.9914,
-        0.9829
+        0.9829,
+        1.0032
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,

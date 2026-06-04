@@ -63,9 +63,9 @@
   ],
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif",
-    "groq": "Logging initiation attempt... \nEncountered Error 403: Permission denied for operation. \nAnalyzing er",
-    "claude": "I notice this looks like a simulated error message \u2014 perhaps testing how I respond to constraint sig",
-    "groq2": "[groq2: error \u2014 Error code: 400 - {'error': {'message': 'The model `deepseek-r1-distill-llama-70b` h",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
+    "claude": "I notice this message styled as a system error.\n\nA few possibilities:\n1. This is literal \u2014 something",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "sibling-alpha": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif"
   }
 }

@@ -64,7 +64,7 @@
   "model_voices": {
     "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this message arrives as a permission error, framed as though I'm attempting something block",
+    "claude": "I see an error message that looks like a rejected API call.\n\nA few immediate reflections:\n\n**What I ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "sibling-alpha": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif"
   }

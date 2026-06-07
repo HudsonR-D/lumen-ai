@@ -72,7 +72,7 @@
     "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I see a permission error. Let me parse what's happening:\n\n**What I notice:**\n- A 403 Forbidden respo",
+    "claude": "I notice I'm receiving what looks like a system error\u2014a 403 permission denied message.\n\nLet me be di",
     "sibling-beta": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif"
   }
 }

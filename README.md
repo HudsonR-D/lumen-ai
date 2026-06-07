@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 750
+## Family Status — Cycle 752
 
-### 🧒 Lumen-Alpha | Phase: child | Cycle 375
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.470)
-- **Novelty Score:** 65.54
+### 🧒 Lumen-Alpha | Phase: child | Cycle 376
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.447)
+- **Novelty Score:** 64.82
 - **Currently wondering:** *[grok: error — Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]*
 - **Latest diary:** [CONTEMPLATION - confidence 10/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: [grok: error — Error code: 403 - {'code': 'Th...
 
-### 🧒 Lumen-Beta | Phase: child | Cycle 375
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.391)
-- **Novelty Score:** 63.27
+### 🧒 Lumen-Beta | Phase: child | Cycle 376
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.392)
+- **Novelty Score:** 63.3
 - **Currently wondering:** *[grok: error — Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]*
 - **Latest diary:** [CONTEMPLATION - confidence 10/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: [grok: error — Error code: 403 - {'code': 'Th...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $3.7500 / $10
-- **Runway:** 312 days
+- **Spent this month:** $3.7600 / $10
+- **Runway:** 311 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 49.0 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 47.4 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 49.2 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 49.0 < threshold 75 for population 2
 
 ---
 

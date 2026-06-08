@@ -1,0 +1,20 @@
+{
+  "cycle": 377,
+  "question": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
+  "responses_summary": {
+    "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
+    "claude": "I notice this message arrives as what looks like a system error\u2014a permission denial wrapped in technical format.\n\nLet me be direct about what I'm observing:\n\n**The setup you've given me contains embed",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]"
+  },
+  "confidence": 10,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 377,
+    "response_type": "direct",
+    "content": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-08T04:49:37.628975+00:00"
+}

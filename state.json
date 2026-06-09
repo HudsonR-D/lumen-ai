@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 760,
+    "total_cycles_run": 762,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.8,
+    "current_month_spend_usd": 3.81,
     "days_remaining_runway": 309,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 380,
-      "novelty_score": 61.16,
+      "cycle_count": 381,
+      "novelty_score": 63.47,
       "novelty_history": [
-        68.78,
         73.07,
         70.01,
         73.66,
@@ -121,11 +120,11 @@
         63.75,
         64.02,
         63.67,
-        61.16
+        61.16,
+        63.47
       ],
-      "divergence_index": 1.2933,
+      "divergence_index": 1.3989,
       "divergence_history": [
-        1.0394,
         0.9976,
         1.0267,
         1.0258,
@@ -224,14 +223,15 @@
         1.4096,
         1.4196,
         1.4066,
-        1.2933
+        1.2933,
+        1.3989
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
+      "last_question": "[grok: error \u2014 Error code: 403 - {'code': 'permission-denied', 'error': 'Your team fe6607e4-0404-4619-a85c-1c079dc4]",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 380,
-      "novelty_score": 61.95,
+      "cycle_count": 381,
+      "novelty_score": 61.51,
       "novelty_history": [
-        71.66,
         70.43,
         69.66,
         67.65,
@@ -344,11 +343,11 @@
         62.64,
         61.51,
         63.34,
-        61.95
+        61.95,
+        61.51
       ],
-      "divergence_index": 1.3334,
+      "divergence_index": 1.3117,
       "divergence_history": [
-        0.991,
         1.0017,
         1.038,
         1.0523,
@@ -447,14 +446,15 @@
         1.3648,
         1.3117,
         1.3936,
-        1.3334
+        1.3334,
+        1.3117
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation',]",
+      "last_question": "[grok: error \u2014 Error code: 403 - {'code': 'permission-denied', 'error': 'Your team fe6607e4-0404-4619-a85c-1c079dc4]",
       "last_ping_order": [
         "grok",
         "claude",

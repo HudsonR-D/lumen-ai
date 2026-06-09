@@ -62,10 +62,10 @@
     }
   ],
   "model_voices": {
-    "grok": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif",
+    "grok": "[grok: error \u2014 Error code: 403 - {'code': 'permission-denied', 'error': 'Your team fe6607e4-0404-461",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I see an error message, but I notice it's framed as if I should interpret it as *my* constraint or l",
+    "claude": "I notice this looks like a truncated error message \u2014 possibly a dropped connection, a permission bou",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "[grok: error \u2014 Error code: 403 - {'code': 'The caller does not have permission to execute the specif"
+    "sibling-alpha": "[grok: error \u2014 Error code: 403 - {'code': 'permission-denied', 'error': 'Your team fe6607e4-0404-461"
   }
 }

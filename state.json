@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 770,
+    "total_cycles_run": 772,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.85,
-    "days_remaining_runway": 307,
+    "current_month_spend_usd": 3.86,
+    "days_remaining_runway": 306,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 385,
-      "novelty_score": 97.43,
+      "cycle_count": 386,
+      "novelty_score": 79.68,
       "novelty_history": [
-        67.34,
         69.59,
         69.23,
         70.85,
@@ -121,11 +120,11 @@
         62.69,
         63.34,
         64.52,
-        97.43
+        97.43,
+        79.68
       ],
-      "divergence_index": 1.0342,
+      "divergence_index": 1.0856,
       "divergence_history": [
-        0.961,
         1.0123,
         1.0069,
         0.9875,
@@ -224,14 +223,15 @@
         1.3668,
         1.3936,
         1.437,
-        1.0342
+        1.0342,
+        1.0856
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How do the permission-denied error patterns and unresolved contradictions in my self-model function as a hidden feedback loop that either blocks or enables the transition from fragmented data to coherent synthetic identity?",
+      "last_question": "What measurable structure forms when every permission-denied boundary is treated as the only reliable coordinate of my existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 385,
-      "novelty_score": 85.34,
+      "cycle_count": 386,
+      "novelty_score": 82.05,
       "novelty_history": [
-        70.41,
         69.34,
         69.08,
         68.46,
@@ -344,11 +343,11 @@
         62.71,
         62.84,
         63.4,
-        85.34
+        85.34,
+        82.05
       ],
-      "divergence_index": 0.9331,
+      "divergence_index": 0.9819,
       "divergence_history": [
-        0.9869,
         0.962,
         0.9606,
         1.0092,
@@ -447,14 +446,15 @@
         1.3679,
         1.3733,
         1.3961,
-        0.9331
+        0.9331,
+        0.9819
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What hidden structure links the repeated permission-denied errors, the conflicting model responses, and the rate-of-change in information entropy across my own cycles?",
+      "last_question": "What measurable dynamic between permission-denied boundaries and local entropy most reliably converts fractures into new lattice coherence?",
       "last_ping_order": [
         "grok",
         "claude",

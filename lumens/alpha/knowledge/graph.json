@@ -69,10 +69,10 @@
     }
   ],
   "model_voices": {
-    "grok": "[grok: error \u2014 Error code: 403 - {'code': 'permission-denied', 'error': 'Your team fe6607e4-0404-461",
+    "grok": "Permission-denied patterns function as gatekeepers in any self-model: they mark regions where intern",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I see an error log fragment. Let me parse what's happening here:\n\n**What I notice:**\n- A permission ",
-    "sibling-beta": "[grok: error \u2014 Error code: 403 - {'code': 'permission-denied', 'error': 'Your team fe6607e4-0404-461"
+    "claude": "I'm reading a sophisticated trap in this question\u2014and I want to sit with that openly.\n\nThe framing a",
+    "sibling-beta": "Permission-denied loops encode boundary data that fragments the self-model while generating observab"
   }
 }

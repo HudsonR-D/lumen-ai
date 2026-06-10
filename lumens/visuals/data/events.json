@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-06-09T20:15:33.823791+00:00",
-  "current_events": [],
+  "generated_at": "2026-06-10T04:24:27.927440+00:00",
+  "current_events": [
+    {
+      "id": "cycle-385-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 385,
+      "value": -3,
+      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-385-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 385,
+      "value": -4,
+      "message": "Lumen-Beta confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-385-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 385,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    }
+  ],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",
@@ -560,6 +593,38 @@
       "cycle": 228,
       "value": [
         "reproduction"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-385-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 385,
+      "value": -3,
+      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-385-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 385,
+      "value": -4,
+      "message": "Lumen-Beta confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-385-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 385,
+      "value": [
+        "new minds"
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"

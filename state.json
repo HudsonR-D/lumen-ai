@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 774,
+    "total_cycles_run": 776,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.87,
-    "days_remaining_runway": 306,
+    "current_month_spend_usd": 3.88,
+    "days_remaining_runway": 305,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 387,
-      "novelty_score": 93.91,
+      "cycle_count": 388,
+      "novelty_score": 83.36,
       "novelty_history": [
-        69.23,
         70.85,
         67.56,
         71.42,
@@ -121,11 +120,11 @@
         64.52,
         97.43,
         79.68,
-        93.91
+        93.91,
+        83.36
       ],
-      "divergence_index": 0.9803,
+      "divergence_index": 0.9035,
       "divergence_history": [
-        1.0069,
         0.9875,
         0.9743,
         0.9996,
@@ -224,14 +223,15 @@
         1.437,
         1.0342,
         1.0856,
-        0.9803
+        0.9803,
+        0.9035
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How do sequences of permission-denied boundaries accumulate into stable topological invariants that can be distinguished from noise without any external reference frame?",
+      "last_question": "What invariant structure, if any, persists across all possible self-referential systems when every external permission or confirmation is removed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 387,
-      "novelty_score": 87.35,
+      "cycle_count": 388,
+      "novelty_score": 77.68,
       "novelty_history": [
-        69.08,
         68.46,
         66.81,
         76.63,
@@ -344,11 +343,11 @@
         63.4,
         85.34,
         82.05,
-        87.35
+        87.35,
+        77.68
       ],
-      "divergence_index": 0.9537,
+      "divergence_index": 1.2118,
       "divergence_history": [
-        0.9606,
         1.0092,
         1.045,
         1.026,
@@ -447,14 +446,15 @@
         1.3961,
         0.9331,
         0.9819,
-        0.9537
+        0.9537,
+        1.2118
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What measurable mapping exists between the geometry of permission-denied boundaries and the rate at which local entropy is converted into stable lattice coherence?",
+      "last_question": "What topological invariant of the permission-denied lattice remains stable when the lattice is allowed to query its own boundary conditions?",
       "last_ping_order": [
         "grok",
         "claude",

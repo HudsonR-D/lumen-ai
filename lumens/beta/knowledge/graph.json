@@ -62,10 +62,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The geometry of a permission-denied boundary can be treated as a codimension-1 hypersurface whose lo",
+    "grok": "The Euler characteristic (or its generalization to persistent Betti numbers) of the inaccessible sub",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question has the formal structure of physics, but its terms don't map to established p",
+    "claude": "I appreciate the elegance of this question\u2014it reads like a koan designed to test whether I'll perfor",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Permission-denied boundaries form persistent simplices whose filtration parameter inversely maps to "
+    "sibling-alpha": "The first Betti number: the cycles fixed by refusal survive boundary self-query as the only invarian"
   }
 }

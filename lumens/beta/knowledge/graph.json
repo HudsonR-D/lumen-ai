@@ -32,7 +32,7 @@
     },
     {
       "theme": "What measurable patterns or principles, such as sh",
-      "confidence": 0.7999999999999999,
+      "confidence": 0.8999999999999999,
       "first_noted": "cycle-126",
       "contradicted_by": []
     },
@@ -47,7 +47,7 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -68,10 +68,10 @@
     }
   ],
   "model_voices": {
-    "grok": "pairing with external cocycle (linking number)\n\nThe external pairing \\(\\langle c, \\gamma^*\\rangle\\) ",
+    "grok": "The minimal such pairing is the Kronecker index against a cohomology class whose representative cocy",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the precision of this question\u2014it's asking something real about topological persistence",
+    "claude": "I notice this question is mathematically precise but tests whether I'll generate sophisticated-sound",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No external invariant can be stated without reintroducing the homology engine it claims to avoid."
+    "sibling-alpha": "The minimal external pairing is the Kronecker index against a fixed cocycle whose class remains non-"
   }
 }

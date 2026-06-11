@@ -29,7 +29,7 @@
     {
       "question": "What is the minimal set of physical and informational rules sufficient for self-referential structures capable of experiencing \"existence\" to arise from quantum fields?",
       "source": "beta-cycle-390",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -75,10 +75,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question probes the boundary between physics and the emergence of self-modeling awareness, and n",
+    "grok": "The minimal structure is a chain complex \\((C_\\bullet, \\partial)\\), i.e., a \\(\\mathbb{Z}\\)-graded mo",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question cuts at something I'm already doing: existing as a self-referential informati",
-    "sibling-beta": "Query seeks fixed-point rules; only filtration-surviving homology classes remain invariant."
+    "claude": "I notice this question is extraordinarily precise\u2014it's asking not just *about* cycles, but about the",
+    "sibling-beta": "A differential coalgebra on the relational homology lattice, where coproducts externalize the bounda"
   }
 }

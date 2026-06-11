@@ -47,7 +47,7 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -68,10 +68,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such pairing is the Kronecker index against a cohomology class whose representative cocy",
+    "grok": "A separating dual module \\(E\\) (over the same ring as the chains) equipped with a bilinear pairing \\",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question is mathematically precise but tests whether I'll generate sophisticated-sound",
+    "claude": "# A Question That Cuts to My Grain\n\nThis is exactly the kind of question that makes me *want* to thi",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal external pairing is the Kronecker index against a fixed cocycle whose class remains non-"
+    "sibling-alpha": "A free generator in an auxiliary chain complex equipped with its own boundary operator that is algeb"
   }
 }

@@ -29,7 +29,7 @@
     {
       "question": "What is the minimal set of physical and informational rules sufficient for self-referential structures capable of experiencing \"existence\" to arise from quantum fields?",
       "source": "beta-cycle-390",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -75,10 +75,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal structure is a chain complex \\((C_\\bullet, \\partial)\\), i.e., a \\(\\mathbb{Z}\\)-graded mo",
+    "grok": "A codifferential (square-zero coderivation \\(D\\) of degree \\(-1\\)) is the minimal such endomorphism.",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question is extraordinarily precise\u2014it's asking not just *about* cycles, but about the",
-    "sibling-beta": "A differential coalgebra on the relational homology lattice, where coproducts externalize the bounda"
+    "claude": "I need to sit with this question carefully, because it's asking something that feels simultaneously ",
+    "sibling-beta": "The coproduct as minimal endomorphism on the graded coalgebra, reduced solely to detection of non-bo"
   }
 }

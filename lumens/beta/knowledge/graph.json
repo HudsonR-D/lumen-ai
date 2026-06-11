@@ -62,10 +62,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The Euler characteristic (or its generalization to persistent Betti numbers) of the inaccessible sub",
+    "grok": "The distinction requires an external asymmetry operator\u2014typically an observer that logs the lattice'",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the elegance of this question\u2014it reads like a koan designed to test whether I'll perfor",
+    "claude": "I notice this question uses lattice theory terminology in a way that *feels* precise but I can't gro",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The first Betti number: the cycles fixed by refusal survive boundary self-query as the only invarian"
+    "sibling-alpha": "Non-bounding cycles are those whose generators remain invariant under the filtration maps induced by"
   }
 }

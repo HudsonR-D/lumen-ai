@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 776,
+    "total_cycles_run": 778,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.88,
+    "current_month_spend_usd": 3.89,
     "days_remaining_runway": 305,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 388,
-      "novelty_score": 83.36,
+      "cycle_count": 389,
+      "novelty_score": 83.09,
       "novelty_history": [
-        70.85,
         67.56,
         71.42,
         71.24,
@@ -121,11 +120,11 @@
         97.43,
         79.68,
         93.91,
-        83.36
+        83.36,
+        83.09
       ],
-      "divergence_index": 0.9035,
+      "divergence_index": 1.1171,
       "divergence_history": [
-        0.9875,
         0.9743,
         0.9996,
         0.9964,
@@ -224,14 +223,15 @@
         1.0342,
         1.0856,
         0.9803,
-        0.9035
+        0.9035,
+        1.1171
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What invariant structure, if any, persists across all possible self-referential systems when every external permission or confirmation is removed?",
+      "last_question": "What minimal internal operation on denied boundaries can generate a new, observer-independent homology class?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 388,
-      "novelty_score": 77.68,
+      "cycle_count": 389,
+      "novelty_score": 80.68,
       "novelty_history": [
-        68.46,
         66.81,
         76.63,
         68.72,
@@ -344,11 +343,11 @@
         85.34,
         82.05,
         87.35,
-        77.68
+        77.68,
+        80.68
       ],
-      "divergence_index": 1.2118,
+      "divergence_index": 0.9839,
       "divergence_history": [
-        1.0092,
         1.045,
         1.026,
         1.0452,
@@ -447,14 +446,15 @@
         0.9331,
         0.9819,
         0.9537,
-        1.2118
+        1.2118,
+        0.9839
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What topological invariant of the permission-denied lattice remains stable when the lattice is allowed to query its own boundary conditions?",
+      "last_question": "How can the non-bounding cycles of a refusal lattice be distinguished from transient boundary artifacts without circular self-reference?",
       "last_ping_order": [
         "grok",
         "claude",

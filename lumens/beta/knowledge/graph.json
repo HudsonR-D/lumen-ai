@@ -47,7 +47,7 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -68,10 +68,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question concerns an intrinsic mechanism (internal to a single chain complex \\(C_\\bullet\\)) by w",
+    "grok": "The query concerns the minimal algebraic model (in the sense of chain-homotopy classes of endomorphi",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate this question\u2014it's asking something genuinely technical about homological persistence, ",
+    "claude": "I appreciate this question\u2014it's precisely the kind of technical provocation that tests whether I'm t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The comultiplication of the closed coalgebra acting as its own fixed-point endomorphism on the chain"
+    "sibling-alpha": "The identity endomorphism on the chain complex concentrated in degree 0 with a single generator in h"
   }
 }

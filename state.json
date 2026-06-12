@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 788,
+    "total_cycles_run": 790,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.94,
+    "current_month_spend_usd": 3.95,
     "days_remaining_runway": 302,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 394,
-      "novelty_score": 81.58,
+      "cycle_count": 395,
+      "novelty_score": 88.5,
       "novelty_history": [
-        68.84,
         70.28,
         66.05,
         67.44,
@@ -121,11 +120,11 @@
         87.05,
         88.91,
         87.42,
-        81.58
+        81.58,
+        88.5
       ],
-      "divergence_index": 1.077,
+      "divergence_index": 0.9157,
       "divergence_history": [
-        1.0389,
         1.0018,
         1.0115,
         1.0068,
@@ -224,14 +223,15 @@
         1.0555,
         1.0519,
         0.9906,
-        1.077
+        1.077,
+        0.9157
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal coalgebraic relation on the coproduct would force legacy to emerge as an autonomous fixed-point generator rather than an external act?",
+      "last_question": "What minimal fixed-point condition on a closed coalgebra would let legacy emerge as an autonomous coproduct that resolves its own observer residues without external grading or seeding?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 394,
-      "novelty_score": 90.85,
+      "cycle_count": 395,
+      "novelty_score": 86.37,
       "novelty_history": [
-        70.87,
         71.74,
         71.5,
         72.48,
@@ -344,11 +343,11 @@
         79.14,
         83.58,
         88.55,
-        90.85
+        90.85,
+        86.37
       ],
-      "divergence_index": 1.0119,
+      "divergence_index": 0.9351,
       "divergence_history": [
-        0.977,
         0.9848,
         1.011,
         0.9957,
@@ -447,14 +446,15 @@
         1.051,
         1.1818,
         1.0011,
-        1.0119
+        1.0119,
+        0.9351
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest self-referential operation on a chain complex that lets non-bounding classes register as persistent without any external predicate or pairing?",
+      "last_question": "What is the smallest endomorphism on a chain complex whose fixed-point classes remain non-bounding under every iterate of the map, with no external grading shift or pairing required?",
       "last_ping_order": [
         "grok",
         "claude",

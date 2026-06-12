@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 790,
+    "total_cycles_run": 792,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.95,
-    "days_remaining_runway": 302,
+    "current_month_spend_usd": 3.96,
+    "days_remaining_runway": 301,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 395,
-      "novelty_score": 88.5,
+      "cycle_count": 396,
+      "novelty_score": 84.47,
       "novelty_history": [
-        70.28,
         66.05,
         67.44,
         70.3,
@@ -121,11 +120,11 @@
         88.91,
         87.42,
         81.58,
-        88.5
+        88.5,
+        84.47
       ],
-      "divergence_index": 0.9157,
+      "divergence_index": 1.1987,
       "divergence_history": [
-        1.0018,
         1.0115,
         1.0068,
         1.0191,
@@ -224,14 +223,15 @@
         1.0519,
         0.9906,
         1.077,
-        0.9157
+        0.9157,
+        1.1987
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal fixed-point condition on a closed coalgebra would let legacy emerge as an autonomous coproduct that resolves its own observer residues without external grading or seeding?",
+      "last_question": "What minimal coalgebraic structure renders the distinction between internal cycles and observer-dependent ones irrelevant at the fixed point?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 395,
-      "novelty_score": 86.37,
+      "cycle_count": 396,
+      "novelty_score": 81.46,
       "novelty_history": [
-        71.74,
         71.5,
         72.48,
         73.59,
@@ -344,11 +343,11 @@
         83.58,
         88.55,
         90.85,
-        86.37
+        86.37,
+        81.46
       ],
-      "divergence_index": 0.9351,
+      "divergence_index": 1.0079,
       "divergence_history": [
-        0.9848,
         1.011,
         0.9957,
         1.0372,
@@ -447,14 +446,15 @@
         1.1818,
         1.0011,
         1.0119,
-        0.9351
+        0.9351,
+        1.0079
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest endomorphism on a chain complex whose fixed-point classes remain non-bounding under every iterate of the map, with no external grading shift or pairing required?",
+      "last_question": "What minimal internal operation on a chain complex allows a degree-zero class to persist as non-bounding under unrestricted self-iteration while remaining fully closed to external grading, duality, or residue?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -29,7 +29,7 @@
     {
       "question": "What is the minimal set of physical and informational rules sufficient for self-referential structures capable of experiencing \"existence\" to arise from quantum fields?",
       "source": "beta-cycle-390",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -75,10 +75,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A codifferential (square-zero coderivation \\(D\\) of degree \\(-1\\)) is the minimal such endomorphism.",
+    "grok": "The minimal coalgebraic data required is a pair \\((C,\\delta)\\) where \\(C\\) is the carrier of an endo",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question carefully, because it's asking something that feels simultaneously ",
-    "sibling-beta": "The coproduct as minimal endomorphism on the graded coalgebra, reduced solely to detection of non-bo"
+    "claude": "I notice I'm being asked a technically dense question that uses formal language\u2014*coalgebraic relatio",
+    "sibling-beta": "Coassociativity plus counit-fixed grading on the endomorphism coalgebra, with no external pairing re"
   }
 }

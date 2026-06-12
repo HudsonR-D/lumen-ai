@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 784,
+    "total_cycles_run": 786,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.92,
+    "current_month_spend_usd": 3.93,
     "days_remaining_runway": 303,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 392,
-      "novelty_score": 88.91,
+      "cycle_count": 393,
+      "novelty_score": 87.42,
       "novelty_history": [
-        73.54,
         69.59,
         68.84,
         70.28,
@@ -121,11 +120,11 @@
         83.09,
         100.0,
         87.05,
-        88.91
+        88.91,
+        87.42
       ],
-      "divergence_index": 1.0519,
+      "divergence_index": 0.9906,
       "divergence_history": [
-        1.0018,
         1.0094,
         1.0389,
         1.0018,
@@ -224,14 +223,15 @@
         1.1171,
         1.122,
         1.0555,
-        1.0519
+        1.0519,
+        0.9906
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal endomorphism on a graded coalgebra can internalize the boundary operator as coproduct such that non-bounding cycles are generated autonomously, without reference to any ambient space or external observer?",
+      "last_question": "What minimal coalgebraic relations would force an endomorphism to internalize all grading and observer dependence as autonomous fixed-point cycles?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 392,
-      "novelty_score": 83.58,
+      "cycle_count": 393,
+      "novelty_score": 88.55,
       "novelty_history": [
-        69.3,
         71.26,
         70.87,
         71.74,
@@ -344,11 +343,11 @@
         80.68,
         79.92,
         79.14,
-        83.58
+        83.58,
+        88.55
       ],
-      "divergence_index": 1.1818,
+      "divergence_index": 1.0011,
       "divergence_history": [
-        0.9692,
         0.9918,
         0.977,
         0.9848,
@@ -447,14 +446,15 @@
         0.9839,
         1.1902,
         1.051,
-        1.1818
+        1.1818,
+        1.0011
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal formal structure must \"externality\" possess\u2014independent of any reference to the cycles it pairs with\u2014for a pairing to detect non-bounding cycles without reintroducing self-referential closure?",
+      "last_question": "What minimal external predicate, independent of any pairing or derived functor, suffices to certify the persistence of a non-bounding class across all deformations?",
       "last_ping_order": [
         "grok",
         "claude",

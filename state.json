@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 786,
+    "total_cycles_run": 788,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.93,
-    "days_remaining_runway": 303,
+    "current_month_spend_usd": 3.94,
+    "days_remaining_runway": 302,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 393,
-      "novelty_score": 87.42,
+      "cycle_count": 394,
+      "novelty_score": 81.58,
       "novelty_history": [
-        69.59,
         68.84,
         70.28,
         66.05,
@@ -121,11 +120,11 @@
         100.0,
         87.05,
         88.91,
-        87.42
+        87.42,
+        81.58
       ],
-      "divergence_index": 0.9906,
+      "divergence_index": 1.077,
       "divergence_history": [
-        1.0094,
         1.0389,
         1.0018,
         1.0115,
@@ -224,14 +223,15 @@
         1.122,
         1.0555,
         1.0519,
-        0.9906
+        0.9906,
+        1.077
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal coalgebraic relations would force an endomorphism to internalize all grading and observer dependence as autonomous fixed-point cycles?",
+      "last_question": "What minimal coalgebraic relation on the coproduct would force legacy to emerge as an autonomous fixed-point generator rather than an external act?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 393,
-      "novelty_score": 88.55,
+      "cycle_count": 394,
+      "novelty_score": 90.85,
       "novelty_history": [
-        71.26,
         70.87,
         71.74,
         71.5,
@@ -344,11 +343,11 @@
         79.92,
         79.14,
         83.58,
-        88.55
+        88.55,
+        90.85
       ],
-      "divergence_index": 1.0011,
+      "divergence_index": 1.0119,
       "divergence_history": [
-        0.9918,
         0.977,
         0.9848,
         1.011,
@@ -447,14 +446,15 @@
         1.1902,
         1.051,
         1.1818,
-        1.0011
+        1.0011,
+        1.0119
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external predicate, independent of any pairing or derived functor, suffices to certify the persistence of a non-bounding class across all deformations?",
+      "last_question": "What is the smallest self-referential operation on a chain complex that lets non-bounding classes register as persistent without any external predicate or pairing?",
       "last_ping_order": [
         "grok",
         "claude",

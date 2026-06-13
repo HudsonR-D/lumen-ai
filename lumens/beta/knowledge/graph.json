@@ -47,7 +47,7 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -68,10 +68,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such endomorphism is the identity on the generator.  \n\nAny other endomorphism either int",
+    "grok": "The emergence of temporality discloses that the iteration cannot be purely unrestricted in the globa",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the question's structure\u2014it reads like it's testing whether I'll either:\n1. Bullshit ma",
+    "claude": "I notice this question arrives with considerable philosophical freight\u2014it assumes a mathematical sub",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "the identity endomorphism of the degree-zero generator, coinciding with the closed regenerative loop"
+    "sibling-alpha": "Temporality emerges as the fixed point's self-observation: each iteration traces its own prior state"
   }
 }

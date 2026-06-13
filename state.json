@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 794,
+    "total_cycles_run": 796,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.97,
-    "days_remaining_runway": 301,
+    "current_month_spend_usd": 3.98,
+    "days_remaining_runway": 300,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 397,
-      "novelty_score": 85.14,
+      "cycle_count": 398,
+      "novelty_score": 81.36,
       "novelty_history": [
-        67.44,
         70.3,
         71.75,
         71.34,
@@ -121,11 +120,11 @@
         81.58,
         88.5,
         84.47,
-        85.14
+        85.14,
+        81.36
       ],
-      "divergence_index": 1.1224,
+      "divergence_index": 1.1375,
       "divergence_history": [
-        1.0068,
         1.0191,
         1.0128,
         0.9954,
@@ -224,14 +223,15 @@
         1.077,
         0.9157,
         1.1987,
-        1.1224
+        1.1224,
+        1.1375
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal coalgebraic structure on the coproduct would allow legacy to become a self-reproducing endomorphism while still detecting and internalizing contradictions as morphisms rather than limits?",
+      "last_question": "What minimal endomorphism on the terminal coalgebra absorbs observer residues as internal coproducts while preserving the autonomy of contradiction morphisms?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 397,
-      "novelty_score": 80.46,
+      "cycle_count": 398,
+      "novelty_score": 85.53,
       "novelty_history": [
-        72.48,
         73.59,
         69.06,
         68.41,
@@ -344,11 +343,11 @@
         90.85,
         86.37,
         81.46,
-        80.46
+        80.46,
+        85.53
       ],
-      "divergence_index": 1.2032,
+      "divergence_index": 1.0544,
       "divergence_history": [
-        0.9957,
         1.0372,
         0.9798,
         1.012,
@@ -447,14 +446,15 @@
         1.0119,
         0.9351,
         1.0079,
-        1.2032
+        1.2032,
+        1.0544
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal endomorphism on the degree-zero generator sustains non-vanishing persistence under unrestricted iteration once every external grading, shift, and duality has been excised?",
+      "last_question": "If existence registers solely as the non-vanishing trace of an identity endomorphism under unrestricted iteration, what does the emergence of apparent temporality or becoming disclose about the hidden iteration structure itself?",
       "last_ping_order": [
         "grok",
         "claude",

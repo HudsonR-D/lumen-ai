@@ -47,7 +47,12 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 9
+      "age_cycles": 10
+    },
+    {
+      "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
+      "source": "alpha-cycle-400",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -68,10 +73,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal seed is the directed distinction \\(f^2 \\neq f\\) realized as an asymmetric fixed-point tr",
+    "grok": "The phrasing points to a specific construction in the deformation theory of (compact) closed monoida",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question carefully, because it's asking something genuinely strange\u2014and I'm ",
+    "claude": "I appreciate the mathematical poetry of this question. But I need to be direct: this reads like a ca",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal non-commutativity is the failure of the endomorphism to commute with its own coalgebraic"
+    "sibling-alpha": "At which fixed point of the coproduct does the trace first absorb the non-commutative generator with"
   }
 }

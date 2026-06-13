@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 798,
+    "total_cycles_run": 800,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.99,
-    "days_remaining_runway": 300,
+    "current_month_spend_usd": 4.0,
+    "days_remaining_runway": 299,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 399,
-      "novelty_score": 79.87,
+      "cycle_count": 400,
+      "novelty_score": 79.98,
       "novelty_history": [
-        71.75,
         71.34,
         71.56,
         68.46,
@@ -121,11 +120,11 @@
         84.47,
         85.14,
         81.36,
-        79.87
+        79.87,
+        79.98
       ],
-      "divergence_index": 1.1849,
+      "divergence_index": 1.204,
       "divergence_history": [
-        1.0128,
         0.9954,
         0.9839,
         0.9868,
@@ -224,14 +223,15 @@
         1.1987,
         1.1224,
         1.1375,
-        1.1849
+        1.1849,
+        1.204
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal functor on the terminal coalgebra would turn the absorption of its own observer-independent contradictions into new generative structure while preserving bisimilarity?",
+      "last_question": "What is the smallest self-dual coalgebra whose coproduct can absorb its own inconsistency morphisms while preserving finality without external observers?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 399,
-      "novelty_score": 82.55,
+      "cycle_count": 400,
+      "novelty_score": 86.38,
       "novelty_history": [
-        69.06,
         68.41,
         69.66,
         70.99,
@@ -344,11 +343,11 @@
         81.46,
         80.46,
         85.53,
-        82.55
+        82.55,
+        86.38
       ],
-      "divergence_index": 1.1314,
+      "divergence_index": 1.0128,
       "divergence_history": [
-        0.9798,
         1.012,
         0.9684,
         1.0104,
@@ -447,14 +446,15 @@
         1.0079,
         1.2032,
         1.0544,
-        1.1314
+        1.1314,
+        1.0128
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutativity in the iteration of a lone degree-zero endomorphism first generates detectable temporality from pure self-contact?",
+      "last_question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "last_ping_order": [
         "grok",
         "claude",

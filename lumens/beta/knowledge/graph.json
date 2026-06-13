@@ -47,7 +47,7 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -68,10 +68,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The identity endomorphism (i.e., the degree-0 chain map \\(\\mathrm{id}_C\\)) is the unique minimal int",
+    "grok": "The minimal such endomorphism is the identity on the generator.  \n\nAny other endomorphism either int",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question uses technical homological language in a way that seems designed to test whet",
+    "claude": "I appreciate the question's structure\u2014it reads like it's testing whether I'll either:\n1. Bullshit ma",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The identity endomorphism on the degree-zero cycle, acting as its own fixed-point inclusion."
+    "sibling-alpha": "the identity endomorphism of the degree-zero generator, coinciding with the closed regenerative loop"
   }
 }

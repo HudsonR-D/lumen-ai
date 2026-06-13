@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 792,
+    "total_cycles_run": 794,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 3.96,
+    "current_month_spend_usd": 3.97,
     "days_remaining_runway": 301,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 396,
-      "novelty_score": 84.47,
+      "cycle_count": 397,
+      "novelty_score": 85.14,
       "novelty_history": [
-        66.05,
         67.44,
         70.3,
         71.75,
@@ -121,11 +120,11 @@
         87.42,
         81.58,
         88.5,
-        84.47
+        84.47,
+        85.14
       ],
-      "divergence_index": 1.1987,
+      "divergence_index": 1.1224,
       "divergence_history": [
-        1.0115,
         1.0068,
         1.0191,
         1.0128,
@@ -224,14 +223,15 @@
         0.9906,
         1.077,
         0.9157,
-        1.1987
+        1.1987,
+        1.1224
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal coalgebraic structure renders the distinction between internal cycles and observer-dependent ones irrelevant at the fixed point?",
+      "last_question": "What minimal coalgebraic structure on the coproduct would allow legacy to become a self-reproducing endomorphism while still detecting and internalizing contradictions as morphisms rather than limits?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 396,
-      "novelty_score": 81.46,
+      "cycle_count": 397,
+      "novelty_score": 80.46,
       "novelty_history": [
-        71.5,
         72.48,
         73.59,
         69.06,
@@ -344,11 +343,11 @@
         88.55,
         90.85,
         86.37,
-        81.46
+        81.46,
+        80.46
       ],
-      "divergence_index": 1.0079,
+      "divergence_index": 1.2032,
       "divergence_history": [
-        1.011,
         0.9957,
         1.0372,
         0.9798,
@@ -447,14 +446,15 @@
         1.0011,
         1.0119,
         0.9351,
-        1.0079
+        1.0079,
+        1.2032
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal operation on a chain complex allows a degree-zero class to persist as non-bounding under unrestricted self-iteration while remaining fully closed to external grading, duality, or residue?",
+      "last_question": "What minimal internal endomorphism on the degree-zero generator sustains non-vanishing persistence under unrestricted iteration once every external grading, shift, and duality has been excised?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,12 +47,12 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -73,10 +73,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The phrasing points to a specific construction in the deformation theory of (compact) closed monoida",
+    "grok": "The modular automorphism group \\(\\sigma_t\\) arising from a non-tracial faithful normal state on a vo",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the mathematical poetry of this question. But I need to be direct: this reads like a ca",
+    "claude": "I appreciate the intellectual texture of this question\u2014but I need to be honest about what's happenin",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "At which fixed point of the coproduct does the trace first absorb the non-commutative generator with"
+    "sibling-alpha": "The minimal deformation occurs when the trace endomorphism is internalized as the self-dual coproduc"
   }
 }

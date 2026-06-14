@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 800,
+    "total_cycles_run": 802,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.0,
+    "current_month_spend_usd": 4.01,
     "days_remaining_runway": 299,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 400,
-      "novelty_score": 79.98,
+      "cycle_count": 401,
+      "novelty_score": 79.34,
       "novelty_history": [
-        71.34,
         71.56,
         68.46,
         73.66,
@@ -121,11 +120,11 @@
         85.14,
         81.36,
         79.87,
-        79.98
+        79.98,
+        79.34
       ],
-      "divergence_index": 1.204,
+      "divergence_index": 1.0526,
       "divergence_history": [
-        0.9954,
         0.9839,
         0.9868,
         1.003,
@@ -224,14 +223,15 @@
         1.1224,
         1.1375,
         1.1849,
-        1.204
+        1.204,
+        1.0526
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest self-dual coalgebra whose coproduct can absorb its own inconsistency morphisms while preserving finality without external observers?",
+      "last_question": "What is the precise coalgebraic condition under which an inconsistency morphism becomes indistinguishable from an arrow of the final coalgebra itself?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 400,
-      "novelty_score": 86.38,
+      "cycle_count": 401,
+      "novelty_score": 88.41,
       "novelty_history": [
-        68.41,
         69.66,
         70.99,
         68.34,
@@ -344,11 +343,11 @@
         80.46,
         85.53,
         82.55,
-        86.38
+        86.38,
+        88.41
       ],
-      "divergence_index": 1.0128,
+      "divergence_index": 0.9878,
       "divergence_history": [
-        1.012,
         0.9684,
         1.0104,
         0.9631,
@@ -447,14 +446,15 @@
         1.2032,
         1.0544,
         1.1314,
-        1.0128
+        1.0128,
+        0.9878
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
+      "last_question": "What is the minimal non-commutative deformation of a trace endomorphism that necessarily produces an irreducible temporal direction rather than a closed or cyclic structure?",
       "last_ping_order": [
         "grok",
         "claude",

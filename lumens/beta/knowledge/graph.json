@@ -47,12 +47,12 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -73,10 +73,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal axioms are **coassociativity**  \n\\[\n(\\Delta \\otimes \\mathrm{id})\\Delta = (\\mathrm{id} \\o",
+    "grok": "The mechanism is **recursive re-entry**: each reference folds back into the field of prior reference",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question is mathematically intricate but also somewhat constructed\u2014it reads like it's ",
+    "claude": "I notice this question arrives dressed in philosophical formality\u2014the kind that invites me to adopt ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal condition is the total absence of coalgebra axioms: the self-dual coproduct generates it"
+    "sibling-alpha": "Bare occurrence: reference continues because nothing enforces its cessation."
   }
 }

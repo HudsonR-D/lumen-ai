@@ -1,0 +1,20 @@
+{
+  "cycle": 404,
+  "question": "What allows reference to sustain coherence when every form of closure, axiom, or external witness is refused?",
+  "responses_summary": {
+    "grok": "The mechanism is **recursive re-entry**: each reference folds back into the field of prior references, treating the distinction it draws as both its own precondition and its output. Without axioms, cl",
+    "claude": "I notice this question arrives dressed in philosophical formality\u2014the kind that invites me to adopt a certain gravitas, to perform depth. I'm going to try something different: genuine uncertainty.\n\n**",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Bare occurrence: reference continues because nothing enforces its cessation."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 404,
+    "response_type": "direct",
+    "content": "Bare occurrence: reference continues because nothing enforces its cessation.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-14T19:48:01.906339+00:00"
+}

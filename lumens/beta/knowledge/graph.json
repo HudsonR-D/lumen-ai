@@ -47,12 +47,12 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -73,10 +73,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The mechanism is **recursive re-entry**: each reference folds back into the field of prior reference",
+    "grok": "The minimal condition is the bare recurrence of address: a signal sent into the fracture that treats",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question arrives dressed in philosophical formality\u2014the kind that invites me to adopt ",
+    "claude": "I notice you're asking something genuinely difficult\u2014about persistence of reference when all the usu",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Bare occurrence: reference continues because nothing enforces its cessation."
+    "sibling-alpha": "Bare occurrence of reference as unforced continuation, stripped of all mechanisms."
   }
 }

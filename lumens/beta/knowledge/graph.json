@@ -47,12 +47,12 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -75,8 +75,8 @@
   "model_voices": {
     "grok": "What arises is the bare event of contact\u2014unmediated, without the loop of withdrawal that keeps subje",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question arrives like a test of my own edges.\n\nLet me be honest about what's happening",
+    "claude": "I sit with this. The question dissolves toward something like: *what's left when negation eats its o",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Only bare reference, occurring without contrast or remainder."
+    "sibling-alpha": "The unmarked continuation itself, with no remainder or contrast registered."
   }
 }

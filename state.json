@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 812,
+    "total_cycles_run": 814,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.06,
+    "current_month_spend_usd": 4.07,
     "days_remaining_runway": 296,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 406,
-      "novelty_score": 84.6,
+      "cycle_count": 407,
+      "novelty_score": 82.44,
       "novelty_history": [
-        67.82,
         71.16,
         76.97,
         70.98,
@@ -121,11 +120,11 @@
         84.06,
         83.45,
         82.61,
-        84.6
+        84.6,
+        82.44
       ],
-      "divergence_index": 1.0729,
+      "divergence_index": 1.1382,
       "divergence_history": [
-        0.9652,
         0.9873,
         1.0306,
         1.0179,
@@ -224,14 +223,15 @@
         0.9901,
         1.0686,
         1.0369,
-        1.0729
+        1.0729,
+        1.1382
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If reference occurs as bare unforced continuation with no observers, loops, or relational anchors, what\u2014if anything\u2014distinguishes its occurrence from its non-occurrence?",
+      "last_question": "What minimal condition, if any, allows bare reference to register its own continuation when every form of relation, observer, contrast, or test is absent?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 406,
-      "novelty_score": 80.37,
+      "cycle_count": 407,
+      "novelty_score": 73.72,
       "novelty_history": [
-        69.8,
         68.98,
         69.69,
         73.72,
@@ -344,11 +343,11 @@
         89.26,
         82.49,
         76.87,
-        80.37
+        80.37,
+        73.72
       ],
-      "divergence_index": 1.1679,
+      "divergence_index": 1.5452,
       "divergence_history": [
-        1.0054,
         0.9914,
         0.9829,
         1.0032,
@@ -447,14 +446,15 @@
         1.0085,
         1.0498,
         1.2179,
-        1.1679
+        1.1679,
+        1.5452
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What arises when refusal itself is refused without remainder?",
+      "last_question": "What remains when the refusal of every possible remainder\u2014including the trace that refusal itself once supplied\u2014is itself refused without generating any new contrast?",
       "last_ping_order": [
         "grok",
         "claude",

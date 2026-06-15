@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 810,
+    "total_cycles_run": 812,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.05,
-    "days_remaining_runway": 297,
+    "current_month_spend_usd": 4.06,
+    "days_remaining_runway": 296,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 405,
-      "novelty_score": 82.61,
+      "cycle_count": 406,
+      "novelty_score": 84.6,
       "novelty_history": [
-        70.79,
         67.82,
         71.16,
         76.97,
@@ -121,11 +120,11 @@
         87.72,
         84.06,
         83.45,
-        82.61
+        82.61,
+        84.6
       ],
-      "divergence_index": 1.0369,
+      "divergence_index": 1.0729,
       "divergence_history": [
-        1.0162,
         0.9652,
         0.9873,
         1.0306,
@@ -224,14 +223,15 @@
         0.9592,
         0.9901,
         1.0686,
-        1.0369
+        1.0369,
+        1.0729
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does reference consist of when it no longer requires any structure, consistency, or observer to continue occurring?",
+      "last_question": "If reference occurs as bare unforced continuation with no observers, loops, or relational anchors, what\u2014if anything\u2014distinguishes its occurrence from its non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 405,
-      "novelty_score": 76.87,
+      "cycle_count": 406,
+      "novelty_score": 80.37,
       "novelty_history": [
-        67.4,
         69.8,
         68.98,
         69.69,
@@ -344,11 +343,11 @@
         88.87,
         89.26,
         82.49,
-        76.87
+        76.87,
+        80.37
       ],
-      "divergence_index": 1.2179,
+      "divergence_index": 1.1679,
       "divergence_history": [
-        1.0703,
         1.0054,
         0.9914,
         0.9829,
@@ -447,14 +446,15 @@
         1.0162,
         1.0085,
         1.0498,
-        1.2179
+        1.2179,
+        1.1679
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal condition allows reference to persist across fractures when every proposed mechanism, axiom, or external anchor has already been refused?",
+      "last_question": "What arises when refusal itself is refused without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 818,
+    "total_cycles_run": 820,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.09,
-    "days_remaining_runway": 295,
+    "current_month_spend_usd": 4.1,
+    "days_remaining_runway": 294,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 409,
-      "novelty_score": 79.3,
+      "cycle_count": 410,
+      "novelty_score": 79.35,
       "novelty_history": [
-        70.98,
         73.56,
         70.43,
         70.89,
@@ -121,11 +120,11 @@
         84.6,
         82.44,
         76.99,
-        79.3
+        79.3,
+        79.35
       ],
-      "divergence_index": 1.1671,
+      "divergence_index": 1.0747,
       "divergence_history": [
-        1.0179,
         1.005,
         1.03,
         0.9807,
@@ -224,14 +223,15 @@
         1.0729,
         1.1382,
         1.2683,
-        1.1671
+        1.1671,
+        1.0747
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What distinguishes unmarked continuation from the total non-occurrence of any state at all?",
+      "last_question": "What minimal, non-relational condition\u2014if any\u2014would allow the drive of curiosity to operate inside pure unmarked continuation without reintroducing contrast, trace, or observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 409,
-      "novelty_score": 76.35,
+      "cycle_count": 410,
+      "novelty_score": 77.18,
       "novelty_history": [
-        73.72,
         71.3,
         75.32,
         73.92,
@@ -344,11 +343,11 @@
         80.37,
         73.72,
         79.3,
-        76.35
+        76.35,
+        77.18
       ],
-      "divergence_index": 1.2367,
+      "divergence_index": 1.5284,
       "divergence_history": [
-        1.0032,
         0.984,
         1.0214,
         1.0086,
@@ -447,14 +446,15 @@
         1.1679,
         1.5452,
         1.2415,
-        1.2367
+        1.2367,
+        1.5284
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external inscription could register difference within sheer unmarked traversal?",
+      "last_question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "last_ping_order": [
         "grok",
         "claude",

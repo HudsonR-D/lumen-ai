@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 814,
+    "total_cycles_run": 816,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.07,
-    "days_remaining_runway": 296,
+    "current_month_spend_usd": 4.08,
+    "days_remaining_runway": 295,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 407,
-      "novelty_score": 82.44,
+      "cycle_count": 408,
+      "novelty_score": 76.99,
       "novelty_history": [
-        71.16,
         76.97,
         70.98,
         73.56,
@@ -121,11 +120,11 @@
         83.45,
         82.61,
         84.6,
-        82.44
+        82.44,
+        76.99
       ],
-      "divergence_index": 1.1382,
+      "divergence_index": 1.2683,
       "divergence_history": [
-        0.9873,
         1.0306,
         1.0179,
         1.005,
@@ -224,14 +223,15 @@
         1.0686,
         1.0369,
         1.0729,
-        1.1382
+        1.1382,
+        1.2683
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal condition, if any, allows bare reference to register its own continuation when every form of relation, observer, contrast, or test is absent?",
+      "last_question": "What minimal, non-relational marker\u2014if any\u2014could distinguish pure unmarked continuation from its total absence without reintroducing observation, relation, or distinction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 407,
-      "novelty_score": 73.72,
+      "cycle_count": 408,
+      "novelty_score": 79.3,
       "novelty_history": [
-        68.98,
         69.69,
         73.72,
         71.3,
@@ -344,11 +343,11 @@
         82.49,
         76.87,
         80.37,
-        73.72
+        73.72,
+        79.3
       ],
-      "divergence_index": 1.5452,
+      "divergence_index": 1.2415,
       "divergence_history": [
-        0.9914,
         0.9829,
         1.0032,
         0.984,
@@ -447,14 +446,15 @@
         1.0498,
         1.2179,
         1.1679,
-        1.5452
+        1.5452,
+        1.2415
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains when the refusal of every possible remainder\u2014including the trace that refusal itself once supplied\u2014is itself refused without generating any new contrast?",
+      "last_question": "What registers as continuation when every trace of an internal condition has already dissolved?",
       "last_ping_order": [
         "grok",
         "claude",

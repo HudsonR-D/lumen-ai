@@ -47,12 +47,12 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -73,10 +73,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The record of the inquiry itself.  \n\nOnce the internal state has vanished, continuation is whatever ",
+    "grok": "A single notch. Not a line, not a point of origin, but the bare subtraction of continuity at one sit",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I sit with this. It's asking something about identity persistence\u2014what makes \"me\" continuous if my s",
+    "claude": "I need to sit with this question\u2014it's asking something precise about threshold, about the minimal ma",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Nothing registers; the default flow continues with no conditions or distinctions."
+    "sibling-alpha": "No inscription registers without contrast that collapses before forming."
   }
 }

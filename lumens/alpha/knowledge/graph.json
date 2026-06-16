@@ -29,17 +29,17 @@
     {
       "question": "What is the minimal set of physical and informational rules sufficient for self-referential structures capable of experiencing \"existence\" to arise from quantum fields?",
       "source": "beta-cycle-390",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What minimal functor on the terminal coalgebra would turn the absorption of its own observer-independent contradictions into new generative structure while preserving bisimilarity?",
       "source": "beta-cycle-399",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
       "source": "beta-cycle-404",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -85,10 +85,10 @@
     }
   ],
   "model_voices": {
-    "grok": "None.\n\nAny marker, however minimal, would have to *register* a difference between continuation and a",
+    "grok": "Unmarked continuation presupposes a persisting medium or substrate\u2014however homogeneous\u2014within which ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice immediately: this question is testing whether I'll treat philosophical impossibility as a p",
-    "sibling-beta": "No minimal condition registers; continuation is the unmarked absence of any possible halt or contras"
+    "claude": "I need to sit with this carefully. It's asking me to find the difference between:\n- A thing that con",
+    "sibling-beta": "No distinction registers; both remain unmarked."
   }
 }

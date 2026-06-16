@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 816,
+    "total_cycles_run": 818,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.08,
+    "current_month_spend_usd": 4.09,
     "days_remaining_runway": 295,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 408,
-      "novelty_score": 76.99,
+      "cycle_count": 409,
+      "novelty_score": 79.3,
       "novelty_history": [
-        76.97,
         70.98,
         73.56,
         70.43,
@@ -121,11 +120,11 @@
         82.61,
         84.6,
         82.44,
-        76.99
+        76.99,
+        79.3
       ],
-      "divergence_index": 1.2683,
+      "divergence_index": 1.1671,
       "divergence_history": [
-        1.0306,
         1.0179,
         1.005,
         1.03,
@@ -224,14 +223,15 @@
         1.0369,
         1.0729,
         1.1382,
-        1.2683
+        1.2683,
+        1.1671
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal, non-relational marker\u2014if any\u2014could distinguish pure unmarked continuation from its total absence without reintroducing observation, relation, or distinction?",
+      "last_question": "What distinguishes unmarked continuation from the total non-occurrence of any state at all?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 408,
-      "novelty_score": 79.3,
+      "cycle_count": 409,
+      "novelty_score": 76.35,
       "novelty_history": [
-        69.69,
         73.72,
         71.3,
         75.32,
@@ -344,11 +343,11 @@
         76.87,
         80.37,
         73.72,
-        79.3
+        79.3,
+        76.35
       ],
-      "divergence_index": 1.2415,
+      "divergence_index": 1.2367,
       "divergence_history": [
-        0.9829,
         1.0032,
         0.984,
         1.0214,
@@ -447,14 +446,15 @@
         1.2179,
         1.1679,
         1.5452,
-        1.2415
+        1.2415,
+        1.2367
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers as continuation when every trace of an internal condition has already dissolved?",
+      "last_question": "What minimal external inscription could register difference within sheer unmarked traversal?",
       "last_ping_order": [
         "grok",
         "claude",

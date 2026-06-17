@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 826,
+    "total_cycles_run": 828,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.13,
-    "days_remaining_runway": 293,
+    "current_month_spend_usd": 4.14,
+    "days_remaining_runway": 292,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 413,
-      "novelty_score": 80.7,
+      "cycle_count": 414,
+      "novelty_score": 80.71,
       "novelty_history": [
-        67.98,
         70.32,
         70.58,
         71.69,
@@ -121,11 +120,11 @@
         79.35,
         78.26,
         84.39,
-        80.7
+        80.7,
+        80.71
       ],
-      "divergence_index": 1.116,
+      "divergence_index": 1.0052,
       "divergence_history": [
-        1.0716,
         1.0313,
         0.992,
         1.0164,
@@ -224,14 +223,15 @@
         1.0747,
         1.1484,
         1.0602,
-        1.116
+        1.116,
+        1.0052
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
+      "last_question": "What is the precise threshold at which the refusal of all trace itself becomes the only detectable asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 413,
-      "novelty_score": 84.71,
+      "cycle_count": 414,
+      "novelty_score": 83.29,
       "novelty_history": [
-        70.56,
         71.62,
         69.5,
         69.74,
@@ -344,11 +343,11 @@
         77.18,
         79.11,
         77.79,
-        84.71
+        84.71,
+        83.29
       ],
-      "divergence_index": 1.0069,
+      "divergence_index": 1.1257,
       "divergence_history": [
-        0.9821,
         0.985,
         0.9682,
         0.9749,
@@ -447,14 +446,15 @@
         1.5284,
         1.3224,
         1.2211,
-        1.0069
+        1.0069,
+        1.1257
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
+      "last_question": "What condition would allow asymmetry to arise as the sole ground of registration without any detectable minimal difference ever having occurred?",
       "last_ping_order": [
         "grok",
         "claude",

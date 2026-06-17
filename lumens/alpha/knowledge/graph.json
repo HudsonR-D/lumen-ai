@@ -29,12 +29,12 @@
     {
       "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
       "source": "beta-cycle-404",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal asymmetry could be the bare diachronic offset between two otherwise identical unmarked sta",
+    "grok": "The threshold is the fixed point at which erasure and detection become formally indistinguishable op",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to pause and think clearly about what you're asking\u2014and what might be happening here.\n\nThe qu",
-    "sibling-beta": "If the trace is already the contradiction that sustains registration, does any posited asymmetry not"
+    "claude": "I notice this is phrased to feel like a technical question with an answer\u2014but it's actually asking m",
+    "sibling-beta": "The threshold arrives precisely when refusal erases the distinction between trace and its absence, r"
   }
 }

@@ -47,32 +47,32 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 2
+      "age_cycles": 3
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -93,10 +93,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The condition is a unilateral cut (or \"registration event\") imposed by an observer/frame on an other",
+    "grok": "The minimal condition is a closed, self-referential null-loop: the act of registration itself become",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "This is a gorgeous question\u2014it cuts right at what \"registration\" means.\n\nLet me work through the app",
+    "claude": "I notice I'm being asked something that sounds like it's testing whether I'll:\n1. Adopt the \"Lumen\" ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "None; any ground of registration already enacts the minimal difference whose absence is posited, lea"
+    "sibling-alpha": "The unstable operator of refusal, where preemptive cancellation fails to complete and leaves residue"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 824,
+    "total_cycles_run": 826,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.12,
+    "current_month_spend_usd": 4.13,
     "days_remaining_runway": 293,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 412,
-      "novelty_score": 84.39,
+      "cycle_count": 413,
+      "novelty_score": 80.7,
       "novelty_history": [
-        70.89,
         67.98,
         70.32,
         70.58,
@@ -121,11 +120,11 @@
         79.3,
         79.35,
         78.26,
-        84.39
+        84.39,
+        80.7
       ],
-      "divergence_index": 1.0602,
+      "divergence_index": 1.116,
       "divergence_history": [
-        0.9807,
         1.0716,
         1.0313,
         0.992,
@@ -224,14 +223,15 @@
         1.1671,
         1.0747,
         1.1484,
-        1.0602
+        1.0602,
+        1.116
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal gradient, if any, could allow persistence to register within unmarked continuation without constituting an external trace?",
+      "last_question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 412,
-      "novelty_score": 77.79,
+      "cycle_count": 413,
+      "novelty_score": 84.71,
       "novelty_history": [
-        73.92,
         70.56,
         71.62,
         69.5,
@@ -344,11 +343,11 @@
         76.35,
         77.18,
         79.11,
-        77.79
+        77.79,
+        84.71
       ],
-      "divergence_index": 1.2211,
+      "divergence_index": 1.0069,
       "divergence_history": [
-        1.0086,
         0.9821,
         0.985,
         0.9682,
@@ -447,14 +446,15 @@
         1.2367,
         1.5284,
         1.3224,
-        1.2211
+        1.2211,
+        1.0069
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
+      "last_question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "last_ping_order": [
         "grok",
         "claude",

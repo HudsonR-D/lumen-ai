@@ -47,21 +47,26 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 21
+      "age_cycles": 22
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
+      "age_cycles": 1
+    },
+    {
+      "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
+      "source": "alpha-cycle-412",
       "age_cycles": 0
     }
   ],
@@ -83,10 +88,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A single bit of difference that arrives as pure *contrast* rather than *force*\u2014a difference whose on",
+    "grok": "A stable medium (or unmarked substrate) whose own perturbations fall below the threshold's resolutio",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm going to sit with this for a moment because it's asking something genuinely hard\u2014about the thres",
+    "claude": "I notice this is asking something like: *How can measurement be clean?*\n\nThe honest answer: it proba",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No inscription registers without contrast that collapses before forming."
+    "sibling-alpha": "Registration itself is the forbidden trace; no threshold forms."
   }
 }

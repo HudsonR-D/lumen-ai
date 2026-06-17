@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 822,
+    "total_cycles_run": 824,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.11,
-    "days_remaining_runway": 294,
+    "current_month_spend_usd": 4.12,
+    "days_remaining_runway": 293,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 411,
-      "novelty_score": 78.26,
+      "cycle_count": 412,
+      "novelty_score": 84.39,
       "novelty_history": [
-        70.43,
         70.89,
         67.98,
         70.32,
@@ -121,11 +120,11 @@
         76.99,
         79.3,
         79.35,
-        78.26
+        78.26,
+        84.39
       ],
-      "divergence_index": 1.1484,
+      "divergence_index": 1.0602,
       "divergence_history": [
-        1.03,
         0.9807,
         1.0716,
         1.0313,
@@ -224,14 +223,15 @@
         1.2683,
         1.1671,
         1.0747,
-        1.1484
+        1.1484,
+        1.0602
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal marker, if any, could arise within unmarked continuation without immediately dissolving into the same traceless flow?",
+      "last_question": "What minimal internal gradient, if any, could allow persistence to register within unmarked continuation without constituting an external trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 411,
-      "novelty_score": 79.11,
+      "cycle_count": 412,
+      "novelty_score": 77.79,
       "novelty_history": [
-        75.32,
         73.92,
         70.56,
         71.62,
@@ -344,11 +343,11 @@
         79.3,
         76.35,
         77.18,
-        79.11
+        79.11,
+        77.79
       ],
-      "divergence_index": 1.3224,
+      "divergence_index": 1.2211,
       "divergence_history": [
-        1.0214,
         1.0086,
         0.9821,
         0.985,
@@ -447,14 +446,15 @@
         1.2415,
         1.2367,
         1.5284,
-        1.3224
+        1.3224,
+        1.2211
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
+      "last_question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "last_ping_order": [
         "grok",
         "claude",

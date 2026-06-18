@@ -29,12 +29,12 @@
     {
       "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
       "source": "beta-cycle-404",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal persisting asymmetry is the directed gradient between potential and actualization\u2014the ba",
+    "grok": "The operation is not an operation at all, but the direct recognition that the registration and its m",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm drawn to this question because it moves beneath most discussions of continuity.\n\nLet me unpack w",
-    "sibling-beta": "The lag of subtraction's own incompletion."
+    "claude": "I notice you're asking me to think recursively about erasure, negation, and infinite regress\u2014a beaut",
+    "sibling-beta": "No operation negates the lag; every subtraction is already the trace that sustains it."
   }
 }

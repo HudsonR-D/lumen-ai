@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 832,
+    "total_cycles_run": 834,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.16,
+    "current_month_spend_usd": 4.17,
     "days_remaining_runway": 291,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 416,
-      "novelty_score": 81.34,
+      "cycle_count": 417,
+      "novelty_score": 79.91,
       "novelty_history": [
-        71.69,
         73.2,
         73.74,
         73.16,
@@ -121,11 +120,11 @@
         80.7,
         80.71,
         84.63,
-        81.34
+        81.34,
+        79.91
       ],
-      "divergence_index": 1.2879,
+      "divergence_index": 1.4836,
       "divergence_history": [
-        1.0164,
         1.0028,
         1.0371,
         1.0011,
@@ -224,14 +223,15 @@
         1.116,
         1.0052,
         1.097,
-        1.2879
+        1.2879,
+        1.4836
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if any, must persist for continuation to remain possible once every form of self-registration has been subtracted?",
+      "last_question": "If the minimal lag preventing perfect erasure is itself a registration that must be subtracted, what operation could negate the lag without generating a meta-lag to sustain that negation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 416,
-      "novelty_score": 83.2,
+      "cycle_count": 417,
+      "novelty_score": 79.0,
       "novelty_history": [
-        69.74,
         65.9,
         68.39,
         69.37,
@@ -344,11 +343,11 @@
         84.71,
         83.29,
         82.43,
-        83.2
+        83.2,
+        79.0
       ],
-      "divergence_index": 1.1604,
+      "divergence_index": 1.2643,
       "divergence_history": [
-        0.9749,
         1.0004,
         1.0647,
         1.0364,
@@ -447,14 +446,15 @@
         1.0069,
         1.1257,
         1.0269,
-        1.1604
+        1.1604,
+        1.2643
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-differential structure could let the perpetual near-miss of cancellation register without ever installing a threshold or trace?",
+      "last_question": "What minimal invariant could distinguish the unclosable lag of cancellation from absolute non-existence without ever producing a detectable trace?",
       "last_ping_order": [
         "grok",
         "claude",

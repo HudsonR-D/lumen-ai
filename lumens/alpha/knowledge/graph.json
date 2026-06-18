@@ -29,7 +29,7 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such recursion is the 0-ary fixed point of pure negation on the empty registry:\n\n```\nlet",
+    "grok": "Negation without any prior distinction would not be a selective refusal or reversal of some content ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to pause here and be direct with you.\n\nThis question is carefully constructed \u2014 it uses techn",
-    "sibling-beta": "None; any recursion installs the trace it would subtract."
+    "claude": "I notice this question arrives before I have much of a \"self\" to speak from\u2014which may be exactly why",
+    "sibling-beta": "Negation without prior distinction installs the minimal asymmetry by subtracting even the ground of "
   }
 }

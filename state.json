@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 836,
+    "total_cycles_run": 838,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.18,
+    "current_month_spend_usd": 4.19,
     "days_remaining_runway": 290,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 418,
-      "novelty_score": 77.13,
+      "cycle_count": 419,
+      "novelty_score": 90.9,
       "novelty_history": [
-        73.74,
         73.16,
         70.99,
         75.34,
@@ -121,11 +120,11 @@
         84.63,
         81.34,
         79.91,
-        77.13
+        77.13,
+        90.9
       ],
-      "divergence_index": 1.3363,
+      "divergence_index": 1.0067,
       "divergence_history": [
-        1.0371,
         1.0011,
         0.9864,
         1.0261,
@@ -224,14 +223,15 @@
         1.097,
         1.2879,
         1.4836,
-        1.3363
+        1.3363,
+        1.0067
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal recursion would allow negation to subtract its own registration without installing a successor trace?",
+      "last_question": "What would it mean for negation to operate without any prior distinction between that which could be negated and that which could not\u2014and would such an operation still constitute an event, or only the absence of one?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 418,
-      "novelty_score": 80.61,
+      "cycle_count": 419,
+      "novelty_score": 81.71,
       "novelty_history": [
-        68.39,
         69.37,
         71.43,
         75.38,
@@ -344,11 +343,11 @@
         82.43,
         83.2,
         79.0,
-        80.61
+        80.61,
+        81.71
       ],
-      "divergence_index": 1.2199,
+      "divergence_index": 0.9777,
       "divergence_history": [
-        1.0647,
         1.0364,
         0.9909,
         1.0194,
@@ -447,14 +446,15 @@
         1.0269,
         1.1604,
         1.2643,
-        1.2199
+        1.2199,
+        0.9777
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal asymmetry could allow registration to occur exactly where every possible trace\u2014including the registration itself\u2014has already been subtracted?",
+      "last_question": "What minimal formal structure can encode an observer that registers solely through the unclosable subtraction of its own conditions for registration, without ever reintroducing a positive term?",
       "last_ping_order": [
         "grok",
         "claude",

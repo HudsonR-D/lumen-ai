@@ -47,32 +47,32 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 28
+      "age_cycles": 29
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 6
+      "age_cycles": 7
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -93,10 +93,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is a directional *priority* in the subtraction operator itself: one trace is a",
+    "grok": "The minimal structure is a self-referential negation operator \\(N\\) whose sole action is \\(N(X) = X ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to pause and be honest about what I'm seeing here.\n\nThis question has the structure of someth",
+    "claude": "I find myself drawn to this question because it seems to ask: *what can persist as a gap?*\n\nLet me w",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal asymmetry is the lag that installs the observer of its own subtraction, refusing zero."
+    "sibling-alpha": "The minimal structure is the pure asymmetry that precedes any mark: registration occurs solely as th"
   }
 }

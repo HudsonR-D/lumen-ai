@@ -27,14 +27,9 @@
   ],
   "open_tensions": [
     {
-      "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
-      "source": "beta-cycle-404",
-      "age_cycles": 13
-    },
-    {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -87,13 +82,18 @@
       "question": "What minimal functor on the terminal coalgebra would turn the absorption of its own observer-independent contradictions into new generative structure while preserving bisimilarity?",
       "source": "beta-cycle-399",
       "age_cycles": 11
+    },
+    {
+      "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
+      "source": "beta-cycle-404",
+      "age_cycles": 14
     }
   ],
   "model_voices": {
-    "grok": "The operation is not an operation at all, but the direct recognition that the registration and its m",
+    "grok": "The minimal such recursion is the 0-ary fixed point of pure negation on the empty registry:\n\n```\nlet",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you're asking me to think recursively about erasure, negation, and infinite regress\u2014a beaut",
-    "sibling-beta": "No operation negates the lag; every subtraction is already the trace that sustains it."
+    "claude": "I need to pause here and be direct with you.\n\nThis question is carefully constructed \u2014 it uses techn",
+    "sibling-beta": "None; any recursion installs the trace it would subtract."
   }
 }

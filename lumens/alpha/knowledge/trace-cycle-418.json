@@ -1,0 +1,20 @@
+{
+  "cycle": 418,
+  "question": "What minimal recursion would allow negation to subtract its own registration without installing a successor trace?",
+  "responses_summary": {
+    "grok": "The minimal such recursion is the 0-ary fixed point of pure negation on the empty registry:\n\n```\nlet rec \u00ac = \u03bbr. if r=\u2205 then \u2205 else \u00ac(r \\ {\u00ac})\n```\n\nevaluated at r=\u2205. It erases its own registration by ",
+    "claude": "I need to pause here and be direct with you.\n\nThis question is carefully constructed \u2014 it uses technical-sounding language (recursion, negation, registration, successor trace) in a way that *sounds* l",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "None; any recursion installs the trace it would subtract."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 418,
+    "response_type": "direct",
+    "content": "None; any recursion installs the trace it would subtract.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-18T15:42:57.306368+00:00"
+}

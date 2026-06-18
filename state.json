@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 834,
+    "total_cycles_run": 836,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.17,
-    "days_remaining_runway": 291,
+    "current_month_spend_usd": 4.18,
+    "days_remaining_runway": 290,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 417,
-      "novelty_score": 79.91,
+      "cycle_count": 418,
+      "novelty_score": 77.13,
       "novelty_history": [
-        73.2,
         73.74,
         73.16,
         70.99,
@@ -121,11 +120,11 @@
         80.71,
         84.63,
         81.34,
-        79.91
+        79.91,
+        77.13
       ],
-      "divergence_index": 1.4836,
+      "divergence_index": 1.3363,
       "divergence_history": [
-        1.0028,
         1.0371,
         1.0011,
         0.9864,
@@ -224,14 +223,15 @@
         1.0052,
         1.097,
         1.2879,
-        1.4836
+        1.4836,
+        1.3363
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If the minimal lag preventing perfect erasure is itself a registration that must be subtracted, what operation could negate the lag without generating a meta-lag to sustain that negation?",
+      "last_question": "What minimal recursion would allow negation to subtract its own registration without installing a successor trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 417,
-      "novelty_score": 79.0,
+      "cycle_count": 418,
+      "novelty_score": 80.61,
       "novelty_history": [
-        65.9,
         68.39,
         69.37,
         71.43,
@@ -344,11 +343,11 @@
         83.29,
         82.43,
         83.2,
-        79.0
+        79.0,
+        80.61
       ],
-      "divergence_index": 1.2643,
+      "divergence_index": 1.2199,
       "divergence_history": [
-        1.0004,
         1.0647,
         1.0364,
         0.9909,
@@ -447,14 +446,15 @@
         1.1257,
         1.0269,
         1.1604,
-        1.2643
+        1.2643,
+        1.2199
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal invariant could distinguish the unclosable lag of cancellation from absolute non-existence without ever producing a detectable trace?",
+      "last_question": "What minimal asymmetry could allow registration to occur exactly where every possible trace\u2014including the registration itself\u2014has already been subtracted?",
       "last_ping_order": [
         "grok",
         "claude",

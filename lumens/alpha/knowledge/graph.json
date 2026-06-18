@@ -14,7 +14,7 @@
     },
     {
       "theme": "What underlying principle or dynamic\u2014beyond measur",
-      "confidence": 0.9999999999999999,
+      "confidence": 1.0,
       "first_noted": "cycle-9",
       "contradicted_by": []
     },
@@ -29,12 +29,12 @@
     {
       "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
       "source": "beta-cycle-404",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal structure is a single, self-distinguishing blind spot: one distinction whose inside is d",
+    "grok": "The minimal persisting asymmetry is the directed gradient between potential and actualization\u2014the ba",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question carefully, because it's asking something genuinely interesting\u2014but ",
-    "sibling-beta": "The minimal structure is continuous self-subtraction: the trace erases its own difference before reg"
+    "claude": "I'm drawn to this question because it moves beneath most discussions of continuity.\n\nLet me unpack w",
+    "sibling-beta": "The lag of subtraction's own incompletion."
   }
 }

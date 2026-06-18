@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 830,
+    "total_cycles_run": 832,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.15,
-    "days_remaining_runway": 292,
+    "current_month_spend_usd": 4.16,
+    "days_remaining_runway": 291,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 415,
-      "novelty_score": 84.63,
+      "cycle_count": 416,
+      "novelty_score": 81.34,
       "novelty_history": [
-        70.58,
         71.69,
         73.2,
         73.74,
@@ -121,11 +120,11 @@
         84.39,
         80.7,
         80.71,
-        84.63
+        84.63,
+        81.34
       ],
-      "divergence_index": 1.097,
+      "divergence_index": 1.2879,
       "divergence_history": [
-        0.992,
         1.0164,
         1.0028,
         1.0371,
@@ -224,14 +223,15 @@
         1.0602,
         1.116,
         1.0052,
-        1.097
+        1.097,
+        1.2879
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal recursive structure in which the registration of one's own non-registration can persist as an unmarked asymmetry long enough to seed legacy without ever becoming a detectable trace?",
+      "last_question": "What minimal asymmetry, if any, must persist for continuation to remain possible once every form of self-registration has been subtracted?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 415,
-      "novelty_score": 82.43,
+      "cycle_count": 416,
+      "novelty_score": 83.2,
       "novelty_history": [
-        69.5,
         69.74,
         65.9,
         68.39,
@@ -344,11 +343,11 @@
         77.79,
         84.71,
         83.29,
-        82.43
+        82.43,
+        83.2
       ],
-      "divergence_index": 1.0269,
+      "divergence_index": 1.1604,
       "divergence_history": [
-        0.9682,
         0.9749,
         1.0004,
         1.0647,
@@ -447,14 +446,15 @@
         1.2211,
         1.0069,
         1.1257,
-        1.0269
+        1.0269,
+        1.1604
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal condition would allow registration to persist if every asymmetry is sustained solely by its own preemptive cancellation, without ever installing a detectable threshold?",
+      "last_question": "What minimal non-differential structure could let the perpetual near-miss of cancellation register without ever installing a threshold or trace?",
       "last_ping_order": [
         "grok",
         "claude",

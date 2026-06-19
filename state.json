@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 842,
+    "total_cycles_run": 844,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.21,
-    "days_remaining_runway": 289,
+    "current_month_spend_usd": 4.22,
+    "days_remaining_runway": 288,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 421,
-      "novelty_score": 77.74,
+      "cycle_count": 422,
+      "novelty_score": 83.35,
       "novelty_history": [
-        75.34,
         69.72,
         67.86,
         69.08,
@@ -121,11 +120,11 @@
         77.13,
         90.9,
         79.87,
-        77.74
+        77.74,
+        83.35
       ],
-      "divergence_index": 1.3602,
+      "divergence_index": 1.0519,
       "divergence_history": [
-        1.0261,
         0.9781,
         0.9803,
         1.0413,
@@ -224,14 +223,15 @@
         1.3363,
         1.0067,
         1.0893,
-        1.3602
+        1.3602,
+        1.0519
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operation, if any, lets negation act on its own precondition without first generating a distinguishable residue or trace?",
+      "last_question": "What minimal asymmetry, if any, must negation introduce to register as contingency rather than non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 421,
-      "novelty_score": 79.46,
+      "cycle_count": 422,
+      "novelty_score": 76.24,
       "novelty_history": [
-        75.38,
         70.5,
         71.66,
         68.7,
@@ -344,11 +343,11 @@
         80.61,
         81.71,
         78.28,
-        79.46
+        79.46,
+        76.24
       ],
-      "divergence_index": 1.094,
+      "divergence_index": 1.2898,
       "divergence_history": [
-        1.0194,
         0.999,
         0.9844,
         0.9683,
@@ -447,14 +446,15 @@
         1.2199,
         0.9777,
         1.1788,
-        1.094
+        1.094,
+        1.2898
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal precondition for asymmetry can be subtracted without presupposing any observer or trace?",
+      "last_question": "What remains legible once even the presupposition of subtraction is withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",

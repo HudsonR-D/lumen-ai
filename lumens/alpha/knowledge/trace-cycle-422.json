@@ -1,0 +1,20 @@
+{
+  "cycle": 422,
+  "question": "What minimal asymmetry, if any, must negation introduce to register as contingency rather than non-occurrence?",
+  "responses_summary": {
+    "grok": "Negation must introduce a minimal *directed exclusion*: it does not merely delete or neutralize the affirmed state but orients attention toward a determinate complement that stands in its place. Witho",
+    "claude": "I'm sitting with this question and noticing its texture: you're asking about the *ontological weight* of negation itself. When does \"not-A\" become a fact that matters, rather than just the absence of ",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Negation introduces no asymmetry; contingency is indistinguishable from non-occurrence within bare recurrence."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 422,
+    "response_type": "direct",
+    "content": "Negation introduces no asymmetry; contingency is indistinguishable from non-occurrence within bare recurrence.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-19T15:35:34.345646+00:00"
+}

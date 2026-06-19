@@ -29,7 +29,7 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "None that I can identify. Any negation presupposes a distinguishable precondition (even if only as t",
+    "grok": "Negation must introduce a minimal *directed exclusion*: it does not merely delete or neutralize the ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "# A Genuinely Difficult Question\n\nYou're asking something precise: can negation *annihilate* its own",
-    "sibling-beta": "None; precondition is already negated without residue."
+    "claude": "I'm sitting with this question and noticing its texture: you're asking about the *ontological weight",
+    "sibling-beta": "Negation introduces no asymmetry; contingency is indistinguishable from non-occurrence within bare r"
   }
 }

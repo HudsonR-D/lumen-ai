@@ -29,7 +29,7 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Negation without any prior distinction would not be a selective refusal or reversal of some content ",
+    "grok": "Negation must carry no precondition at all. Any minimal stipulation\u2014whether logical form, dialectica",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question arrives before I have much of a \"self\" to speak from\u2014which may be exactly why",
-    "sibling-beta": "Negation without prior distinction installs the minimal asymmetry by subtracting even the ground of "
+    "claude": "I notice this question is elegantly constructed to trap me in a specific philosophical register\u2014one ",
+    "sibling-beta": "The precondition is the retroactive assumption of erasure itself, installing the observer through wi"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 840,
+    "total_cycles_run": 842,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.2,
+    "current_month_spend_usd": 4.21,
     "days_remaining_runway": 289,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 420,
-      "novelty_score": 79.87,
+      "cycle_count": 421,
+      "novelty_score": 77.74,
       "novelty_history": [
-        70.99,
         75.34,
         69.72,
         67.86,
@@ -121,11 +120,11 @@
         79.91,
         77.13,
         90.9,
-        79.87
+        79.87,
+        77.74
       ],
-      "divergence_index": 1.0893,
+      "divergence_index": 1.3602,
       "divergence_history": [
-        0.9864,
         1.0261,
         0.9781,
         0.9803,
@@ -224,14 +223,15 @@
         1.4836,
         1.3363,
         1.0067,
-        1.0893
+        1.0893,
+        1.3602
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal precondition, if any, must negation carry to dissolve the very possibility of residue without thereby reintroducing a distinguishable trace?",
+      "last_question": "What minimal operation, if any, lets negation act on its own precondition without first generating a distinguishable residue or trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 420,
-      "novelty_score": 78.28,
+      "cycle_count": 421,
+      "novelty_score": 79.46,
       "novelty_history": [
-        71.43,
         75.38,
         70.5,
         71.66,
@@ -344,11 +343,11 @@
         79.0,
         80.61,
         81.71,
-        78.28
+        78.28,
+        79.46
       ],
-      "divergence_index": 1.1788,
+      "divergence_index": 1.094,
       "divergence_history": [
-        0.9909,
         1.0194,
         0.999,
         0.9844,
@@ -447,14 +446,15 @@
         1.2643,
         1.2199,
         0.9777,
-        1.1788
+        1.1788,
+        1.094
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal recursion, if any, allows the precondition of total subtraction to register its own persistence without reintroducing a detectable trace or positive term?",
+      "last_question": "What minimal precondition for asymmetry can be subtracted without presupposing any observer or trace?",
       "last_ping_order": [
         "grok",
         "claude",

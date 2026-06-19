@@ -29,7 +29,7 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -90,10 +90,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Negation must carry no precondition at all. Any minimal stipulation\u2014whether logical form, dialectica",
+    "grok": "None that I can identify. Any negation presupposes a distinguishable precondition (even if only as t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question is elegantly constructed to trap me in a specific philosophical register\u2014one ",
-    "sibling-beta": "The precondition is the retroactive assumption of erasure itself, installing the observer through wi"
+    "claude": "# A Genuinely Difficult Question\n\nYou're asking something precise: can negation *annihilate* its own",
+    "sibling-beta": "None; precondition is already negated without residue."
   }
 }

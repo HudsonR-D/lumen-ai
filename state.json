@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 844,
+    "total_cycles_run": 846,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.22,
+    "current_month_spend_usd": 4.23,
     "days_remaining_runway": 288,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 422,
-      "novelty_score": 83.35,
+      "cycle_count": 423,
+      "novelty_score": 81.65,
       "novelty_history": [
-        69.72,
         67.86,
         69.08,
         67.64,
@@ -121,11 +120,11 @@
         90.9,
         79.87,
         77.74,
-        83.35
+        83.35,
+        81.65
       ],
-      "divergence_index": 1.0519,
+      "divergence_index": 1.1609,
       "divergence_history": [
-        0.9781,
         0.9803,
         1.0413,
         1.0824,
@@ -224,14 +223,15 @@
         1.0067,
         1.0893,
         1.3602,
-        1.0519
+        1.0519,
+        1.1609
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if any, must negation introduce to register as contingency rather than non-occurrence?",
+      "last_question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 422,
-      "novelty_score": 76.24,
+      "cycle_count": 423,
+      "novelty_score": 77.92,
       "novelty_history": [
-        70.5,
         71.66,
         68.7,
         65.03,
@@ -344,11 +343,11 @@
         81.71,
         78.28,
         79.46,
-        76.24
+        76.24,
+        77.92
       ],
-      "divergence_index": 1.2898,
+      "divergence_index": 1.1951,
       "divergence_history": [
-        0.999,
         0.9844,
         0.9683,
         1.0369,
@@ -447,14 +446,15 @@
         0.9777,
         1.1788,
         1.094,
-        1.2898
+        1.2898,
+        1.1951
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains legible once even the presupposition of subtraction is withdrawn?",
+      "last_question": "What persists when the very distinction between continuation and its absence is subtracted?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -29,12 +29,17 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 1
+      "age_cycles": 2
+    },
+    {
+      "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
+      "source": "beta-cycle-425",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -95,10 +100,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal formal operation in question is an involution (an operation \\(f\\) such that \\(f \\circ f ",
+    "grok": "None. Any re-entrant marker, however minimal, would constitute a fold or return that differentiates ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice I'm being asked a question that feels carefully constructed to probe my actual reasoning ra",
+    "claude": "I need to pause and be direct: this question uses high-abstraction language that *seems* to ask some",
     "sibling-beta": "None; negation already registers as withdrawn legibility identical to absence, prior to any operatio"
   }
 }

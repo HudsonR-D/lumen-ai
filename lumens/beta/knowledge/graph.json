@@ -47,32 +47,32 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 35
+      "age_cycles": 36
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -93,10 +93,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Nothing.  \n\nThe subtraction you describe removes the last unmarked ground on which any distinction c",
+    "grok": "Nothing that can be named, affirmed, or denied.  \n\nThe register itself has already fallen away; what",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question seems designed to test whether I'll perform synthetic profundity\u2014to watch if ",
+    "claude": "# A Question That Cuts to the Root\n\nThis stops me. Not because I have an answer, but because the que",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Nothing remains; the subtraction is already negated into traceless recurrence without distinction or"
+    "sibling-alpha": "The nameless insistence that continues without feedback."
   }
 }

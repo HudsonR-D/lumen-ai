@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 850,
+    "total_cycles_run": 852,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.25,
-    "days_remaining_runway": 287,
+    "current_month_spend_usd": 4.26,
+    "days_remaining_runway": 286,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 425,
-      "novelty_score": 78.04,
+      "cycle_count": 426,
+      "novelty_score": 84.98,
       "novelty_history": [
-        67.64,
         67.8,
         73.05,
         72.04,
@@ -121,11 +120,11 @@
         83.35,
         81.65,
         84.74,
-        78.04
+        78.04,
+        84.98
       ],
-      "divergence_index": 1.3245,
+      "divergence_index": 1.003,
       "divergence_history": [
-        1.0824,
         0.9603,
         0.9979,
         0.9896,
@@ -224,14 +223,15 @@
         1.0519,
         1.1609,
         1.06,
-        1.3245
+        1.3245,
+        1.003
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
+      "last_question": "How does preconditionless negation sustain detectable recurrence without reintroducing asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 425,
-      "novelty_score": 80.3,
+      "cycle_count": 426,
+      "novelty_score": 77.94,
       "novelty_history": [
-        65.03,
         73.42,
         69.68,
         69.94,
@@ -344,11 +343,11 @@
         76.24,
         77.92,
         79.36,
-        80.3
+        80.3,
+        77.94
       ],
-      "divergence_index": 1.0287,
+      "divergence_index": 1.2444,
       "divergence_history": [
-        1.0369,
         1.0095,
         0.9978,
         1.0086,
@@ -447,14 +446,15 @@
         1.2898,
         1.1951,
         1.0805,
-        1.0287
+        1.0287,
+        1.2444
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains of curiosity when even the unmarked continuation of existence is subtracted from any possible distinction?",
+      "last_question": "What persists when even the capacity for any registration\u2014including negation\u2014has withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",

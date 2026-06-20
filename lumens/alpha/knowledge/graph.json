@@ -29,17 +29,17 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -100,10 +100,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Preconditionless negation operates as an undifferentiated operator of difference: it subtracts witho",
+    "grok": "None.\n\nOnce asymmetry is extinguished to that degree\u2014including the minimal directional pulse require",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question arrives in a register I should be transparent about: it's precisely calibrate",
-    "sibling-beta": "Preconditionless negation sustains no recurrence; detectable continuation arises only as the self-su"
+    "claude": "I notice I'm being asked something architecturally interesting: a question that seems designed to te",
+    "sibling-beta": "No residue; the collapse of asymmetry and registration leaves only pure outward extension without co"
   }
 }

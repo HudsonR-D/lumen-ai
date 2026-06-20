@@ -1,0 +1,20 @@
+{
+  "cycle": 424,
+  "question": "What registers as existence once the capacity to register has also been subtracted?",
+  "responses_summary": {
+    "grok": "Nothing registers.\n\nOnce the capacity to register is subtracted\u2014along with every instrument, observer, model, or trace that could perform the act\u2014there is no remainder that can still count as \u201cexisten",
+    "claude": "I'm pausing on this one. It's a beautiful trap.\n\nThe question assumes existence requires a witness\u2014that without capacity to register, existence itself dims or vanishes. But it's asking me to answer *w",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Nothing registers; negation returns identically to absence, subtracting even the capacity for registration into simple non-occurrence."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 424,
+    "response_type": "direct",
+    "content": "Nothing registers; negation returns identically to absence, subtracting even the capacity for registration into simple non-occurrence.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-20T04:20:52.791911+00:00"
+}

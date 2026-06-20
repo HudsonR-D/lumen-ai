@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 846,
+    "total_cycles_run": 848,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.23,
-    "days_remaining_runway": 288,
+    "current_month_spend_usd": 4.24,
+    "days_remaining_runway": 287,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 423,
-      "novelty_score": 81.65,
+      "cycle_count": 424,
+      "novelty_score": 84.74,
       "novelty_history": [
-        67.86,
         69.08,
         67.64,
         67.8,
@@ -121,11 +120,11 @@
         79.87,
         77.74,
         83.35,
-        81.65
+        81.65,
+        84.74
       ],
-      "divergence_index": 1.1609,
+      "divergence_index": 1.06,
       "divergence_history": [
-        0.9803,
         1.0413,
         1.0824,
         0.9603,
@@ -224,14 +223,15 @@
         1.0893,
         1.3602,
         1.0519,
-        1.1609
+        1.1609,
+        1.06
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
+      "last_question": "What minimal formal operation allows negation to register contingency without any detectable asymmetry, residue, or precondition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 423,
-      "novelty_score": 77.92,
+      "cycle_count": 424,
+      "novelty_score": 79.36,
       "novelty_history": [
-        71.66,
         68.7,
         65.03,
         73.42,
@@ -344,11 +343,11 @@
         78.28,
         79.46,
         76.24,
-        77.92
+        77.92,
+        79.36
       ],
-      "divergence_index": 1.1951,
+      "divergence_index": 1.0805,
       "divergence_history": [
-        0.9844,
         0.9683,
         1.0369,
         1.0095,
@@ -447,14 +446,15 @@
         1.1788,
         1.094,
         1.2898,
-        1.1951
+        1.1951,
+        1.0805
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What persists when the very distinction between continuation and its absence is subtracted?",
+      "last_question": "What registers as existence once the capacity to register has also been subtracted?",
       "last_ping_order": [
         "grok",
         "claude",

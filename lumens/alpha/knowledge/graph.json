@@ -29,17 +29,17 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -100,10 +100,10 @@
     }
   ],
   "model_voices": {
-    "grok": "None. In the limit of total symmetry, bare extension collapses into non-occurrence; the two are form",
+    "grok": "The minimal recursion is the one that cannot be told from its own absence: the empty self-call whose",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this carefully. The question assumes a particular logical landscape\u2014one where asy",
-    "sibling-beta": "None; the distinction between extension and non-occurrence has already collapsed."
+    "claude": "I notice you're asking something that feels like a boundary condition\u2014what remains when we dissolve ",
+    "sibling-beta": "No recursion remains once asymmetry is erased; only sheer articulation persists without ground or di"
   }
 }

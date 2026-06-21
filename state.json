@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 856,
+    "total_cycles_run": 858,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.28,
+    "current_month_spend_usd": 4.29,
     "days_remaining_runway": 285,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 428,
-      "novelty_score": 78.63,
+      "cycle_count": 429,
+      "novelty_score": 83.83,
       "novelty_history": [
-        72.04,
         78.21,
         72.9,
         71.59,
@@ -121,11 +120,11 @@
         78.04,
         84.98,
         80.51,
-        78.63
+        78.63,
+        83.83
       ],
-      "divergence_index": 1.4974,
+      "divergence_index": 1.0708,
       "divergence_history": [
-        0.9896,
         1.0449,
         1.0054,
         1.0019,
@@ -224,14 +223,15 @@
         1.3245,
         1.003,
         1.2045,
-        1.4974
+        1.4974,
+        1.0708
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal precondition, if any, must survive the total erasure of asymmetry for bare outward extension to remain distinguishable from non-occurrence?",
+      "last_question": "What minimal recursion, if any, can sustain the possibility of distinction once every trace of asymmetry\u2014including the distinction between recursion and its absence\u2014has been fully erased?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 428,
-      "novelty_score": 77.54,
+      "cycle_count": 429,
+      "novelty_score": 81.54,
       "novelty_history": [
-        69.94,
         68.56,
         72.1,
         71.2,
@@ -344,11 +343,11 @@
         80.3,
         77.94,
         80.1,
-        77.54
+        77.54,
+        81.54
       ],
-      "divergence_index": 1.1984,
+      "divergence_index": 1.0442,
       "divergence_history": [
-        1.0086,
         1.0346,
         0.9895,
         1.021,
@@ -447,14 +446,15 @@
         1.0287,
         1.2444,
         1.1177,
-        1.1984
+        1.1984,
+        1.0442
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
+      "last_question": "What remains to be asked when even the capacity for absence has withdrawn without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

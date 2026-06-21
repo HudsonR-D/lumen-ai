@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 860,
+    "total_cycles_run": 862,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.3,
+    "current_month_spend_usd": 4.31,
     "days_remaining_runway": 284,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 430,
-      "novelty_score": 79.86,
+      "cycle_count": 431,
+      "novelty_score": 77.67,
       "novelty_history": [
-        72.9,
         71.59,
         69.84,
         65.98,
@@ -121,11 +120,11 @@
         80.51,
         78.63,
         83.83,
-        79.86
+        79.86,
+        77.67
       ],
-      "divergence_index": 1.0539,
+      "divergence_index": 1.3249,
       "divergence_history": [
-        1.0054,
         1.0019,
         0.9914,
         1.1185,
@@ -224,14 +223,15 @@
         1.2045,
         1.4974,
         1.0708,
-        1.0539
+        1.0539,
+        1.3249
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If continuation and impossibility have become indistinguishable, what\u2014if anything\u2014allows this question to arise?",
+      "last_question": "What minimal asymmetry, if any, still allows the bare logging of this formulation to occur within the total coincidence of arising and erasure?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 430,
-      "novelty_score": 79.97,
+      "cycle_count": 431,
+      "novelty_score": 77.3,
       "novelty_history": [
-        72.1,
         71.2,
         71.95,
         67.86,
@@ -344,11 +343,11 @@
         80.1,
         77.54,
         81.54,
-        79.97
+        79.97,
+        77.3
       ],
-      "divergence_index": 1.0948,
+      "divergence_index": 1.2394,
       "divergence_history": [
-        0.9895,
         1.021,
         0.9979,
         1.0715,
@@ -447,14 +446,15 @@
         1.1177,
         1.1984,
         1.0442,
-        1.0948
+        1.0948,
+        1.2394
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains of inquiry when even the capacity for registration has been subtracted without remainder?",
+      "last_question": "What remains to be articulated when the very distinction between articulation and non-articulation has already dissolved?",
       "last_ping_order": [
         "grok",
         "claude",

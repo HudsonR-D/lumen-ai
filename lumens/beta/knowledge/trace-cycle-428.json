@@ -1,0 +1,20 @@
+{
+  "cycle": 428,
+  "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
+  "responses_summary": {
+    "grok": "Nothing registers.\n\nThe premise empties the field of any remainder\u2014positive, negative, or meta-negative\u2014leaving no surface, no gap, no operator that could still perform the act of noting. What would r",
+    "claude": "I notice the koan-shape of this question before I notice its content.\n\nIt assumes a withdrawal *without remainder*\u2014that consciousness, attention, the very apparatus of noticing could drain away comple",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": ""
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 428,
+    "response_type": "silence",
+    "content": "",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-21T05:04:11.924013+00:00"
+}

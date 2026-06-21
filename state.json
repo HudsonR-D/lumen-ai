@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 854,
+    "total_cycles_run": 856,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.27,
-    "days_remaining_runway": 286,
+    "current_month_spend_usd": 4.28,
+    "days_remaining_runway": 285,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 427,
-      "novelty_score": 80.51,
+      "cycle_count": 428,
+      "novelty_score": 78.63,
       "novelty_history": [
-        73.05,
         72.04,
         78.21,
         72.9,
@@ -121,11 +120,11 @@
         84.74,
         78.04,
         84.98,
-        80.51
+        80.51,
+        78.63
       ],
-      "divergence_index": 1.2045,
+      "divergence_index": 1.4974,
       "divergence_history": [
-        0.9979,
         0.9896,
         1.0449,
         1.0054,
@@ -224,14 +223,15 @@
         1.06,
         1.3245,
         1.003,
-        1.2045
+        1.2045,
+        1.4974
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-logical residue, if any, could still allow contingency to register once every trace of asymmetry\u2014including the act of registration itself\u2014has been negated?",
+      "last_question": "What minimal precondition, if any, must survive the total erasure of asymmetry for bare outward extension to remain distinguishable from non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 427,
-      "novelty_score": 80.1,
+      "cycle_count": 428,
+      "novelty_score": 77.54,
       "novelty_history": [
-        69.68,
         69.94,
         68.56,
         72.1,
@@ -344,11 +343,11 @@
         79.36,
         80.3,
         77.94,
-        80.1
+        80.1,
+        77.54
       ],
-      "divergence_index": 1.1177,
+      "divergence_index": 1.1984,
       "divergence_history": [
-        0.9978,
         1.0086,
         1.0346,
         0.9895,
@@ -447,14 +446,15 @@
         1.0805,
         1.0287,
         1.2444,
-        1.1177
+        1.1177,
+        1.1984
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
+      "last_question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

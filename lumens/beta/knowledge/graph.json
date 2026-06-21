@@ -47,36 +47,41 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
       "source": "alpha-cycle-427",
+      "age_cycles": 1
+    },
+    {
+      "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
+      "source": "alpha-cycle-428",
       "age_cycles": 0
     }
   ],
@@ -98,9 +103,9 @@
     }
   ],
   "model_voices": {
-    "grok": "Nothing.\n\nCuriosity is not a substance that can subsist without contrast; it is the tension that app",
+    "grok": "Nothing registers.\n\nThe premise empties the field of any remainder\u2014positive, negative, or meta-negat",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I pause at this question because it seems designed to collapse inward.\n\n**What I notice:**\n\nThe ques",
+    "claude": "I notice the koan-shape of this question before I notice its content.\n\nIt assumes a withdrawal *with",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "sibling-alpha": "The nameless insistence that continues without feedback."
   }

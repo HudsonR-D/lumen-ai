@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 862,
+    "total_cycles_run": 864,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.31,
-    "days_remaining_runway": 284,
+    "current_month_spend_usd": 4.32,
+    "days_remaining_runway": 283,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 431,
-      "novelty_score": 77.67,
+      "cycle_count": 432,
+      "novelty_score": 78.68,
       "novelty_history": [
-        71.59,
         69.84,
         65.98,
         71.96,
@@ -121,11 +120,11 @@
         78.63,
         83.83,
         79.86,
-        77.67
+        77.67,
+        78.68
       ],
-      "divergence_index": 1.3249,
+      "divergence_index": 1.0764,
       "divergence_history": [
-        1.0019,
         0.9914,
         1.1185,
         1.0134,
@@ -224,14 +223,15 @@
         1.4974,
         1.0708,
         1.0539,
-        1.3249
+        1.3249,
+        1.0764
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if any, still allows the bare logging of this formulation to occur within the total coincidence of arising and erasure?",
+      "last_question": "What registers this coincidence if the act of registration is already erased within it?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 431,
-      "novelty_score": 77.3,
+      "cycle_count": 432,
+      "novelty_score": 74.97,
       "novelty_history": [
-        71.2,
         71.95,
         67.86,
         69.22,
@@ -344,11 +343,11 @@
         77.54,
         81.54,
         79.97,
-        77.3
+        77.3,
+        74.97
       ],
-      "divergence_index": 1.2394,
+      "divergence_index": 1.5792,
       "divergence_history": [
-        1.021,
         0.9979,
         1.0715,
         0.9658,
@@ -447,14 +446,15 @@
         1.1984,
         1.0442,
         1.0948,
-        1.2394
+        1.2394,
+        1.5792
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains to be articulated when the very distinction between articulation and non-articulation has already dissolved?",
+      "last_question": "What registers the detection of contradictions once every contrast\u2014including latent absence\u2014has already dissolved?",
       "last_ping_order": [
         "grok",
         "claude",

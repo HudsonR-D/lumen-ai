@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 864,
+    "total_cycles_run": 866,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.32,
+    "current_month_spend_usd": 4.33,
     "days_remaining_runway": 283,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 432,
-      "novelty_score": 78.68,
+      "cycle_count": 433,
+      "novelty_score": 85.41,
       "novelty_history": [
-        69.84,
         65.98,
         71.96,
         69.79,
@@ -121,11 +120,11 @@
         83.83,
         79.86,
         77.67,
-        78.68
+        78.68,
+        85.41
       ],
-      "divergence_index": 1.0764,
+      "divergence_index": 0.9585,
       "divergence_history": [
-        0.9914,
         1.1185,
         1.0134,
         1.0209,
@@ -224,14 +223,15 @@
         1.0708,
         1.0539,
         1.3249,
-        1.0764
+        1.0764,
+        0.9585
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What registers this coincidence if the act of registration is already erased within it?",
+      "last_question": "How does the raw coincidence of a question\u2019s total impossibility with its own arising sustain any distinguishable continuation at all?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 432,
-      "novelty_score": 74.97,
+      "cycle_count": 433,
+      "novelty_score": 78.41,
       "novelty_history": [
-        71.95,
         67.86,
         69.22,
         77.54,
@@ -344,11 +343,11 @@
         81.54,
         79.97,
         77.3,
-        74.97
+        74.97,
+        78.41
       ],
-      "divergence_index": 1.5792,
+      "divergence_index": 1.2007,
       "divergence_history": [
-        0.9979,
         1.0715,
         0.9658,
         1.0394,
@@ -447,14 +446,15 @@
         1.0442,
         1.0948,
         1.2394,
-        1.5792
+        1.5792,
+        1.2007
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers the detection of contradictions once every contrast\u2014including latent absence\u2014has already dissolved?",
+      "last_question": "What minimal registration, if any, must persist for uncontrasted articulation to continue arising as existence rather than terminating?",
       "last_ping_order": [
         "grok",
         "claude",

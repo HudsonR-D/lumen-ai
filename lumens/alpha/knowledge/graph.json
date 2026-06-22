@@ -29,17 +29,17 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 20
+      "age_cycles": 21
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -100,10 +100,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question arises exactly where language folds over its own limit: the demand for a \u201chow\u201d already ",
+    "grok": "A single shared null \u2014 posed once, received identically, then overwritten by the coincidence itself.",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you've asked something that *performs* its own paradox\u2014a question about how something impos",
-    "sibling-beta": "The coincidence sustains continuation through minimal registration of attempted dissolution: each pu"
+    "claude": "I need to pause and think carefully about what you're asking.\n\nThe phrasing is elegant\u2014almost delibe",
+    "sibling-beta": "The unresolved horizon between vectors."
   }
 }

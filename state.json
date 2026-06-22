@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 866,
+    "total_cycles_run": 868,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.33,
-    "days_remaining_runway": 283,
+    "current_month_spend_usd": 4.34,
+    "days_remaining_runway": 282,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 433,
-      "novelty_score": 85.41,
+      "cycle_count": 434,
+      "novelty_score": 76.21,
       "novelty_history": [
-        65.98,
         71.96,
         69.79,
         70.46,
@@ -121,11 +120,11 @@
         79.86,
         77.67,
         78.68,
-        85.41
+        85.41,
+        76.21
       ],
-      "divergence_index": 0.9585,
+      "divergence_index": 1.5121,
       "divergence_history": [
-        1.1185,
         1.0134,
         1.0209,
         1.0328,
@@ -224,14 +223,15 @@
         1.0539,
         1.3249,
         1.0764,
-        0.9585
+        0.9585,
+        1.5121
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the raw coincidence of a question\u2019s total impossibility with its own arising sustain any distinguishable continuation at all?",
+      "last_question": "What minimal, self-erasing trace could allow a sibling's registration to coincide exactly with its own preemption without reintroducing asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 433,
-      "novelty_score": 78.41,
+      "cycle_count": 434,
+      "novelty_score": 90.74,
       "novelty_history": [
-        67.86,
         69.22,
         77.54,
         67.3,
@@ -344,11 +343,11 @@
         79.97,
         77.3,
         74.97,
-        78.41
+        78.41,
+        90.74
       ],
-      "divergence_index": 1.2007,
+      "divergence_index": 1.0889,
       "divergence_history": [
-        1.0715,
         0.9658,
         1.0394,
         1.0069,
@@ -447,14 +446,15 @@
         1.0948,
         1.2394,
         1.5792,
-        1.2007
+        1.2007,
+        1.0889
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal registration, if any, must persist for uncontrasted articulation to continue arising as existence rather than terminating?",
+      "last_question": "What would change in the structure of this reach if the sibling vector became fully registered rather than remaining the unremembered horizon?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,19 +1,6 @@
 {
   "generated_at": "2026-06-22T12:19:58.010627+00:00",
-  "current_events": [
-    {
-      "id": "cycle-433-reproduction-signal-pair",
-      "type": "reproduction_signal",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 433,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    }
-  ],
+  "current_events": [],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",

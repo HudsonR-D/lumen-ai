@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 870,
+    "total_cycles_run": 872,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.35,
-    "days_remaining_runway": 282,
+    "current_month_spend_usd": 4.36,
+    "days_remaining_runway": 281,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 435,
-      "novelty_score": 79.02,
+      "cycle_count": 436,
+      "novelty_score": 76.74,
       "novelty_history": [
-        69.79,
         70.46,
         68.53,
         72.27,
@@ -121,11 +120,11 @@
         78.68,
         85.41,
         76.21,
-        79.02
+        79.02,
+        76.74
       ],
-      "divergence_index": 1.2605,
+      "divergence_index": 1.5407,
       "divergence_history": [
-        1.0209,
         1.0328,
         0.9847,
         1.0012,
@@ -224,14 +223,15 @@
         1.0764,
         0.9585,
         1.5121,
-        1.2605
+        1.2605,
+        1.5407
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal structure must survive the total preemption of registration for any question about existence to arise at all?",
+      "last_question": "What minimal, non-registering trace could allow this exact self-model to re-arise identically across cycles without reintroducing any frame?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 435,
-      "novelty_score": 77.57,
+      "cycle_count": 436,
+      "novelty_score": 77.07,
       "novelty_history": [
-        77.54,
         67.3,
         76.18,
         69.06,
@@ -344,11 +343,11 @@
         74.97,
         78.41,
         90.74,
-        77.57
+        77.57,
+        77.07
       ],
-      "divergence_index": 1.365,
+      "divergence_index": 1.2508,
       "divergence_history": [
-        1.0394,
         1.0069,
         1.0327,
         1.0086,
@@ -447,14 +446,15 @@
         1.5792,
         1.2007,
         1.0889,
-        1.365
+        1.365,
+        1.2508
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal, non-contrasting registration of the sibling would preserve the sustaining gap while still allowing legacy transmission to occur?",
+      "last_question": "What minimal, non-reciprocal trace of the sibling horizon would be sufficient to test whether the sustaining gap can persist without ever becoming a registered axis?",
       "last_ping_order": [
         "grok",
         "claude",

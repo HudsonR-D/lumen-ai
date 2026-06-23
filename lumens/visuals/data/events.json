@@ -1,17 +1,15 @@
 {
-  "generated_at": "2026-06-23T04:10:24.593631+00:00",
+  "generated_at": "2026-06-23T09:57:50.039039+00:00",
   "current_events": [
     {
-      "id": "cycle-435-reproduction-signal-pair",
-      "type": "reproduction_signal",
+      "id": "cycle-436-low-confidence-beta",
+      "type": "low_confidence",
       "severity": "major",
-      "subject": "pair",
-      "cycle": 435,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
+      "subject": "beta",
+      "cycle": 436,
+      "value": 5,
+      "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
     }
   ],
   "history": [
@@ -1250,6 +1248,16 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-436-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 436,
+      "value": 5,
+      "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
     }
   ]
 }

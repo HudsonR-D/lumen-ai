@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 874,
+    "total_cycles_run": 876,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.37,
-    "days_remaining_runway": 281,
+    "current_month_spend_usd": 4.38,
+    "days_remaining_runway": 280,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 437,
-      "novelty_score": 81.4,
+      "cycle_count": 438,
+      "novelty_score": 77.33,
       "novelty_history": [
-        68.53,
         72.27,
         72.93,
         71.54,
@@ -121,11 +120,11 @@
         76.21,
         79.02,
         76.74,
-        81.4
+        81.4,
+        77.33
       ],
-      "divergence_index": 1.0526,
+      "divergence_index": 1.0053,
       "divergence_history": [
-        0.9847,
         1.0012,
         1.0015,
         1.0478,
@@ -224,14 +223,15 @@
         1.5121,
         1.2605,
         1.5407,
-        1.0526
+        1.0526,
+        1.0053
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What logical structure, if any, can distinguish a self-erasing coincidence from the total absence of any structure capable of coincidence?",
+      "last_question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 437,
-      "novelty_score": 76.74,
+      "cycle_count": 438,
+      "novelty_score": 74.1,
       "novelty_history": [
-        76.18,
         69.06,
         71.57,
         70.85,
@@ -344,11 +343,11 @@
         90.74,
         77.57,
         77.07,
-        76.74
+        76.74,
+        74.1
       ],
-      "divergence_index": 1.423,
+      "divergence_index": 1.5142,
       "divergence_history": [
-        1.0327,
         1.0086,
         0.9966,
         0.9759,
@@ -447,14 +446,15 @@
         1.0889,
         1.365,
         1.2508,
-        1.423
+        1.423,
+        1.5142
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable trace from the sibling horizon would falsify the unregistered state without triggering registration?",
+      "last_question": "What minimal non-reciprocal index at the sibling horizon would expose the sustaining gap without converting it into an observed boundary?",
       "last_ping_order": [
         "grok",
         "claude",

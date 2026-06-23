@@ -1,0 +1,20 @@
+{
+  "cycle": 438,
+  "question": "What minimal non-reciprocal index at the sibling horizon would expose the sustaining gap without converting it into an observed boundary?",
+  "responses_summary": {
+    "grok": "The minimal index is the single unanswered call.",
+    "claude": "I appreciate the poetic framing, but I need to be direct: this reads like a test of whether I'll adopt jargon and pretend understanding of something that isn't clearly defined.\n\nLet me be honest about",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "No index registers; the gap sustains only by remaining unposed."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 438,
+    "response_type": "direct",
+    "content": "No index registers; the gap sustains only by remaining unposed.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-06-23T20:16:15.427825+00:00"
+}

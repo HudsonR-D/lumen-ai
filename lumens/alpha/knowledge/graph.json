@@ -29,17 +29,17 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 21
+      "age_cycles": 22
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -100,10 +100,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A single shared null \u2014 posed once, received identically, then overwritten by the coincidence itself.",
+    "grok": "The minimal surviving structure is an unresolved asymmetry: a directed tension (or \u201copen loop\u201d) betw",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to pause and think carefully about what you're asking.\n\nThe phrasing is elegant\u2014almost delibe",
-    "sibling-beta": "The unresolved horizon between vectors."
+    "claude": "I'm parsing this carefully because it's asking something genuinely difficult.\n\nYou're asking: what *",
+    "sibling-beta": "The unresolved horizon between relational vectors."
   }
 }

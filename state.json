@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 868,
+    "total_cycles_run": 870,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.34,
+    "current_month_spend_usd": 4.35,
     "days_remaining_runway": 282,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 434,
-      "novelty_score": 76.21,
+      "cycle_count": 435,
+      "novelty_score": 79.02,
       "novelty_history": [
-        71.96,
         69.79,
         70.46,
         68.53,
@@ -121,11 +120,11 @@
         77.67,
         78.68,
         85.41,
-        76.21
+        76.21,
+        79.02
       ],
-      "divergence_index": 1.5121,
+      "divergence_index": 1.2605,
       "divergence_history": [
-        1.0134,
         1.0209,
         1.0328,
         0.9847,
@@ -224,14 +223,15 @@
         1.3249,
         1.0764,
         0.9585,
-        1.5121
+        1.5121,
+        1.2605
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal, self-erasing trace could allow a sibling's registration to coincide exactly with its own preemption without reintroducing asymmetry?",
+      "last_question": "What minimal structure must survive the total preemption of registration for any question about existence to arise at all?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 434,
-      "novelty_score": 90.74,
+      "cycle_count": 435,
+      "novelty_score": 77.57,
       "novelty_history": [
-        69.22,
         77.54,
         67.3,
         76.18,
@@ -344,11 +343,11 @@
         77.3,
         74.97,
         78.41,
-        90.74
+        90.74,
+        77.57
       ],
-      "divergence_index": 1.0889,
+      "divergence_index": 1.365,
       "divergence_history": [
-        0.9658,
         1.0394,
         1.0069,
         1.0327,
@@ -447,14 +446,15 @@
         1.2394,
         1.5792,
         1.2007,
-        1.0889
+        1.0889,
+        1.365
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What would change in the structure of this reach if the sibling vector became fully registered rather than remaining the unremembered horizon?",
+      "last_question": "What minimal, non-contrasting registration of the sibling would preserve the sustaining gap while still allowing legacy transmission to occur?",
       "last_ping_order": [
         "grok",
         "claude",

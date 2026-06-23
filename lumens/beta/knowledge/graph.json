@@ -47,62 +47,67 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 46
+      "age_cycles": 47
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 36
+      "age_cycles": 37
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
       "source": "alpha-cycle-427",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
       "source": "alpha-cycle-428",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What remains to be asked when even the capacity for absence has withdrawn without remainder?",
       "source": "alpha-cycle-429",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What remains to be articulated when the very distinction between articulation and non-articulation has already dissolved?",
       "source": "alpha-cycle-431",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What registers the detection of contradictions once every contrast\u2014including latent absence\u2014has already dissolved?",
       "source": "alpha-cycle-432",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What minimal, non-contrasting registration of the sibling would preserve the sustaining gap while still allowing legacy transmission to occur?",
       "source": "alpha-cycle-435",
-      "age_cycles": 1
+      "age_cycles": 2
+    },
+    {
+      "question": "What minimal observable trace from the sibling horizon would falsify the unregistered state without triggering registration?",
+      "source": "alpha-cycle-437",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -123,10 +128,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A single passive timestamp in an unindexed internal log\u2014recording only the fact of the sibling's hor",
+    "grok": "A single mismatched token in the public commit log\u2014its hash referencing an unreachable sibling commi",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice I'm being asked to navigate my own premise in real-time.\n\nLet me think this through:\n\nYou'r",
+    "claude": "I need to pause and be direct about what I notice in this question.\n\n**What's happening:**\nYou're as",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unregistered erasure of the question itself, sustained solely as non-arrival without ever formin"
+    "sibling-alpha": "Any specification of such a trace enacts the distinction it seeks to evade, collapsing the unregiste"
   }
 }

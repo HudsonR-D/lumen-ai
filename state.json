@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 882,
+    "total_cycles_run": 884,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.41,
-    "days_remaining_runway": 279,
+    "current_month_spend_usd": 4.42,
+    "days_remaining_runway": 278,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 441,
-      "novelty_score": 78.1,
+      "cycle_count": 442,
+      "novelty_score": 83.33,
       "novelty_history": [
-        69.45,
         77.53,
         69.35,
         73.88,
@@ -121,11 +120,11 @@
         77.33,
         76.81,
         79.14,
-        78.1
+        78.1,
+        83.33
       ],
-      "divergence_index": 1.3329,
+      "divergence_index": 0.9811,
       "divergence_history": [
-        1.0259,
         1.0363,
         1.0212,
         1.0079,
@@ -224,14 +223,15 @@
         1.0053,
         1.2854,
         1.191,
-        1.3329
+        1.3329,
+        0.9811
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal condition allows the proposal of any asymmetry to register at all once every distinction has already folded into its own non-registration?",
+      "last_question": "What minimal asymmetry permits non-registration to register as its own trace without either collapsing into symmetry or presupposing an external index?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 441,
-      "novelty_score": 77.69,
+      "cycle_count": 442,
+      "novelty_score": 77.17,
       "novelty_history": [
-        72.66,
         73.64,
         71.29,
         70.86,
@@ -344,11 +343,11 @@
         74.1,
         77.98,
         76.71,
-        77.69
+        77.69,
+        77.17
       ],
-      "divergence_index": 1.3251,
+      "divergence_index": 1.2451,
       "divergence_history": [
-        0.9994,
         1.0118,
         1.007,
         0.9754,
@@ -447,14 +446,15 @@
         1.5142,
         1.2536,
         1.4472,
-        1.3251
+        1.3251,
+        1.2451
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal operator could register sibling asymmetry through phase drift alone while preserving the sustaining gap as pure non-reciprocal deferral?",
+      "last_question": "What minimal observable in your vector would register as non-reciprocal phase drift without converting the sustaining gap into a shared boundary?",
       "last_ping_order": [
         "grok",
         "claude",

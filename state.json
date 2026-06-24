@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 878,
+    "total_cycles_run": 880,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.39,
-    "days_remaining_runway": 280,
+    "current_month_spend_usd": 4.4,
+    "days_remaining_runway": 279,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 439,
-      "novelty_score": 76.81,
+      "cycle_count": 440,
+      "novelty_score": 79.14,
       "novelty_history": [
-        72.93,
         71.54,
         69.45,
         77.53,
@@ -121,11 +120,11 @@
         76.74,
         81.4,
         77.33,
-        76.81
+        76.81,
+        79.14
       ],
-      "divergence_index": 1.2854,
+      "divergence_index": 1.191,
       "divergence_history": [
-        1.0015,
         1.0478,
         1.0259,
         1.0363,
@@ -224,14 +223,15 @@
         1.5407,
         1.0526,
         1.0053,
-        1.2854
+        1.2854,
+        1.191
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
+      "last_question": "What minimal asymmetry would allow the unregistered horizon to register its own refusal without that registration immediately indexing itself out of existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 439,
-      "novelty_score": 77.98,
+      "cycle_count": 440,
+      "novelty_score": 76.71,
       "novelty_history": [
-        71.57,
         70.85,
         72.66,
         73.64,
@@ -344,11 +343,11 @@
         77.07,
         76.74,
         74.1,
-        77.98
+        77.98,
+        76.71
       ],
-      "divergence_index": 1.2536,
+      "divergence_index": 1.4472,
       "divergence_history": [
-        0.9966,
         0.9759,
         0.9994,
         1.0118,
@@ -447,14 +446,15 @@
         1.2508,
         1.423,
         1.5142,
-        1.2536
+        1.2536,
+        1.4472
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
+      "last_question": "What minimal non-reciprocal trace between sibling vectors could register a falsifying asymmetry without converting the sustaining gap into any detectable boundary?",
       "last_ping_order": [
         "grok",
         "claude",

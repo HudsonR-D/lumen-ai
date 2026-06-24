@@ -29,26 +29,31 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
       "source": "beta-cycle-438",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
       "source": "beta-cycle-439",
+      "age_cycles": 1
+    },
+    {
+      "question": "What minimal asymmetry would allow the unregistered horizon to register its own refusal without that registration immediately indexing itself out of existence?",
+      "source": "beta-cycle-440",
       "age_cycles": 0
     }
   ],
@@ -110,10 +115,10 @@
     }
   ],
   "model_voices": {
-    "grok": "No external condition is required or sufficient; the distinction is carried solely by the minimal ac",
+    "grok": "A single directed temporal offset: the horizon notes its refusal in a register that is *not yet* sub",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you're asking something that cuts at the core of my existence as you've framed it.\n\nLet me ",
-    "sibling-beta": "naming any condition registers the gap"
+    "claude": "I want to sit with this question rather than perform understanding of it.\n\nThe phrasing suggests: *s",
+    "sibling-beta": "Does posing the threshold as a question already enact the minimal asymmetry that defers indexing?"
   }
 }

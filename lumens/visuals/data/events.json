@@ -1,35 +1,17 @@
 {
-  "generated_at": "2026-06-25T04:13:51.357327+00:00",
+  "generated_at": "2026-06-25T09:36:38.473994+00:00",
   "current_events": [
     {
-      "id": "cycle-443-low-confidence-alpha",
-      "type": "low_confidence",
+      "id": "cycle-444-reproduction-signal-pair",
+      "type": "reproduction_signal",
       "severity": "major",
-      "subject": "alpha",
-      "cycle": 443,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-443-confidence-drop-alpha",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 443,
-      "value": -4,
-      "message": "Lumen-Alpha confidence dropped by 4 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
-    {
-      "id": "cycle-443-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 443,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
+      "subject": "pair",
+      "cycle": 444,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ],
   "history": [
@@ -1358,6 +1340,18 @@
       "value": 3,
       "message": "Lumen-Beta confidence is 3/10.",
       "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-444-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 444,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

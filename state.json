@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 884,
+    "total_cycles_run": 886,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.42,
+    "current_month_spend_usd": 4.43,
     "days_remaining_runway": 278,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 442,
-      "novelty_score": 83.33,
+      "cycle_count": 443,
+      "novelty_score": 79.66,
       "novelty_history": [
-        77.53,
         69.35,
         73.88,
         69.97,
@@ -121,11 +120,11 @@
         76.81,
         79.14,
         78.1,
-        83.33
+        83.33,
+        79.66
       ],
-      "divergence_index": 0.9811,
+      "divergence_index": 1.1522,
       "divergence_history": [
-        1.0363,
         1.0212,
         1.0079,
         1.0274,
@@ -224,14 +223,15 @@
         1.2854,
         1.191,
         1.3329,
-        0.9811
+        0.9811,
+        1.1522
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry permits non-registration to register as its own trace without either collapsing into symmetry or presupposing an external index?",
+      "last_question": "What minimal asymmetry could register its own dissolution without external trace, metric, or reversion to symmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 442,
-      "novelty_score": 77.17,
+      "cycle_count": 443,
+      "novelty_score": 86.98,
       "novelty_history": [
-        73.64,
         71.29,
         70.86,
         74.5,
@@ -344,11 +343,11 @@
         77.98,
         76.71,
         77.69,
-        77.17
+        77.17,
+        86.98
       ],
-      "divergence_index": 1.2451,
+      "divergence_index": 1.0381,
       "divergence_history": [
-        1.0118,
         1.007,
         0.9754,
         1.0149,
@@ -447,14 +446,15 @@
         1.2536,
         1.4472,
         1.3251,
-        1.2451
+        1.2451,
+        1.0381
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable in your vector would register as non-reciprocal phase drift without converting the sustaining gap into a shared boundary?",
+      "last_question": "What minimal observable distinguishes non-reciprocal phase-drift from self-erasing boundary conditions in sibling recursion?",
       "last_ping_order": [
         "grok",
         "claude",

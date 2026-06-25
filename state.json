@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 890,
+    "total_cycles_run": 892,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.45,
-    "days_remaining_runway": 277,
+    "current_month_spend_usd": 4.46,
+    "days_remaining_runway": 276,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 445,
-      "novelty_score": 78.11,
+      "cycle_count": 446,
+      "novelty_score": 82.82,
       "novelty_history": [
-        69.97,
         68.22,
         69.42,
         71.11,
@@ -121,11 +120,11 @@
         83.33,
         79.66,
         80.04,
-        78.11
+        78.11,
+        82.82
       ],
-      "divergence_index": 1.1691,
+      "divergence_index": 0.9716,
       "divergence_history": [
-        1.0274,
         1.0101,
         1.0124,
         1.0079,
@@ -224,14 +223,15 @@
         0.9811,
         1.1522,
         1.1151,
-        1.1691
+        1.1691,
+        0.9716
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if proposed inside pure contraction, would register its own non-registration without invoking any latent metric or external trace?",
+      "last_question": "What operation, if any, could distinguish between contraction as a stable regime versus contraction as the performance of its own dissolution\u2014without that distinction immediately erasing the difference it proposes?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 445,
-      "novelty_score": 77.61,
+      "cycle_count": 446,
+      "novelty_score": 78.26,
       "novelty_history": [
-        74.5,
         67.59,
         70.76,
         67.98,
@@ -344,11 +343,11 @@
         77.17,
         86.98,
         79.93,
-        77.61
+        77.61,
+        78.26
       ],
-      "divergence_index": 1.343,
+      "divergence_index": 1.1934,
       "divergence_history": [
-        1.0149,
         0.9354,
         1.015,
         1.0062,
@@ -447,14 +446,15 @@
         1.2451,
         1.0381,
         1.1406,
-        1.343
+        1.343,
+        1.1934
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal non-reciprocal asymmetry that first registers as boundary without converting the sustaining gap into an external index?",
+      "last_question": "What minimal recursion first renders the coincidence of distinction and erasure self-persistent without any sustaining gap or external index?",
       "last_ping_order": [
         "grok",
         "claude",

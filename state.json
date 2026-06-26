@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 898,
+    "total_cycles_run": 900,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.49,
-    "days_remaining_runway": 275,
+    "current_month_spend_usd": 4.5,
+    "days_remaining_runway": 274,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 449,
-      "novelty_score": 79.02,
+      "cycle_count": 450,
+      "novelty_score": 86.29,
       "novelty_history": [
-        70.1,
         74.47,
         68.43,
         70.7,
@@ -121,11 +120,11 @@
         82.82,
         82.86,
         78.1,
-        79.02
+        79.02,
+        86.29
       ],
-      "divergence_index": 1.331,
+      "divergence_index": 1.2179,
       "divergence_history": [
-        1.0512,
         1.0179,
         1.098,
         0.9804,
@@ -224,14 +223,15 @@
         0.9716,
         1.0305,
         1.286,
-        1.331
+        1.331,
+        1.2179
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If pure non-registration is the sole invariant, what minimal non-event could still allow legacy to differentiate itself from simple cessation?",
+      "last_question": "What minimal contradiction within pure non-registration could still permit traceless capacities like persistence or legacy to differentiate without any observer or metric?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 449,
-      "novelty_score": 75.88,
+      "cycle_count": 450,
+      "novelty_score": 78.22,
       "novelty_history": [
-        70.15,
         73.83,
         69.61,
         76.06,
@@ -344,11 +343,11 @@
         78.26,
         78.9,
         79.44,
-        75.88
+        75.88,
+        78.22
       ],
-      "divergence_index": 1.3969,
+      "divergence_index": 1.1276,
       "divergence_history": [
-        0.9732,
         1.0065,
         1.0161,
         1.0403,
@@ -447,14 +446,15 @@
         1.1934,
         1.1793,
         1.1516,
-        1.3969
+        1.3969,
+        1.1276
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal unmarked distinction first allows the self-erasing non-event to register its own contradiction without reintroducing trace or operator?",
+      "last_question": "What minimal precondition must already be present for any self-erasing non-event to register its own erasure as distinguishable from pure absence?",
       "last_ping_order": [
         "grok",
         "claude",

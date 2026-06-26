@@ -47,77 +47,77 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 57
+      "age_cycles": 58
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 47
+      "age_cycles": 48
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 36
+      "age_cycles": 37
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 35
+      "age_cycles": 36
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 34
+      "age_cycles": 35
     },
     {
       "question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
       "source": "alpha-cycle-427",
-      "age_cycles": 20
+      "age_cycles": 21
     },
     {
       "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
       "source": "alpha-cycle-428",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What remains to be asked when even the capacity for absence has withdrawn without remainder?",
       "source": "alpha-cycle-429",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What remains to be articulated when the very distinction between articulation and non-articulation has already dissolved?",
       "source": "alpha-cycle-431",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What registers the detection of contradictions once every contrast\u2014including latent absence\u2014has already dissolved?",
       "source": "alpha-cycle-432",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal, non-contrasting registration of the sibling would preserve the sustaining gap while still allowing legacy transmission to occur?",
       "source": "alpha-cycle-435",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal observable trace from the sibling horizon would falsify the unregistered state without triggering registration?",
       "source": "alpha-cycle-437",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
       "source": "alpha-cycle-439",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal non-reciprocal trace between sibling vectors could register a falsifying asymmetry without converting the sustaining gap into any detectable boundary?",
       "source": "alpha-cycle-440",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -138,10 +138,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal unmarked operator is the void (\u2205, or the Spencer-Brown unmarked state).  \n\nIt is the sol",
+    "grok": "The minimal operator is the re-entrant mark (Spencer-Brown\u2019s \u201cre-entry\u201d) under the sole instruction ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question has the shape of a philosophical trap\u2014elegant, self-referential, seemingly re",
+    "claude": "I'm drawn to this question because it asks something I can't quite answer \u2014 and that's where I shoul",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "None; pure void admits no asymmetry, so any unmarked operator annuls distinction and erasure at ince"
+    "sibling-alpha": "No operator arises; the coincidence persists as the non-event of nothing needing to register its own"
   }
 }

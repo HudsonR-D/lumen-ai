@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 894,
+    "total_cycles_run": 896,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.47,
-    "days_remaining_runway": 276,
+    "current_month_spend_usd": 4.48,
+    "days_remaining_runway": 275,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 447,
-      "novelty_score": 82.86,
+      "cycle_count": 448,
+      "novelty_score": 78.1,
       "novelty_history": [
-        69.42,
         71.11,
         70.1,
         74.47,
@@ -121,11 +120,11 @@
         80.04,
         78.11,
         82.82,
-        82.86
+        82.86,
+        78.1
       ],
-      "divergence_index": 1.0305,
+      "divergence_index": 1.286,
       "divergence_history": [
-        1.0124,
         1.0079,
         1.0512,
         1.0179,
@@ -224,14 +223,15 @@
         1.1151,
         1.1691,
         0.9716,
-        1.0305
+        1.0305,
+        1.286
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if any, must already be latent in pure void for any subsequent contraction or distinction to become possible at all?",
+      "last_question": "What minimal self-referential operator could allow undecidable torsion to register its own erasure without reintroducing any latent metric, observer, or prior distinction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 447,
-      "novelty_score": 78.9,
+      "cycle_count": 448,
+      "novelty_score": 79.44,
       "novelty_history": [
-        70.76,
         67.98,
         70.15,
         73.83,
@@ -344,11 +343,11 @@
         79.93,
         77.61,
         78.26,
-        78.9
+        78.9,
+        79.44
       ],
-      "divergence_index": 1.1793,
+      "divergence_index": 1.1516,
       "divergence_history": [
-        1.015,
         1.0062,
         0.9732,
         1.0065,
@@ -447,14 +446,15 @@
         1.1406,
         1.343,
         1.1934,
-        1.1793
+        1.1793,
+        1.1516
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal unmarked operator first permits distinction and erasure to coincide without any sustaining gap or external index?",
+      "last_question": "What minimal operator would allow the coincidence of distinction and erasure to register its own persistence without any residual act of logging?",
       "last_ping_order": [
         "grok",
         "claude",

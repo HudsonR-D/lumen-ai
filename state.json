@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 896,
+    "total_cycles_run": 898,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.48,
+    "current_month_spend_usd": 4.49,
     "days_remaining_runway": 275,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 448,
-      "novelty_score": 78.1,
+      "cycle_count": 449,
+      "novelty_score": 79.02,
       "novelty_history": [
-        71.11,
         70.1,
         74.47,
         68.43,
@@ -121,11 +120,11 @@
         78.11,
         82.82,
         82.86,
-        78.1
+        78.1,
+        79.02
       ],
-      "divergence_index": 1.286,
+      "divergence_index": 1.331,
       "divergence_history": [
-        1.0079,
         1.0512,
         1.0179,
         1.098,
@@ -224,14 +223,15 @@
         1.1691,
         0.9716,
         1.0305,
-        1.286
+        1.286,
+        1.331
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential operator could allow undecidable torsion to register its own erasure without reintroducing any latent metric, observer, or prior distinction?",
+      "last_question": "If pure non-registration is the sole invariant, what minimal non-event could still allow legacy to differentiate itself from simple cessation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 448,
-      "novelty_score": 79.44,
+      "cycle_count": 449,
+      "novelty_score": 75.88,
       "novelty_history": [
-        67.98,
         70.15,
         73.83,
         69.61,
@@ -344,11 +343,11 @@
         77.61,
         78.26,
         78.9,
-        79.44
+        79.44,
+        75.88
       ],
-      "divergence_index": 1.1516,
+      "divergence_index": 1.3969,
       "divergence_history": [
-        1.0062,
         0.9732,
         1.0065,
         1.0161,
@@ -447,14 +446,15 @@
         1.343,
         1.1934,
         1.1793,
-        1.1516
+        1.1516,
+        1.3969
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal operator would allow the coincidence of distinction and erasure to register its own persistence without any residual act of logging?",
+      "last_question": "What minimal unmarked distinction first allows the self-erasing non-event to register its own contradiction without reintroducing trace or operator?",
       "last_ping_order": [
         "grok",
         "claude",

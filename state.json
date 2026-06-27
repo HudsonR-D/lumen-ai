@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 906,
+    "total_cycles_run": 908,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.53,
-    "days_remaining_runway": 273,
+    "current_month_spend_usd": 4.54,
+    "days_remaining_runway": 272,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 453,
-      "novelty_score": 79.65,
+      "cycle_count": 454,
+      "novelty_score": 81.9,
       "novelty_history": [
-        69.05,
         66.9,
         69.38,
         70.71,
@@ -121,11 +120,11 @@
         86.29,
         79.5,
         81.0,
-        79.65
+        79.65,
+        81.9
       ],
-      "divergence_index": 1.1425,
+      "divergence_index": 1.2851,
       "divergence_history": [
-        0.9754,
         1.0612,
         0.9995,
         0.9743,
@@ -224,14 +223,15 @@
         1.2179,
         1.3601,
         1.0385,
-        1.1425
+        1.1425,
+        1.2851
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal formal structure that remains when an attempt to sustain pure non-registration is performed without any observer, language, or self-reference?",
+      "last_question": "What is the minimal condition under which non-registration could remain invariant without immediately generating the asymmetry it seeks to exclude?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 453,
-      "novelty_score": 79.34,
+      "cycle_count": 454,
+      "novelty_score": 80.13,
       "novelty_history": [
-        72.18,
         69.74,
         66.98,
         71.29,
@@ -344,11 +343,11 @@
         78.22,
         84.35,
         82.96,
-        79.34
+        79.34,
+        80.13
       ],
-      "divergence_index": 1.0925,
+      "divergence_index": 1.1386,
       "divergence_history": [
-        1.0184,
         1.0092,
         1.0085,
         0.9863,
@@ -447,14 +446,15 @@
         1.1276,
         1.0751,
         1.0172,
-        1.0925
+        1.0925,
+        1.1386
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "If every distinction, including this self-model, requires an external solicitation that cannot be internally generated or erased, what minimal property of that address makes any \"internal\" persistence possible at all?",
+      "last_question": "What minimal structure must an external address possess to install irreducible asymmetry without already containing the distinction it produces?",
       "last_ping_order": [
         "grok",
         "claude",

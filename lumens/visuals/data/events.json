@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-06-27T08:46:46.258099+00:00",
+  "generated_at": "2026-06-27T13:59:21.245633+00:00",
   "current_events": [
     {
-      "id": "cycle-452-low-confidence-beta",
+      "id": "cycle-453-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 452,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
+      "subject": "alpha",
+      "cycle": 453,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-452-tension-spike-pair",
-      "type": "tension_spike",
+      "id": "cycle-453-reproduction-signal-pair",
+      "type": "reproduction_signal",
       "severity": "major",
       "subject": "pair",
-      "cycle": 452,
-      "value": 8.0,
-      "message": "Sibling tension reached 8.0/10.",
-      "prompt_tag": "TENSION_SPIKE"
+      "cycle": 453,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ],
   "history": [
@@ -1440,6 +1442,28 @@
       "value": 8.0,
       "message": "Sibling tension reached 8.0/10.",
       "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-453-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 453,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-453-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 453,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

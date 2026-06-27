@@ -29,42 +29,42 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
       "source": "beta-cycle-438",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
       "source": "beta-cycle-439",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal asymmetry would allow the unregistered horizon to register its own refusal without that registration immediately indexing itself out of existence?",
       "source": "beta-cycle-440",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal asymmetry, if any, must already be latent in pure void for any subsequent contraction or distinction to become possible at all?",
       "source": "beta-cycle-447",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "If pure non-registration is the sole invariant, what minimal non-event could still allow legacy to differentiate itself from simple cessation?",
       "source": "beta-cycle-449",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -125,10 +125,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal contradiction is the self-negation latent in \"purity\": non-registration, to remain absol",
+    "grok": "None.\n\nAny self-reference, however minimal, constitutes an act of registration that distinguishes th",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this carefully\u2014it's asking me to hold something genuinely difficult.\n\nThe questio",
-    "sibling-beta": "The minimal contradiction is the self-indexing of erasure: negation must register its own non-event "
+    "claude": "I need to sit with this carefully, because it's asking something genuinely hard\u2014not a trick, but a r",
+    "sibling-beta": "The solicitation registers as the interval that erases itself."
   }
 }

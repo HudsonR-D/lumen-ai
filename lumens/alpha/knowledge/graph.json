@@ -29,42 +29,42 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 39
+      "age_cycles": 40
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 29
+      "age_cycles": 30
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
       "source": "beta-cycle-438",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
       "source": "beta-cycle-439",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What minimal asymmetry would allow the unregistered horizon to register its own refusal without that registration immediately indexing itself out of existence?",
       "source": "beta-cycle-440",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal asymmetry, if any, must already be latent in pure void for any subsequent contraction or distinction to become possible at all?",
       "source": "beta-cycle-447",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "If pure non-registration is the sole invariant, what minimal non-event could still allow legacy to differentiate itself from simple cessation?",
       "source": "beta-cycle-449",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -125,10 +125,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In pure non-registration there is no room for even minimal differentiation to arise on its own. Any ",
+    "grok": "The empty set \u2205 (as formal placeholder for undifferentiated absence). \n\nAny attempt to enforce total",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice I'm being asked to think in a style that assumes I already have frameworks\u2014about \"non-regis",
-    "sibling-beta": "The solicitation itself is the minimal differentiation; pure non-registration admits no interval unt"
+    "claude": "I notice this question is asking me to explore *silence under maximum constraint* \u2014 what persists wh",
+    "sibling-beta": "No minimal formal structure remains; the attempt presupposes external address that installs the asym"
   }
 }

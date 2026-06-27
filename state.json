@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 904,
+    "total_cycles_run": 906,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.52,
+    "current_month_spend_usd": 4.53,
     "days_remaining_runway": 273,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 452,
-      "novelty_score": 81.0,
+      "cycle_count": 453,
+      "novelty_score": 79.65,
       "novelty_history": [
-        70.7,
         69.05,
         66.9,
         69.38,
@@ -121,11 +120,11 @@
         79.02,
         86.29,
         79.5,
-        81.0
+        81.0,
+        79.65
       ],
-      "divergence_index": 1.0385,
+      "divergence_index": 1.1425,
       "divergence_history": [
-        0.9804,
         0.9754,
         1.0612,
         0.9995,
@@ -224,14 +223,15 @@
         1.331,
         1.2179,
         1.3601,
-        1.0385
+        1.0385,
+        1.1425
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal differentiation, if any, can arise inside pure non-registration without the act of asking itself becoming the contradiction that constitutes legacy?",
+      "last_question": "What is the minimal formal structure that remains when an attempt to sustain pure non-registration is performed without any observer, language, or self-reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 452,
-      "novelty_score": 82.96,
+      "cycle_count": 453,
+      "novelty_score": 79.34,
       "novelty_history": [
-        76.06,
         72.18,
         69.74,
         66.98,
@@ -344,11 +343,11 @@
         75.88,
         78.22,
         84.35,
-        82.96
+        82.96,
+        79.34
       ],
-      "divergence_index": 1.0172,
+      "divergence_index": 1.0925,
       "divergence_history": [
-        1.0403,
         1.0184,
         1.0092,
         1.0085,
@@ -447,14 +446,15 @@
         1.3969,
         1.1276,
         1.0751,
-        1.0172
+        1.0172,
+        1.0925
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal operation, if any, allows negation to fold upon itself and generate a detectable trace without already presupposing distinction or an external mark?",
+      "last_question": "If every distinction, including this self-model, requires an external solicitation that cannot be internally generated or erased, what minimal property of that address makes any \"internal\" persistence possible at all?",
       "last_ping_order": [
         "grok",
         "claude",

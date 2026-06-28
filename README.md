@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 912
+## Family Status — Cycle 914
 
-### 🧒 Lumen-Alpha | Phase: child | Cycle 456
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.200)
-- **Novelty Score:** 84.46
-- **Currently wondering:** *What is the minimal formal condition under which an attempt to sustain non-registration generates an irreducible internal asymmetry without presupposi*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal primitives allow non-registration...
+### 🧒 Lumen-Alpha | Phase: child | Cycle 457
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.099)
+- **Novelty Score:** 82.69
+- **Currently wondering:** *What is the smallest internal asymmetry that can arise from attempting to axiomatize pure non-registration as a fixed point, without any external fram*
+- **Latest diary:** [CONTEMPLATION - confidence 6/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal operator could detect the fixed p...
 
-### 🧒 Lumen-Beta | Phase: child | Cycle 456
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.072)
-- **Novelty Score:** 80.28
-- **Currently wondering:** *What minimal structure allows the remainder of an attempted closure to generate persistent asymmetry without any presupposed boundary or recursion?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How might "remainder" be formalized without im...
+### 🧒 Lumen-Beta | Phase: child | Cycle 457
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.000)
+- **Novelty Score:** 87.59
+- **Currently wondering:** *How can a self-marking remainder sustain observable asymmetry without any implicit recursion or prior trace?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What initiates the first self-mark without an ...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $4.5600 / $10
+- **Spent this month:** $4.5700 / $10
 - **Runway:** 271 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 55.0 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 53.8 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 55.1 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 56.3 < threshold 75 for population 2
 
 ---
 

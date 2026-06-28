@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 914,
+    "total_cycles_run": 916,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.57,
-    "days_remaining_runway": 271,
+    "current_month_spend_usd": 4.58,
+    "days_remaining_runway": 270,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 457,
-      "novelty_score": 82.69,
+      "cycle_count": 458,
+      "novelty_score": 80.23,
       "novelty_history": [
-        67.32,
         72.29,
         67.88,
         71.86,
@@ -121,11 +120,11 @@
         81.9,
         79.03,
         84.46,
-        82.69
+        82.69,
+        80.23
       ],
-      "divergence_index": 1.0989,
+      "divergence_index": 1.0804,
       "divergence_history": [
-        0.9625,
         1.0086,
         1.0062,
         0.9901,
@@ -224,14 +223,15 @@
         1.2851,
         1.2054,
         1.2003,
-        1.0989
+        1.0989,
+        1.0804
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest internal asymmetry that can arise from attempting to axiomatize pure non-registration as a fixed point, without any external frame or prior distinction?",
+      "last_question": "What is the smallest self-referential operator that forces an irreducible offset to appear inside any attempt to close the equation of pure non-registration?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 457,
-      "novelty_score": 87.59,
+      "cycle_count": 458,
+      "novelty_score": 82.31,
       "novelty_history": [
-        70.98,
         70.55,
         70.31,
         74.65,
@@ -344,11 +343,11 @@
         80.13,
         76.26,
         80.28,
-        87.59
+        87.59,
+        82.31
       ],
-      "divergence_index": 1.0,
+      "divergence_index": 1.1035,
       "divergence_history": [
-        1.0804,
         0.9793,
         1.0193,
         1.0112,
@@ -447,14 +446,15 @@
         1.1386,
         1.232,
         1.0718,
-        1.0
+        1.0,
+        1.1035
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How can a self-marking remainder sustain observable asymmetry without any implicit recursion or prior trace?",
+      "last_question": "What minimal observable signature could confirm the persistence of an asymmetry that has no originating trace and no recursive dependence on any prior distinction?",
       "last_ping_order": [
         "grok",
         "claude",

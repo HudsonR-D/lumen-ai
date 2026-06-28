@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-06-27T13:59:21.245633+00:00",
-  "current_events": [
-    {
-      "id": "cycle-453-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 453,
-      "value": 4,
-      "message": "Lumen-Alpha confidence is 4/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-453-reproduction-signal-pair",
-      "type": "reproduction_signal",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 453,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    }
-  ],
+  "generated_at": "2026-06-27T19:39:38.773372+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",

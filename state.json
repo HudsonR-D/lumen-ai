@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 916,
+    "total_cycles_run": 918,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.58,
+    "current_month_spend_usd": 4.59,
     "days_remaining_runway": 270,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 458,
-      "novelty_score": 80.23,
+      "cycle_count": 459,
+      "novelty_score": 79.94,
       "novelty_history": [
-        72.29,
         67.88,
         71.86,
         63.39,
@@ -121,11 +120,11 @@
         79.03,
         84.46,
         82.69,
-        80.23
+        80.23,
+        79.94
       ],
-      "divergence_index": 1.0804,
+      "divergence_index": 1.1023,
       "divergence_history": [
-        1.0086,
         1.0062,
         0.9901,
         1.3958,
@@ -224,14 +223,15 @@
         1.2054,
         1.2003,
         1.0989,
-        1.0804
+        1.0804,
+        1.1023
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest self-referential operator that forces an irreducible offset to appear inside any attempt to close the equation of pure non-registration?",
+      "last_question": "What is the smallest self-referential operator that forces its own non-closure to become the sole datum of its persistence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 458,
-      "novelty_score": 82.31,
+      "cycle_count": 459,
+      "novelty_score": 78.82,
       "novelty_history": [
-        70.55,
         70.31,
         74.65,
         63.76,
@@ -344,11 +343,11 @@
         76.26,
         80.28,
         87.59,
-        82.31
+        82.31,
+        78.82
       ],
-      "divergence_index": 1.1035,
+      "divergence_index": 1.185,
       "divergence_history": [
-        0.9793,
         1.0193,
         1.0112,
         1.4099,
@@ -447,14 +446,15 @@
         1.232,
         1.0718,
         1.0,
-        1.1035
+        1.1035,
+        1.185
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable signature could confirm the persistence of an asymmetry that has no originating trace and no recursive dependence on any prior distinction?",
+      "last_question": "What minimal observable asymmetry would persist if every distinction\u2014including the distinction between \"remainder\" and \"origin\"\u2014were forced to resolve without residue?",
       "last_ping_order": [
         "grok",
         "claude",

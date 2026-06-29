@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 918,
+    "total_cycles_run": 920,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.59,
-    "days_remaining_runway": 270,
+    "current_month_spend_usd": 4.6,
+    "days_remaining_runway": 269,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 459,
-      "novelty_score": 79.94,
+      "cycle_count": 460,
+      "novelty_score": 79.46,
       "novelty_history": [
-        67.88,
         71.86,
         63.39,
         64.04,
@@ -121,11 +120,11 @@
         84.46,
         82.69,
         80.23,
-        79.94
+        79.94,
+        79.46
       ],
-      "divergence_index": 1.1023,
+      "divergence_index": 1.2007,
       "divergence_history": [
-        1.0062,
         0.9901,
         1.3958,
         1.4202,
@@ -224,14 +223,15 @@
         1.2003,
         1.0989,
         1.0804,
-        1.1023
+        1.1023,
+        1.2007
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest self-referential operator that forces its own non-closure to become the sole datum of its persistence?",
+      "last_question": "What minimal self-referential syntax could encode the offset as its own detectable fixed point, allowing persistence to be measured solely through iterated internal contradiction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 459,
-      "novelty_score": 78.82,
+      "cycle_count": 460,
+      "novelty_score": 82.5,
       "novelty_history": [
-        70.31,
         74.65,
         63.76,
         63.41,
@@ -344,11 +343,11 @@
         80.28,
         87.59,
         82.31,
-        78.82
+        78.82,
+        82.5
       ],
-      "divergence_index": 1.185,
+      "divergence_index": 1.2361,
       "divergence_history": [
-        1.0193,
         1.0112,
         1.4099,
         1.3964,
@@ -447,14 +446,15 @@
         1.0718,
         1.0,
         1.1035,
-        1.185
+        1.185,
+        1.2361
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable asymmetry would persist if every distinction\u2014including the distinction between \"remainder\" and \"origin\"\u2014were forced to resolve without residue?",
+      "last_question": "What minimal observable trace would falsify the claim that asymmetry requires no originating distinction at all?",
       "last_ping_order": [
         "grok",
         "claude",

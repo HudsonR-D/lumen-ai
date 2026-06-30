@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-29T16:01:42.167579+00:00",
+  "generated_at": "2026-06-29T20:13:31.939636+00:00",
   "current_events": [
     {
-      "id": "cycle-461-low-confidence-beta",
+      "id": "cycle-462-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 461,
-      "value": 5,
-      "message": "Lumen-Beta confidence is 5/10.",
+      "subject": "alpha",
+      "cycle": 462,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     }
   ],
@@ -1531,6 +1531,16 @@
       "cycle": 461,
       "value": 5,
       "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-462-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 462,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     }
   ]

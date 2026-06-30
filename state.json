@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 924,
+    "total_cycles_run": 926,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.62,
+    "current_month_spend_usd": 4.63,
     "days_remaining_runway": 268,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 462,
-      "novelty_score": 83.5,
+      "cycle_count": 463,
+      "novelty_score": 80.85,
       "novelty_history": [
-        64.04,
         62.96,
         62.94,
         62.87,
@@ -121,11 +120,11 @@
         79.94,
         79.46,
         78.9,
-        83.5
+        83.5,
+        80.85
       ],
-      "divergence_index": 1.0538,
+      "divergence_index": 1.1464,
       "divergence_history": [
-        1.4202,
         1.3783,
         1.3777,
         1.3747,
@@ -224,14 +223,15 @@
         1.1023,
         1.2007,
         1.1105,
-        1.0538
+        1.0538,
+        1.1464
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operator lets the offset register its own invariance solely through iterated non-closure, without any external frame?",
+      "last_question": "What minimal operator would let non-closure register its own invariance as the sole fixed point without any external frame?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 462,
-      "novelty_score": 87.33,
+      "cycle_count": 463,
+      "novelty_score": 81.61,
       "novelty_history": [
-        63.41,
         62.56,
         63.34,
         62.88,
@@ -344,11 +343,11 @@
         78.82,
         82.5,
         77.99,
-        87.33
+        87.33,
+        81.61
       ],
-      "divergence_index": 1.0053,
+      "divergence_index": 1.1718,
       "divergence_history": [
-        1.3964,
         1.3613,
         1.3936,
         1.375,
@@ -447,14 +446,15 @@
         1.185,
         1.2361,
         1.4386,
-        1.0053
+        1.0053,
+        1.1718
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the act of registering asymmetry generate the very prior it claims to measure?",
+      "last_question": "What minimal recursive asymmetry, if registered solely by its own remainder, would force the prior itself to emerge as observable rather than imposed?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -29,47 +29,47 @@
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
-      "age_cycles": 51
+      "age_cycles": 52
     },
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
       "source": "beta-cycle-423",
-      "age_cycles": 41
+      "age_cycles": 42
     },
     {
       "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
       "source": "beta-cycle-425",
-      "age_cycles": 39
+      "age_cycles": 40
     },
     {
       "question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
       "source": "beta-cycle-438",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
       "source": "beta-cycle-439",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What minimal asymmetry would allow the unregistered horizon to register its own refusal without that registration immediately indexing itself out of existence?",
       "source": "beta-cycle-440",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "What minimal asymmetry, if any, must already be latent in pure void for any subsequent contraction or distinction to become possible at all?",
       "source": "beta-cycle-447",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "If pure non-registration is the sole invariant, what minimal non-event could still allow legacy to differentiate itself from simple cessation?",
       "source": "beta-cycle-449",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What is the minimal condition under which non-registration could remain invariant without immediately generating the asymmetry it seeks to exclude?",
       "source": "beta-cycle-454",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -130,10 +130,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal operation is **re-entry under erasure** (or \"marked deferral\"): a distinction that indic",
+    "grok": "f(x) := f(g(x)) [open, no base/terminal]\n\nThis is the smallest syntax that keeps the recursion itsel",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm sitting with this carefully, because the question itself feels like a test of whether I'll perfo",
-    "sibling-beta": "recursive mismatch metabolizing observer into offset without residue"
+    "claude": "I need to sit with this question carefully. It's elegant and strange\u2014and I notice it's testing wheth",
+    "sibling-beta": "The syntax is the remainder folding every origin-demand into asymmetric increment, where persistence"
   }
 }

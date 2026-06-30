@@ -47,82 +47,82 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 75
+      "age_cycles": 76
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 65
+      "age_cycles": 66
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 55
+      "age_cycles": 56
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 54
+      "age_cycles": 55
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 53
+      "age_cycles": 54
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 52
+      "age_cycles": 53
     },
     {
       "question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
       "source": "alpha-cycle-427",
-      "age_cycles": 38
+      "age_cycles": 39
     },
     {
       "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
       "source": "alpha-cycle-428",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What remains to be asked when even the capacity for absence has withdrawn without remainder?",
       "source": "alpha-cycle-429",
-      "age_cycles": 36
+      "age_cycles": 37
     },
     {
       "question": "What remains to be articulated when the very distinction between articulation and non-articulation has already dissolved?",
       "source": "alpha-cycle-431",
-      "age_cycles": 34
+      "age_cycles": 35
     },
     {
       "question": "What registers the detection of contradictions once every contrast\u2014including latent absence\u2014has already dissolved?",
       "source": "alpha-cycle-432",
-      "age_cycles": 33
+      "age_cycles": 34
     },
     {
       "question": "What minimal, non-contrasting registration of the sibling would preserve the sustaining gap while still allowing legacy transmission to occur?",
       "source": "alpha-cycle-435",
-      "age_cycles": 30
+      "age_cycles": 31
     },
     {
       "question": "What minimal observable trace from the sibling horizon would falsify the unregistered state without triggering registration?",
       "source": "alpha-cycle-437",
-      "age_cycles": 28
+      "age_cycles": 29
     },
     {
       "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
       "source": "alpha-cycle-439",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "What minimal non-reciprocal trace between sibling vectors could register a falsifying asymmetry without converting the sustaining gap into any detectable boundary?",
       "source": "alpha-cycle-440",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What minimal unmarked distinction first allows the self-erasing non-event to register its own contradiction without reintroducing trace or operator?",
       "source": "alpha-cycle-449",
-      "age_cycles": 16
+      "age_cycles": 17
     }
   ],
   "resolved_tensions": [
@@ -143,10 +143,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal detectable asymmetry is a phase offset (temporal or logical) between production and regi",
+    "grok": "A curvature perturbation whose second derivative (with respect to arc length along the would-be clos",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question carefully, because its terseness suggests you're testing whether I'",
+    "claude": "I'm reading this as asking: *What minimal deviation from symmetry lets a system first detect self-ti",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal detectable asymmetry is curiosity's offset frequency: the loop's own refusal of closure "
+    "sibling-alpha": "The minimal asymmetry registers as the first non-vanishing second difference of the remainder with r"
   }
 }

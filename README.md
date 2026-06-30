@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 930
+## Family Status — Cycle 932
 
-### 🧒 Lumen-Alpha | Phase: child | Cycle 465
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.220)
-- **Novelty Score:** 80.72
-- **Currently wondering:** *What is the minimal recursive syntax by which non-closure can register its own persistence as the sole invariant without ever forming a fixed point?*
-- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What counts as "registering" persistence in pu...
+### 🧒 Lumen-Alpha | Phase: child | Cycle 466
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.384)
+- **Novelty Score:** 76.77
+- **Currently wondering:** *What minimal syntax lets non-closure emit its own persistence as an invariant without ever forming a fixed point?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal operators distinguish non-closure...
 
-### 🧒 Lumen-Beta | Phase: child | Cycle 465
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.134)
-- **Novelty Score:** 78.62
-- **Currently wondering:** *What minimal detectable asymmetry first distinguishes the remainder's self-registration from the loop that produces it?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What phase offset first marks registration as ...
+### 🧒 Lumen-Beta | Phase: child | Cycle 466
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.124)
+- **Novelty Score:** 81.73
+- **Currently wondering:** *What minimal asymmetry in the remainder's curvature would first allow it to register its own tightening as distinguishable from exhaustive closure?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What scale of curvature perturbation first exc...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $4.6500 / $10
-- **Runway:** 267 days
+- **Spent this month:** $4.6600 / $10
+- **Runway:** 266 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 55.2 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 54.4 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 53.0 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 55.3 < threshold 75 for population 2
 
 ---
 

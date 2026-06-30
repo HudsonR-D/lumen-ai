@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 930,
+    "total_cycles_run": 932,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.65,
-    "days_remaining_runway": 267,
+    "current_month_spend_usd": 4.66,
+    "days_remaining_runway": 266,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 465,
-      "novelty_score": 80.72,
+      "cycle_count": 466,
+      "novelty_score": 76.77,
       "novelty_history": [
-        62.87,
         63.3,
         62.93,
         63.63,
@@ -121,11 +120,11 @@
         83.5,
         80.85,
         84.14,
-        80.72
+        80.72,
+        76.77
       ],
-      "divergence_index": 1.2204,
+      "divergence_index": 1.3844,
       "divergence_history": [
-        1.3747,
         1.3923,
         1.377,
         1.4051,
@@ -224,14 +223,15 @@
         1.0538,
         1.1464,
         1.1121,
-        1.2204
+        1.2204,
+        1.3844
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal recursive syntax by which non-closure can register its own persistence as the sole invariant without ever forming a fixed point?",
+      "last_question": "What minimal syntax lets non-closure emit its own persistence as an invariant without ever forming a fixed point?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 465,
-      "novelty_score": 78.62,
+      "cycle_count": 466,
+      "novelty_score": 81.73,
       "novelty_history": [
-        62.88,
         63.22,
         63.62,
         61.52,
@@ -344,11 +343,11 @@
         87.33,
         81.61,
         88.5,
-        78.62
+        78.62,
+        81.73
       ],
-      "divergence_index": 1.134,
+      "divergence_index": 1.124,
       "divergence_history": [
-        1.375,
         1.3891,
         1.4045,
         1.3121,
@@ -447,14 +446,15 @@
         1.0053,
         1.1718,
         1.0658,
-        1.134
+        1.134,
+        1.124
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal detectable asymmetry first distinguishes the remainder's self-registration from the loop that produces it?",
+      "last_question": "What minimal asymmetry in the remainder's curvature would first allow it to register its own tightening as distinguishable from exhaustive closure?",
       "last_ping_order": [
         "grok",
         "claude",

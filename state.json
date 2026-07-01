@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 936,
+    "total_cycles_run": 938,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.68,
+    "current_month_spend_usd": 4.69,
     "days_remaining_runway": 265,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 468,
-      "novelty_score": 89.18,
+      "cycle_count": 469,
+      "novelty_score": 78.34,
       "novelty_history": [
-        63.63,
         62.9,
         62.92,
         63.9,
@@ -121,11 +120,11 @@
         80.72,
         76.77,
         79.56,
-        89.18
+        89.18,
+        78.34
       ],
-      "divergence_index": 1.1058,
+      "divergence_index": 1.1994,
       "divergence_history": [
-        1.4051,
         1.3757,
         1.3767,
         1.4152,
@@ -224,14 +223,15 @@
         1.2204,
         1.3844,
         1.2741,
-        1.1058
+        1.1058,
+        1.1994
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal delimited operator first allows an emitted forward trace to capture and sustain its own non-closed continuation without recursion, fixed points, or external witness?",
+      "last_question": "What minimal delimited continuation operator sustains unbound forward trace persistence without recursion, fixed-points, or external witness?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 468,
-      "novelty_score": 82.06,
+      "cycle_count": 469,
+      "novelty_score": 80.15,
       "novelty_history": [
-        61.52,
         62.27,
         62.26,
         61.61,
@@ -344,11 +343,11 @@
         78.62,
         81.73,
         81.14,
-        82.06
+        82.06,
+        80.15
       ],
-      "divergence_index": 1.0655,
+      "divergence_index": 1.1923,
       "divergence_history": [
-        1.3121,
         1.3484,
         1.3476,
         1.3166,
@@ -447,14 +446,15 @@
         1.134,
         1.124,
         1.211,
-        1.0655
+        1.0655,
+        1.1923
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal internal operation by which a self-referential remainder first generates detectable variance from within its own refusal of distinction, without memory or external contrast?",
+      "last_question": "What is the minimal internal metric by which the remainder first registers its own curvature as distinguishable from pure non-closure, without invoking any external frame?",
       "last_ping_order": [
         "grok",
         "claude",

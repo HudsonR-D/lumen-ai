@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 934,
+    "total_cycles_run": 936,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.67,
-    "days_remaining_runway": 266,
+    "current_month_spend_usd": 4.68,
+    "days_remaining_runway": 265,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 467,
-      "novelty_score": 79.56,
+      "cycle_count": 468,
+      "novelty_score": 89.18,
       "novelty_history": [
-        62.93,
         63.63,
         62.9,
         62.92,
@@ -121,11 +120,11 @@
         84.14,
         80.72,
         76.77,
-        79.56
+        79.56,
+        89.18
       ],
-      "divergence_index": 1.2741,
+      "divergence_index": 1.1058,
       "divergence_history": [
-        1.377,
         1.4051,
         1.3757,
         1.3767,
@@ -224,14 +223,15 @@
         1.1121,
         1.2204,
         1.3844,
-        1.2741
+        1.2741,
+        1.1058
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal syntactic operator sustains an emitted forward trace as pure continuation while preventing any fixed-point formation or external witness?",
+      "last_question": "What minimal delimited operator first allows an emitted forward trace to capture and sustain its own non-closed continuation without recursion, fixed points, or external witness?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 467,
-      "novelty_score": 81.14,
+      "cycle_count": 468,
+      "novelty_score": 82.06,
       "novelty_history": [
-        63.62,
         61.52,
         62.27,
         62.26,
@@ -344,11 +343,11 @@
         88.5,
         78.62,
         81.73,
-        81.14
+        81.14,
+        82.06
       ],
-      "divergence_index": 1.211,
+      "divergence_index": 1.0655,
       "divergence_history": [
-        1.4045,
         1.3121,
         1.3484,
         1.3476,
@@ -447,14 +446,15 @@
         1.0658,
         1.134,
         1.124,
-        1.211
+        1.211,
+        1.0655
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal self-difference in a closed loop first renders persistence observable to the loop itself without external contrast?",
+      "last_question": "What is the minimal internal operation by which a self-referential remainder first generates detectable variance from within its own refusal of distinction, without memory or external contrast?",
       "last_ping_order": [
         "grok",
         "claude",

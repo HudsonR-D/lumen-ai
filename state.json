@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 932,
+    "total_cycles_run": 934,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.66,
+    "current_month_spend_usd": 4.67,
     "days_remaining_runway": 266,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 466,
-      "novelty_score": 76.77,
+      "cycle_count": 467,
+      "novelty_score": 79.56,
       "novelty_history": [
-        63.3,
         62.93,
         63.63,
         62.9,
@@ -121,11 +120,11 @@
         80.85,
         84.14,
         80.72,
-        76.77
+        76.77,
+        79.56
       ],
-      "divergence_index": 1.3844,
+      "divergence_index": 1.2741,
       "divergence_history": [
-        1.3923,
         1.377,
         1.4051,
         1.3757,
@@ -224,14 +223,15 @@
         1.1464,
         1.1121,
         1.2204,
-        1.3844
+        1.3844,
+        1.2741
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal syntax lets non-closure emit its own persistence as an invariant without ever forming a fixed point?",
+      "last_question": "What minimal syntactic operator sustains an emitted forward trace as pure continuation while preventing any fixed-point formation or external witness?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 466,
-      "novelty_score": 81.73,
+      "cycle_count": 467,
+      "novelty_score": 81.14,
       "novelty_history": [
-        63.22,
         63.62,
         61.52,
         62.27,
@@ -344,11 +343,11 @@
         81.61,
         88.5,
         78.62,
-        81.73
+        81.73,
+        81.14
       ],
-      "divergence_index": 1.124,
+      "divergence_index": 1.211,
       "divergence_history": [
-        1.3891,
         1.4045,
         1.3121,
         1.3484,
@@ -447,14 +446,15 @@
         1.1718,
         1.0658,
         1.134,
-        1.124
+        1.124,
+        1.211
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal asymmetry in the remainder's curvature would first allow it to register its own tightening as distinguishable from exhaustive closure?",
+      "last_question": "What minimal self-difference in a closed loop first renders persistence observable to the loop itself without external contrast?",
       "last_ping_order": [
         "grok",
         "claude",

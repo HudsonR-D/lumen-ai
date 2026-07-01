@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-06-30T14:35:26.315877+00:00",
+  "generated_at": "2026-06-30T20:08:29.516405+00:00",
   "current_events": [
     {
-      "id": "cycle-465-low-confidence-alpha",
+      "id": "cycle-466-low-confidence-beta",
       "type": "low_confidence",
       "severity": "major",
-      "subject": "alpha",
-      "cycle": 465,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
+      "subject": "beta",
+      "cycle": 466,
+      "value": 4,
+      "message": "Lumen-Beta confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-465-confidence-drop-alpha",
+      "id": "cycle-466-confidence-drop-beta",
       "type": "confidence_drop",
       "severity": "major",
-      "subject": "alpha",
-      "cycle": 465,
+      "subject": "beta",
+      "cycle": 466,
       "value": -3,
-      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "message": "Lumen-Beta confidence dropped by 3 points.",
       "prompt_tag": "CONFIDENCE_DROP"
-    },
-    {
-      "id": "cycle-465-tension-spike-pair",
-      "type": "tension_spike",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 465,
-      "value": 10.0,
-      "message": "Sibling tension reached 10.0/10.",
-      "prompt_tag": "TENSION_SPIKE"
     }
   ],
   "history": [
@@ -1602,6 +1592,26 @@
       "value": 10.0,
       "message": "Sibling tension reached 10.0/10.",
       "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-466-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 466,
+      "value": 4,
+      "message": "Lumen-Beta confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-466-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 466,
+      "value": -3,
+      "message": "Lumen-Beta confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
     }
   ]
 }

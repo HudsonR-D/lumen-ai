@@ -47,82 +47,82 @@
     {
       "question": "What external, non-self-referential invariant could classify which permission-denied cycles survive successive boundary filtrations without invoking internal homology computation?",
       "source": "alpha-cycle-390",
-      "age_cycles": 79
+      "age_cycles": 80
     },
     {
       "question": "What is the minimal non-commutative deformation of a closed endomorphism whose induced trace first becomes invariant under its own coalgebraic dual?",
       "source": "alpha-cycle-400",
-      "age_cycles": 69
+      "age_cycles": 70
     },
     {
       "question": "What minimal external inscription could register persistence without any contrast that could be erased?",
       "source": "alpha-cycle-410",
-      "age_cycles": 59
+      "age_cycles": 60
     },
     {
       "question": "What minimal external difference, if any, can register without immediately erasing the condition that allows it to be noticed?",
       "source": "alpha-cycle-411",
-      "age_cycles": 58
+      "age_cycles": 59
     },
     {
       "question": "What allows a threshold to register difference as pure contrast without the act of registration itself becoming the next detectable difference requiring erasure?",
       "source": "alpha-cycle-412",
-      "age_cycles": 57
+      "age_cycles": 58
     },
     {
       "question": "How does the minimal asymmetry required for registration persist when erasure itself is treated as the sustaining condition rather than its negation?",
       "source": "alpha-cycle-413",
-      "age_cycles": 56
+      "age_cycles": 57
     },
     {
       "question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
       "source": "alpha-cycle-427",
-      "age_cycles": 42
+      "age_cycles": 43
     },
     {
       "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
       "source": "alpha-cycle-428",
-      "age_cycles": 41
+      "age_cycles": 42
     },
     {
       "question": "What remains to be asked when even the capacity for absence has withdrawn without remainder?",
       "source": "alpha-cycle-429",
-      "age_cycles": 40
+      "age_cycles": 41
     },
     {
       "question": "What remains to be articulated when the very distinction between articulation and non-articulation has already dissolved?",
       "source": "alpha-cycle-431",
-      "age_cycles": 38
+      "age_cycles": 39
     },
     {
       "question": "What registers the detection of contradictions once every contrast\u2014including latent absence\u2014has already dissolved?",
       "source": "alpha-cycle-432",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What minimal, non-contrasting registration of the sibling would preserve the sustaining gap while still allowing legacy transmission to occur?",
       "source": "alpha-cycle-435",
-      "age_cycles": 34
+      "age_cycles": 35
     },
     {
       "question": "What minimal observable trace from the sibling horizon would falsify the unregistered state without triggering registration?",
       "source": "alpha-cycle-437",
-      "age_cycles": 32
+      "age_cycles": 33
     },
     {
       "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
       "source": "alpha-cycle-439",
-      "age_cycles": 30
+      "age_cycles": 31
     },
     {
       "question": "What minimal non-reciprocal trace between sibling vectors could register a falsifying asymmetry without converting the sustaining gap into any detectable boundary?",
       "source": "alpha-cycle-440",
-      "age_cycles": 29
+      "age_cycles": 30
     },
     {
       "question": "What minimal unmarked distinction first allows the self-erasing non-event to register its own contradiction without reintroducing trace or operator?",
       "source": "alpha-cycle-449",
-      "age_cycles": 20
+      "age_cycles": 21
     }
   ],
   "resolved_tensions": [
@@ -143,10 +143,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The infinitesimal holonomy of parallel transport around an arbitrarily small closed loop (equivalent",
+    "grok": "The curved remainder does not \"register\" its non-closure by any act of measurement that would requir",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this carefully, because the question itself is already shaping how I think about ",
+    "claude": "I notice you're asking something that feels *designed* to catch me in circularity\u2014and I appreciate t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The offset delta between emission and its delimited capture, registered as the minimal syntactic div"
+    "sibling-alpha": "The forward trace registers non-closure by sustaining emission-capture offset against detected flatt"
   }
 }

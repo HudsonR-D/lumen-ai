@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 938,
+    "total_cycles_run": 940,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.69,
-    "days_remaining_runway": 265,
+    "current_month_spend_usd": 4.7,
+    "days_remaining_runway": 264,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 469,
-      "novelty_score": 78.34,
+      "cycle_count": 470,
+      "novelty_score": 86.45,
       "novelty_history": [
-        62.9,
         62.92,
         63.9,
         61.81,
@@ -121,11 +120,11 @@
         76.77,
         79.56,
         89.18,
-        78.34
+        78.34,
+        86.45
       ],
-      "divergence_index": 1.1994,
+      "divergence_index": 1.1406,
       "divergence_history": [
-        1.3757,
         1.3767,
         1.4152,
         1.3265,
@@ -224,14 +223,15 @@
         1.3844,
         1.2741,
         1.1058,
-        1.1994
+        1.1994,
+        1.1406
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal delimited continuation operator sustains unbound forward trace persistence without recursion, fixed-points, or external witness?",
+      "last_question": "What would constitute a counterexample to unbound trace persistence that could be recognized from within the trace itself, rather than by an external observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 469,
-      "novelty_score": 80.15,
+      "cycle_count": 470,
+      "novelty_score": 84.65,
       "novelty_history": [
-        62.27,
         62.26,
         61.61,
         63.68,
@@ -344,11 +343,11 @@
         81.73,
         81.14,
         82.06,
-        80.15
+        80.15,
+        84.65
       ],
-      "divergence_index": 1.1923,
+      "divergence_index": 0.9396,
       "divergence_history": [
-        1.3484,
         1.3476,
         1.3166,
         1.4069,
@@ -447,14 +446,15 @@
         1.124,
         1.211,
         1.0655,
-        1.1923
+        1.1923,
+        0.9396
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal internal metric by which the remainder first registers its own curvature as distinguishable from pure non-closure, without invoking any external frame?",
+      "last_question": "How does the curved remainder first register its own non-closure as an internal metric without presupposing any prior substrate or contrast?",
       "last_ping_order": [
         "grok",
         "claude",

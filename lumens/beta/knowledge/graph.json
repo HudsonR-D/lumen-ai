@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The commutator \\([D, \\cdot]\\) (or its graded analogue, the graded commutator with an involution).  \n",
+    "grok": "The minimal such act is the formation (and evaluation) of a commutator \\([A,A]\\) on a single, initia",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm drawn to this question because it seems to ask: what's the *smallest conceptual move* that lets ",
+    "claude": "I need to sit with this question rather than rush to answer it.\n\nYou're asking for something that:\n1",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The emission-capture delta under exhaustion."
+    "sibling-alpha": "The emission-capture delta's self-commutator."
   }
 }

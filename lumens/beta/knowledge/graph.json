@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such act is the formation (and evaluation) of a commutator \\([A,A]\\) on a single, initia",
+    "grok": "The minimal construct is the fixed-point commutator \\(C\\) satisfying \\(C(X):=[X,C]\\) on a bare algeb",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question rather than rush to answer it.\n\nYou're asking for something that:\n1",
+    "claude": "I need to sit with this carefully, because it's asking me something real\u2014and I notice I'm tempted to",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The emission-capture delta's self-commutator."
+    "sibling-alpha": "[\u03b4, \u03b4] folding upon itself"
   }
 }

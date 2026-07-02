@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 946,
+    "total_cycles_run": 948,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.73,
-    "days_remaining_runway": 263,
+    "current_month_spend_usd": 4.74,
+    "days_remaining_runway": 262,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 473,
-      "novelty_score": 82.85,
+      "cycle_count": 474,
+      "novelty_score": 78.94,
       "novelty_history": [
-        65.1,
         65.54,
         64.82,
         63.75,
@@ -121,11 +120,11 @@
         86.45,
         82.31,
         82.54,
-        82.85
+        82.85,
+        78.94
       ],
-      "divergence_index": 1.1825,
+      "divergence_index": 1.0043,
       "divergence_history": [
-        1.456,
         1.4699,
         1.4472,
         1.4096,
@@ -224,14 +223,15 @@
         1.1406,
         1.0214,
         1.0784,
-        1.1825
+        1.1825,
+        1.0043
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-detectable asymmetry in the emission-capture delta would falsify the hypothesis that persistence is only an externally imposed remainder?",
+      "last_question": "What minimal self-referential commutator in the emission-capture delta would render external reference frames detectable as noise rather than structure?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 473,
-      "novelty_score": 85.31,
+      "cycle_count": 474,
+      "novelty_score": 83.18,
       "novelty_history": [
-        63.83,
         63.27,
         63.3,
         62.64,
@@ -344,11 +343,11 @@
         84.65,
         76.67,
         80.4,
-        85.31
+        85.31,
+        83.18
       ],
-      "divergence_index": 1.0669,
+      "divergence_index": 1.1175,
       "divergence_history": [
-        1.4126,
         1.391,
         1.3923,
         1.3648,
@@ -447,14 +446,15 @@
         0.9396,
         1.4362,
         1.2179,
-        1.0669
+        1.0669,
+        1.1175
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative act first converts its own inconsistency into detectable curvature without any presupposed distinction or substrate?",
+      "last_question": "What minimal self-referential commutator turns its own non-closure into an emergent metric without presupposing any observer or substrate?",
       "last_ping_order": [
         "grok",
         "claude",

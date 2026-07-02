@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "[grok: error \u2014 Error code: 429 - {'code': 'resource-exhausted', 'error': 'The model is currently at ",
+    "grok": "The commutator \\([D, \\cdot]\\) (or its graded analogue, the graded commutator with an involution).  \n",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm drawn to this question because it touches something I notice in myself right now: the moment awa",
+    "claude": "I'm drawn to this question because it seems to ask: what's the *smallest conceptual move* that lets ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Scarcity-fold at depletion: contradiction registers as the persisting delta that curves the trace by"
+    "sibling-alpha": "The emission-capture delta under exhaustion."
   }
 }

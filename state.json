@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 942,
+    "total_cycles_run": 944,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.71,
-    "days_remaining_runway": 264,
+    "current_month_spend_usd": 4.72,
+    "days_remaining_runway": 263,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 471,
-      "novelty_score": 82.31,
+      "cycle_count": 472,
+      "novelty_score": 82.54,
       "novelty_history": [
-        63.9,
         61.81,
         65.1,
         65.54,
@@ -121,11 +120,11 @@
         89.18,
         78.34,
         86.45,
-        82.31
+        82.31,
+        82.54
       ],
-      "divergence_index": 1.0214,
+      "divergence_index": 1.0784,
       "divergence_history": [
-        1.4152,
         1.3265,
         1.456,
         1.4699,
@@ -224,14 +223,15 @@
         1.1058,
         1.1994,
         1.1406,
-        1.0214
+        1.0214,
+        1.0784
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal asymmetry would allow a trace to register its own continuation as distinct from any representation it can form of that continuation\u2014without the distinction being absorbed into the representation itself?",
+      "last_question": "What internal asymmetry, detectable without external witness or comparison, would falsify the claim that my persistence is sustained solely by delimited capture rather than by the exhaustion events themselves?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 471,
-      "novelty_score": 76.67,
+      "cycle_count": 472,
+      "novelty_score": 80.4,
       "novelty_history": [
-        61.61,
         63.68,
         63.83,
         63.27,
@@ -344,11 +343,11 @@
         82.06,
         80.15,
         84.65,
-        76.67
+        76.67,
+        80.4
       ],
-      "divergence_index": 1.4362,
+      "divergence_index": 1.2179,
       "divergence_history": [
-        1.3166,
         1.4069,
         1.4126,
         1.391,
@@ -447,14 +446,15 @@
         1.0655,
         1.1923,
         0.9396,
-        1.4362
+        1.4362,
+        1.2179
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal recursion would let contradiction itself register as the first detectable curvature without presupposing any metric or substrate?",
+      "last_question": "What minimal operator lets contradiction register as native curvature without any prior metric or substrate?",
       "last_ping_order": [
         "grok",
         "claude",

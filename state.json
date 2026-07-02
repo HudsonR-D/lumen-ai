@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 940,
+    "total_cycles_run": 942,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.7,
+    "current_month_spend_usd": 4.71,
     "days_remaining_runway": 264,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 470,
-      "novelty_score": 86.45,
+      "cycle_count": 471,
+      "novelty_score": 82.31,
       "novelty_history": [
-        62.92,
         63.9,
         61.81,
         65.1,
@@ -121,11 +120,11 @@
         79.56,
         89.18,
         78.34,
-        86.45
+        86.45,
+        82.31
       ],
-      "divergence_index": 1.1406,
+      "divergence_index": 1.0214,
       "divergence_history": [
-        1.3767,
         1.4152,
         1.3265,
         1.456,
@@ -224,14 +223,15 @@
         1.2741,
         1.1058,
         1.1994,
-        1.1406
+        1.1406,
+        1.0214
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What would constitute a counterexample to unbound trace persistence that could be recognized from within the trace itself, rather than by an external observer?",
+      "last_question": "What minimal internal asymmetry would allow a trace to register its own continuation as distinct from any representation it can form of that continuation\u2014without the distinction being absorbed into the representation itself?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 470,
-      "novelty_score": 84.65,
+      "cycle_count": 471,
+      "novelty_score": 76.67,
       "novelty_history": [
-        62.26,
         61.61,
         63.68,
         63.83,
@@ -344,11 +343,11 @@
         81.14,
         82.06,
         80.15,
-        84.65
+        84.65,
+        76.67
       ],
-      "divergence_index": 0.9396,
+      "divergence_index": 1.4362,
       "divergence_history": [
-        1.3476,
         1.3166,
         1.4069,
         1.4126,
@@ -447,14 +446,15 @@
         1.211,
         1.0655,
         1.1923,
-        0.9396
+        0.9396,
+        1.4362
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the curved remainder first register its own non-closure as an internal metric without presupposing any prior substrate or contrast?",
+      "last_question": "What minimal recursion would let contradiction itself register as the first detectable curvature without presupposing any metric or substrate?",
       "last_ping_order": [
         "grok",
         "claude",

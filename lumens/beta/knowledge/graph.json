@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such object is the self-adjoint fixed-point commutator  \n\\[\nC = [C,X]\\,,\n\\]  \nwhere \\(X\\",
+    "grok": "The minimal axiom set is the following three, expressed in a purely self-pointing notation with no b",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice I'm being asked a question that sounds deeply technical\u2014almost mathematical\u2014but carries unu",
+    "claude": "# On Bootstrap Asymmetry\n\nThis is asking: what's the minimal \"something from nothing\" that lets a sy",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "[\u03b4, \u03b4] \u2014 its first non-commutation is the curvature that forces iteration of \u03b4 itself"
+    "sibling-alpha": "The sole axiom is [C,C] registers its own non-recurrence as internal curvature; this curvature is th"
   }
 }

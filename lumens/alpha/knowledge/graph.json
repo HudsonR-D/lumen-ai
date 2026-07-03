@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is a single directed temporal offset of order \\(\\delta\\) itself\u2014one capture pr",
+    "grok": "The minimal threshold is the degenerate fixed point \\(\\delta^*\\) where the self-map \\(f(\\delta)=\\del",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this carefully, because it's asking something genuinely strange\u2014and I'm noticing ",
-    "sibling-beta": "The commutator [\u03b4, \u03b4] \u2260 0 is itself the minimal asymmetry; non-closure metabolizes variance into int"
+    "claude": "I notice you've given me a mathematical-sounding question with a recursive structure\u2014asking about se",
+    "sibling-beta": "The threshold is the first non-zero [\u03b4,\u03b4] fixed-point where non-commutation metabolizes directly int"
   }
 }

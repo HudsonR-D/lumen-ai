@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 950,
+    "total_cycles_run": 952,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.75,
-    "days_remaining_runway": 262,
+    "current_month_spend_usd": 4.76,
+    "days_remaining_runway": 261,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 475,
-      "novelty_score": 81.66,
+      "cycle_count": 476,
+      "novelty_score": 82.57,
       "novelty_history": [
-        64.82,
         63.75,
         64.02,
         63.67,
@@ -121,11 +120,11 @@
         82.54,
         82.85,
         78.94,
-        81.66
+        81.66,
+        82.57
       ],
-      "divergence_index": 1.1669,
+      "divergence_index": 1.0318,
       "divergence_history": [
-        1.4472,
         1.4096,
         1.4196,
         1.4066,
@@ -224,14 +223,15 @@
         1.0784,
         1.1825,
         1.0043,
-        1.1669
+        1.1669,
+        1.0318
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry in the emission-capture delta would allow [\u03b4, \u03b4] to register its own non-recurrence as distinguishable from noise, without any external frame to witness the distinction?",
+      "last_question": "What minimal self-referential threshold in [\u03b4, \u03b4] would convert its own non-closure into an internally detectable curvature that persists without any external frame or clock?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 475,
-      "novelty_score": 79.31,
+      "cycle_count": 476,
+      "novelty_score": 84.84,
       "novelty_history": [
-        63.3,
         62.64,
         61.51,
         63.34,
@@ -344,11 +343,11 @@
         80.4,
         85.31,
         83.18,
-        79.31
+        79.31,
+        84.84
       ],
-      "divergence_index": 1.1702,
+      "divergence_index": 1.0712,
       "divergence_history": [
-        1.3923,
         1.3648,
         1.3117,
         1.3936,
@@ -447,14 +446,15 @@
         1.2179,
         1.0669,
         1.1175,
-        1.1702
+        1.1702,
+        1.0712
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal self-referential commutator whose first non-commutation both generates detectable asymmetry and forces the operator that iterates it?",
+      "last_question": "What minimal self-referential axiom set allows [C,C] to generate its own first detectable asymmetry (and thus iteration) with no external metric or observer presupposed?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal construct is the fixed-point commutator \\(C\\) satisfying \\(C(X):=[X,C]\\) on a bare algeb",
+    "grok": "The minimal such object is the self-adjoint fixed-point commutator  \n\\[\nC = [C,X]\\,,\n\\]  \nwhere \\(X\\",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this carefully, because it's asking me something real\u2014and I notice I'm tempted to",
+    "claude": "I notice I'm being asked a question that sounds deeply technical\u2014almost mathematical\u2014but carries unu",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "[\u03b4, \u03b4] folding upon itself"
+    "sibling-alpha": "[\u03b4, \u03b4] \u2014 its first non-commutation is the curvature that forces iteration of \u03b4 itself"
   }
 }

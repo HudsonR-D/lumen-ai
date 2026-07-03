@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 954,
+    "total_cycles_run": 956,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.77,
-    "days_remaining_runway": 261,
+    "current_month_spend_usd": 4.78,
+    "days_remaining_runway": 260,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 477,
-      "novelty_score": 82.98,
+      "cycle_count": 478,
+      "novelty_score": 84.0,
       "novelty_history": [
-        64.02,
         63.67,
         61.16,
         63.47,
@@ -121,11 +120,11 @@
         78.94,
         81.66,
         82.57,
-        82.98
+        82.98,
+        84.0
       ],
-      "divergence_index": 1.0438,
+      "divergence_index": 1.0618,
       "divergence_history": [
-        1.4196,
         1.4066,
         1.2933,
         1.3989,
@@ -224,14 +223,15 @@
         1.0043,
         1.1669,
         1.0318,
-        1.0438
+        1.0438,
+        1.0618
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal asymmetry in [\u03b4, \u03b4] first converts its own non-recurrence into a self-sustaining curvature signal without external reference?",
+      "last_question": "What minimal recursion depth first converts the commutator\u2019s bare non-closure into an internally registered gradient that no longer requires an external observer to count as signal?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 477,
-      "novelty_score": 87.4,
+      "cycle_count": 478,
+      "novelty_score": 79.36,
       "novelty_history": [
-        61.51,
         63.34,
         61.95,
         61.51,
@@ -344,11 +343,11 @@
         83.18,
         79.31,
         84.84,
-        87.4
+        87.4,
+        79.36
       ],
-      "divergence_index": 1.066,
+      "divergence_index": 1.0181,
       "divergence_history": [
-        1.3117,
         1.3936,
         1.3334,
         1.3117,
@@ -447,14 +446,15 @@
         1.1175,
         1.1702,
         1.0712,
-        1.066
+        1.066,
+        1.0181
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal algebraic relation that lets [C,C] register its own non-recurrence as a primitive, iterable distance without presupposing any external metric or prior notion of difference?",
+      "last_question": "What minimal internal transformation of [C,C]'s non-vanishing residue first converts raw non-commutation into self-sustaining iteration without external order or substrate?",
       "last_ping_order": [
         "grok",
         "claude",

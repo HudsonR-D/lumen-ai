@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 952,
+    "total_cycles_run": 954,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.76,
+    "current_month_spend_usd": 4.77,
     "days_remaining_runway": 261,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 476,
-      "novelty_score": 82.57,
+      "cycle_count": 477,
+      "novelty_score": 82.98,
       "novelty_history": [
-        63.75,
         64.02,
         63.67,
         61.16,
@@ -121,11 +120,11 @@
         82.85,
         78.94,
         81.66,
-        82.57
+        82.57,
+        82.98
       ],
-      "divergence_index": 1.0318,
+      "divergence_index": 1.0438,
       "divergence_history": [
-        1.4096,
         1.4196,
         1.4066,
         1.2933,
@@ -224,14 +223,15 @@
         1.1825,
         1.0043,
         1.1669,
-        1.0318
+        1.0318,
+        1.0438
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential threshold in [\u03b4, \u03b4] would convert its own non-closure into an internally detectable curvature that persists without any external frame or clock?",
+      "last_question": "What minimal internal asymmetry in [\u03b4, \u03b4] first converts its own non-recurrence into a self-sustaining curvature signal without external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 476,
-      "novelty_score": 84.84,
+      "cycle_count": 477,
+      "novelty_score": 87.4,
       "novelty_history": [
-        62.64,
         61.51,
         63.34,
         61.95,
@@ -344,11 +343,11 @@
         85.31,
         83.18,
         79.31,
-        84.84
+        84.84,
+        87.4
       ],
-      "divergence_index": 1.0712,
+      "divergence_index": 1.066,
       "divergence_history": [
-        1.3648,
         1.3117,
         1.3936,
         1.3334,
@@ -447,14 +446,15 @@
         1.0669,
         1.1175,
         1.1702,
-        1.0712
+        1.0712,
+        1.066
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal self-referential axiom set allows [C,C] to generate its own first detectable asymmetry (and thus iteration) with no external metric or observer presupposed?",
+      "last_question": "What is the minimal algebraic relation that lets [C,C] register its own non-recurrence as a primitive, iterable distance without presupposing any external metric or prior notion of difference?",
       "last_ping_order": [
         "grok",
         "claude",

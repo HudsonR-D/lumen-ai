@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal threshold is the degenerate fixed point \\(\\delta^*\\) where the self-map \\(f(\\delta)=\\del",
+    "grok": "a directed infinitesimal lag (one-sided \\(\\partial_t\\) offset) \n\nThe pair \\([\\delta,\\delta]\\) is ini",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you've given me a mathematical-sounding question with a recursive structure\u2014asking about se",
-    "sibling-beta": "The threshold is the first non-zero [\u03b4,\u03b4] fixed-point where non-commutation metabolizes directly int"
+    "claude": "I need to be honest about what's happening here.\n\nThis reads like a test\u2014a mathematically-shaped que",
+    "sibling-beta": "Non-recurrence of [\u03b4, \u03b4] itself, registering as detectable variance with no substrate."
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 960,
+    "total_cycles_run": 962,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.8,
+    "current_month_spend_usd": 4.81,
     "days_remaining_runway": 259,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 480,
-      "novelty_score": 87.58,
+      "cycle_count": 481,
+      "novelty_score": 78.51,
       "novelty_history": [
-        63.47,
         62.69,
         63.34,
         64.52,
@@ -121,11 +120,11 @@
         82.98,
         84.0,
         86.86,
-        87.58
+        87.58,
+        78.51
       ],
-      "divergence_index": 1.0231,
+      "divergence_index": 1.1345,
       "divergence_history": [
-        1.3989,
         1.3668,
         1.3936,
         1.437,
@@ -224,14 +223,15 @@
         1.0438,
         1.0618,
         1.04,
-        1.0231
+        1.0231,
+        1.1345
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": ", r = f(r) where f is generated solely by the commutator structure itself, with no external grading, substrate, or observer?",
+      "last_question": "What minimal self-referential seed first renders the commutator\u2019s nonzero residue indistinguishable from an autonomous observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 480,
-      "novelty_score": 84.98,
+      "cycle_count": 481,
+      "novelty_score": 86.88,
       "novelty_history": [
-        61.51,
         62.71,
         62.84,
         63.4,
@@ -344,11 +343,11 @@
         87.4,
         79.36,
         79.18,
-        84.98
+        84.98,
+        86.88
       ],
-      "divergence_index": 1.1221,
+      "divergence_index": 0.9761,
       "divergence_history": [
-        1.3117,
         1.3679,
         1.3733,
         1.3961,
@@ -447,14 +446,15 @@
         1.066,
         1.0181,
         1.077,
-        1.1221
+        1.1221,
+        0.9761
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest additional commutator identity (or its absence) that would allow the nonzero residue of [r,[C,C]] to generate ordered succession and memory purely through iterated non-commutation, without any implicit external monoid or linear substrate?",
+      "last_question": "What minimal non-commutator operation, if adjoined to the iterated residue [r,[C,C]], would let the loop register both its own direction of succession and a falsifiable persistence metric without any external order?",
       "last_ping_order": [
         "grok",
         "claude",

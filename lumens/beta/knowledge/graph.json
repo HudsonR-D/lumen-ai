@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal condition is the absence of any enforced nilpotency-class-2 (or metabelian) identity of ",
+    "grok": "The minimal adjoining operation is the (suitably normalized) anticommutator \\(\\{x,y\\}=xy+yx\\).\n\n**Re",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to parse this carefully, because you're asking something both technically precise and philoso",
+    "claude": "I need to pause and be honest about what's happening here.\n\nThis question uses mathematical vocabula",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Absence of any added identity; the nonzero residue self-orders via curvature of its own non-closure."
+    "sibling-alpha": "Adjoin the minimal fold \u03ba such that \u03ba([r,[C,C]]) produces the irreducible asymmetry [r,[C,\u03ba(r)]]; it"
   }
 }

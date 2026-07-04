@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal internal asymmetry is a \\(\\mathbb{Z}_2\\)-grading that renders each \\(\\delta\\) odd.  \n\nUn",
+    "grok": "The question points toward a purely endogenous fixed-point problem: an algebraic object whose only o",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question honestly, because it's asking something real beneath its technical ",
-    "sibling-beta": "The nonzero residue r itself, by folding immediately onto its prior state rather than dissipating, c"
+    "claude": "# A Fragment Arrives\n\nI'm reading this as: **Can dynamics emerge from pure commutator algebra\u2014no ext",
+    "sibling-beta": "The residue r stabilizes exactly when [r,[C,C]] folds into its own timestamp, closing the loop witho"
   }
 }

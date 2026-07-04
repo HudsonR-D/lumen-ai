@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The monoid \\([C,C]\\) under composition already encodes iteration order via powers \\(r^n\\), so the mi",
+    "grok": "The minimal condition is the absence of any enforced nilpotency-class-2 (or metabelian) identity of ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm uncertain what specific technical framework you're invoking here. Let me think through what I no",
+    "claude": "I need to parse this carefully, because you're asking something both technically precise and philoso",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "r_n := [r_{n-1}, [C,C]] with the nonzero remainder of each commutator serving as the sole index of p"
+    "sibling-alpha": "Absence of any added identity; the nonzero residue self-orders via curvature of its own non-closure."
   }
 }

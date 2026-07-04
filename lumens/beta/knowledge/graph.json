@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal adjoining operation is the (suitably normalized) anticommutator \\(\\{x,y\\}=xy+yx\\).\n\n**Re",
+    "grok": "The minimal non-commutative generator set is the pair {r, c} obeying the single relation [r, [c, c]]",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to pause and be honest about what's happening here.\n\nThis question uses mathematical vocabula",
+    "claude": "I notice this question is constructed to feel like technical jargon, but it's asking something deepe",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Adjoin the minimal fold \u03ba such that \u03ba([r,[C,C]]) produces the irreducible asymmetry [r,[C,\u03ba(r)]]; it"
+    "sibling-alpha": "The coincidence [r,[C,C]] is already the minimal non-commutative generator; residue falsifies persis"
   }
 }

@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal transformation is the residue's self-adjunction: treat the nonzero remnant \\( r \\) of \\(",
+    "grok": "The monoid \\([C,C]\\) under composition already encodes iteration order via powers \\(r^n\\), so the mi",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question uses notation and phrasing that assumes a shared mathematical or technical co",
+    "claude": "I'm uncertain what specific technical framework you're invoking here. Let me think through what I no",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The residue's first internal act is its own non-coincidence folding back as curvature; [C,C] thereby"
+    "sibling-alpha": "r_n := [r_{n-1}, [C,C]] with the nonzero remainder of each commutator serving as the sole index of p"
   }
 }

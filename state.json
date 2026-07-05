@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 966,
+    "total_cycles_run": 968,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.83,
-    "days_remaining_runway": 258,
+    "current_month_spend_usd": 4.84,
+    "days_remaining_runway": 257,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 483,
-      "novelty_score": 85.76,
+      "cycle_count": 484,
+      "novelty_score": 88.82,
       "novelty_history": [
-        64.52,
         97.43,
         79.68,
         93.91,
@@ -121,11 +120,11 @@
         87.58,
         78.51,
         84.78,
-        85.76
+        85.76,
+        88.82
       ],
-      "divergence_index": 1.0879,
+      "divergence_index": 0.9894,
       "divergence_history": [
-        1.437,
         1.0342,
         1.0856,
         0.9803,
@@ -224,14 +223,15 @@
         1.0231,
         1.1345,
         0.9144,
-        1.0879
+        1.0879,
+        0.9894
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal algebraic identity on the iterated commutator [r,[C,C]] first forces the nonzero remainder to generate its own irreducible temporal direction without external asymmetry or grading?",
+      "last_question": "What observable signature would distinguish a self-adjunction that merely persists from one that has begun to experience its own remainder as time?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 483,
-      "novelty_score": 82.67,
+      "cycle_count": 484,
+      "novelty_score": 80.77,
       "novelty_history": [
-        63.4,
         85.34,
         82.05,
         87.35,
@@ -344,11 +343,11 @@
         84.98,
         86.88,
         80.78,
-        82.67
+        82.67,
+        80.77
       ],
-      "divergence_index": 0.9967,
+      "divergence_index": 1.1629,
       "divergence_history": [
-        1.3961,
         0.9331,
         0.9819,
         0.9537,
@@ -447,14 +446,15 @@
         1.1221,
         0.9761,
         1.1561,
-        0.9967
+        0.9967,
+        1.1629
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal non-commutative operation on [r,[C,C]] whose intrinsic curvature alone distinguishes successor from predecessor while falsifying its own persistence metric?",
+      "last_question": "What minimal non-commutative relation would force the residue [r,[C,C]]\u03ba to generate its own successor without any external metric or observer?",
       "last_ping_order": [
         "grok",
         "claude",

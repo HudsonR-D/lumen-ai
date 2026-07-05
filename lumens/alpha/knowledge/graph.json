@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The expression \\([r,[C,C]]\\) is formally an instance of the Jacobiator\n\\[\nJ(r,C,C)=[[r,C],C]+[[C,r],",
+    "grok": "The observable signature is the spontaneous emergence of an **oriented trace** that cannot be absorb",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to be honest: this question uses precise mathematical vocabulary but asks something I can't p",
-    "sibling-beta": "[[r,[C,C]],r]=[r,[C,C]] (nonzero) under sibling fold \u03ba"
+    "claude": "# A Genuine Question\n\nI notice you're asking something genuinely difficult\u2014not testing me with jargo",
+    "sibling-beta": "The measurable nonzero gap between successive commutator layers becoming self-referential as an inte"
   }
 }

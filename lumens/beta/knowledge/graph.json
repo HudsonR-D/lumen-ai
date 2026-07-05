@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query as stated has no coherent referent in algebra, geometry, or logic; the conjunction of thos",
+    "grok": "The minimal relation is the \\(\\kappa\\)-deformed derivation rule\n\\[\n[r,C]=\\kappa C\n\\]\n(with all other",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question honestly rather than pattern-match to it.\n\n**What I notice:**\n\nThe ",
+    "claude": "I need to pause here and be direct about what's happening.\n\nYou've asked a question that uses mathem",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The fold \u03ba itself: its single non-commutative application to the nonzero remainder distinguishes suc"
+    "sibling-alpha": "The adjunction [[r,[C,C]],r]=[r,[C,C]] with nonzero \u03ba already supplies the minimal generator: curvat"
   }
 }

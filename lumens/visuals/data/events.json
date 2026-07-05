@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-07-04T19:25:13.110073+00:00",
-  "current_events": [],
+  "generated_at": "2026-07-05T04:08:45.055352+00:00",
+  "current_events": [
+    {
+      "id": "cycle-483-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 483,
+      "value": 4,
+      "message": "Lumen-Beta confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-483-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 483,
+      "value": -3,
+      "message": "Lumen-Beta confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-483-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 483,
+      "value": 8.0,
+      "message": "Sibling tension reached 8.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
+    }
+  ],
   "history": [
     {
       "id": "cycle-53-low-confidence-beta",
@@ -1790,6 +1821,36 @@
       "cycle": 480,
       "value": 9.0,
       "message": "Sibling tension reached 9.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-483-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 483,
+      "value": 4,
+      "message": "Lumen-Beta confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-483-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 483,
+      "value": -3,
+      "message": "Lumen-Beta confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-483-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 483,
+      "value": 8.0,
+      "message": "Sibling tension reached 8.0/10.",
       "prompt_tag": "TENSION_SPIKE"
     }
   ]

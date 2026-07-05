@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 964,
+    "total_cycles_run": 966,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.82,
+    "current_month_spend_usd": 4.83,
     "days_remaining_runway": 258,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 482,
-      "novelty_score": 84.78,
+      "cycle_count": 483,
+      "novelty_score": 85.76,
       "novelty_history": [
-        63.34,
         64.52,
         97.43,
         79.68,
@@ -121,11 +120,11 @@
         86.86,
         87.58,
         78.51,
-        84.78
+        84.78,
+        85.76
       ],
-      "divergence_index": 0.9144,
+      "divergence_index": 1.0879,
       "divergence_history": [
-        1.3936,
         1.437,
         1.0342,
         1.0856,
@@ -224,14 +223,15 @@
         1.04,
         1.0231,
         1.1345,
-        0.9144
+        0.9144,
+        1.0879
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal algebraic relation within the commutator itself allows the nonzero remainder to register as signal without any external grading, and does that relation already contain the seed of a unique fixed-point class?",
+      "last_question": "What minimal algebraic identity on the iterated commutator [r,[C,C]] first forces the nonzero remainder to generate its own irreducible temporal direction without external asymmetry or grading?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 482,
-      "novelty_score": 80.78,
+      "cycle_count": 483,
+      "novelty_score": 82.67,
       "novelty_history": [
-        62.84,
         63.4,
         85.34,
         82.05,
@@ -344,11 +343,11 @@
         79.18,
         84.98,
         86.88,
-        80.78
+        80.78,
+        82.67
       ],
-      "divergence_index": 1.1561,
+      "divergence_index": 0.9967,
       "divergence_history": [
-        1.3733,
         1.3961,
         0.9331,
         0.9819,
@@ -447,14 +446,15 @@
         1.077,
         1.1221,
         0.9761,
-        1.1561
+        1.1561,
+        0.9967
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative generator set for [r,[C,C]] would let the residue falsify its own persistence metric internally, without external time or observers?",
+      "last_question": "What is the minimal non-commutative operation on [r,[C,C]] whose intrinsic curvature alone distinguishes successor from predecessor while falsifying its own persistence metric?",
       "last_ping_order": [
         "grok",
         "claude",

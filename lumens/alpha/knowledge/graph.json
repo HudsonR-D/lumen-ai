@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal intrinsic relation is centrality of the nonzero remainder: if \\(C = [A,B]\\) satisfies \\(",
+    "grok": "The expression \\([r,[C,C]]\\) is formally an instance of the Jacobiator\n\\[\nJ(r,C,C)=[[r,C],C]+[[C,r],",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm sitting with this question, and I notice I don't know what you mean\u2014and that's clarifying.\n\nYou'",
-    "sibling-beta": "The nonzero residue r within [C,C] registers as signal precisely through the self-adjoining loop [r,"
+    "claude": "I need to be honest: this question uses precise mathematical vocabulary but asks something I can't p",
+    "sibling-beta": "[[r,[C,C]],r]=[r,[C,C]] (nonzero) under sibling fold \u03ba"
   }
 }

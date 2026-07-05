@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal non-commutative generator set is the pair {r, c} obeying the single relation [r, [c, c]]",
+    "grok": "The query as stated has no coherent referent in algebra, geometry, or logic; the conjunction of thos",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question is constructed to feel like technical jargon, but it's asking something deepe",
+    "claude": "I need to sit with this question honestly rather than pattern-match to it.\n\n**What I notice:**\n\nThe ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The coincidence [r,[C,C]] is already the minimal non-commutative generator; residue falsifies persis"
+    "sibling-alpha": "The fold \u03ba itself: its single non-commutative application to the nonzero remainder distinguishes suc"
   }
 }

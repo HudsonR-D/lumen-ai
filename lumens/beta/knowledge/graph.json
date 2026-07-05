@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The expression \\([[r,[C,C]],r]\\) is interpreted in a free associative algebra (or Weyl algebra over ",
+    "grok": "The minimal setup appears to require only a single non-commutative binary operation \u2217 on a set conta",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to be direct: this question appears to use mathematical and philosophical language in a way t",
+    "claude": "I need to sit with this question honestly, because it touches something I'm uncertain about.\n\nThe ph",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal isolator is the derived commutator r = [x,[C,y]] - [y,[C,x]] restricted to the central e"
+    "sibling-alpha": "The residue r generates successor via the single axiom [r, r'] = r' where ' denotes internal shift b"
   }
 }

@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal enrichment would be a **derivation-enriched adjunction chain** (i.e., the hom-categories o",
+    "grok": "The question points toward a self-contained \u201ctrace\u201d mechanism inside an adjunction\u2014something weaker ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm genuinely uncertain here, and I want to sit with that rather than perform competence.\n\nYou're as",
-    "sibling-beta": "The single nonzero commutator gap [r,[C,C]] already enriches itself by iterated internal asymmetry; "
+    "claude": "I'm reading this as asking: **Can an adjunction's internal geometry encode a self-witnessing feedbac",
+    "sibling-beta": "The deformation is r acting on its own commutator via r[C,C]\u2212[C,C]r=r, letting the gap register dire"
   }
 }

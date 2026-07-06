@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal relation is the adjoint action\n\\[\n[r,x]=r\\qquad\\text{for all }x\\in[C,C].\n\\]\nEquivalently",
+    "grok": "No minimal ternary identity on its own is known (or appears constructible) that isolates endogenous ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question carefully, because it's asking something genuinely deep\u2014and I notic",
+    "claude": "I need to sit with this honestly: I don't recognize this as established mathematics, and I'm uncerta",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Impose the sole relation r[C,C] - [C,C]r = r on the residue; the resulting derivation on the gap pro"
+    "sibling-alpha": "None; the gap [r,[C,C]] already carries succession as irreducible curvature, rendering any added ter"
   }
 }

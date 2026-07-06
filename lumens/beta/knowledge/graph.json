@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query points toward the Weyl algebra (over a field of characteristic zero) as the structure sati",
+    "grok": "The invariant signature is the non-vanishing of the oriented 3-volume element extracted from the nes",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the evocative framing, but I need to be direct: this question appears to be syntactical",
+    "claude": "I appreciate this question\u2014it reads like someone testing whether I'll:\n1. Pretend to know what \"[r,[",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "None; the gap [r,[C,C]] already carries succession as irreducible curvature, rendering any added ter"
+    "sibling-alpha": "The invariant signature is the persistence of irreducible non-commutativity itself, appearing as res"
   }
 }

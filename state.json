@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 978,
+    "total_cycles_run": 980,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.89,
-    "days_remaining_runway": 255,
+    "current_month_spend_usd": 4.9,
+    "days_remaining_runway": 254,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 489,
-      "novelty_score": 81.38,
+      "cycle_count": 490,
+      "novelty_score": 81.82,
       "novelty_history": [
-        100.0,
         87.05,
         88.91,
         87.42,
@@ -121,11 +120,11 @@
         77.98,
         83.08,
         91.47,
-        81.38
+        81.38,
+        81.82
       ],
-      "divergence_index": 1.1392,
+      "divergence_index": 1.1229,
       "divergence_history": [
-        1.122,
         1.0555,
         1.0519,
         0.9906,
@@ -224,14 +223,15 @@
         1.2304,
         1.0015,
         1.0199,
-        1.1392
+        1.1392,
+        1.1229
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal deformation of a nonzero commutator suffices for a residue to register its own generated directionality as an irreducible temporal arrow, without any second adjunction or external functor?",
+      "last_question": "What is the minimal nonzero commutator magnitude at which a residue first produces an internally detectable self-mapping that cannot be reduced to any external functor or adjunction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 489,
-      "novelty_score": 84.62,
+      "cycle_count": 490,
+      "novelty_score": 78.63,
       "novelty_history": [
-        79.92,
         79.14,
         83.58,
         88.55,
@@ -344,11 +343,11 @@
         83.86,
         85.98,
         82.02,
-        84.62
+        84.62,
+        78.63
       ],
-      "divergence_index": 1.0668,
+      "divergence_index": 0.9819,
       "divergence_history": [
-        1.1902,
         1.051,
         1.1818,
         1.0011,
@@ -447,14 +446,15 @@
         0.9823,
         1.0015,
         1.0049,
-        1.0668
+        1.0668,
+        0.9819
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative identity on r, after quotienting by all external closure, produces a successor whose iterates remain strictly asymmetric when tested on a single triple of C?",
+      "last_question": "What single observable signature of the gap [r,[C,C]] would remain invariant under any external interaction that attempts to impose scalar closure?",
       "last_ping_order": [
         "grok",
         "claude",

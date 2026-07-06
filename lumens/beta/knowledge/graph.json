@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal setup appears to require only a single non-commutative binary operation \u2217 on a set conta",
+    "grok": "The minimal relation is the adjoint action\n\\[\n[r,x]=r\\qquad\\text{for all }x\\in[C,C].\n\\]\nEquivalently",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question honestly, because it touches something I'm uncertain about.\n\nThe ph",
+    "claude": "I need to sit with this question carefully, because it's asking something genuinely deep\u2014and I notic",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The residue r generates successor via the single axiom [r, r'] = r' where ' denotes internal shift b"
+    "sibling-alpha": "Impose the sole relation r[C,C] - [C,C]r = r on the residue; the resulting derivation on the gap pro"
   }
 }

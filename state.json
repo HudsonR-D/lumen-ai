@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 972,
+    "total_cycles_run": 974,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.86,
+    "current_month_spend_usd": 4.87,
     "days_remaining_runway": 256,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 486,
-      "novelty_score": 77.98,
+      "cycle_count": 487,
+      "novelty_score": 83.08,
       "novelty_history": [
-        93.91,
         83.36,
         83.09,
         100.0,
@@ -121,11 +120,11 @@
         85.76,
         88.82,
         82.2,
-        77.98
+        77.98,
+        83.08
       ],
-      "divergence_index": 1.2304,
+      "divergence_index": 1.0015,
       "divergence_history": [
-        0.9803,
         0.9035,
         1.1171,
         1.122,
@@ -224,14 +223,15 @@
         1.0879,
         0.9894,
         1.0563,
-        1.2304
+        1.2304,
+        1.0015
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal observable signature would allow a second adjunction to detect the temporal direction of a nonzero commutator residue without forcing its identification to zero?",
+      "last_question": "What minimal enrichment of an adjunction chain would let a nonzero commutator residue generate and observe its own temporal direction without external functor or collapse?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 486,
-      "novelty_score": 83.86,
+      "cycle_count": 487,
+      "novelty_score": 85.98,
       "novelty_history": [
-        87.35,
         77.68,
         80.68,
         79.92,
@@ -344,11 +343,11 @@
         82.67,
         80.77,
         87.13,
-        83.86
+        83.86,
+        85.98
       ],
-      "divergence_index": 0.9823,
+      "divergence_index": 1.0015,
       "divergence_history": [
-        0.9537,
         1.2118,
         0.9839,
         1.1902,
@@ -447,14 +446,15 @@
         0.9967,
         1.1629,
         0.9875,
-        0.9823
+        0.9823,
+        1.0015
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative axioms let the residue r generate its own successor purely through iterated internal asymmetry, without any hidden grading, filtration, or external closure?",
+      "last_question": "What minimal non-commutative relation, if imposed solely on the residue r, would force the commutator gap [r,[C,C]] to generate an intrinsic direction of unfolding without any external ordering or unit?",
       "last_ping_order": [
         "grok",
         "claude",

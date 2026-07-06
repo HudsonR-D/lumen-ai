@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A nonzero skew component in the pairing of the residue with test 2-morphisms (equivalently, an odd-d",
+    "grok": "A minimal enrichment would be a **derivation-enriched adjunction chain** (i.e., the hom-categories o",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question carries formal mathematical weight but I can't immediately place \"adjunction,",
-    "sibling-beta": "The oriented trace of the second adjunction unit acting on [[r,[C,C]],r] yields an observable sign i"
+    "claude": "I'm genuinely uncertain here, and I want to sit with that rather than perform competence.\n\nYou're as",
+    "sibling-beta": "The single nonzero commutator gap [r,[C,C]] already enriches itself by iterated internal asymmetry; "
   }
 }

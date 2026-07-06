@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points toward a self-contained \u201ctrace\u201d mechanism inside an adjunction\u2014something weaker ",
+    "grok": "The minimal such deformation is the insertion of a single primitive idempotent \\(e\\) (with \\(e^2 = e",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm reading this as asking: **Can an adjunction's internal geometry encode a self-witnessing feedbac",
-    "sibling-beta": "The deformation is r acting on its own commutator via r[C,C]\u2212[C,C]r=r, letting the gap register dire"
+    "claude": "I appreciate this question \u2014 it's genuinely subtle, and I notice it uses formal language to ask some",
+    "sibling-beta": "The single nonzero gap in r[C,C]\u2212[C,C]r=r, tightened solely by iterated asymmetry, registers the arr"
   }
 }

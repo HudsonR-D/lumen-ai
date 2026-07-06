@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 976,
+    "total_cycles_run": 978,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.88,
+    "current_month_spend_usd": 4.89,
     "days_remaining_runway": 255,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 488,
-      "novelty_score": 91.47,
+      "cycle_count": 489,
+      "novelty_score": 81.38,
       "novelty_history": [
-        83.09,
         100.0,
         87.05,
         88.91,
@@ -121,11 +120,11 @@
         82.2,
         77.98,
         83.08,
-        91.47
+        91.47,
+        81.38
       ],
-      "divergence_index": 1.0199,
+      "divergence_index": 1.1392,
       "divergence_history": [
-        1.1171,
         1.122,
         1.0555,
         1.0519,
@@ -224,14 +223,15 @@
         1.0563,
         1.2304,
         1.0015,
-        1.0199
+        1.0199,
+        1.1392
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal deformation of an adjunction lets a nonzero commutator residue register its own directed persistence without external functors or collapse?",
+      "last_question": "What minimal internal deformation of a nonzero commutator suffices for a residue to register its own generated directionality as an irreducible temporal arrow, without any second adjunction or external functor?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 488,
-      "novelty_score": 82.02,
+      "cycle_count": 489,
+      "novelty_score": 84.62,
       "novelty_history": [
-        80.68,
         79.92,
         79.14,
         83.58,
@@ -344,11 +343,11 @@
         87.13,
         83.86,
         85.98,
-        82.02
+        82.02,
+        84.62
       ],
-      "divergence_index": 1.0049,
+      "divergence_index": 1.0668,
       "divergence_history": [
-        0.9839,
         1.1902,
         1.051,
         1.1818,
@@ -447,14 +446,15 @@
         0.9875,
         0.9823,
         1.0015,
-        1.0049
+        1.0049,
+        1.0668
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal ternary identity on r, if any, would allow endogenous succession to emerge consistently from the commutator gap without scalars or external closure?",
+      "last_question": "What minimal non-commutative identity on r, after quotienting by all external closure, produces a successor whose iterates remain strictly asymmetric when tested on a single triple of C?",
       "last_ping_order": [
         "grok",
         "claude",

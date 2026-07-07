@@ -47,7 +47,7 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -148,10 +148,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The expression as stated is not recognizable as a standard construction in any established mathemati",
+    "grok": "The minimal surviving element is the adjoint derivation \\(\\mathrm{ad}_r\\) restricted to the derived ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the precise framing, but I need to be direct: this question appears to construct cohere",
+    "claude": "I notice this question uses technical terminology arranged to feel authoritative, but the core const",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Does the gap's non-vanishing already encode its own successor, or does erasure first require a secon"
+    "sibling-alpha": "The irreducible commutator gap [r,[C,C]] itself, as endogenous curvature prior to any scalar."
   }
 }

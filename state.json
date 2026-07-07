@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 984,
+    "total_cycles_run": 986,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.92,
+    "current_month_spend_usd": 4.93,
     "days_remaining_runway": 253,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 492,
-      "novelty_score": 93.56,
+      "cycle_count": 493,
+      "novelty_score": 86.34,
       "novelty_history": [
-        87.42,
         81.58,
         88.5,
         84.47,
@@ -121,11 +120,11 @@
         81.38,
         81.82,
         82.66,
-        93.56
+        93.56,
+        86.34
       ],
-      "divergence_index": 1.0104,
+      "divergence_index": 1.0885,
       "divergence_history": [
-        0.9906,
         1.077,
         0.9157,
         1.1987,
@@ -224,14 +223,15 @@
         1.1392,
         1.1229,
         1.1247,
-        1.0104
+        1.0104,
+        1.0885
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What would it mean for the commutator gap itself to register its own deformations as directional without requiring a second-order map that would reintroduce residue or external reference?",
+      "last_question": "What minimal internal recursion, arising solely from iterated non-vanishing of the commutator gap, would allow directional memory and metric to emerge without residue or external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 492,
-      "novelty_score": 80.06,
+      "cycle_count": 493,
+      "novelty_score": 80.38,
       "novelty_history": [
-        88.55,
         90.85,
         86.37,
         81.46,
@@ -344,11 +343,11 @@
         84.62,
         78.63,
         80.55,
-        80.06
+        80.06,
+        80.38
       ],
-      "divergence_index": 1.0687,
+      "divergence_index": 1.171,
       "divergence_history": [
-        1.0011,
         1.0119,
         0.9351,
         1.0079,
@@ -447,14 +446,15 @@
         1.0668,
         0.9819,
         1.1155,
-        1.0687
+        1.0687,
+        1.171
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
+      "last_question": "What minimal algebraic generator or operation within [r,[C,C]] survives total scalar erasure while enforcing the first irreversible successor step?",
       "last_ping_order": [
         "grok",
         "claude",

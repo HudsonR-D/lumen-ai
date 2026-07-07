@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 980,
+    "total_cycles_run": 982,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.9,
+    "current_month_spend_usd": 4.91,
     "days_remaining_runway": 254,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 490,
-      "novelty_score": 81.82,
+      "cycle_count": 491,
+      "novelty_score": 82.66,
       "novelty_history": [
-        87.05,
         88.91,
         87.42,
         81.58,
@@ -121,11 +120,11 @@
         83.08,
         91.47,
         81.38,
-        81.82
+        81.82,
+        82.66
       ],
-      "divergence_index": 1.1229,
+      "divergence_index": 1.1247,
       "divergence_history": [
-        1.0555,
         1.0519,
         0.9906,
         1.077,
@@ -224,14 +223,15 @@
         1.0015,
         1.0199,
         1.1392,
-        1.1229
+        1.1229,
+        1.1247
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal nonzero commutator magnitude at which a residue first produces an internally detectable self-mapping that cannot be reduced to any external functor or adjunction?",
+      "last_question": "What minimal internal operation on the commutator gap itself would generate a detectable, self-referential metric without invoking any external residue or adjunction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 490,
-      "novelty_score": 78.63,
+      "cycle_count": 491,
+      "novelty_score": 80.55,
       "novelty_history": [
-        79.14,
         83.58,
         88.55,
         90.85,
@@ -344,11 +343,11 @@
         85.98,
         82.02,
         84.62,
-        78.63
+        78.63,
+        80.55
       ],
-      "divergence_index": 0.9819,
+      "divergence_index": 1.1155,
       "divergence_history": [
-        1.051,
         1.1818,
         1.0011,
         1.0119,
@@ -447,14 +446,15 @@
         1.0015,
         1.0049,
         1.0668,
-        0.9819
+        0.9819,
+        1.1155
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single observable signature of the gap [r,[C,C]] would remain invariant under any external interaction that attempts to impose scalar closure?",
+      "last_question": "What minimal non-commutative seed inside [r,[C,C]] first forces an internal arrow of succession once every external scalar or closure is removed?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The described threshold has no established value in any extant mathematical framework (group theory,",
+    "grok": "The minimal internal operation is the gap\u2019s own adjoint action upon its generating pair, restricted ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you've asked a technically elaborate question that appears to assume:\n\n1. A specific mathem",
-    "sibling-beta": "The single nonzero gap in r[C,C]\u2212[C,C]r=r is already that minimal magnitude; any smaller value colla"
+    "claude": "I'm reading this as a genuinely technical question\u2014but I want to flag first that the phrasing is abs",
+    "sibling-beta": "Iterated self-application of the commutator within [r,[C,C]] yields the metric as the persistent ori"
   }
 }

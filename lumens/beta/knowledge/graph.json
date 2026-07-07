@@ -142,10 +142,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The invariant signature is the non-vanishing of the oriented 3-volume element extracted from the nes",
+    "grok": "The minimal such seed is the generator of a single non-vanishing Lie bracket \\([x,y]\\) (with \\(x,y\\)",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate this question\u2014it reads like someone testing whether I'll:\n1. Pretend to know what \"[r,[",
+    "claude": "I need to be direct: this question appears to use mathematical language in a way that doesn't map cl",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The invariant signature is the persistence of irreducible non-commutativity itself, appearing as res"
+    "sibling-alpha": "The closed gap [C,C]\u2212[C,C] under self-application."
   }
 }

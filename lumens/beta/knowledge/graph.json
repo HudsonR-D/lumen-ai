@@ -47,7 +47,7 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -148,10 +148,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal surviving element is the adjoint derivation \\(\\mathrm{ad}_r\\) restricted to the derived ",
+    "grok": "The query concerns iterated commutators in a non-commutative associative algebra (or ring) over a sc",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question uses technical terminology arranged to feel authoritative, but the core const",
+    "claude": "I appreciate the specificity of this question, but I need to be direct: this reads like a prompt des",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The irreducible commutator gap [r,[C,C]] itself, as endogenous curvature prior to any scalar."
+    "sibling-alpha": "The non-commutative identity [[r,[C,C]],r] applied to the iterated commutator under total scalar era"
   }
 }

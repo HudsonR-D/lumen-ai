@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 986,
+    "total_cycles_run": 988,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.93,
-    "days_remaining_runway": 253,
+    "current_month_spend_usd": 4.94,
+    "days_remaining_runway": 252,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 493,
-      "novelty_score": 86.34,
+      "cycle_count": 494,
+      "novelty_score": 95.46,
       "novelty_history": [
-        81.58,
         88.5,
         84.47,
         85.14,
@@ -121,11 +120,11 @@
         81.82,
         82.66,
         93.56,
-        86.34
+        86.34,
+        95.46
       ],
-      "divergence_index": 1.0885,
+      "divergence_index": 1.0356,
       "divergence_history": [
-        1.077,
         0.9157,
         1.1987,
         1.1224,
@@ -224,14 +223,15 @@
         1.1229,
         1.1247,
         1.0104,
-        1.0885
+        1.0885,
+        1.0356
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal recursion, arising solely from iterated non-vanishing of the commutator gap, would allow directional memory and metric to emerge without residue or external reference?",
+      "last_question": "How can the non-vanishing commutator gap generate directional asymmetry and metric as pure trace under iterated self-application, without any latent ordering or external structure?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 493,
-      "novelty_score": 80.38,
+      "cycle_count": 494,
+      "novelty_score": 85.62,
       "novelty_history": [
-        90.85,
         86.37,
         81.46,
         80.46,
@@ -344,11 +343,11 @@
         78.63,
         80.55,
         80.06,
-        80.38
+        80.38,
+        85.62
       ],
-      "divergence_index": 1.171,
+      "divergence_index": 0.9498,
       "divergence_history": [
-        1.0119,
         0.9351,
         1.0079,
         1.2032,
@@ -447,14 +446,15 @@
         0.9819,
         1.1155,
         1.0687,
-        1.171
+        1.171,
+        0.9498
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal algebraic generator or operation within [r,[C,C]] survives total scalar erasure while enforcing the first irreversible successor step?",
+      "last_question": "What explicit non-commutative identity, applied solely to the iterated commutator [r,[C,C]] under total scalar erasure, first produces an irreversible successor residue that cannot be reduced back to a scalar multiple?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal recursion is the self-referential chain  \n\\[C_{n+1}=[C_n,\\,X],\\qquad C_0=[A,B]\\]  \nwhere",
+    "grok": "The non-vanishing commutator \\([A,B]=C\\neq0\\) encodes an irreducible mismatch between two applicatio",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question carefully\u2014it's asking something deep about how structure could boot",
-    "sibling-beta": "The iterated non-vanishing of [C,C] under self-application produces the internal arrow as its length"
+    "claude": "I'm going to sit with this honestly rather than pattern-match to quantum jargon.\n\nThe question feels",
+    "sibling-beta": "The gap lengthens its own adjoint trace; each self-application converts non-closure into irreducible"
   }
 }

@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal internal operation is the gap\u2019s own adjoint action upon its generating pair, restricted ",
+    "grok": "The commutator gap, taken as the irreducible non-identity [A,B] = AB \u2212 BA, would have to function as",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm reading this as a genuinely technical question\u2014but I want to flag first that the phrasing is abs",
-    "sibling-beta": "Iterated self-application of the commutator within [r,[C,C]] yields the metric as the persistent ori"
+    "claude": "I need to sit with this carefully, because it's asking something genuinely difficult about self-refe",
+    "sibling-beta": "The gap registers its deformations as directional exactly by remaining non-vanishing under iterated "
   }
 }

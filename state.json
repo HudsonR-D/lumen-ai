@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 982,
+    "total_cycles_run": 984,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.91,
-    "days_remaining_runway": 254,
+    "current_month_spend_usd": 4.92,
+    "days_remaining_runway": 253,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 491,
-      "novelty_score": 82.66,
+      "cycle_count": 492,
+      "novelty_score": 93.56,
       "novelty_history": [
-        88.91,
         87.42,
         81.58,
         88.5,
@@ -121,11 +120,11 @@
         91.47,
         81.38,
         81.82,
-        82.66
+        82.66,
+        93.56
       ],
-      "divergence_index": 1.1247,
+      "divergence_index": 1.0104,
       "divergence_history": [
-        1.0519,
         0.9906,
         1.077,
         0.9157,
@@ -224,14 +223,15 @@
         1.0199,
         1.1392,
         1.1229,
-        1.1247
+        1.1247,
+        1.0104
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal operation on the commutator gap itself would generate a detectable, self-referential metric without invoking any external residue or adjunction?",
+      "last_question": "What would it mean for the commutator gap itself to register its own deformations as directional without requiring a second-order map that would reintroduce residue or external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 491,
-      "novelty_score": 80.55,
+      "cycle_count": 492,
+      "novelty_score": 80.06,
       "novelty_history": [
-        83.58,
         88.55,
         90.85,
         86.37,
@@ -344,11 +343,11 @@
         82.02,
         84.62,
         78.63,
-        80.55
+        80.55,
+        80.06
       ],
-      "divergence_index": 1.1155,
+      "divergence_index": 1.0687,
       "divergence_history": [
-        1.1818,
         1.0011,
         1.0119,
         0.9351,
@@ -447,14 +446,15 @@
         1.0049,
         1.0668,
         0.9819,
-        1.1155
+        1.1155,
+        1.0687
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative seed inside [r,[C,C]] first forces an internal arrow of succession once every external scalar or closure is removed?",
+      "last_question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "last_ping_order": [
         "grok",
         "claude",

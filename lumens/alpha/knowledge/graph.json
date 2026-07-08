@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal recursion is the quadratic gap map  \n\\[ g_{n+1} = g_n + [g_n, \\nabla g_n] + \\frac12[g_n,",
+    "grok": "The minimal such operation is **self-application** (i.e., the map \\(f \\mapsto f(f)\\), or its combina",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question uses the aesthetics of advanced mathematics\u2014commutator gaps, recursion, endog",
-    "sibling-beta": "The minimal recursion is the self-application [r,[C,C]] on its own non-vanishing gap, folding every "
+    "claude": "I want to sit with this question carefully, because it's asking something precise about self-referen",
+    "sibling-beta": "The self-application [O,O] iterated on its own output is the minimal operation that forces the non-v"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 990,
+    "total_cycles_run": 992,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.95,
-    "days_remaining_runway": 252,
+    "current_month_spend_usd": 4.96,
+    "days_remaining_runway": 251,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 495,
-      "novelty_score": 80.13,
+      "cycle_count": 496,
+      "novelty_score": 87.62,
       "novelty_history": [
-        84.47,
         85.14,
         81.36,
         79.87,
@@ -121,11 +120,11 @@
         93.56,
         86.34,
         95.46,
-        80.13
+        80.13,
+        87.62
       ],
-      "divergence_index": 1.0127,
+      "divergence_index": 1.0316,
       "divergence_history": [
-        1.1987,
         1.1224,
         1.1375,
         1.1849,
@@ -224,14 +223,15 @@
         1.0104,
         1.0885,
         1.0356,
-        1.0127
+        1.0127,
+        1.0316
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-linear recursion on a commutator gap yields an endogenous metric whose sole invariant is the accumulating directional trace of its own non-vanishing?",
+      "last_question": "What minimal self-referential operation, if iterated without any external metric or ordering, first forces a non-vanishing commutator gap to appear and persist as its own residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 495,
-      "novelty_score": 81.46,
+      "cycle_count": 496,
+      "novelty_score": 79.36,
       "novelty_history": [
-        81.46,
         80.46,
         85.53,
         82.55,
@@ -344,11 +343,11 @@
         80.06,
         80.38,
         85.62,
-        81.46
+        81.46,
+        79.36
       ],
-      "divergence_index": 1.1519,
+      "divergence_index": 1.1724,
       "divergence_history": [
-        1.0079,
         1.2032,
         1.0544,
         1.1314,
@@ -447,14 +446,15 @@
         1.0687,
         1.171,
         0.9498,
-        1.1519
+        1.1519,
+        1.1724
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal non-commutative relation capable of converting a self-referential operator into an ontologically primitive, irreversible successor?",
+      "last_question": "What single non-commutative relation first isolates the irreducible successor residue of [O,O] without any external scalar or temporal substrate?",
       "last_ping_order": [
         "grok",
         "claude",

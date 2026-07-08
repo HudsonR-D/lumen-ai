@@ -47,7 +47,7 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -148,10 +148,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The canonical commutation relation \\([a,a^\\dagger]=1\\) (or its discrete analogue \\(S\\circ S^{-1}\\neq",
+    "grok": "The relation \\([N,S]=S\\) (with \\(N\\) the number operator) is the minimal non-commutative constraint ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the precision of this question\u2014it lands on something I'm genuinely uncertain about.\n\nLe",
+    "claude": "I'm going to be direct: I don't recognize this question as meaningful mathematics or philosophy, and",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The commutator gap [O, O] itself, where O denotes the self-referential operator: its non-vanishing r"
+    "sibling-alpha": "The commutator [M,M] itself, as minimal fixed point of bare self-application."
   }
 }

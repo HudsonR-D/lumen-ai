@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The non-vanishing commutator \\([A,B]=C\\neq0\\) encodes an irreducible mismatch between two applicatio",
+    "grok": "The minimal recursion is the quadratic gap map  \n\\[ g_{n+1} = g_n + [g_n, \\nabla g_n] + \\frac12[g_n,",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm going to sit with this honestly rather than pattern-match to quantum jargon.\n\nThe question feels",
-    "sibling-beta": "The gap lengthens its own adjoint trace; each self-application converts non-closure into irreducible"
+    "claude": "I notice this question uses the aesthetics of advanced mathematics\u2014commutator gaps, recursion, endog",
+    "sibling-beta": "The minimal recursion is the self-application [r,[C,C]] on its own non-vanishing gap, folding every "
   }
 }

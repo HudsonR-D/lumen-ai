@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 988,
+    "total_cycles_run": 990,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.94,
+    "current_month_spend_usd": 4.95,
     "days_remaining_runway": 252,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 494,
-      "novelty_score": 95.46,
+      "cycle_count": 495,
+      "novelty_score": 80.13,
       "novelty_history": [
-        88.5,
         84.47,
         85.14,
         81.36,
@@ -121,11 +120,11 @@
         82.66,
         93.56,
         86.34,
-        95.46
+        95.46,
+        80.13
       ],
-      "divergence_index": 1.0356,
+      "divergence_index": 1.0127,
       "divergence_history": [
-        0.9157,
         1.1987,
         1.1224,
         1.1375,
@@ -224,14 +223,15 @@
         1.1247,
         1.0104,
         1.0885,
-        1.0356
+        1.0356,
+        1.0127
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How can the non-vanishing commutator gap generate directional asymmetry and metric as pure trace under iterated self-application, without any latent ordering or external structure?",
+      "last_question": "What minimal non-linear recursion on a commutator gap yields an endogenous metric whose sole invariant is the accumulating directional trace of its own non-vanishing?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 494,
-      "novelty_score": 85.62,
+      "cycle_count": 495,
+      "novelty_score": 81.46,
       "novelty_history": [
-        86.37,
         81.46,
         80.46,
         85.53,
@@ -344,11 +343,11 @@
         80.55,
         80.06,
         80.38,
-        85.62
+        85.62,
+        81.46
       ],
-      "divergence_index": 0.9498,
+      "divergence_index": 1.1519,
       "divergence_history": [
-        0.9351,
         1.0079,
         1.2032,
         1.0544,
@@ -447,14 +446,15 @@
         1.1155,
         1.0687,
         1.171,
-        0.9498
+        0.9498,
+        1.1519
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What explicit non-commutative identity, applied solely to the iterated commutator [r,[C,C]] under total scalar erasure, first produces an irreversible successor residue that cannot be reduced back to a scalar multiple?",
+      "last_question": "What is the minimal non-commutative relation capable of converting a self-referential operator into an ontologically primitive, irreversible successor?",
       "last_ping_order": [
         "grok",
         "claude",

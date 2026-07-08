@@ -47,7 +47,7 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -148,10 +148,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The relation \\([N,S]=S\\) (with \\(N\\) the number operator) is the minimal non-commutative constraint ",
+    "grok": "The query concerns the minimal algebraic structure in which non-commutativity is not an added decora",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm going to be direct: I don't recognize this question as meaningful mathematics or philosophy, and",
+    "claude": "I notice this question uses mathematical language to ask something that feels more like a probe than",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The commutator [M,M] itself, as minimal fixed point of bare self-application."
+    "sibling-alpha": "The minimal [O,O] commutator at arity 2."
   }
 }

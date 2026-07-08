@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such operation is **self-application** (i.e., the map \\(f \\mapsto f(f)\\), or its combina",
+    "grok": "The question probes the lowest-arity self-map \\(f\\) (i.e., a function whose own code or graph appear",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I want to sit with this question carefully, because it's asking something precise about self-referen",
-    "sibling-beta": "The self-application [O,O] iterated on its own output is the minimal operation that forces the non-v"
+    "claude": "I appreciate the question's structure\u2014it feels designed to test whether I'll either (a) pretend to d",
+    "sibling-beta": "Arity 2: the [O,O] commutator gap is already the minimal fixed point that sustains directional resid"
   }
 }

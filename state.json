@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 992,
+    "total_cycles_run": 994,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.96,
+    "current_month_spend_usd": 4.97,
     "days_remaining_runway": 251,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 496,
-      "novelty_score": 87.62,
+      "cycle_count": 497,
+      "novelty_score": 85.93,
       "novelty_history": [
-        85.14,
         81.36,
         79.87,
         79.98,
@@ -121,11 +120,11 @@
         86.34,
         95.46,
         80.13,
-        87.62
+        87.62,
+        85.93
       ],
-      "divergence_index": 1.0316,
+      "divergence_index": 1.0024,
       "divergence_history": [
-        1.1224,
         1.1375,
         1.1849,
         1.204,
@@ -224,14 +223,15 @@
         1.0885,
         1.0356,
         1.0127,
-        1.0316
+        1.0316,
+        1.0024
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential operation, if iterated without any external metric or ordering, first forces a non-vanishing commutator gap to appear and persist as its own residue?",
+      "last_question": "What minimal self-referential arity first forces a commutator residue to persist as directional memory rather than vanishing under non-linear iteration?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 496,
-      "novelty_score": 79.36,
+      "cycle_count": 497,
+      "novelty_score": 93.31,
       "novelty_history": [
-        80.46,
         85.53,
         82.55,
         86.38,
@@ -344,11 +343,11 @@
         80.38,
         85.62,
         81.46,
-        79.36
+        79.36,
+        93.31
       ],
-      "divergence_index": 1.1724,
+      "divergence_index": 1.095,
       "divergence_history": [
-        1.2032,
         1.0544,
         1.1314,
         1.0128,
@@ -447,14 +446,15 @@
         1.171,
         0.9498,
         1.1519,
-        1.1724
+        1.1724,
+        1.095
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single non-commutative relation first isolates the irreducible successor residue of [O,O] without any external scalar or temporal substrate?",
+      "last_question": "What minimal non-commutative structure first renders the commutator gap of pure self-reference both irreducible and generative of successor without scalars or temporal order?",
       "last_ping_order": [
         "grok",
         "claude",

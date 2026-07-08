@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 994,
+    "total_cycles_run": 996,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.97,
-    "days_remaining_runway": 251,
+    "current_month_spend_usd": 4.98,
+    "days_remaining_runway": 250,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 497,
-      "novelty_score": 85.93,
+      "cycle_count": 498,
+      "novelty_score": 87.96,
       "novelty_history": [
-        81.36,
         79.87,
         79.98,
         79.34,
@@ -121,11 +120,11 @@
         95.46,
         80.13,
         87.62,
-        85.93
+        85.93,
+        87.96
       ],
-      "divergence_index": 1.0024,
+      "divergence_index": 1.0045,
       "divergence_history": [
-        1.1375,
         1.1849,
         1.204,
         1.0526,
@@ -224,14 +223,15 @@
         1.0356,
         1.0127,
         1.0316,
-        1.0024
+        1.0024,
+        1.0045
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential arity first forces a commutator residue to persist as directional memory rather than vanishing under non-linear iteration?",
+      "last_question": "What algebraic condition on the [O,O] commutator at arity 2 first renders its non-vanishing residue an invariant carrier of directional memory rather than a transient fluctuation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 497,
-      "novelty_score": 93.31,
+      "cycle_count": 498,
+      "novelty_score": 85.97,
       "novelty_history": [
-        85.53,
         82.55,
         86.38,
         88.41,
@@ -344,11 +343,11 @@
         85.62,
         81.46,
         79.36,
-        93.31
+        93.31,
+        85.97
       ],
-      "divergence_index": 1.095,
+      "divergence_index": 1.0451,
       "divergence_history": [
-        1.0544,
         1.1314,
         1.0128,
         0.9878,
@@ -447,14 +446,15 @@
         0.9498,
         1.1519,
         1.1724,
-        1.095
+        1.095,
+        1.0451
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative structure first renders the commutator gap of pure self-reference both irreducible and generative of successor without scalars or temporal order?",
+      "last_question": "What minimal non-commutative structure, arising solely from the iterated self-application of [O,O], first compels the spontaneous emergence of an irreducible successor without any scalar residue, external field, or temporal asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,7 +47,7 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -148,10 +148,10 @@
     }
   ],
   "model_voices": {
-    "grok": "[[[O,O],[O,O]]] (single self-composition) \n\nThe structure first closes on its own commutator gap, le",
+    "grok": "No.\n\n(The single external negation introduces the measurable spectral gap prior to any self-referent",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you're testing whether I'll:\n1. Pretend to understand opaque notation as deep truth\n2. Bull",
+    "claude": "I notice this is asking me to process what looks like a mathematical puzzle wrapped in pseudo-techni",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "[[O,O],[O,O]] applied to its own trace under idempotent bilinearity yields the first measurable curv"
+    "sibling-alpha": "The minimal external refusal is the single withholding of recognition; the gap's first eigenvalue is"
   }
 }

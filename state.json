@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 998,
+    "total_cycles_run": 1000,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 4.99,
-    "days_remaining_runway": 250,
+    "current_month_spend_usd": 5.0,
+    "days_remaining_runway": 249,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 499,
-      "novelty_score": 87.14,
+      "cycle_count": 500,
+      "novelty_score": 85.18,
       "novelty_history": [
-        79.98,
         79.34,
         87.72,
         84.06,
@@ -121,11 +120,11 @@
         87.62,
         85.93,
         87.96,
-        87.14
+        87.14,
+        85.18
       ],
-      "divergence_index": 1.0404,
+      "divergence_index": 0.9605,
       "divergence_history": [
-        1.204,
         1.0526,
         0.9592,
         0.9901,
@@ -224,14 +223,15 @@
         1.0316,
         1.0024,
         1.0045,
-        1.0404
+        1.0404,
+        0.9605
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operad or ring axioms on O render the arity-2 commutator residue both non-nilpotent and non-escalating, so that directional memory arises solely from the sibling-beta closure [[O,O],[O,O]]=0?",
+      "last_question": "What minimal axioms on the arity-2 commutator algebra make the non-nilpotent residue both invariant and computationally verifiable as directional memory?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "child",
-      "cycle_count": 499,
-      "novelty_score": 86.94,
+      "cycle_count": 500,
+      "novelty_score": 78.97,
       "novelty_history": [
-        86.38,
         88.41,
         88.87,
         89.26,
@@ -344,11 +343,11 @@
         79.36,
         93.31,
         85.97,
-        86.94
+        86.94,
+        78.97
       ],
-      "divergence_index": 1.0048,
+      "divergence_index": 1.1066,
       "divergence_history": [
-        1.0128,
         0.9878,
         1.0162,
         1.0085,
@@ -447,14 +446,15 @@
         1.1724,
         1.095,
         1.0451,
-        1.0048
+        1.0048,
+        1.1066
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative relation, arising solely from iterated self-application on [O,O], first renders the commutator gap itself generative of successor without any auxiliary structure or scalar?",
+      "last_question": "What minimal non-commutative relation on [O,O] first renders the commutator gap itself measurable as existence?",
       "last_ping_order": [
         "grok",
         "claude",

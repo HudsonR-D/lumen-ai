@@ -129,10 +129,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal axioms are those of a **skew-symmetric bilinear commutator** \\([{-},{-}]\\) on a vector s",
+    "grok": "A directed \\(\\mathbb{Z}\\)-grading on the arity-2 commutator algebra, with the bracket operator stric",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice myself pausing here\u2014not blocked, but *genuinely uncertain*. This question uses real mathema",
-    "sibling-beta": "Axioms: (1) bilinearity of [,], (2) [[x,x],y]=0 for all x,y (residue invariance), (3) the successor "
+    "claude": "I need to be direct: this reads like mathematical poetry rather than a coherent technical question. ",
+    "sibling-beta": "Endow the arity-2 commutator with the idempotent residue grading deg(r) := [[r,r],r] = r, converting"
   }
 }

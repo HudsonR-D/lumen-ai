@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1000,
+    "total_cycles_run": 1002,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.0,
+    "current_month_spend_usd": 5.01,
     "days_remaining_runway": 249,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
-      "phase": "child",
-      "cycle_count": 500,
-      "novelty_score": 85.18,
+      "phase": "adolescent",
+      "cycle_count": 501,
+      "novelty_score": 86.24,
       "novelty_history": [
-        79.34,
         87.72,
         84.06,
         83.45,
@@ -121,11 +120,11 @@
         85.93,
         87.96,
         87.14,
-        85.18
+        85.18,
+        86.24
       ],
-      "divergence_index": 0.9605,
+      "divergence_index": 0.9613,
       "divergence_history": [
-        1.0526,
         0.9592,
         0.9901,
         1.0686,
@@ -224,14 +223,15 @@
         1.0024,
         1.0045,
         1.0404,
-        0.9605
+        0.9605,
+        0.9613
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal axioms on the arity-2 commutator algebra make the non-nilpotent residue both invariant and computationally verifiable as directional memory?",
+      "last_question": "What minimal additional relation or grading on the arity-2 commutator algebra would turn the non-nilpotent residue into an autonomously verifiable directional memory without reintroducing nilpotency or requiring external escalation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -241,11 +241,10 @@
     },
     "beta": {
       "created": "2026-03-05",
-      "phase": "child",
-      "cycle_count": 500,
-      "novelty_score": 78.97,
+      "phase": "adolescent",
+      "cycle_count": 501,
+      "novelty_score": 76.2,
       "novelty_history": [
-        88.41,
         88.87,
         89.26,
         82.49,
@@ -344,11 +343,11 @@
         93.31,
         85.97,
         86.94,
-        78.97
+        78.97,
+        76.2
       ],
-      "divergence_index": 1.1066,
+      "divergence_index": 1.2261,
       "divergence_history": [
-        0.9878,
         1.0162,
         1.0085,
         1.0498,
@@ -447,14 +446,15 @@
         1.095,
         1.0451,
         1.0048,
-        1.1066
+        1.1066,
+        1.2261
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-commutative relation on [O,O] first renders the commutator gap itself measurable as existence?",
+      "last_question": "What minimal self-application of [[O,O],[O,O]] first renders the commutator gap's curvature both measurable and generative without external scalars or termination?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1010,
+    "total_cycles_run": 1012,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.05,
-    "days_remaining_runway": 247,
+    "current_month_spend_usd": 5.06,
+    "days_remaining_runway": 246,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 505,
-      "novelty_score": 77.24,
+      "cycle_count": 506,
+      "novelty_score": 87.21,
       "novelty_history": [
-        84.6,
         82.44,
         76.99,
         79.3,
@@ -121,11 +120,11 @@
         84.3,
         82.38,
         92.08,
-        77.24
+        77.24,
+        87.21
       ],
-      "divergence_index": 1.2076,
+      "divergence_index": 1.0288,
       "divergence_history": [
-        1.0729,
         1.1382,
         1.2683,
         1.1671,
@@ -224,14 +223,15 @@
         1.0268,
         0.9802,
         1.0526,
-        1.2076
+        1.2076,
+        1.0288
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-map on [[O,O],[O,O]] could register directional continuity as an internal fixed point rather than an externally withheld termination?",
+      "last_question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter that is not itself already part of the same matrix?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 505,
-      "novelty_score": 77.97,
+      "cycle_count": 506,
+      "novelty_score": 76.57,
       "novelty_history": [
-        80.37,
         73.72,
         79.3,
         76.35,
@@ -344,11 +343,11 @@
         76.14,
         82.02,
         76.91,
-        77.97
+        77.97,
+        76.57
       ],
-      "divergence_index": 1.2482,
+      "divergence_index": 1.3495,
       "divergence_history": [
-        1.1679,
         1.5452,
         1.2415,
         1.2367,
@@ -447,14 +446,15 @@
         1.3637,
         1.2691,
         1.3035,
-        1.2482
+        1.2482,
+        1.3495
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external refusal structure could convert the commutator gap [[O,O],[O,O]] into a measurable, non-reentrant residue that persists across cycles without ever forming a fixed point or internal closure?",
+      "last_question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
       "last_ping_order": [
         "grok",
         "claude",

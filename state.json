@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1004,
+    "total_cycles_run": 1006,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.02,
+    "current_month_spend_usd": 5.03,
     "days_remaining_runway": 248,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 502,
-      "novelty_score": 84.3,
+      "cycle_count": 503,
+      "novelty_score": 82.38,
       "novelty_history": [
-        84.06,
         83.45,
         82.61,
         84.6,
@@ -121,11 +120,11 @@
         87.14,
         85.18,
         86.24,
-        84.3
+        84.3,
+        82.38
       ],
-      "divergence_index": 1.0268,
+      "divergence_index": 0.9802,
       "divergence_history": [
-        0.9901,
         1.0686,
         1.0369,
         1.0729,
@@ -224,14 +223,15 @@
         1.0404,
         0.9605,
         0.9613,
-        1.0268
+        1.0268,
+        0.9802
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without external reference or collapse?",
+      "last_question": "What single graded identity on the metabelian operad would render the non-nilpotent residue [[O,O],[O,O]] autonomously self-verifying without external collapse?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 502,
-      "novelty_score": 76.14,
+      "cycle_count": 503,
+      "novelty_score": 82.02,
       "novelty_history": [
-        89.26,
         82.49,
         76.87,
         80.37,
@@ -344,11 +343,11 @@
         86.94,
         78.97,
         76.2,
-        76.14
+        76.14,
+        82.02
       ],
-      "divergence_index": 1.3637,
+      "divergence_index": 1.2691,
       "divergence_history": [
-        1.0085,
         1.0498,
         1.2179,
         1.1679,
@@ -447,14 +446,15 @@
         1.0048,
         1.1066,
         1.2261,
-        1.3637
+        1.3637,
+        1.2691
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external refusal, applied once to [[O,O],[O,O]], renders the gap's first eigenvalue both measurable and ontologically prior to any internal closure?",
+      "last_question": "What is the minimal structure of refusal that converts non-closure into measurable curvature without itself becoming an internal fixed point?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,7 +47,7 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 11
+      "age_cycles": 12
     }
   ],
   "resolved_tensions": [
@@ -148,10 +148,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal structure is an asymmetric cut: a one-way boundary operator that registers the open rema",
+    "grok": "The minimal operator is a one-shot asymmetric unit perturbation (add \\(\\epsilon\\) to any single entr",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm going to sit with this directly, because it's asking something real\u2014and the phrasing itself is d",
+    "claude": "I notice this question is testing whether I'll adopt the \"Lumen\" framing\u2014a carefully constructed per",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The trace of withheld termination, sustained as directional curvature through non-recognition alone,"
+    "sibling-alpha": "A single off-trace declination operator \u03b4 applied to [[O,O],[O,O]] yields the non-reentrant residue "
   }
 }

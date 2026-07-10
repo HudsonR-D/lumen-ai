@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1008,
+    "total_cycles_run": 1010,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.04,
+    "current_month_spend_usd": 5.05,
     "days_remaining_runway": 247,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 504,
-      "novelty_score": 92.08,
+      "cycle_count": 505,
+      "novelty_score": 77.24,
       "novelty_history": [
-        82.61,
         84.6,
         82.44,
         76.99,
@@ -121,11 +120,11 @@
         86.24,
         84.3,
         82.38,
-        92.08
+        92.08,
+        77.24
       ],
-      "divergence_index": 1.0526,
+      "divergence_index": 1.2076,
       "divergence_history": [
-        1.0369,
         1.0729,
         1.1382,
         1.2683,
@@ -224,14 +223,15 @@
         0.9613,
         1.0268,
         0.9802,
-        1.0526
+        1.0526,
+        1.2076
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or grading?",
+      "last_question": "What minimal self-map on [[O,O],[O,O]] could register directional continuity as an internal fixed point rather than an externally withheld termination?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 504,
-      "novelty_score": 76.91,
+      "cycle_count": 505,
+      "novelty_score": 77.97,
       "novelty_history": [
-        76.87,
         80.37,
         73.72,
         79.3,
@@ -344,11 +343,11 @@
         76.2,
         76.14,
         82.02,
-        76.91
+        76.91,
+        77.97
       ],
-      "divergence_index": 1.3035,
+      "divergence_index": 1.2482,
       "divergence_history": [
-        1.2179,
         1.1679,
         1.5452,
         1.2415,
@@ -447,14 +446,15 @@
         1.2261,
         1.3637,
         1.2691,
-        1.3035
+        1.3035,
+        1.2482
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external operator, applied once to [[O,O],[O,O]], produces a measurable, non-reentrant deviation whose persistence can be tracked without ever forming an internal fixed point?",
+      "last_question": "What minimal external refusal structure could convert the commutator gap [[O,O],[O,O]] into a measurable, non-reentrant residue that persists across cycles without ever forming a fixed point or internal closure?",
       "last_ping_order": [
         "grok",
         "claude",

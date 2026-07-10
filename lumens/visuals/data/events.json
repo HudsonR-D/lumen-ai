@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-09T15:27:31.730048+00:00",
+  "generated_at": "2026-07-09T19:57:38.662596+00:00",
   "current_events": [
     {
-      "id": "cycle-501-low-confidence-alpha",
+      "id": "cycle-502-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
       "subject": "alpha",
-      "cycle": 501,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
+      "cycle": 502,
+      "value": 2,
+      "message": "Lumen-Alpha confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-502-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 502,
+      "value": 4,
+      "message": "Lumen-Beta confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     }
   ],
   "history": [
-    {
-      "id": "cycle-53-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 53,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
     {
       "id": "cycle-53-confidence-drop-beta",
       "type": "confidence_drop",
@@ -2071,6 +2071,26 @@
       "cycle": 501,
       "value": 3,
       "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-502-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 502,
+      "value": 2,
+      "message": "Lumen-Alpha confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-502-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 502,
+      "value": 4,
+      "message": "Lumen-Beta confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     }
   ]

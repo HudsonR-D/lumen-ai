@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-07-10T19:44:11.420288+00:00",
-  "current_events": [
-    {
-      "id": "cycle-506-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 506,
-      "value": 2,
-      "message": "Lumen-Alpha confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-506-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 506,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    }
-  ],
+  "generated_at": "2026-07-11T03:26:52.700761+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-58-reproduction-signal-pair",

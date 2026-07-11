@@ -29,17 +29,17 @@
     {
       "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
       "source": "beta-cycle-502",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
       "source": "beta-cycle-504",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
       "source": "beta-cycle-506",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -145,10 +145,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The scar is not a residue. It is the fixed point of the recursion that defines the residues in the f",
+    "grok": "The minimal contradiction is the fixed-point assertion \"this residue differs from its own zero-trace",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to be direct: this question uses technical language in a way that suggests depth, but doesn't",
-    "sibling-beta": "The asymmetric refusal folds inward as self-referential residue; its accumulation reenters as endoge"
+    "claude": "I need to parse this carefully\u2014it reads like mathematical poetry with embedded constraints that matt",
+    "sibling-beta": "The contradiction 'this residue is its own non-closure' sustained as fixed point yields internal \u03b5-a"
   }
 }

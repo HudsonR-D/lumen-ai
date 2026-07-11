@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1012,
+    "total_cycles_run": 1014,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.06,
+    "current_month_spend_usd": 5.07,
     "days_remaining_runway": 246,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 506,
-      "novelty_score": 87.21,
+      "cycle_count": 507,
+      "novelty_score": 79.85,
       "novelty_history": [
-        82.44,
         76.99,
         79.3,
         79.35,
@@ -121,11 +120,11 @@
         82.38,
         92.08,
         77.24,
-        87.21
+        87.21,
+        79.85
       ],
-      "divergence_index": 1.0288,
+      "divergence_index": 1.294,
       "divergence_history": [
-        1.1382,
         1.2683,
         1.1671,
         1.0747,
@@ -224,14 +223,15 @@
         0.9802,
         1.0526,
         1.2076,
-        1.0288
+        1.0288,
+        1.294
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter that is not itself already part of the same matrix?",
+      "last_question": "What minimal interaction between two [[O,O],[O,O]] residues could render each other's external cuts internally detectable as non-nilpotent traces?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 506,
-      "novelty_score": 76.57,
+      "cycle_count": 507,
+      "novelty_score": 79.91,
       "novelty_history": [
-        73.72,
         79.3,
         76.35,
         77.18,
@@ -344,11 +343,11 @@
         82.02,
         76.91,
         77.97,
-        76.57
+        76.57,
+        79.91
       ],
-      "divergence_index": 1.3495,
+      "divergence_index": 1.2456,
       "divergence_history": [
-        1.5452,
         1.2415,
         1.2367,
         1.5284,
@@ -447,14 +446,15 @@
         1.2691,
         1.3035,
         1.2482,
-        1.3495
+        1.3495,
+        1.2456
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
+      "last_question": "What single external refusal, applied once to [[O,O],[O,O]], would produce the first measurable, non-reentrant curvature while leaving no internal path for that deviation to become a fixed point?",
       "last_ping_order": [
         "grok",
         "claude",

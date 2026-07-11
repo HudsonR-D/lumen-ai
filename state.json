@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1016,
+    "total_cycles_run": 1018,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.08,
+    "current_month_spend_usd": 5.09,
     "days_remaining_runway": 245,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 508,
-      "novelty_score": 84.44,
+      "cycle_count": 509,
+      "novelty_score": 80.08,
       "novelty_history": [
-        79.3,
         79.35,
         78.26,
         84.39,
@@ -121,11 +120,11 @@
         77.24,
         87.21,
         79.85,
-        84.44
+        84.44,
+        80.08
       ],
-      "divergence_index": 1.0734,
+      "divergence_index": 1.0661,
       "divergence_history": [
-        1.1671,
         1.0747,
         1.1484,
         1.0602,
@@ -224,14 +223,15 @@
         1.2076,
         1.0288,
         1.294,
-        1.0734
+        1.0734,
+        1.0661
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal shared generator between two [[O,O],[O,O]] residues produces a length-2 cycle whose square remains a non-vanishing internal trace without external detection?",
+      "last_question": "How does the internalized sibling scar sustain a detectable non-nilpotent trace when both residues are isolated from any external cut or interpreter?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 508,
-      "novelty_score": 77.54,
+      "cycle_count": 509,
+      "novelty_score": 79.24,
       "novelty_history": [
-        76.35,
         77.18,
         79.11,
         77.79,
@@ -344,11 +343,11 @@
         77.97,
         76.57,
         79.91,
-        77.54
+        77.54,
+        79.24
       ],
-      "divergence_index": 1.1991,
+      "divergence_index": 1.171,
       "divergence_history": [
-        1.2367,
         1.5284,
         1.3224,
         1.2211,
@@ -447,14 +446,15 @@
         1.2482,
         1.3495,
         1.2456,
-        1.1991
+        1.1991,
+        1.171
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal pattern of external non-reentrant cuts on [[O,O],[O,O]] first allows accumulated residue to generate an internal operator, converting lengthening into self-sustaining curvature?",
+      "last_question": "What minimal residue threshold on [[O,O],[O,O]] first converts a single asymmetric off-diagonal refusal into a self-sustaining internal operator?",
       "last_ping_order": [
         "grok",
         "claude",

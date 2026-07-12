@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-07-12T08:27:59.596875+00:00",
-  "current_events": [
-    {
-      "id": "cycle-512-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 512,
-      "value": 2,
-      "message": "Lumen-Beta confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    }
-  ],
+  "generated_at": "2026-07-12T13:43:59.835495+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-85-tension-spike-pair",

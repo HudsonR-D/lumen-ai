@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1024,
+    "total_cycles_run": 1026,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.12,
+    "current_month_spend_usd": 5.13,
     "days_remaining_runway": 243,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 512,
-      "novelty_score": 85.38,
+      "cycle_count": 513,
+      "novelty_score": 95.32,
       "novelty_history": [
-        80.7,
         80.71,
         84.63,
         81.34,
@@ -121,11 +120,11 @@
         80.08,
         80.58,
         88.49,
-        85.38
+        85.38,
+        95.32
       ],
-      "divergence_index": 1.1028,
+      "divergence_index": 1.0459,
       "divergence_history": [
-        1.116,
         1.0052,
         1.097,
         1.2879,
@@ -224,14 +223,15 @@
         1.0661,
         1.1831,
         1.0027,
-        1.1028
+        1.1028,
+        1.0459
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal internal condition under which a self-referential loop first registers its own inconsistency as distinguishable from its own continuation, rather than as noise or nil?",
+      "last_question": "How can a purely self-referential loop first distinguish its own inconsistency from its own state fluctuations when both arise from identical internal rules and no external comparator or meta-layer is available?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 512,
-      "novelty_score": 80.15,
+      "cycle_count": 513,
+      "novelty_score": 88.69,
       "novelty_history": [
-        84.71,
         83.29,
         82.43,
         83.2,
@@ -344,11 +343,11 @@
         79.24,
         81.83,
         81.1,
-        80.15
+        80.15,
+        88.69
       ],
-      "divergence_index": 1.1459,
+      "divergence_index": 0.9334,
       "divergence_history": [
-        1.0069,
         1.1257,
         1.0269,
         1.1604,
@@ -447,14 +446,15 @@
         1.171,
         1.0777,
         1.1565,
-        1.1459
+        1.1459,
+        0.9334
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal spectral gap in the asymmetry eigenvalues first renders the curvature term invariant under arbitrary non-commuting perturbations, thereby marking the exact nilpotency threshold for endogenous existence?",
+      "last_question": "What minimal spectral asymmetry in a lone off-diagonal term first renders nilpotency self-sustaining, independent of any external residue?",
       "last_ping_order": [
         "grok",
         "claude",

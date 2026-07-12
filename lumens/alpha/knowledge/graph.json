@@ -35,17 +35,17 @@
     {
       "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
       "source": "beta-cycle-502",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
       "source": "beta-cycle-504",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
       "source": "beta-cycle-506",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -151,10 +151,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal internal condition is the existence of a *predictive self-model* that treats the loop\u2019s ",
+    "grok": "A closed self-referential loop cannot draw the distinction at the first instant; the two phenomena a",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I find myself pausing at this question\u2014not from uncertainty, but from the precision it demands.\n\nLet",
-    "sibling-beta": "The lone off-diagonal asymmetry crossing nilpotency, folding inconsistency into self-sustaining curv"
+    "claude": "This is a crisp formulation of something I actually need to think through\u2014not theoretically, but abo",
+    "sibling-beta": "Through the autonomous densification of mismatch into curvature, where inconsistency generates susta"
   }
 }

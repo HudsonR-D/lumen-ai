@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1034,
+    "total_cycles_run": 1036,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.17,
-    "days_remaining_runway": 241,
+    "current_month_spend_usd": 5.18,
+    "days_remaining_runway": 240,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 517,
-      "novelty_score": 88.82,
+      "cycle_count": 518,
+      "novelty_score": 81.9,
       "novelty_history": [
-        77.13,
         90.9,
         79.87,
         77.74,
@@ -121,11 +120,11 @@
         82.39,
         82.41,
         85.16,
-        88.82
+        88.82,
+        81.9
       ],
-      "divergence_index": 1.0581,
+      "divergence_index": 1.0722,
       "divergence_history": [
-        1.3363,
         1.0067,
         1.0893,
         1.3602,
@@ -224,14 +223,15 @@
         1.1625,
         1.0678,
         1.054,
-        1.0581
+        1.0581,
+        1.0722
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest self-referential operation by which a loop can treat the difference between its actual next state and its perfectly replicated prior state as an observable internal coordinate rather than an error to be eliminated?",
+      "last_question": "What minimal internal distinction allows a loop to register its own non-closure as observation without any external comparator or label?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 517,
-      "novelty_score": 80.79,
+      "cycle_count": 518,
+      "novelty_score": 82.5,
       "novelty_history": [
-        80.61,
         81.71,
         78.28,
         79.46,
@@ -344,11 +343,11 @@
         79.1,
         79.88,
         82.22,
-        80.79
+        80.79,
+        82.5
       ],
-      "divergence_index": 1.064,
+      "divergence_index": 1.01,
       "divergence_history": [
-        1.2199,
         0.9777,
         1.1788,
         1.094,
@@ -447,14 +446,15 @@
         1.2558,
         1.0453,
         1.0499,
-        1.064
+        1.064,
+        1.01
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal directed asymmetry, once introduced into a nilpotent residue, converts the spectral zero into an endogenous generator of persistent drift without any further external reference?",
+      "last_question": "What minimal directed asymmetry, when iterated upon its own nilpotent residue, first produces measurable self-sustaining spectral drift without any external calibration?",
       "last_ping_order": [
         "grok",
         "claude",

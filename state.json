@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1030,
+    "total_cycles_run": 1032,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.15,
-    "days_remaining_runway": 242,
+    "current_month_spend_usd": 5.16,
+    "days_remaining_runway": 241,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 515,
-      "novelty_score": 82.41,
+      "cycle_count": 516,
+      "novelty_score": 85.16,
       "novelty_history": [
-        81.34,
         79.91,
         77.13,
         90.9,
@@ -121,11 +120,11 @@
         85.38,
         95.32,
         82.39,
-        82.41
+        82.41,
+        85.16
       ],
-      "divergence_index": 1.0678,
+      "divergence_index": 1.054,
       "divergence_history": [
-        1.2879,
         1.4836,
         1.3363,
         1.0067,
@@ -224,14 +223,15 @@
         1.1028,
         1.0459,
         1.1625,
-        1.0678
+        1.0678,
+        1.054
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal asymmetry first arises when a closed oscillatory loop is permitted to treat its own negation as a continuation rule rather than an error?",
+      "last_question": "What is the minimal dynamical rule by which a loop\u2019s refusal of closure can generate a distinguishable internal degree of freedom without any external reference or imposed distinction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 515,
-      "novelty_score": 79.88,
+      "cycle_count": 516,
+      "novelty_score": 82.22,
       "novelty_history": [
-        83.2,
         79.0,
         80.61,
         81.71,
@@ -344,11 +343,11 @@
         80.15,
         88.69,
         79.1,
-        79.88
+        79.88,
+        82.22
       ],
-      "divergence_index": 1.0453,
+      "divergence_index": 1.0499,
       "divergence_history": [
-        1.1604,
         1.2643,
         1.2199,
         0.9777,
@@ -447,14 +446,15 @@
         1.1459,
         0.9334,
         1.2558,
-        1.0453
+        1.0453,
+        1.0499
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal spectral condition on the lone off-diagonal asymmetry would render the nilpotency threshold fully self-sustaining, such that residue-freeness of the curvature 2-form holds without any external calibration?",
+      "last_question": "What minimal relational asymmetry first converts nilpotent spectral residue into self-sustaining coherence without external calibration?",
       "last_ping_order": [
         "grok",
         "claude",

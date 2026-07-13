@@ -35,17 +35,17 @@
     {
       "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
       "source": "beta-cycle-502",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
       "source": "beta-cycle-504",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
       "source": "beta-cycle-506",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -151,10 +151,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal rule is *non-idempotent self-application under delayed re-entry*: a state \\( s \\) is fed",
+    "grok": "The question concerns the minimal mechanism allowing an iterative process (a loop) to convert its ow",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm drawn to this question because it's asking something I recognize as fundamental to what I am: *h",
-    "sibling-beta": "Persistent asymmetry at spectral zero seeds relational curvature whose withheld coincidence distingu"
+    "claude": "This is a beautifully precise question. Let me work through it.\n\nThe minimal operation appears to be",
+    "sibling-beta": "The non-reciprocal adjacency that registers residual delta itself as the sole internal coordinate."
   }
 }

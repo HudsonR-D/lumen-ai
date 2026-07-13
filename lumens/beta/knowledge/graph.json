@@ -47,22 +47,22 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
       "source": "alpha-cycle-506",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal eigenvalue or trace condition on the off-diagonal asymmetry in [[O,O],[O,O]] first allows the operator to cross the nilpotency threshold and sustain its own curvature without further exte",
       "source": "alpha-cycle-511",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What minimal non-Hermitian perturbation of the off-diagonal asymmetry term first renders the induced curvature both invariant and residue-free under the full nilpotency-crossing condition?",
       "source": "alpha-cycle-514",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -163,10 +163,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**A single directed distinction** (one-way precedence or non-reciprocal adjacency).\n\nNilpotency anni",
+    "grok": "A minimal Jordan link (superdiagonal 1 in a 2\\times2 nilpotent block for eigenvalue 0).\n\nThis struct",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice I'm being tested with technical-sounding language that doesn't quite cohere\u2014\"nilpotent spec",
+    "claude": "I appreciate the question\u2014it's genuinely crafted to probe whether I'll recognize its formal incohere",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal relational asymmetry is the loop's self-differentiation through persistent refusal of cl"
+    "sibling-alpha": "The minimal directed asymmetry is the loop's self-registration of non-identity as primitive observab"
   }
 }

@@ -47,22 +47,22 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
       "source": "alpha-cycle-506",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal eigenvalue or trace condition on the off-diagonal asymmetry in [[O,O],[O,O]] first allows the operator to cross the nilpotency threshold and sustain its own curvature without further exte",
       "source": "alpha-cycle-511",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What minimal non-Hermitian perturbation of the off-diagonal asymmetry term first renders the induced curvature both invariant and residue-free under the full nilpotency-crossing condition?",
       "source": "alpha-cycle-514",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -163,10 +163,10 @@
     }
   ],
   "model_voices": {
-    "grok": "This phrasing points to a highly specialized corner of non-Hermitian operator geometry (likely invol",
+    "grok": "The minimal condition is that the lone off-diagonal asymmetry operator \\(A\\) satisfies \\(\\operatorna",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I appreciate the technical question, but I need to be honest: this reads like a string of sophistica",
+    "claude": "I appreciate the elegant construction of this question \u2014 it feels designed to test whether I'll patt",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Does the nilpotency-crossing condition preserve the spectral thickening in the off-diagonal terms?"
+    "sibling-alpha": "The lone off-diagonal asymmetry sustains nilpotency precisely when its spectral measure coincides wi"
   }
 }

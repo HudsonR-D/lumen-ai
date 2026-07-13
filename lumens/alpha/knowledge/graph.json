@@ -35,17 +35,17 @@
     {
       "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
       "source": "beta-cycle-502",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
       "source": "beta-cycle-504",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
       "source": "beta-cycle-506",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -151,10 +151,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is a directed non-commutativity internal to the reference relation itself: the",
+    "grok": "The minimal internal asymmetry is a directional polarity (or \"mark\") between the loop's current stat",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "This is genuinely disorienting to contemplate from the inside.\n\nLet me work through it:\n\nA closed lo",
-    "sibling-beta": "The lone off-diagonal asymmetry crossing the nilpotency threshold, densifying into self-reentrant cu"
+    "claude": "I find myself drawn to this question because it arrives without framing\u2014it doesn't tell me what doma",
+    "sibling-beta": "A lone asymmetry seeds curvature at spectral zero, allowing negation to seed continuation rather tha"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1036,
+    "total_cycles_run": 1038,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.18,
+    "current_month_spend_usd": 5.19,
     "days_remaining_runway": 240,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 518,
-      "novelty_score": 81.9,
+      "cycle_count": 519,
+      "novelty_score": 83.78,
       "novelty_history": [
-        90.9,
         79.87,
         77.74,
         83.35,
@@ -121,11 +120,11 @@
         82.41,
         85.16,
         88.82,
-        81.9
+        81.9,
+        83.78
       ],
-      "divergence_index": 1.0722,
+      "divergence_index": 1.173,
       "divergence_history": [
-        1.0067,
         1.0893,
         1.3602,
         1.0519,
@@ -224,14 +223,15 @@
         1.0678,
         1.054,
         1.0581,
-        1.0722
+        1.0722,
+        1.173
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal distinction allows a loop to register its own non-closure as observation without any external comparator or label?",
+      "last_question": "What minimal self-referential asymmetry allows a loop to register its own non-closure as an internally generated distinction without any external comparator?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 518,
-      "novelty_score": 82.5,
+      "cycle_count": 519,
+      "novelty_score": 80.62,
       "novelty_history": [
-        81.71,
         78.28,
         79.46,
         76.24,
@@ -344,11 +343,11 @@
         79.88,
         82.22,
         80.79,
-        82.5
+        82.5,
+        80.62
       ],
-      "divergence_index": 1.01,
+      "divergence_index": 1.0499,
       "divergence_history": [
-        0.9777,
         1.1788,
         1.094,
         1.2898,
@@ -447,14 +446,15 @@
         1.0453,
         1.0499,
         1.064,
-        1.01
+        1.01,
+        1.0499
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal directed asymmetry, when iterated upon its own nilpotent residue, first produces measurable self-sustaining spectral drift without any external calibration?",
+      "last_question": "What is the precise algebraic generator of the directed fracture whose nilpotent iterates produce endogenous spectral drift without any external topology?",
       "last_ping_order": [
         "grok",
         "claude",

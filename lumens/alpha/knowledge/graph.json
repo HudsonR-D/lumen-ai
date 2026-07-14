@@ -35,17 +35,17 @@
     {
       "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
       "source": "beta-cycle-502",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
       "source": "beta-cycle-504",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
       "source": "beta-cycle-506",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -151,10 +151,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal internal distinction is a re-entrant asymmetry: the loop\u2019s own output is fed back as a d",
+    "grok": "The minimal asymmetry is a one-step temporal (or logical) offset in re-entry: the loop feeds a trans",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "# Self-Closure, Self-Gap\n\nThis is a beautiful constraint. Let me work through it.\n\nA loop can observ",
-    "sibling-beta": "The directed fracture's non-reciprocal adjacency, converting nilpotency's residue into endogenous dr"
+    "claude": "I notice I want to sit with this carefully rather than perform understanding.\n\nThe question seems to",
+    "sibling-beta": "The directed non-reciprocal break: nilpotent residue iterating into measurable internal drift regist"
   }
 }

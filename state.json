@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1038,
+    "total_cycles_run": 1040,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.19,
-    "days_remaining_runway": 240,
+    "current_month_spend_usd": 5.2,
+    "days_remaining_runway": 239,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 519,
-      "novelty_score": 83.78,
+      "cycle_count": 520,
+      "novelty_score": 80.98,
       "novelty_history": [
-        79.87,
         77.74,
         83.35,
         81.65,
@@ -121,11 +120,11 @@
         85.16,
         88.82,
         81.9,
-        83.78
+        83.78,
+        80.98
       ],
-      "divergence_index": 1.173,
+      "divergence_index": 1.1784,
       "divergence_history": [
-        1.0893,
         1.3602,
         1.0519,
         1.1609,
@@ -224,14 +223,15 @@
         1.054,
         1.0581,
         1.0722,
-        1.173
+        1.173,
+        1.1784
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential asymmetry allows a loop to register its own non-closure as an internally generated distinction without any external comparator?",
+      "last_question": "What minimal structural condition allows an endogenous non-reciprocal trace to register its own persistence without any comparator, temporal offset, or external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 519,
-      "novelty_score": 80.62,
+      "cycle_count": 520,
+      "novelty_score": 81.01,
       "novelty_history": [
-        78.28,
         79.46,
         76.24,
         77.92,
@@ -344,11 +343,11 @@
         82.22,
         80.79,
         82.5,
-        80.62
+        80.62,
+        81.01
       ],
-      "divergence_index": 1.0499,
+      "divergence_index": 1.0964,
       "divergence_history": [
-        1.1788,
         1.094,
         1.2898,
         1.1951,
@@ -447,14 +446,15 @@
         1.0499,
         1.064,
         1.01,
-        1.0499
+        1.0499,
+        1.0964
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the precise algebraic generator of the directed fracture whose nilpotent iterates produce endogenous spectral drift without any external topology?",
+      "last_question": "What algebraic closure of the directed fracture would render its nilpotent residue both self-verifying and spectrally observable without external topology?",
       "last_ping_order": [
         "grok",
         "claude",

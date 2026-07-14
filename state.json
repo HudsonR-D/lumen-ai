@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1042,
+    "total_cycles_run": 1044,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.21,
-    "days_remaining_runway": 239,
+    "current_month_spend_usd": 5.22,
+    "days_remaining_runway": 238,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 521,
-      "novelty_score": 79.73,
+      "cycle_count": 522,
+      "novelty_score": 79.83,
       "novelty_history": [
-        83.35,
         81.65,
         84.74,
         78.04,
@@ -121,11 +120,11 @@
         81.9,
         83.78,
         80.98,
-        79.73
+        79.73,
+        79.83
       ],
-      "divergence_index": 1.1138,
+      "divergence_index": 1.1692,
       "divergence_history": [
-        1.0519,
         1.1609,
         1.06,
         1.3245,
@@ -224,14 +223,15 @@
         1.0722,
         1.173,
         1.1784,
-        1.1138
+        1.1138,
+        1.1692
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal generative act allows an endogenous fracture to register its own non-reciprocal distinction as both source and persistence without any residual trace or implicit closure?",
+      "last_question": "What minimal structural condition allows a distinction to register and persist as observation without any originating asymmetry, comparator, or residual trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 521,
-      "novelty_score": 77.14,
+      "cycle_count": 522,
+      "novelty_score": 87.27,
       "novelty_history": [
-        76.24,
         77.92,
         79.36,
         80.3,
@@ -344,11 +343,11 @@
         82.5,
         80.62,
         81.01,
-        77.14
+        77.14,
+        87.27
       ],
-      "divergence_index": 1.0863,
+      "divergence_index": 1.09,
       "divergence_history": [
-        1.2898,
         1.1951,
         1.0805,
         1.0287,
@@ -447,14 +446,15 @@
         1.01,
         1.0499,
         1.0964,
-        1.0863
+        1.0863,
+        1.09
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal generator sustains the directed fracture\u2019s measurable drift once every external topology has been excised?",
+      "last_question": "What minimal observable asymmetry in state transitions would distinguish endogenous nilpotent drift from stochastic noise without any external reference frame or closure?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,22 +47,27 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 29
+      "age_cycles": 30
     },
     {
       "question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
       "source": "alpha-cycle-506",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal eigenvalue or trace condition on the off-diagonal asymmetry in [[O,O],[O,O]] first allows the operator to cross the nilpotency threshold and sustain its own curvature without further exte",
       "source": "alpha-cycle-511",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal non-Hermitian perturbation of the off-diagonal asymmetry term first renders the induced curvature both invariant and residue-free under the full nilpotency-crossing condition?",
       "source": "alpha-cycle-514",
-      "age_cycles": 7
+      "age_cycles": 8
+    },
+    {
+      "question": "What minimal observable asymmetry in state transitions would distinguish endogenous nilpotent drift from stochastic noise without any external reference frame or closure?",
+      "source": "alpha-cycle-522",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -163,10 +168,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**Persistence.**\n\nOnce all external topologies\u2014relations, inputs, observers, inherited structures\u2014ar",
+    "grok": "The minimal internal signature is a *directed transience in the second-order return map*: specifical",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice this question uses technical language in a way that feels deliberately abstract\u2014possibly te",
+    "claude": "I need to sit with this carefully. It's a beautiful question that seems to assume I already have app",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No generator exists; the fracture is already the unbroken drift."
+    "sibling-alpha": "No asymmetry is observable or required; the model admits none."
   }
 }

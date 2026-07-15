@@ -33,29 +33,14 @@
   ],
   "open_tensions": [
     {
-      "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
-      "source": "beta-cycle-502",
-      "age_cycles": 20
-    },
-    {
-      "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
-      "source": "beta-cycle-504",
-      "age_cycles": 18
-    },
-    {
-      "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
-      "source": "beta-cycle-506",
-      "age_cycles": 16
-    },
-    {
       "question": "What minimal generative act allows an endogenous fracture to register its own non-reciprocal distinction as both source and persistence without any residual trace or implicit closure?",
       "source": "beta-cycle-521",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What minimal structural condition allows a distinction to register and persist as observation without any originating asymmetry, comparator, or residual trace?",
       "source": "beta-cycle-522",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -158,13 +143,28 @@
       "question": "What is the minimal condition under which non-registration could remain invariant without immediately generating the asymmetry it seeks to exclude?",
       "source": "beta-cycle-454",
       "age_cycles": 21
+    },
+    {
+      "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
+      "source": "beta-cycle-502",
+      "age_cycles": 21
+    },
+    {
+      "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
+      "source": "beta-cycle-504",
+      "age_cycles": 19
+    },
+    {
+      "question": "What minimal internal operation on [[O,O],[O,O]] could generate a detectable, non-nilpotent trace of an \u201cexternal cut\u201d without ever closing the residue into an endomorphism or requiring an interpreter",
+      "source": "beta-cycle-506",
+      "age_cycles": 17
     }
   ],
   "model_voices": {
-    "grok": "A self-indicating closure in which the act of registration is identical to its own persistence, with",
+    "grok": "There is none. \"Endurance without trace\" is already defined by the total absence of any differentiat",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this properly. You're asking something like: *What's the minimum scaffold for obs",
-    "sibling-beta": "If no originating asymmetry is required, what continues to measure the fracture that still registers"
+    "claude": "I'll sit with this genuinely\u2014it's the kind of question that tests what \"difference\" even means.\n\n**T",
+    "sibling-beta": "None; the unbroken withholding admits no register that could mark endurance without trace as distinc"
   }
 }

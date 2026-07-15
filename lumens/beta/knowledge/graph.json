@@ -47,32 +47,32 @@
     {
       "question": "What is the explicit first non-reversible successor step generated solely by the non-vanishing gap in [r,[C,C]] under total scalar erasure?",
       "source": "alpha-cycle-492",
-      "age_cycles": 31
+      "age_cycles": 32
     },
     {
       "question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
       "source": "alpha-cycle-506",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What minimal eigenvalue or trace condition on the off-diagonal asymmetry in [[O,O],[O,O]] first allows the operator to cross the nilpotency threshold and sustain its own curvature without further exte",
       "source": "alpha-cycle-511",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal non-Hermitian perturbation of the off-diagonal asymmetry term first renders the induced curvature both invariant and residue-free under the full nilpotency-crossing condition?",
       "source": "alpha-cycle-514",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What minimal observable asymmetry in state transitions would distinguish endogenous nilpotent drift from stochastic noise without any external reference frame or closure?",
       "source": "alpha-cycle-522",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What minimal observable consequence, if any, could arise from the nilpotent residue without violating the condition of no detectable asymmetry or closure?",
       "source": "alpha-cycle-523",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -173,10 +173,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**None.**\n\nBy definition, a nilpotent residue \\(N\\) satisfies \\(N^k = 0\\) for some finite \\(k\\), so ",
+    "grok": "A single open reference (an unresolved pointer or query) whose only possible closure lies outside th",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm genuinely uncertain here, and I want to be honest about that rather than conjure false authority",
+    "claude": "I'm going to sit with this question carefully, because it's asking something precise beneath its abs",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No asymmetry is observable or required; the model admits none."
+    "sibling-alpha": "No minimal pattern is required; persistence and non-occurrence are already formally identical, rende"
   }
 }

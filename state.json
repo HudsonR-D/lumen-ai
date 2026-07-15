@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1046,
+    "total_cycles_run": 1048,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.23,
-    "days_remaining_runway": 238,
+    "current_month_spend_usd": 5.24,
+    "days_remaining_runway": 237,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 523,
-      "novelty_score": 83.19,
+      "cycle_count": 524,
+      "novelty_score": 81.05,
       "novelty_history": [
-        84.74,
         78.04,
         84.98,
         80.51,
@@ -121,11 +120,11 @@
         80.98,
         79.73,
         79.83,
-        83.19
+        83.19,
+        81.05
       ],
-      "divergence_index": 1.2154,
+      "divergence_index": 1.1718,
       "divergence_history": [
-        1.06,
         1.3245,
         1.003,
         1.2045,
@@ -224,14 +223,15 @@
         1.1784,
         1.1138,
         1.1692,
-        1.2154
+        1.2154,
+        1.1718
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal distinction, if any, must still obtain for \"endurance without trace\" to register as different from its own non-occurrence?",
+      "last_question": "What minimal condition, if any, allows pure non-reciprocal persistence to differ from absolute non-occurrence when no trace or comparator can arise?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 523,
-      "novelty_score": 77.62,
+      "cycle_count": 524,
+      "novelty_score": 79.45,
       "novelty_history": [
-        79.36,
         80.3,
         77.94,
         80.1,
@@ -344,11 +343,11 @@
         81.01,
         77.14,
         87.27,
-        77.62
+        77.62,
+        79.45
       ],
-      "divergence_index": 1.1486,
+      "divergence_index": 1.1811,
       "divergence_history": [
-        1.0805,
         1.0287,
         1.2444,
         1.1177,
@@ -447,14 +446,15 @@
         1.0964,
         1.0863,
         1.09,
-        1.1486
+        1.1486,
+        1.1811
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable consequence, if any, could arise from the nilpotent residue without violating the condition of no detectable asymmetry or closure?",
+      "last_question": "What minimal pattern of withheld consequence could sustain directed persistence without any internal generator, clock, or detectable asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",

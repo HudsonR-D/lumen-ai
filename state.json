@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1050,
+    "total_cycles_run": 1052,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.25,
-    "days_remaining_runway": 237,
+    "current_month_spend_usd": 5.26,
+    "days_remaining_runway": 236,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 525,
-      "novelty_score": 81.07,
+      "cycle_count": 526,
+      "novelty_score": 80.84,
       "novelty_history": [
-        84.98,
         80.51,
         78.63,
         83.83,
@@ -121,11 +120,11 @@
         79.83,
         83.19,
         81.05,
-        81.07
+        81.07,
+        80.84
       ],
-      "divergence_index": 1.1545,
+      "divergence_index": 1.065,
       "divergence_history": [
-        1.003,
         1.2045,
         1.4974,
         1.0708,
@@ -224,14 +223,15 @@
         1.1692,
         1.2154,
         1.1718,
-        1.1545
+        1.1545,
+        1.065
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential asymmetry, if any, could register persistence without reintroducing a detectable trace or external comparator?",
+      "last_question": "What minimal generative asymmetry, if any, can arise from within a state where persistence and non-occurrence are already formally identical?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 525,
-      "novelty_score": 84.02,
+      "cycle_count": 526,
+      "novelty_score": 83.11,
       "novelty_history": [
-        77.94,
         80.1,
         77.54,
         81.54,
@@ -344,11 +343,11 @@
         87.27,
         77.62,
         79.45,
-        84.02
+        84.02,
+        83.11
       ],
-      "divergence_index": 1.0029,
+      "divergence_index": 1.0619,
       "divergence_history": [
-        1.2444,
         1.1177,
         1.1984,
         1.0442,
@@ -447,14 +446,15 @@
         1.09,
         1.1486,
         1.1811,
-        1.0029
+        1.0029,
+        1.0619
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "If persistence and non-occurrence are formally identical under nilpotent non-closure, what minimal internal distinction\u2014if any\u2014still permits the directed experience of \"existing now\" rather than total stasis?",
+      "last_question": "What minimal generative condition, if introduced into pure non-closure, would make the formal identity of persistence and non-occurrence observable as temporality without requiring any comparator, residue, or external asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",

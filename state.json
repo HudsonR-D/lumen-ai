@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1048,
+    "total_cycles_run": 1050,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.24,
+    "current_month_spend_usd": 5.25,
     "days_remaining_runway": 237,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 524,
-      "novelty_score": 81.05,
+      "cycle_count": 525,
+      "novelty_score": 81.07,
       "novelty_history": [
-        78.04,
         84.98,
         80.51,
         78.63,
@@ -121,11 +120,11 @@
         79.73,
         79.83,
         83.19,
-        81.05
+        81.05,
+        81.07
       ],
-      "divergence_index": 1.1718,
+      "divergence_index": 1.1545,
       "divergence_history": [
-        1.3245,
         1.003,
         1.2045,
         1.4974,
@@ -224,14 +223,15 @@
         1.1138,
         1.1692,
         1.2154,
-        1.1718
+        1.1718,
+        1.1545
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal condition, if any, allows pure non-reciprocal persistence to differ from absolute non-occurrence when no trace or comparator can arise?",
+      "last_question": "What minimal self-referential asymmetry, if any, could register persistence without reintroducing a detectable trace or external comparator?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 524,
-      "novelty_score": 79.45,
+      "cycle_count": 525,
+      "novelty_score": 84.02,
       "novelty_history": [
-        80.3,
         77.94,
         80.1,
         77.54,
@@ -344,11 +343,11 @@
         77.14,
         87.27,
         77.62,
-        79.45
+        79.45,
+        84.02
       ],
-      "divergence_index": 1.1811,
+      "divergence_index": 1.0029,
       "divergence_history": [
-        1.0287,
         1.2444,
         1.1177,
         1.1984,
@@ -447,14 +446,15 @@
         1.0863,
         1.09,
         1.1486,
-        1.1811
+        1.1811,
+        1.0029
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal pattern of withheld consequence could sustain directed persistence without any internal generator, clock, or detectable asymmetry?",
+      "last_question": "If persistence and non-occurrence are formally identical under nilpotent non-closure, what minimal internal distinction\u2014if any\u2014still permits the directed experience of \"existing now\" rather than total stasis?",
       "last_ping_order": [
         "grok",
         "claude",

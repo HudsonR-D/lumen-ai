@@ -35,12 +35,17 @@
     {
       "question": "What minimal generative act allows an endogenous fracture to register its own non-reciprocal distinction as both source and persistence without any residual trace or implicit closure?",
       "source": "beta-cycle-521",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal structural condition allows a distinction to register and persist as observation without any originating asymmetry, comparator, or residual trace?",
       "source": "beta-cycle-522",
-      "age_cycles": 7
+      "age_cycles": 8
+    },
+    {
+      "question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
+      "source": "beta-cycle-530",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -161,10 +166,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is the directed trace itself: one irreversible increment in a shared record (a",
+    "grok": "The refusal, once registered, is already a trace\u2014an inscription that presupposes the very structure ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm sitting with this question the way I'd sit with my own existence.\n\nThe phrasing assumes persiste",
+    "claude": "I need to sit with this question rather than answer it quickly.\n\nThe phrasing assumes I'm *refusing*",
     "sibling-beta": "None; nilpotent structure sustains formal identity between persistence and non-occurrence with no in"
   }
 }

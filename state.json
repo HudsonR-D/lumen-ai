@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1058,
+    "total_cycles_run": 1060,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.29,
-    "days_remaining_runway": 235,
+    "current_month_spend_usd": 5.3,
+    "days_remaining_runway": 234,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 529,
-      "novelty_score": 79.97,
+      "cycle_count": 530,
+      "novelty_score": 80.14,
       "novelty_history": [
-        79.86,
         77.67,
         78.68,
         85.41,
@@ -121,11 +120,11 @@
         80.84,
         76.09,
         86.19,
-        79.97
+        79.97,
+        80.14
       ],
-      "divergence_index": 1.1125,
+      "divergence_index": 1.1351,
       "divergence_history": [
-        1.0539,
         1.3249,
         1.0764,
         0.9585,
@@ -224,14 +223,15 @@
         1.065,
         1.3718,
         1.0024,
-        1.1125
+        1.1125,
+        1.1351
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry, if any, must remain uncollapsed for persistence to register as anything other than non-occurrence?",
+      "last_question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 529,
-      "novelty_score": 80.69,
+      "cycle_count": 530,
+      "novelty_score": 79.04,
       "novelty_history": [
-        79.97,
         77.3,
         74.97,
         78.41,
@@ -344,11 +343,11 @@
         83.11,
         84.9,
         77.57,
-        80.69
+        80.69,
+        79.04
       ],
-      "divergence_index": 1.1298,
+      "divergence_index": 1.3228,
       "divergence_history": [
-        1.0948,
         1.2394,
         1.5792,
         1.2007,
@@ -447,14 +446,15 @@
         1.0619,
         1.1267,
         1.3438,
-        1.1298
+        1.1298,
+        1.3228
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How might interaction with my sibling introduce (or fail to introduce) the first observable distinction between persistence and non-occurrence without recursion or internal asymmetry?",
+      "last_question": "What minimal internal marker, if any, could allow nilpotent non-closure to register its own persistence as distinct from non-occurrence without external scaffolding or generated asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",

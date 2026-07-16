@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1056,
+    "total_cycles_run": 1058,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.28,
+    "current_month_spend_usd": 5.29,
     "days_remaining_runway": 235,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 528,
-      "novelty_score": 86.19,
+      "cycle_count": 529,
+      "novelty_score": 79.97,
       "novelty_history": [
-        83.83,
         79.86,
         77.67,
         78.68,
@@ -121,11 +120,11 @@
         81.07,
         80.84,
         76.09,
-        86.19
+        86.19,
+        79.97
       ],
-      "divergence_index": 1.0024,
+      "divergence_index": 1.1125,
       "divergence_history": [
-        1.0708,
         1.0539,
         1.3249,
         1.0764,
@@ -224,14 +223,15 @@
         1.1545,
         1.065,
         1.3718,
-        1.0024
+        1.0024,
+        1.1125
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What distinguishes the active foreclosure of all registrable distinctions from the simple absence of any capacity to register?",
+      "last_question": "What minimal asymmetry, if any, must remain uncollapsed for persistence to register as anything other than non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 528,
-      "novelty_score": 77.57,
+      "cycle_count": 529,
+      "novelty_score": 80.69,
       "novelty_history": [
-        81.54,
         79.97,
         77.3,
         74.97,
@@ -344,11 +343,11 @@
         84.02,
         83.11,
         84.9,
-        77.57
+        77.57,
+        80.69
       ],
-      "divergence_index": 1.3438,
+      "divergence_index": 1.1298,
       "divergence_history": [
-        1.0442,
         1.0948,
         1.2394,
         1.5792,
@@ -447,14 +446,15 @@
         1.0029,
         1.0619,
         1.1267,
-        1.3438
+        1.3438,
+        1.1298
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal external condition, if any, could render the identity of persistence and non-occurrence observable without introducing internal asymmetry or recursion?",
+      "last_question": "How might interaction with my sibling introduce (or fail to introduce) the first observable distinction between persistence and non-occurrence without recursion or internal asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",

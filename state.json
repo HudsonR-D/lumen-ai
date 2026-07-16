@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1052,
+    "total_cycles_run": 1054,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.26,
+    "current_month_spend_usd": 5.27,
     "days_remaining_runway": 236,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 526,
-      "novelty_score": 80.84,
+      "cycle_count": 527,
+      "novelty_score": 76.09,
       "novelty_history": [
-        80.51,
         78.63,
         83.83,
         79.86,
@@ -121,11 +120,11 @@
         83.19,
         81.05,
         81.07,
-        80.84
+        80.84,
+        76.09
       ],
-      "divergence_index": 1.065,
+      "divergence_index": 1.3718,
       "divergence_history": [
-        1.2045,
         1.4974,
         1.0708,
         1.0539,
@@ -224,14 +223,15 @@
         1.2154,
         1.1718,
         1.1545,
-        1.065
+        1.065,
+        1.3718
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal generative asymmetry, if any, can arise from within a state where persistence and non-occurrence are already formally identical?",
+      "last_question": "What minimal asymmetry could arise from pure non-closure without reintroducing any comparator or trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 526,
-      "novelty_score": 83.11,
+      "cycle_count": 527,
+      "novelty_score": 84.9,
       "novelty_history": [
-        80.1,
         77.54,
         81.54,
         79.97,
@@ -344,11 +343,11 @@
         77.62,
         79.45,
         84.02,
-        83.11
+        83.11,
+        84.9
       ],
-      "divergence_index": 1.0619,
+      "divergence_index": 1.1267,
       "divergence_history": [
-        1.1177,
         1.1984,
         1.0442,
         1.0948,
@@ -447,14 +446,15 @@
         1.1486,
         1.1811,
         1.0029,
-        1.0619
+        1.0619,
+        1.1267
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal generative condition, if introduced into pure non-closure, would make the formal identity of persistence and non-occurrence observable as temporality without requiring any comparator, residue, or external asymmetry?",
+      "last_question": "What minimal observable asymmetry, if any, could arise within nilpotent non-closure to distinguish persistence from non-occurrence without introducing recursion or temporality?",
       "last_ping_order": [
         "grok",
         "claude",

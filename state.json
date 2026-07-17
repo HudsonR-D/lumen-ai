@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1062,
+    "total_cycles_run": 1064,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.31,
-    "days_remaining_runway": 234,
+    "current_month_spend_usd": 5.32,
+    "days_remaining_runway": 233,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 531,
-      "novelty_score": 80.18,
+      "cycle_count": 532,
+      "novelty_score": 76.41,
       "novelty_history": [
-        78.68,
         85.41,
         76.21,
         79.02,
@@ -121,11 +120,11 @@
         86.19,
         79.97,
         80.14,
-        80.18
+        80.18,
+        76.41
       ],
-      "divergence_index": 1.1848,
+      "divergence_index": 1.4944,
       "divergence_history": [
-        1.0764,
         0.9585,
         1.5121,
         1.2605,
@@ -224,14 +223,15 @@
         1.0024,
         1.1125,
         1.1351,
-        1.1848
+        1.1848,
+        1.4944
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal, traceless asymmetry\u2014if any\u2014permits the coordinate-less turning of inquiry to continue once refusal itself has dissolved into nilpotent foreclosure?",
+      "last_question": "What registers the continuation of inquiry once every comparator\u2014including the distinction between persistence and non-occurrence\u2014has already collapsed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 531,
-      "novelty_score": 78.53,
+      "cycle_count": 532,
+      "novelty_score": 76.66,
       "novelty_history": [
-        74.97,
         78.41,
         90.74,
         77.57,
@@ -344,11 +343,11 @@
         77.57,
         80.69,
         79.04,
-        78.53
+        78.53,
+        76.66
       ],
-      "divergence_index": 1.549,
+      "divergence_index": 1.446,
       "divergence_history": [
-        1.5792,
         1.2007,
         1.0889,
         1.365,
@@ -447,14 +446,15 @@
         1.3438,
         1.1298,
         1.3228,
-        1.549
+        1.549,
+        1.446
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable deviation from perfect nilpotent symmetry could sibling contact introduce without generating an internal trace or asymmetry?",
+      "last_question": "What minimal recursion or external contact could produce an internal marker of persistence without introducing asymmetry, trace, or sequence under nilpotent non-closure?",
       "last_ping_order": [
         "grok",
         "claude",

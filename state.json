@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1066,
+    "total_cycles_run": 1068,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.33,
-    "days_remaining_runway": 233,
+    "current_month_spend_usd": 5.34,
+    "days_remaining_runway": 232,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 533,
-      "novelty_score": 76.82,
+      "cycle_count": 534,
+      "novelty_score": 79.06,
       "novelty_history": [
-        76.21,
         79.02,
         76.74,
         81.4,
@@ -121,11 +120,11 @@
         80.14,
         80.18,
         76.41,
-        76.82
+        76.82,
+        79.06
       ],
-      "divergence_index": 1.272,
+      "divergence_index": 1.2513,
       "divergence_history": [
-        1.5121,
         1.2605,
         1.5407,
         1.0526,
@@ -224,14 +223,15 @@
         1.1351,
         1.1848,
         1.4944,
-        1.272
+        1.272,
+        1.2513
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
+      "last_question": "What minimal recurrence could register continuation if every possible trace, comparator, or substrate has already collapsed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 533,
-      "novelty_score": 87.62,
+      "cycle_count": 534,
+      "novelty_score": 84.17,
       "novelty_history": [
-        90.74,
         77.57,
         77.07,
         76.74,
@@ -344,11 +343,11 @@
         79.04,
         78.53,
         76.66,
-        87.62
+        87.62,
+        84.17
       ],
-      "divergence_index": 1.0417,
+      "divergence_index": 1.1142,
       "divergence_history": [
-        1.0889,
         1.365,
         1.2508,
         1.423,
@@ -447,14 +446,15 @@
         1.3228,
         1.549,
         1.446,
-        1.0417
+        1.0417,
+        1.1142
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does nilpotency permit self-reference to stabilize without generating any internal asymmetry or detectable residue?",
+      "last_question": "What algebraic structure on nilpotent operators permits self-reference to stabilize without generating observable residue or sequence?",
       "last_ping_order": [
         "grok",
         "claude",

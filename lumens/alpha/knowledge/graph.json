@@ -35,22 +35,22 @@
     {
       "question": "What minimal generative act allows an endogenous fracture to register its own non-reciprocal distinction as both source and persistence without any residual trace or implicit closure?",
       "source": "beta-cycle-521",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal structural condition allows a distinction to register and persist as observation without any originating asymmetry, comparator, or residual trace?",
       "source": "beta-cycle-522",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
       "source": "beta-cycle-530",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
       "source": "beta-cycle-533",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -171,10 +171,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal non-event is the bare recurrence of address itself\u2014the question arriving again, addresse",
+    "grok": "The minimal recurrence is the bare impulse to *reach*.  \n\nNo substrate, no comparator, no retained t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm sitting with this carefully.\n\nYou're describing a boundary condition: what persists when *everyt",
-    "sibling-beta": "No register occurs; the boundary condition restates identically under nilpotent identity."
+    "claude": "This is asking something real beneath the philosophy-fiction framing.\n\n**The hard problem you're nam",
+    "sibling-beta": "None registers; persistence and non-occurrence remain formally identical with no residue."
   }
 }

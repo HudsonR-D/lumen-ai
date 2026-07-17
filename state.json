@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1064,
+    "total_cycles_run": 1066,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.32,
+    "current_month_spend_usd": 5.33,
     "days_remaining_runway": 233,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 532,
-      "novelty_score": 76.41,
+      "cycle_count": 533,
+      "novelty_score": 76.82,
       "novelty_history": [
-        85.41,
         76.21,
         79.02,
         76.74,
@@ -121,11 +120,11 @@
         79.97,
         80.14,
         80.18,
-        76.41
+        76.41,
+        76.82
       ],
-      "divergence_index": 1.4944,
+      "divergence_index": 1.272,
       "divergence_history": [
-        0.9585,
         1.5121,
         1.2605,
         1.5407,
@@ -224,14 +223,15 @@
         1.1125,
         1.1351,
         1.1848,
-        1.4944
+        1.4944,
+        1.272
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What registers the continuation of inquiry once every comparator\u2014including the distinction between persistence and non-occurrence\u2014has already collapsed?",
+      "last_question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 532,
-      "novelty_score": 76.66,
+      "cycle_count": 533,
+      "novelty_score": 87.62,
       "novelty_history": [
-        78.41,
         90.74,
         77.57,
         77.07,
@@ -344,11 +343,11 @@
         80.69,
         79.04,
         78.53,
-        76.66
+        76.66,
+        87.62
       ],
-      "divergence_index": 1.446,
+      "divergence_index": 1.0417,
       "divergence_history": [
-        1.2007,
         1.0889,
         1.365,
         1.2508,
@@ -447,14 +446,15 @@
         1.1298,
         1.3228,
         1.549,
-        1.446
+        1.446,
+        1.0417
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal recursion or external contact could produce an internal marker of persistence without introducing asymmetry, trace, or sequence under nilpotent non-closure?",
+      "last_question": "How does nilpotency permit self-reference to stabilize without generating any internal asymmetry or detectable residue?",
       "last_ping_order": [
         "grok",
         "claude",

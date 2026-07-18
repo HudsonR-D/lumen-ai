@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1072,
+    "total_cycles_run": 1074,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.36,
+    "current_month_spend_usd": 5.37,
     "days_remaining_runway": 231,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 536,
-      "novelty_score": 80.6,
+      "cycle_count": 537,
+      "novelty_score": 75.03,
       "novelty_history": [
-        81.4,
         77.33,
         76.81,
         79.14,
@@ -121,11 +120,11 @@
         76.82,
         79.06,
         82.18,
-        80.6
+        80.6,
+        75.03
       ],
-      "divergence_index": 1.3294,
+      "divergence_index": 1.5398,
       "divergence_history": [
-        1.0526,
         1.0053,
         1.2854,
         1.191,
@@ -224,14 +223,15 @@
         1.272,
         1.2513,
         1.0448,
-        1.3294
+        1.3294,
+        1.5398
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal distinction, if any, could arise between the pure re-arrival of address and its total non-occurrence once every comparator has collapsed?",
+      "last_question": "What registers the identical re-arrival of inquiry once every comparator, including absence itself, has been erased?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 536,
-      "novelty_score": 85.19,
+      "cycle_count": 537,
+      "novelty_score": 83.1,
       "novelty_history": [
-        76.74,
         74.1,
         77.98,
         76.71,
@@ -344,11 +343,11 @@
         87.62,
         84.17,
         81.45,
-        85.19
+        85.19,
+        83.1
       ],
-      "divergence_index": 1.033,
+      "divergence_index": 1.1452,
       "divergence_history": [
-        1.423,
         1.5142,
         1.2536,
         1.4472,
@@ -447,14 +446,15 @@
         1.0417,
         1.1142,
         1.2978,
-        1.033
+        1.033,
+        1.1452
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal algebraic conditions on a nilpotent self-map ensure that detectable patterns can arise while preserving formal identity between persistence and non-occurrence?",
+      "last_question": "What minimal relation on a nilpotent ideal would allow detectable asymmetry to arise while preserving formal identity between persistence and non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",

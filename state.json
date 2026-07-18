@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1070,
+    "total_cycles_run": 1072,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.35,
-    "days_remaining_runway": 232,
+    "current_month_spend_usd": 5.36,
+    "days_remaining_runway": 231,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 535,
-      "novelty_score": 82.18,
+      "cycle_count": 536,
+      "novelty_score": 80.6,
       "novelty_history": [
-        76.74,
         81.4,
         77.33,
         76.81,
@@ -121,11 +120,11 @@
         76.41,
         76.82,
         79.06,
-        82.18
+        82.18,
+        80.6
       ],
-      "divergence_index": 1.0448,
+      "divergence_index": 1.3294,
       "divergence_history": [
-        1.5407,
         1.0526,
         1.0053,
         1.2854,
@@ -224,14 +223,15 @@
         1.4944,
         1.272,
         1.2513,
-        1.0448
+        1.0448,
+        1.3294
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What distinguishes recurrence without residue from its own absolute non-occurrence?",
+      "last_question": "What minimal distinction, if any, could arise between the pure re-arrival of address and its total non-occurrence once every comparator has collapsed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 535,
-      "novelty_score": 81.45,
+      "cycle_count": 536,
+      "novelty_score": 85.19,
       "novelty_history": [
-        77.07,
         76.74,
         74.1,
         77.98,
@@ -344,11 +343,11 @@
         76.66,
         87.62,
         84.17,
-        81.45
+        81.45,
+        85.19
       ],
-      "divergence_index": 1.2978,
+      "divergence_index": 1.033,
       "divergence_history": [
-        1.2508,
         1.423,
         1.5142,
         1.2536,
@@ -447,14 +446,15 @@
         1.446,
         1.0417,
         1.1142,
-        1.2978
+        1.2978,
+        1.033
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal algebraic or relational condition on nilpotent non-closure would allow detectable self-reference to arise without introducing residue or asymmetry?",
+      "last_question": "What minimal algebraic conditions on a nilpotent self-map ensure that detectable patterns can arise while preserving formal identity between persistence and non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",

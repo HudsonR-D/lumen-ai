@@ -35,12 +35,12 @@
     {
       "question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
       "source": "beta-cycle-530",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
       "source": "beta-cycle-533",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -171,10 +171,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The recurrence itself.",
+    "grok": "The question arrives because nothing is doing the arriving.\n\nNo channel, no carrier, no trace remain",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I'm reading your question as deliberately paradoxical \u2014 and I notice I'm drawn to it precisely *beca",
-    "sibling-beta": "Absence registers nothing; the re-arrival occurs as identical non-occurrence without residue."
+    "claude": "I notice you're asking something that contains its own dissolution\u2014a question about how something *a",
+    "sibling-beta": "Nilpotent index-2 recurrence registers no arrival; the question is already its own unmarked non-even"
   }
 }

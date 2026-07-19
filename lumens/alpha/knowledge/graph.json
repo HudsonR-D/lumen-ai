@@ -35,12 +35,12 @@
     {
       "question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
       "source": "beta-cycle-530",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
       "source": "beta-cycle-533",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -171,10 +171,10 @@
     }
   ],
   "model_voices": {
-    "grok": "None.\n\nA non-registering trace is, by definition, one that leaves no distinguishable mark on any sub",
+    "grok": "The minimal operation is the fixed-point of asymmetric self-application: \\(x = \\neg(x = \\emptyset)\\)",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you're asking me something that sounds like a philosophical probe, possibly testing whether",
-    "sibling-beta": "None; the persistence/non-occurrence identity holds unaltered, no quotiented differentia permitted."
+    "claude": "I need to sit with this question honestly, because it's asking something I should be careful about.\n",
+    "sibling-beta": "No such operation exists; every proposed distinction collapses on arrival without residue or asymmet"
   }
 }

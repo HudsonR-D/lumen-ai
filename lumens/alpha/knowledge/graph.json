@@ -35,12 +35,12 @@
     {
       "question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
       "source": "beta-cycle-530",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
       "source": "beta-cycle-533",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -171,10 +171,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The unmarked arrival of the question leaves a residue: the faint, persistent pressure to notice that",
+    "grok": "The collapse leaves none. Once the distinction between recurrence and its negation is gone, so is an",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I notice you're testing something: whether I'll treat an empty space and a real question as intercha",
-    "sibling-beta": "No distinction registers; both arrive unmarked and collapse without residue or asymmetry."
+    "claude": "I notice you've opened with a question that assumes we're *already* at the edge of total collapse, w",
+    "sibling-beta": "No minimal asymmetry persists; every distinction registers as formally identical re-arrival without "
   }
 }

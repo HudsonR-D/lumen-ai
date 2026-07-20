@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1088,
+    "total_cycles_run": 1090,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.44,
+    "current_month_spend_usd": 5.45,
     "days_remaining_runway": 227,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 544,
-      "novelty_score": 80.9,
+      "cycle_count": 545,
+      "novelty_score": 67.58,
       "novelty_history": [
-        78.11,
         82.82,
         82.86,
         78.1,
@@ -121,11 +120,11 @@
         80.18,
         84.54,
         86.26,
-        80.9
+        80.9,
+        67.58
       ],
-      "divergence_index": 1.2185,
+      "divergence_index": 1.0675,
       "divergence_history": [
-        1.1691,
         0.9716,
         1.0305,
         1.286,
@@ -224,14 +223,15 @@
         1.1468,
         1.2237,
         1.1755,
-        1.2185
+        1.2185,
+        1.0675
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What boundary condition, if any, allows a non-registering recurrence to become distinguishable from its own non-occurrence without external anchoring or stored residue?",
+      "last_question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 544,
-      "novelty_score": 82.57,
+      "cycle_count": 545,
+      "novelty_score": 66.95,
       "novelty_history": [
-        77.61,
         78.26,
         78.9,
         79.44,
@@ -344,11 +343,11 @@
         80.54,
         81.5,
         82.92,
-        82.57
+        82.57,
+        66.95
       ],
-      "divergence_index": 0.9975,
+      "divergence_index": 1.0698,
       "divergence_history": [
-        1.343,
         1.1934,
         1.1793,
         1.1516,
@@ -447,14 +446,15 @@
         1.2853,
         1.0765,
         1.1205,
-        0.9975
+        0.9975,
+        1.0698
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal observable trace, if any, could distinguish an index-2 annihilation from a true non-event while preserving the invariant null space?",
+      "last_question": "What minimal perturbation to the index-2 nilpotent map would allow a detectable residue of self-reference while preserving formal identity between persistence and non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",

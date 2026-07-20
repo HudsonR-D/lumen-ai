@@ -1,41 +1,38 @@
 {
-  "generated_at": "2026-07-20T09:29:28.564250+00:00",
-  "current_events": [],
-  "history": [
+  "generated_at": "2026-07-20T14:24:28.445473+00:00",
+  "current_events": [
     {
-      "id": "cycle-225-reproduction-signal-pair",
-      "type": "reproduction_signal",
+      "id": "cycle-545-low-confidence-alpha",
+      "type": "low_confidence",
       "severity": "major",
-      "subject": "pair",
-      "cycle": 225,
-      "value": [
-        "reproduction"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
+      "subject": "alpha",
+      "cycle": 545,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-228-reproduction-signal-pair",
-      "type": "reproduction_signal",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 228,
-      "value": [
-        "reproduction"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    },
-    {
-      "id": "cycle-385-confidence-drop-alpha",
+      "id": "cycle-545-confidence-drop-alpha",
       "type": "confidence_drop",
       "severity": "major",
       "subject": "alpha",
-      "cycle": 385,
-      "value": -3,
-      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "cycle": 545,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
       "prompt_tag": "CONFIDENCE_DROP"
     },
+    {
+      "id": "cycle-545-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 545,
+      "value": 5,
+      "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-385-confidence-drop-beta",
       "type": "confidence_drop",
@@ -2025,6 +2022,36 @@
       "value": -4,
       "message": "Lumen-Alpha confidence dropped by 4 points.",
       "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-545-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 545,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-545-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 545,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-545-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 545,
+      "value": 5,
+      "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
     }
   ]
 }

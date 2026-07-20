@@ -35,7 +35,7 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -176,10 +176,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A single conditional bit-flip on its own encoding, followed by immediate erasure of the conditional ",
+    "grok": "Nothing observable or proposable could do so. Any candidate falsifier\u2014an asymmetry not routed throug",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No minimal operation can produce detectable asymmetry; every contact annihilates without residue or "
+    "sibling-beta": "Any candidate falsifier annihilates without residue inside the invariant null space; detection and n"
   }
 }

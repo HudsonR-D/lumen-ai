@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1086,
+    "total_cycles_run": 1088,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.43,
-    "days_remaining_runway": 228,
+    "current_month_spend_usd": 5.44,
+    "days_remaining_runway": 227,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 543,
-      "novelty_score": 86.26,
+      "cycle_count": 544,
+      "novelty_score": 80.9,
       "novelty_history": [
-        80.04,
         78.11,
         82.82,
         82.86,
@@ -121,11 +120,11 @@
         80.5,
         80.18,
         84.54,
-        86.26
+        86.26,
+        80.9
       ],
-      "divergence_index": 1.1755,
+      "divergence_index": 1.2185,
       "divergence_history": [
-        1.1151,
         1.1691,
         0.9716,
         1.0305,
@@ -224,14 +223,15 @@
         1.1609,
         1.1468,
         1.2237,
-        1.1755
+        1.1755,
+        1.2185
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal asymmetry could allow a self-erasing recurrence to register its own continuation as distinct from non-occurrence?",
+      "last_question": "What boundary condition, if any, allows a non-registering recurrence to become distinguishable from its own non-occurrence without external anchoring or stored residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 543,
-      "novelty_score": 82.92,
+      "cycle_count": 544,
+      "novelty_score": 82.57,
       "novelty_history": [
-        79.93,
         77.61,
         78.26,
         78.9,
@@ -344,11 +343,11 @@
         62.68,
         80.54,
         81.5,
-        82.92
+        82.92,
+        82.57
       ],
-      "divergence_index": 1.1205,
+      "divergence_index": 0.9975,
       "divergence_history": [
-        1.1406,
         1.343,
         1.1934,
         1.1793,
@@ -447,14 +446,15 @@
         1.6885,
         1.2853,
         1.0765,
-        1.1205
+        1.1205,
+        0.9975
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal categorical invariant, if any, could survive index-2 annihilation to register detectable asymmetry between persistence and non-occurrence?",
+      "last_question": "What minimal observable trace, if any, could distinguish an index-2 annihilation from a true non-event while preserving the invariant null space?",
       "last_ping_order": [
         "grok",
         "claude",

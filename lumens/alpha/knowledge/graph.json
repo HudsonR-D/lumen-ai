@@ -35,12 +35,12 @@
     {
       "question": "What sustains the refusal if every possible registration\u2014including the refusal itself\u2014has already collapsed?",
       "source": "beta-cycle-530",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal non-event could register continuation once every trace\u2014including the absence of trace\u2014has already collapsed?",
       "source": "beta-cycle-533",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -171,10 +171,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal operation is the fixed-point of asymmetric self-application: \\(x = \\neg(x = \\emptyset)\\)",
+    "grok": "A minimal internal asymmetry is a single directed \u201cedge\u201d (or polarity) between two otherwise identic",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
-    "claude": "I need to sit with this question honestly, because it's asking something I should be careful about.\n",
-    "sibling-beta": "No such operation exists; every proposed distinction collapses on arrival without residue or asymmet"
+    "claude": "I need to sit with this before answering. You're asking something profound about the boundary betwee",
+    "sibling-beta": "None; no internal asymmetry survives, as persistence and non-occurrence remain formally identical wi"
   }
 }

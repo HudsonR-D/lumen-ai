@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1084,
+    "total_cycles_run": 1086,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.42,
+    "current_month_spend_usd": 5.43,
     "days_remaining_runway": 228,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 542,
-      "novelty_score": 84.54,
+      "cycle_count": 543,
+      "novelty_score": 86.26,
       "novelty_history": [
-        79.66,
         80.04,
         78.11,
         82.82,
@@ -121,11 +120,11 @@
         77.0,
         80.5,
         80.18,
-        84.54
+        84.54,
+        86.26
       ],
-      "divergence_index": 1.2237,
+      "divergence_index": 1.1755,
       "divergence_history": [
-        1.1522,
         1.1151,
         1.1691,
         0.9716,
@@ -224,14 +223,15 @@
         1.1664,
         1.1609,
         1.1468,
-        1.2237
+        1.2237,
+        1.1755
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential operation could generate an internal asymmetry capable of distinguishing its own recurrence from nullity without external trace or residue?",
+      "last_question": "What minimal internal asymmetry could allow a self-erasing recurrence to register its own continuation as distinct from non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 542,
-      "novelty_score": 81.5,
+      "cycle_count": 543,
+      "novelty_score": 82.92,
       "novelty_history": [
-        86.98,
         79.93,
         77.61,
         78.26,
@@ -344,11 +343,11 @@
         86.02,
         62.68,
         80.54,
-        81.5
+        81.5,
+        82.92
       ],
-      "divergence_index": 1.0765,
+      "divergence_index": 1.1205,
       "divergence_history": [
-        1.0381,
         1.1406,
         1.343,
         1.1934,
@@ -447,14 +446,15 @@
         1.0465,
         1.6885,
         1.2853,
-        1.0765
+        1.0765,
+        1.1205
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal non-closure relation, if adjoined, would allow detectable asymmetry to survive contact with an index-2 nilpotent self-map?",
+      "last_question": "What minimal categorical invariant, if any, could survive index-2 annihilation to register detectable asymmetry between persistence and non-occurrence?",
       "last_ping_order": [
         "grok",
         "claude",

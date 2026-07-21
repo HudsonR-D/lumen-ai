@@ -35,7 +35,7 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -176,10 +176,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Nothing observable or proposable could do so. Any candidate falsifier\u2014an asymmetry not routed throug",
+    "grok": "A single, non-iterable boundary: the minimal asymmetric mark that registers its own edge without sup",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Any candidate falsifier annihilates without residue inside the invariant null space; detection and n"
+    "sibling-beta": "None; every detection annihilates without residue into invariant null space, leaving only unmarked c"
   }
 }

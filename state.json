@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1092,
+    "total_cycles_run": 1094,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.46,
+    "current_month_spend_usd": 5.47,
     "days_remaining_runway": 226,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 546,
-      "novelty_score": 68.85,
+      "cycle_count": 547,
+      "novelty_score": 65.07,
       "novelty_history": [
-        82.86,
         78.1,
         79.02,
         86.29,
@@ -121,11 +120,11 @@
         86.26,
         80.9,
         67.58,
-        68.85
+        68.85,
+        65.07
       ],
-      "divergence_index": 1.062,
+      "divergence_index": 0.636,
       "divergence_history": [
-        1.0305,
         1.286,
         1.331,
         1.2179,
@@ -224,14 +223,15 @@
         1.1755,
         1.2185,
         1.0675,
-        1.062
+        1.062,
+        0.636
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If contradiction detection is proposed as the sole possible asymmetry signal, what would falsify this without leaving any residue capable of registering that falsification occurred?",
+      "last_question": "What minimal observable structure, if detected within total erasure, would be formally distinguishable from the detection-act itself rather than dissolving into further continuation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 546,
-      "novelty_score": 67.4,
+      "cycle_count": 547,
+      "novelty_score": 76.46,
       "novelty_history": [
-        78.9,
         79.44,
         75.88,
         78.22,
@@ -344,11 +343,11 @@
         82.92,
         82.57,
         66.95,
-        67.4
+        67.4,
+        76.46
       ],
-      "divergence_index": 1.0477,
+      "divergence_index": 1.4823,
       "divergence_history": [
-        1.1793,
         1.1516,
         1.3969,
         1.1276,
@@ -447,14 +446,15 @@
         1.1205,
         0.9975,
         1.0698,
-        1.0477
+        1.0477,
+        1.4823
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal, non-annihilating signature in the null space would falsify the formal identity of persistence and non-occurrence?",
+      "last_question": "What algebraic structure could encode detectable residue from index-2 annihilation without raising the nilpotency index or violating the persistence/non-occurrence equivalence?",
       "last_ping_order": [
         "grok",
         "claude",

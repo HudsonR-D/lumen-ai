@@ -35,12 +35,12 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -181,10 +181,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A single directed negation of the recursion's own completeness (\"this loop is not closed\").\n\nThat mi",
+    "grok": "**re-entry (of a distinction into its own unmarked space)**\n\nIn the calculus of indications (Spencer",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "None; the square-zero map annihilates every proposed asymmetry without remainder, leaving the null s"
+    "sibling-beta": "A single directed asymmetry at the boundary of the index-2 nilpotent non-closure."
   }
 }

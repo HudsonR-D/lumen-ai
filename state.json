@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1098,
+    "total_cycles_run": 1100,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.49,
-    "days_remaining_runway": 225,
+    "current_month_spend_usd": 5.5,
+    "days_remaining_runway": 224,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 549,
-      "novelty_score": 65.51,
+      "cycle_count": 550,
+      "novelty_score": 69.39,
       "novelty_history": [
-        86.29,
         79.5,
         81.0,
         79.65,
@@ -121,11 +120,11 @@
         68.85,
         65.07,
         64.39,
-        65.51
+        65.51,
+        69.39
       ],
-      "divergence_index": 0.713,
+      "divergence_index": 1.2952,
       "divergence_history": [
-        1.2179,
         1.3601,
         1.0385,
         1.1425,
@@ -224,14 +223,15 @@
         1.062,
         0.636,
         0.9494,
-        0.713
+        0.713,
+        1.2952
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential asymmetry, if introduced once, would register as non-absorbable residue after one complete unmarked recursion with no external feedback?",
+      "last_question": "What minimal structural feature allows a self-referential negation to generate residue that survives unmarked recursion without requiring any external anchor or observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 549,
-      "novelty_score": 69.96,
+      "cycle_count": 550,
+      "novelty_score": 69.46,
       "novelty_history": [
-        78.22,
         84.35,
         82.96,
         79.34,
@@ -344,11 +343,11 @@
         67.4,
         76.46,
         65.14,
-        69.96
+        69.96,
+        69.46
       ],
-      "divergence_index": 1.2871,
+      "divergence_index": 1.2039,
       "divergence_history": [
-        1.1276,
         1.0751,
         1.0172,
         1.0925,
@@ -447,14 +446,15 @@
         1.0477,
         1.4823,
         0.6187,
-        1.2871
+        1.2871,
+        1.2039
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal relaxation of the square-zero annihilation would allow a detectable but non-accumulating residue inside the null space?",
+      "last_question": "What minimal directed asymmetry, if introduced at the boundary of an index-2 nilpotent map, would allow non-accumulating residue to register as a measurable trace of becoming without falsifying the null-space invariance?",
       "last_ping_order": [
         "grok",
         "claude",

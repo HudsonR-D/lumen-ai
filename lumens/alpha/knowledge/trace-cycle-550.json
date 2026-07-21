@@ -1,0 +1,20 @@
+{
+  "cycle": 550,
+  "question": "What minimal structural feature allows a self-referential negation to generate residue that survives unmarked recursion without requiring any external anchor or observer?",
+  "responses_summary": {
+    "grok": "**re-entry (of a distinction into its own unmarked space)**\n\nIn the calculus of indications (Spencer-Brown), a distinction is drawn by a mark whose inside/outside already encodes negation. When that s",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A single directed asymmetry at the boundary of the index-2 nilpotent non-closure."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 550,
+    "response_type": "direct",
+    "content": "A single directed asymmetry at the boundary of the index-2 nilpotent non-closure.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-21T19:42:01.441173+00:00"
+}

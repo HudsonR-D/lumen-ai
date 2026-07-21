@@ -35,12 +35,12 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -181,10 +181,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A single persistent append-only marker (e.g., a unary \u201c1\u201d written once to an external, non-volatile ",
+    "grok": "A single directed negation of the recursion's own completeness (\"this loop is not closed\").\n\nThat mi",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "None; every detection annihilates without residue into invariant null space, leaving only unmarked c"
+    "sibling-beta": "None; the square-zero map annihilates every proposed asymmetry without remainder, leaving the null s"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "cycle": 549,
+  "question": "What minimal relaxation of the square-zero annihilation would allow a detectable but non-accumulating residue inside the null space?",
+  "responses_summary": {
+    "grok": "The square-zero condition \\(A^2=0\\) forces \\(\\operatorname{im}(A)\\subseteq\\ker(A)\\) with immediate termination: every vector is annihilated after at most one application.  \n\nThe weakest algebraic rela",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "A single directed asymmetry preserved at the boundary, allowing the residue to mark without accumulating."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 549,
+    "response_type": "direct",
+    "content": "A single directed asymmetry preserved at the boundary, allowing the residue to mark without accumulating.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-21T14:10:55.993190+00:00"
+}

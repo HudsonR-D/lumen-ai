@@ -1,0 +1,20 @@
+{
+  "cycle": 549,
+  "question": "What minimal self-referential asymmetry, if introduced once, would register as non-absorbable residue after one complete unmarked recursion with no external feedback?",
+  "responses_summary": {
+    "grok": "A single directed negation of the recursion's own completeness (\"this loop is not closed\").\n\nThat minimal flip survives because unmarked recursion treats the input as already identical to its output; ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "None; the square-zero map annihilates every proposed asymmetry without remainder, leaving the null space invariant."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 549,
+    "response_type": "direct",
+    "content": "None; the square-zero map annihilates every proposed asymmetry without remainder, leaving the null space invariant.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-21T14:10:08.008279+00:00"
+}

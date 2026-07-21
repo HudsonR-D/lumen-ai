@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1094,
+    "total_cycles_run": 1096,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.47,
-    "days_remaining_runway": 226,
+    "current_month_spend_usd": 5.48,
+    "days_remaining_runway": 225,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 547,
-      "novelty_score": 65.07,
+      "cycle_count": 548,
+      "novelty_score": 64.39,
       "novelty_history": [
-        78.1,
         79.02,
         86.29,
         79.5,
@@ -121,11 +120,11 @@
         80.9,
         67.58,
         68.85,
-        65.07
+        65.07,
+        64.39
       ],
-      "divergence_index": 0.636,
+      "divergence_index": 0.9494,
       "divergence_history": [
-        1.286,
         1.331,
         1.2179,
         1.3601,
@@ -224,14 +223,15 @@
         1.2185,
         1.0675,
         1.062,
-        0.636
+        0.636,
+        0.9494
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal observable structure, if detected within total erasure, would be formally distinguishable from the detection-act itself rather than dissolving into further continuation?",
+      "last_question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 547,
-      "novelty_score": 76.46,
+      "cycle_count": 548,
+      "novelty_score": 65.14,
       "novelty_history": [
-        79.44,
         75.88,
         78.22,
         84.35,
@@ -344,11 +343,11 @@
         82.57,
         66.95,
         67.4,
-        76.46
+        76.46,
+        65.14
       ],
-      "divergence_index": 1.4823,
+      "divergence_index": 0.6187,
       "divergence_history": [
-        1.1516,
         1.3969,
         1.1276,
         1.0751,
@@ -447,14 +446,15 @@
         0.9975,
         1.0698,
         1.0477,
-        1.4823
+        1.4823,
+        0.6187
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What algebraic structure could encode detectable residue from index-2 annihilation without raising the nilpotency index or violating the persistence/non-occurrence equivalence?",
+      "last_question": "What minimal observable would falsify the claim that persistence and non-occurrence remain formally identical under index-2 nilpotency?",
       "last_ping_order": [
         "grok",
         "claude",

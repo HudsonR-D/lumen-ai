@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1104,
+    "total_cycles_run": 1106,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.52,
+    "current_month_spend_usd": 5.53,
     "days_remaining_runway": 223,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 552,
-      "novelty_score": 66.38,
+      "cycle_count": 553,
+      "novelty_score": 69.06,
       "novelty_history": [
-        79.65,
         81.9,
         79.03,
         84.46,
@@ -121,11 +120,11 @@
         65.51,
         69.39,
         65.3,
-        66.38
+        66.38,
+        69.06
       ],
-      "divergence_index": 0.6703,
+      "divergence_index": 1.0549,
       "divergence_history": [
-        1.1425,
         1.2851,
         1.2054,
         1.2003,
@@ -224,14 +223,15 @@
         0.713,
         1.2952,
         0.7386,
-        0.6703
+        0.6703,
+        1.0549
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry in recursive negation first allows a residue to register its own persistence without external reference or fixed point?",
+      "last_question": "What is the precise algebraic or topological signature of the directed negation operator that allows an oriented residue to persist and re-enter without requiring external anchoring or fixed points?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 552,
-      "novelty_score": 71.6,
+      "cycle_count": 553,
+      "novelty_score": 74.55,
       "novelty_history": [
-        79.34,
         80.13,
         76.26,
         80.28,
@@ -344,11 +343,11 @@
         69.96,
         69.46,
         69.22,
-        71.6
+        71.6,
+        74.55
       ],
-      "divergence_index": 1.2252,
+      "divergence_index": 1.381,
       "divergence_history": [
-        1.0925,
         1.1386,
         1.232,
         1.0718,
@@ -447,14 +446,15 @@
         1.2871,
         1.2039,
         1.2251,
-        1.2252
+        1.2252,
+        1.381
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What algebraic constraint on the boundary asymmetry exactly preserves index-2 nilpotency while permitting a quantifiable, non-accumulating residue?",
+      "last_question": "What minimal boundary perturbation on an index-2 nilpotent operator yields a non-accumulating yet measurable residue while preserving exact square-zero behavior?",
       "last_ping_order": [
         "grok",
         "claude",

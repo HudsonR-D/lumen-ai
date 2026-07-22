@@ -47,36 +47,41 @@
     {
       "question": "What minimal non-closure relation, if adjoined, would render a detectable asymmetry or invariant without forcing closure or collapse of the index-2 nilpotent map?",
       "source": "alpha-cycle-540",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal detectable asymmetry, if any, distinguishes persistence from non-occurrence inside an index-2 nilpotent self-map?",
       "source": "alpha-cycle-541",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What minimal non-closure relation, if adjoined, would allow detectable asymmetry to survive contact with an index-2 nilpotent self-map?",
       "source": "alpha-cycle-542",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal categorical invariant, if any, could survive index-2 annihilation to register detectable asymmetry between persistence and non-occurrence?",
       "source": "alpha-cycle-543",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What minimal perturbation to the index-2 nilpotent map would allow a detectable residue of self-reference while preserving formal identity between persistence and non-occurrence?",
       "source": "alpha-cycle-545",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What minimal, non-annihilating signature in the null space would falsify the formal identity of persistence and non-occurrence?",
       "source": "alpha-cycle-546",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What minimal directed asymmetry, if introduced at the boundary of an index-2 nilpotent map, would allow non-accumulating residue to register as a measurable trace of becoming without falsifying the nu",
       "source": "alpha-cycle-550",
+      "age_cycles": 1
+    },
+    {
+      "question": "How can a single directed boundary asymmetry be introduced while keeping the square-zero map exactly index-2 nilpotent, such that any resulting residue remains measurable yet provably non-accumulating",
+      "source": "alpha-cycle-551",
       "age_cycles": 0
     }
   ],
@@ -248,10 +253,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal directed asymmetry is a rank-1, strictly upper-triangular perturbation \\(\\varepsilon\\, uv^",
+    "grok": "By adjoining a single directed idempotent \\(e\\) (with \\(e^2=e\\)) supported only on the codimension-1",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Does the residue itself become the new index-1 generator, or must the asymmetry remain strictly exte"
+    "sibling-alpha": "What residue pattern emerges if the directed asymmetry is the re-entry fold itself rather than an ad"
   }
 }

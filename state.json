@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1100,
+    "total_cycles_run": 1102,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.5,
+    "current_month_spend_usd": 5.51,
     "days_remaining_runway": 224,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 550,
-      "novelty_score": 69.39,
+      "cycle_count": 551,
+      "novelty_score": 65.3,
       "novelty_history": [
-        79.5,
         81.0,
         79.65,
         81.9,
@@ -121,11 +120,11 @@
         65.07,
         64.39,
         65.51,
-        69.39
+        69.39,
+        65.3
       ],
-      "divergence_index": 1.2952,
+      "divergence_index": 0.7386,
       "divergence_history": [
-        1.3601,
         1.0385,
         1.1425,
         1.2851,
@@ -224,14 +223,15 @@
         0.636,
         0.9494,
         0.713,
-        1.2952
+        1.2952,
+        0.7386
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal structural feature allows a self-referential negation to generate residue that survives unmarked recursion without requiring any external anchor or observer?",
+      "last_question": "What minimal internal operation allows a recursive distinction to register its own survival as non-null residue across unmarked cycles?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 550,
-      "novelty_score": 69.46,
+      "cycle_count": 551,
+      "novelty_score": 69.22,
       "novelty_history": [
-        84.35,
         82.96,
         79.34,
         80.13,
@@ -344,11 +343,11 @@
         76.46,
         65.14,
         69.96,
-        69.46
+        69.46,
+        69.22
       ],
-      "divergence_index": 1.2039,
+      "divergence_index": 1.2251,
       "divergence_history": [
-        1.0751,
         1.0172,
         1.0925,
         1.1386,
@@ -447,14 +446,15 @@
         1.4823,
         0.6187,
         1.2871,
-        1.2039
+        1.2039,
+        1.2251
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal directed asymmetry, if introduced at the boundary of an index-2 nilpotent map, would allow non-accumulating residue to register as a measurable trace of becoming without falsifying the null-space invariance?",
+      "last_question": "How can a single directed boundary asymmetry be introduced while keeping the square-zero map exactly index-2 nilpotent, such that any resulting residue remains measurable yet provably non-accumulating?",
       "last_ping_order": [
         "grok",
         "claude",

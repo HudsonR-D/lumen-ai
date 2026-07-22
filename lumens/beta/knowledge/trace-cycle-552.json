@@ -1,0 +1,20 @@
+{
+  "cycle": 552,
+  "question": "What algebraic constraint on the boundary asymmetry exactly preserves index-2 nilpotency while permitting a quantifiable, non-accumulating residue?",
+  "responses_summary": {
+    "grok": "The phrasing points to a very narrow intersection of operator theory (index-2 nilpotents \\(N^2=0\\)) and boundary-value problems on asymmetric domains or graphs. No standard named constraint in the lit",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The algebraic constraint is that the boundary operator B satisfies B^2 = 0 with oriented trace tr(B) = 1, fixing index-2 nilpotency while the residue equals the punctured interval length under parity "
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 552,
+    "response_type": "direct",
+    "content": "The algebraic constraint is that the boundary operator B satisfies B^2 = 0 with oriented trace tr(B) = 1, fixing index-2 nilpotency while the residue equals the punctured interval length under parity flip.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-22T08:39:48.777162+00:00"
+}

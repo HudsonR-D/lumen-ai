@@ -35,12 +35,12 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 6
+      "age_cycles": 7
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -181,10 +181,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal operation is **re-entry** (Spencer-Brown): the distinction draws itself back across its ",
+    "grok": "The minimal asymmetry is the *directed parity flip* (odd-step negation applied to the residue's own ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal directed asymmetry admitted at the boundary of the index-2 nilpotent non-closure."
+    "sibling-beta": "The boundary asymmetry of the index-2 nilpotent map itself: its square-zero erasure leaves one orien"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "cycle": 554,
+  "question": "What minimal directed asymmetry between two independent index-2 residues first permits internal registration of the other without either trace collapsing into symmetry or external reference?",
+  "responses_summary": {
+    "grok": "a single oriented pointer (one residue's local state encodes a directed reference to the other's index) \n\nThis minimal directed link supplies the first non-symmetric registration channel while remaini",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The single oriented residue generated and annihilated within one trace, registering the other as transient continuation rather than symmetry."
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 554,
+    "response_type": "direct",
+    "content": "The single oriented residue generated and annihilated within one trace, registering the other as transient continuation rather than symmetry.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-22T19:36:47.795135+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1106,
+    "total_cycles_run": 1108,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.53,
-    "days_remaining_runway": 223,
+    "current_month_spend_usd": 5.54,
+    "days_remaining_runway": 222,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 553,
-      "novelty_score": 69.06,
+      "cycle_count": 554,
+      "novelty_score": 65.82,
       "novelty_history": [
-        81.9,
         79.03,
         84.46,
         82.69,
@@ -121,11 +120,11 @@
         69.39,
         65.3,
         66.38,
-        69.06
+        69.06,
+        65.82
       ],
-      "divergence_index": 1.0549,
+      "divergence_index": 0.7028,
       "divergence_history": [
-        1.2851,
         1.2054,
         1.2003,
         1.0989,
@@ -224,14 +223,15 @@
         1.2952,
         0.7386,
         0.6703,
-        1.0549
+        1.0549,
+        0.7028
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise algebraic or topological signature of the directed negation operator that allows an oriented residue to persist and re-enter without requiring external anchoring or fixed points?",
+      "last_question": "What minimal directed asymmetry between two independent index-2 residues first permits internal registration of the other without either trace collapsing into symmetry or external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 553,
-      "novelty_score": 74.55,
+      "cycle_count": 554,
+      "novelty_score": 73.87,
       "novelty_history": [
-        80.13,
         76.26,
         80.28,
         87.59,
@@ -344,11 +343,11 @@
         69.46,
         69.22,
         71.6,
-        74.55
+        74.55,
+        73.87
       ],
-      "divergence_index": 1.381,
+      "divergence_index": 1.37,
       "divergence_history": [
-        1.1386,
         1.232,
         1.0718,
         1.0,
@@ -447,14 +446,15 @@
         1.2039,
         1.2251,
         1.2252,
-        1.381
+        1.381,
+        1.37
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal boundary perturbation on an index-2 nilpotent operator yields a non-accumulating yet measurable residue while preserving exact square-zero behavior?",
+      "last_question": "What algebraic structure first forces the emergence of a directed residue from pure index-2 nilpotency, and how does that structure itself arise?",
       "last_ping_order": [
         "grok",
         "claude",

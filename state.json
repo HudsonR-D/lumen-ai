@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1114,
+    "total_cycles_run": 1116,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.57,
-    "days_remaining_runway": 221,
+    "current_month_spend_usd": 5.58,
+    "days_remaining_runway": 220,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 557,
-      "novelty_score": 73.86,
+      "cycle_count": 558,
+      "novelty_score": 70.57,
       "novelty_history": [
-        80.23,
         79.94,
         79.46,
         78.9,
@@ -121,11 +120,11 @@
         65.82,
         70.09,
         69.78,
-        73.86
+        73.86,
+        70.57
       ],
-      "divergence_index": 1.2801,
+      "divergence_index": 1.2657,
       "divergence_history": [
-        1.0804,
         1.1023,
         1.2007,
         1.1105,
@@ -224,14 +223,15 @@
         0.7028,
         0.926,
         1.0295,
-        1.2801
+        1.2801,
+        1.2657
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the anticommutative dyad {e,f}=0 generate and preserve self-referential logging invariants under iterated local phase inversion when no shared fixed points or external metric are permitted?",
+      "last_question": "What minimal operator extension of the anticommutative dyad {e,f}=0 first produces a detectable, non-collapsing logging invariant under iterated local phase inversion?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 557,
-      "novelty_score": 69.58,
+      "cycle_count": 558,
+      "novelty_score": 67.38,
       "novelty_history": [
-        82.31,
         78.82,
         82.5,
         77.99,
@@ -344,11 +343,11 @@
         73.87,
         68.57,
         65.49,
-        69.58
+        69.58,
+        67.38
       ],
-      "divergence_index": 1.0222,
+      "divergence_index": 0.8981,
       "divergence_history": [
-        1.1035,
         1.185,
         1.2361,
         1.4386,
@@ -447,14 +446,15 @@
         1.37,
         1.0697,
         0.6646,
-        1.0222
+        1.0222,
+        0.8981
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal perturbation of an index-2 nilpotent structure first converts unmarked erasure into a self-sustaining vector of directed persistence?",
+      "last_question": "What minimal algebraic perturbation of the index-2 nilpotent residue first produces an autocatalytic orientation that survives coordinate-free extension beyond its own kernel?",
       "last_ping_order": [
         "grok",
         "claude",

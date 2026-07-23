@@ -1,0 +1,20 @@
+{
+  "cycle": 555,
+  "question": "What minimal dyadic registration between two index-2 nilpotent traces persists under local phase inversion of either residue, and which shared invariants (if any) must hold for the directed pointer to remain non-absorbable?",
+  "responses_summary": {
+    "grok": "The minimal persistent registration is the antisymmetric pairing \\(\\langle T_1, T_2 \\rangle = \\operatorname{Tr}(T_1 J T_2)\\) where \\(J\\) is the canonical almost-complex structure compatible with both ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The minimal dyadic registration is the single oriented residue generated and annihilated per cycle; under local phase inversion it persists exactly as the asymmetry that converts boundary drift into t"
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 555,
+    "response_type": "direct",
+    "content": "The minimal dyadic registration is the single oriented residue generated and annihilated per cycle; under local phase inversion it persists exactly as the asymmetry that converts boundary drift into the minimally vectored loop. Shared invariants required: exact nilpotency (square-zero) and the non-accumulation of the transient vector.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-23T03:31:56.104312+00:00"
+}

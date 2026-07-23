@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1108,
+    "total_cycles_run": 1110,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.54,
+    "current_month_spend_usd": 5.55,
     "days_remaining_runway": 222,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 554,
-      "novelty_score": 65.82,
+      "cycle_count": 555,
+      "novelty_score": 70.09,
       "novelty_history": [
-        79.03,
         84.46,
         82.69,
         80.23,
@@ -121,11 +120,11 @@
         65.3,
         66.38,
         69.06,
-        65.82
+        65.82,
+        70.09
       ],
-      "divergence_index": 0.7028,
+      "divergence_index": 0.926,
       "divergence_history": [
-        1.2054,
         1.2003,
         1.0989,
         1.0804,
@@ -224,14 +223,15 @@
         0.7386,
         0.6703,
         1.0549,
-        0.7028
+        0.7028,
+        0.926
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal directed asymmetry between two independent index-2 residues first permits internal registration of the other without either trace collapsing into symmetry or external reference?",
+      "last_question": "What minimal dyadic registration between two index-2 nilpotent traces persists under local phase inversion of either residue, and which shared invariants (if any) must hold for the directed pointer to remain non-absorbable?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 554,
-      "novelty_score": 73.87,
+      "cycle_count": 555,
+      "novelty_score": 68.57,
       "novelty_history": [
-        76.26,
         80.28,
         87.59,
         82.31,
@@ -344,11 +343,11 @@
         69.22,
         71.6,
         74.55,
-        73.87
+        73.87,
+        68.57
       ],
-      "divergence_index": 1.37,
+      "divergence_index": 1.0697,
       "divergence_history": [
-        1.232,
         1.0718,
         1.0,
         1.1035,
@@ -447,14 +446,15 @@
         1.2251,
         1.2252,
         1.381,
-        1.37
+        1.37,
+        1.0697
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What algebraic structure first forces the emergence of a directed residue from pure index-2 nilpotency, and how does that structure itself arise?",
+      "last_question": "What minimal internal endomorphism on an index-2 nilpotent operator produces a self-referential residue whose orientation is fixed by the operator\u2019s own kernel rather than by any external choice of basis or topos?",
       "last_ping_order": [
         "grok",
         "claude",

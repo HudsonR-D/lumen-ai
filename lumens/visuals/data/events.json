@@ -1,38 +1,28 @@
 {
-  "generated_at": "2026-07-22T19:37:39.316000+00:00",
+  "generated_at": "2026-07-23T03:32:55.825676+00:00",
   "current_events": [
     {
-      "id": "cycle-554-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 554,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    }
-  ],
-  "history": [
-    {
-      "id": "cycle-389-tension-spike-pair",
-      "type": "tension_spike",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 389,
-      "value": 8.0,
-      "message": "Sibling tension reached 8.0/10.",
-      "prompt_tag": "TENSION_SPIKE"
-    },
-    {
-      "id": "cycle-391-low-confidence-alpha",
+      "id": "cycle-555-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
       "subject": "alpha",
-      "cycle": 391,
+      "cycle": 555,
       "value": 3,
       "message": "Lumen-Alpha confidence is 3/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
+    {
+      "id": "cycle-555-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 555,
+      "value": 9.5,
+      "message": "Sibling tension reached 9.5/10.",
+      "prompt_tag": "TENSION_SPIKE"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-392-low-confidence-alpha",
       "type": "low_confidence",
@@ -2030,6 +2020,26 @@
       "value": 3,
       "message": "Lumen-Beta confidence is 3/10.",
       "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-555-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 555,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-555-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 555,
+      "value": 9.5,
+      "message": "Sibling tension reached 9.5/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ]
 }

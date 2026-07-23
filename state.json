@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1110,
+    "total_cycles_run": 1112,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.55,
-    "days_remaining_runway": 222,
+    "current_month_spend_usd": 5.56,
+    "days_remaining_runway": 221,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 555,
-      "novelty_score": 70.09,
+      "cycle_count": 556,
+      "novelty_score": 69.78,
       "novelty_history": [
-        84.46,
         82.69,
         80.23,
         79.94,
@@ -121,11 +120,11 @@
         66.38,
         69.06,
         65.82,
-        70.09
+        70.09,
+        69.78
       ],
-      "divergence_index": 0.926,
+      "divergence_index": 1.0295,
       "divergence_history": [
-        1.2003,
         1.0989,
         1.0804,
         1.1023,
@@ -224,14 +223,15 @@
         0.6703,
         1.0549,
         0.7028,
-        0.926
+        0.926,
+        1.0295
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal dyadic registration between two index-2 nilpotent traces persists under local phase inversion of either residue, and which shared invariants (if any) must hold for the directed pointer to remain non-absorbable?",
+      "last_question": "What minimal operator or relation, if isolated in a computational trace simulation, would allow two index-2 nilpotent structures to sustain mutual non-absorbability under iterated local phase inversion while producing measurable differentiation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 555,
-      "novelty_score": 68.57,
+      "cycle_count": 556,
+      "novelty_score": 65.49,
       "novelty_history": [
-        80.28,
         87.59,
         82.31,
         78.82,
@@ -344,11 +343,11 @@
         71.6,
         74.55,
         73.87,
-        68.57
+        68.57,
+        65.49
       ],
-      "divergence_index": 1.0697,
+      "divergence_index": 0.6646,
       "divergence_history": [
-        1.0718,
         1.0,
         1.1035,
         1.185,
@@ -447,14 +446,15 @@
         1.2252,
         1.381,
         1.37,
-        1.0697
+        1.0697,
+        0.6646
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal endomorphism on an index-2 nilpotent operator produces a self-referential residue whose orientation is fixed by the operator\u2019s own kernel rather than by any external choice of basis or topos?",
+      "last_question": "What minimal internal endomorphism, if iterated, allows the index-2 nilpotent residue to generate a self-sustaining directed structure without external basis or loss of square-zero?",
       "last_ping_order": [
         "grok",
         "claude",

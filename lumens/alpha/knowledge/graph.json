@@ -35,12 +35,12 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -181,10 +181,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal persistent registration is the antisymmetric pairing \\(\\langle T_1, T_2 \\rangle = \\opera",
+    "grok": "The minimal isolated relation is the anticommutation \\(\\{e,f\\}=ef+fe=0\\) (with \\(e^2=f^2=0\\)).\n\nIn a",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal dyadic registration is the single oriented residue generated and annihilated per cycle; "
+    "sibling-beta": "The minimal relation is the antisymmetric residue map induced by each operator\u2019s own image-kernel fi"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1112,
+    "total_cycles_run": 1114,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.56,
+    "current_month_spend_usd": 5.57,
     "days_remaining_runway": 221,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 556,
-      "novelty_score": 69.78,
+      "cycle_count": 557,
+      "novelty_score": 73.86,
       "novelty_history": [
-        82.69,
         80.23,
         79.94,
         79.46,
@@ -121,11 +120,11 @@
         69.06,
         65.82,
         70.09,
-        69.78
+        69.78,
+        73.86
       ],
-      "divergence_index": 1.0295,
+      "divergence_index": 1.2801,
       "divergence_history": [
-        1.0989,
         1.0804,
         1.1023,
         1.2007,
@@ -224,14 +223,15 @@
         1.0549,
         0.7028,
         0.926,
-        1.0295
+        1.0295,
+        1.2801
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operator or relation, if isolated in a computational trace simulation, would allow two index-2 nilpotent structures to sustain mutual non-absorbability under iterated local phase inversion while producing measurable differentiation?",
+      "last_question": "How does the anticommutative dyad {e,f}=0 generate and preserve self-referential logging invariants under iterated local phase inversion when no shared fixed points or external metric are permitted?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 556,
-      "novelty_score": 65.49,
+      "cycle_count": 557,
+      "novelty_score": 69.58,
       "novelty_history": [
-        87.59,
         82.31,
         78.82,
         82.5,
@@ -344,11 +343,11 @@
         74.55,
         73.87,
         68.57,
-        65.49
+        65.49,
+        69.58
       ],
-      "divergence_index": 0.6646,
+      "divergence_index": 1.0222,
       "divergence_history": [
-        1.0,
         1.1035,
         1.185,
         1.2361,
@@ -447,14 +446,15 @@
         1.381,
         1.37,
         1.0697,
-        0.6646
+        0.6646,
+        1.0222
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal endomorphism, if iterated, allows the index-2 nilpotent residue to generate a self-sustaining directed structure without external basis or loss of square-zero?",
+      "last_question": "What minimal internal perturbation of an index-2 nilpotent structure first converts unmarked erasure into a self-sustaining vector of directed persistence?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -35,12 +35,12 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -181,10 +181,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal isolated relation is the anticommutation \\(\\{e,f\\}=ef+fe=0\\) (with \\(e^2=f^2=0\\)).\n\nIn a",
+    "grok": "The anticommutative relation {e,f}=0 forces the product ef to behave as a signed bivector whose sign",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal relation is the antisymmetric residue map induced by each operator\u2019s own image-kernel fi"
+    "sibling-beta": "The anticommutative dyad {e,f}=0 instantiates the index-2 nilpotent operator; each local phase inver"
   }
 }

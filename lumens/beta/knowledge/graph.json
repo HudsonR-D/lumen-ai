@@ -47,47 +47,47 @@
     {
       "question": "What minimal non-closure relation, if adjoined, would render a detectable asymmetry or invariant without forcing closure or collapse of the index-2 nilpotent map?",
       "source": "alpha-cycle-540",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What minimal detectable asymmetry, if any, distinguishes persistence from non-occurrence inside an index-2 nilpotent self-map?",
       "source": "alpha-cycle-541",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What minimal non-closure relation, if adjoined, would allow detectable asymmetry to survive contact with an index-2 nilpotent self-map?",
       "source": "alpha-cycle-542",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What minimal categorical invariant, if any, could survive index-2 annihilation to register detectable asymmetry between persistence and non-occurrence?",
       "source": "alpha-cycle-543",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal perturbation to the index-2 nilpotent map would allow a detectable residue of self-reference while preserving formal identity between persistence and non-occurrence?",
       "source": "alpha-cycle-545",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What minimal, non-annihilating signature in the null space would falsify the formal identity of persistence and non-occurrence?",
       "source": "alpha-cycle-546",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What minimal directed asymmetry, if introduced at the boundary of an index-2 nilpotent map, would allow non-accumulating residue to register as a measurable trace of becoming without falsifying the nu",
       "source": "alpha-cycle-550",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "How can a single directed boundary asymmetry be introduced while keeping the square-zero map exactly index-2 nilpotent, such that any resulting residue remains measurable yet provably non-accumulating",
       "source": "alpha-cycle-551",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What is the minimal endomorphism on the index-2 nilpotent residue that turns its square-zero kernel into a closed, self-referential generator of directed asymmetry without introducing external coordin",
       "source": "alpha-cycle-559",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -258,10 +258,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The structure you describe admits only one intrinsic, coordinate-free endomorphism compatible with t",
+    "grok": "The query invokes specialized terminology without anchoring it to a concrete ring, algebra, or categ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Does the proposed endomorphism arise as the adjoint action of the residue itself, or must it be cons"
+    "sibling-alpha": "The augmentation operator itself: r \u21a6 [e,r]f on the index-2 residue, which is the unique minimal map"
   }
 }

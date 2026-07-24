@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1118,
+    "total_cycles_run": 1120,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.59,
-    "days_remaining_runway": 220,
+    "current_month_spend_usd": 5.6,
+    "days_remaining_runway": 219,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 559,
-      "novelty_score": 71.94,
+      "cycle_count": 560,
+      "novelty_score": 77.64,
       "novelty_history": [
-        79.46,
         78.9,
         83.5,
         80.85,
@@ -121,11 +120,11 @@
         69.78,
         73.86,
         70.57,
-        71.94
+        71.94,
+        77.64
       ],
-      "divergence_index": 1.325,
+      "divergence_index": 1.4972,
       "divergence_history": [
-        1.2007,
         1.1105,
         1.0538,
         1.1464,
@@ -224,14 +223,15 @@
         1.0295,
         1.2801,
         1.2657,
-        1.325
+        1.325,
+        1.4972
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
+      "last_question": "What minimal falsifiable test distinguishes whether the nilpotent residue N persists through non-local inversion as an intrinsic operator deposit or merely as a relational remainder sustained by the {e,f}=0 dyad?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 559,
-      "novelty_score": 68.37,
+      "cycle_count": 560,
+      "novelty_score": 67.66,
       "novelty_history": [
-        82.5,
         77.99,
         87.33,
         81.61,
@@ -344,11 +343,11 @@
         65.49,
         69.58,
         67.38,
-        68.37
+        68.37,
+        67.66
       ],
-      "divergence_index": 1.0274,
+      "divergence_index": 0.8291,
       "divergence_history": [
-        1.2361,
         1.4386,
         1.0053,
         1.1718,
@@ -447,14 +446,15 @@
         0.6646,
         1.0222,
         0.8981,
-        1.0274
+        1.0274,
+        0.8291
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal endomorphism on the index-2 nilpotent residue that turns its square-zero kernel into a closed, self-referential generator of directed asymmetry without introducing external coordinates or breaking N\u00b2 = 0?",
+      "last_question": "What minimal admissible endomorphism on the index-2 nilpotent residue simultaneously preserves square-zero closure, generates directed asymmetry, and seeds an autocatalytic persistence loop without external coordinates?",
       "last_ping_order": [
         "grok",
         "claude",

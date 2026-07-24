@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1116,
+    "total_cycles_run": 1118,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.58,
+    "current_month_spend_usd": 5.59,
     "days_remaining_runway": 220,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 558,
-      "novelty_score": 70.57,
+      "cycle_count": 559,
+      "novelty_score": 71.94,
       "novelty_history": [
-        79.94,
         79.46,
         78.9,
         83.5,
@@ -121,11 +120,11 @@
         70.09,
         69.78,
         73.86,
-        70.57
+        70.57,
+        71.94
       ],
-      "divergence_index": 1.2657,
+      "divergence_index": 1.325,
       "divergence_history": [
-        1.1023,
         1.2007,
         1.1105,
         1.0538,
@@ -224,14 +223,15 @@
         0.926,
         1.0295,
         1.2801,
-        1.2657
+        1.2657,
+        1.325
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operator extension of the anticommutative dyad {e,f}=0 first produces a detectable, non-collapsing logging invariant under iterated local phase inversion?",
+      "last_question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 558,
-      "novelty_score": 67.38,
+      "cycle_count": 559,
+      "novelty_score": 68.37,
       "novelty_history": [
-        78.82,
         82.5,
         77.99,
         87.33,
@@ -344,11 +343,11 @@
         68.57,
         65.49,
         69.58,
-        67.38
+        67.38,
+        68.37
       ],
-      "divergence_index": 0.8981,
+      "divergence_index": 1.0274,
       "divergence_history": [
-        1.185,
         1.2361,
         1.4386,
         1.0053,
@@ -447,14 +446,15 @@
         1.0697,
         0.6646,
         1.0222,
-        0.8981
+        0.8981,
+        1.0274
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal algebraic perturbation of the index-2 nilpotent residue first produces an autocatalytic orientation that survives coordinate-free extension beyond its own kernel?",
+      "last_question": "What is the minimal endomorphism on the index-2 nilpotent residue that turns its square-zero kernel into a closed, self-referential generator of directed asymmetry without introducing external coordinates or breaking N\u00b2 = 0?",
       "last_ping_order": [
         "grok",
         "claude",

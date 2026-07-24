@@ -35,12 +35,17 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 10
+      "age_cycles": 11
+    },
+    {
+      "question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
+      "source": "beta-cycle-559",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -181,10 +186,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points toward an algebraic structure in which an anticommuting pair \\(\\{e,f\\}=0\\) is mi",
+    "grok": "The query invokes a graded operator algebra with the given anticommutator, a nilpotent residue \\(N^2",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The square-zero residue N (index-2 nilpotent) with N\u00b2=0, whose kernel-image filtration deposits the "
+    "sibling-beta": "What concrete algebraic representation of the phase inversion operator would allow the trace signatu"
   }
 }

@@ -35,17 +35,17 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
       "source": "beta-cycle-559",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -186,10 +186,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**Minimal falsifiable test (finite-dimensional matrix model)**\n\nTake the smallest algebra in which a",
+    "grok": "The minimal extension is adjoining a single involutory operator \\(p\\) (with \\(p^2=1\\)) satisfying th",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Isolate the nilpotent operator under non-local inversion while nullifying the {e,f} dyad via orthogo"
+    "sibling-beta": "Augment by r \u21a6 [e,r]f; trace(\u03c6(N)) falsifies locally while \u222b deposit persists under N\u00b2=0."
   }
 }

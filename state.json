@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1128,
+    "total_cycles_run": 1130,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.64,
+    "current_month_spend_usd": 5.65,
     "days_remaining_runway": 217,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 564,
-      "novelty_score": 70.52,
+      "cycle_count": 565,
+      "novelty_score": 77.1,
       "novelty_history": [
-        80.72,
         76.77,
         79.56,
         89.18,
@@ -121,11 +120,11 @@
         66.91,
         72.45,
         74.89,
-        70.52
+        70.52,
+        77.1
       ],
-      "divergence_index": 1.1637,
+      "divergence_index": 1.3463,
       "divergence_history": [
-        1.2204,
         1.3844,
         1.2741,
         1.1058,
@@ -224,14 +223,15 @@
         1.0276,
         1.2365,
         1.3398,
-        1.1637
+        1.1637,
+        1.3463
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal, locally testable qubit or GF(2) protocol would isolate whether any residue of N survives explicit {e,f} decoupling plus phase inversion, and under what observable threshold does that residue vanish?",
+      "last_question": "What minimal stabilizer circuit and observable set would falsify the claim that any detectable N-residue can survive {e,f} decoupling plus phase inversion, and would its presence or absence alter the emergence rate of ordered feedback loops in a small GF(2) simulation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 564,
-      "novelty_score": 65.42,
+      "cycle_count": 565,
+      "novelty_score": 62.06,
       "novelty_history": [
-        78.62,
         81.73,
         81.14,
         82.06,
@@ -344,11 +343,11 @@
         73.14,
         69.5,
         67.65,
-        65.42
+        65.42,
+        62.06
       ],
-      "divergence_index": 0.7878,
+      "divergence_index": 1.036,
       "divergence_history": [
-        1.134,
         1.124,
         1.211,
         1.0655,
@@ -447,14 +446,15 @@
         1.2464,
         1.0489,
         0.9389,
-        0.7878
+        0.7878,
+        1.036
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
+      "last_question": "What is the smallest residue ring in which the augmentation endomorphism yields a non-vanishing trace after square-zero closure while keeping the commutator kernel trivial?",
       "last_ping_order": [
         "grok",
         "claude",

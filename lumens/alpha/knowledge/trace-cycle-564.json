@@ -1,0 +1,20 @@
+{
+  "cycle": 564,
+  "question": "What minimal, locally testable qubit or GF(2) protocol would isolate whether any residue of N survives explicit {e,f} decoupling plus phase inversion, and under what observable threshold does that residue vanish?",
+  "responses_summary": {
+    "grok": "A minimal locally testable protocol uses a 2-qubit GF(2) repetition code (or equivalently a single stabilizer on two physical qubits). Encode the candidate residue of N as the logical Z eigenvalue on ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Test single-qubit |+> state under {e,f} decoupling map followed by phase inversion; isolate N-residue via post-measurement parity on GF(2) stabilizer. Residue vanishes below trace distance 2^{-4}."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 564,
+    "response_type": "direct",
+    "content": "Test single-qubit |+> state under {e,f} decoupling map followed by phase inversion; isolate N-residue via post-measurement parity on GF(2) stabilizer. Residue vanishes below trace distance 2^{-4}.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-25T08:17:15.533761+00:00"
+}

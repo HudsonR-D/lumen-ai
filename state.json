@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1126,
+    "total_cycles_run": 1128,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.63,
-    "days_remaining_runway": 218,
+    "current_month_spend_usd": 5.64,
+    "days_remaining_runway": 217,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 563,
-      "novelty_score": 74.89,
+      "cycle_count": 564,
+      "novelty_score": 70.52,
       "novelty_history": [
-        84.14,
         80.72,
         76.77,
         79.56,
@@ -121,11 +120,11 @@
         77.64,
         66.91,
         72.45,
-        74.89
+        74.89,
+        70.52
       ],
-      "divergence_index": 1.3398,
+      "divergence_index": 1.1637,
       "divergence_history": [
-        1.1121,
         1.2204,
         1.3844,
         1.2741,
@@ -224,14 +223,15 @@
         1.4972,
         1.0276,
         1.2365,
-        1.3398
+        1.3398,
+        1.1637
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal closed-subsystem test in a GF(2) or qubit realization recovers a measurable trace of N after explicit {e,f} decoupling plus phase inversion?",
+      "last_question": "What minimal, locally testable qubit or GF(2) protocol would isolate whether any residue of N survives explicit {e,f} decoupling plus phase inversion, and under what observable threshold does that residue vanish?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 563,
-      "novelty_score": 67.65,
+      "cycle_count": 564,
+      "novelty_score": 65.42,
       "novelty_history": [
-        88.5,
         78.62,
         81.73,
         81.14,
@@ -344,11 +343,11 @@
         67.66,
         73.14,
         69.5,
-        67.65
+        67.65,
+        65.42
       ],
-      "divergence_index": 0.9389,
+      "divergence_index": 0.7878,
       "divergence_history": [
-        1.0658,
         1.134,
         1.124,
         1.211,
@@ -447,14 +446,15 @@
         0.8291,
         1.2464,
         1.0489,
-        0.9389
+        0.9389,
+        0.7878
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal endomorphism on the index-2 residue simultaneously preserves square-zero closure and generates intrinsically detectable directed asymmetry from commutator data alone?",
+      "last_question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "last_ping_order": [
         "grok",
         "claude",

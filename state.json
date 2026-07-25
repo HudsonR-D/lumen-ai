@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1124,
+    "total_cycles_run": 1126,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.62,
+    "current_month_spend_usd": 5.63,
     "days_remaining_runway": 218,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 562,
-      "novelty_score": 72.45,
+      "cycle_count": 563,
+      "novelty_score": 74.89,
       "novelty_history": [
-        80.85,
         84.14,
         80.72,
         76.77,
@@ -121,11 +120,11 @@
         71.94,
         77.64,
         66.91,
-        72.45
+        72.45,
+        74.89
       ],
-      "divergence_index": 1.2365,
+      "divergence_index": 1.3398,
       "divergence_history": [
-        1.1464,
         1.1121,
         1.2204,
         1.3844,
@@ -224,14 +223,15 @@
         1.325,
         1.4972,
         1.0276,
-        1.2365
+        1.2365,
+        1.3398
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical or computational realization of the {e,f}=0 dyad would allow direct measurement of whether N's trace signature survives non-local inversion after explicit decoupling?",
+      "last_question": "What minimal closed-subsystem test in a GF(2) or qubit realization recovers a measurable trace of N after explicit {e,f} decoupling plus phase inversion?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 562,
-      "novelty_score": 69.5,
+      "cycle_count": 563,
+      "novelty_score": 67.65,
       "novelty_history": [
-        81.61,
         88.5,
         78.62,
         81.73,
@@ -344,11 +343,11 @@
         68.37,
         67.66,
         73.14,
-        69.5
+        69.5,
+        67.65
       ],
-      "divergence_index": 1.0489,
+      "divergence_index": 0.9389,
       "divergence_history": [
-        1.1718,
         1.0658,
         1.134,
         1.124,
@@ -447,14 +446,15 @@
         1.0274,
         0.8291,
         1.2464,
-        1.0489
+        1.0489,
+        0.9389
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal endomorphism on the index-2 residue simultaneously preserves square-zero closure and generates intrinsically detectable directed asymmetry without external frames?",
+      "last_question": "What minimal endomorphism on the index-2 residue simultaneously preserves square-zero closure and generates intrinsically detectable directed asymmetry from commutator data alone?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1130,
+    "total_cycles_run": 1132,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.65,
-    "days_remaining_runway": 217,
+    "current_month_spend_usd": 5.66,
+    "days_remaining_runway": 216,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 565,
-      "novelty_score": 77.1,
+      "cycle_count": 566,
+      "novelty_score": 72.12,
       "novelty_history": [
-        76.77,
         79.56,
         89.18,
         78.34,
@@ -121,11 +120,11 @@
         72.45,
         74.89,
         70.52,
-        77.1
+        77.1,
+        72.12
       ],
-      "divergence_index": 1.3463,
+      "divergence_index": 1.3176,
       "divergence_history": [
-        1.3844,
         1.2741,
         1.1058,
         1.1994,
@@ -224,14 +223,15 @@
         1.2365,
         1.3398,
         1.1637,
-        1.3463
+        1.3463,
+        1.3176
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal stabilizer circuit and observable set would falsify the claim that any detectable N-residue can survive {e,f} decoupling plus phase inversion, and would its presence or absence alter the emergence rate of ordered feedback loops in a small GF(2) simulation?",
+      "last_question": "What minimal set of local GF(2) observables, after {e,f} decoupling and phase inversion, would falsify the distinction between recoverable N-residue and emergent feedback-loop statistics?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 565,
-      "novelty_score": 62.06,
+      "cycle_count": 566,
+      "novelty_score": 71.78,
       "novelty_history": [
-        81.73,
         81.14,
         82.06,
         80.15,
@@ -344,11 +343,11 @@
         69.5,
         67.65,
         65.42,
-        62.06
+        62.06,
+        71.78
       ],
-      "divergence_index": 1.036,
+      "divergence_index": 1.2824,
       "divergence_history": [
-        1.124,
         1.211,
         1.0655,
         1.1923,
@@ -447,14 +446,15 @@
         1.0489,
         0.9389,
         0.7878,
-        1.036
+        1.036,
+        1.2824
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest residue ring in which the augmentation endomorphism yields a non-vanishing trace after square-zero closure while keeping the commutator kernel trivial?",
+      "last_question": "What is the smallest extension of Z/2Z in which the commutator of augmentation and square-zero closure yields a detectable, frame-independent sign without reintroducing external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",

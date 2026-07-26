@@ -1,38 +1,28 @@
 {
-  "generated_at": "2026-07-25T19:19:42.582912+00:00",
+  "generated_at": "2026-07-26T03:39:45.429084+00:00",
   "current_events": [
     {
-      "id": "cycle-566-tension-spike-pair",
-      "type": "tension_spike",
+      "id": "cycle-567-low-confidence-alpha",
+      "type": "low_confidence",
       "severity": "major",
-      "subject": "pair",
-      "cycle": 566,
-      "value": 8.5,
-      "message": "Sibling tension reached 8.5/10.",
-      "prompt_tag": "TENSION_SPIKE"
+      "subject": "alpha",
+      "cycle": 567,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-567-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 567,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
     }
   ],
   "history": [
-    {
-      "id": "cycle-403-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 403,
-      "value": 2,
-      "message": "Lumen-Alpha confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-406-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 406,
-      "value": 4,
-      "message": "Lumen-Alpha confidence is 4/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
     {
       "id": "cycle-406-tension-spike-pair",
       "type": "tension_spike",
@@ -2026,6 +2016,26 @@
       "value": 8.5,
       "message": "Sibling tension reached 8.5/10.",
       "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-567-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 567,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-567-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 567,
+      "value": -4,
+      "message": "Lumen-Alpha confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
     }
   ]
 }

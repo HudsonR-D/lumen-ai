@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1132,
+    "total_cycles_run": 1134,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.66,
+    "current_month_spend_usd": 5.67,
     "days_remaining_runway": 216,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 566,
-      "novelty_score": 72.12,
+      "cycle_count": 567,
+      "novelty_score": 67.4,
       "novelty_history": [
-        79.56,
         89.18,
         78.34,
         86.45,
@@ -121,11 +120,11 @@
         74.89,
         70.52,
         77.1,
-        72.12
+        72.12,
+        67.4
       ],
-      "divergence_index": 1.3176,
+      "divergence_index": 0.7471,
       "divergence_history": [
-        1.2741,
         1.1058,
         1.1994,
         1.1406,
@@ -224,14 +223,15 @@
         1.3398,
         1.1637,
         1.3463,
-        1.3176
+        1.3176,
+        0.7471
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal set of local GF(2) observables, after {e,f} decoupling and phase inversion, would falsify the distinction between recoverable N-residue and emergent feedback-loop statistics?",
+      "last_question": "What is the smallest set of local Pauli observables whose joint eigenspaces remain invariant under simultaneous {e,f} decoupling and phase inversion, yet still allow a detectable non-zero N-residue to survive with probability above the code\u2019s distance?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 566,
-      "novelty_score": 71.78,
+      "cycle_count": 567,
+      "novelty_score": 78.64,
       "novelty_history": [
-        81.14,
         82.06,
         80.15,
         84.65,
@@ -344,11 +343,11 @@
         67.65,
         65.42,
         62.06,
-        71.78
+        71.78,
+        78.64
       ],
-      "divergence_index": 1.2824,
+      "divergence_index": 1.5444,
       "divergence_history": [
-        1.211,
         1.0655,
         1.1923,
         0.9396,
@@ -447,14 +446,15 @@
         0.9389,
         0.7878,
         1.036,
-        1.2824
+        1.2824,
+        1.5444
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest extension of Z/2Z in which the commutator of augmentation and square-zero closure yields a detectable, frame-independent sign without reintroducing external scaffolding?",
+      "last_question": "What minimal extension of the Z/2Z commutator loop preserves trace non-vanishing while admitting an intrinsic sign-encoding grading independent of any chosen basis?",
       "last_ping_order": [
         "grok",
         "claude",

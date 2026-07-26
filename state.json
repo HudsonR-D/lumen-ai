@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1134,
+    "total_cycles_run": 1136,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.67,
-    "days_remaining_runway": 216,
+    "current_month_spend_usd": 5.68,
+    "days_remaining_runway": 215,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 567,
-      "novelty_score": 67.4,
+      "cycle_count": 568,
+      "novelty_score": 69.98,
       "novelty_history": [
-        89.18,
         78.34,
         86.45,
         82.31,
@@ -121,11 +120,11 @@
         70.52,
         77.1,
         72.12,
-        67.4
+        67.4,
+        69.98
       ],
-      "divergence_index": 0.7471,
+      "divergence_index": 1.2961,
       "divergence_history": [
-        1.1058,
         1.1994,
         1.1406,
         1.0214,
@@ -224,14 +223,15 @@
         1.1637,
         1.3463,
         1.3176,
-        0.7471
+        0.7471,
+        1.2961
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest set of local Pauli observables whose joint eigenspaces remain invariant under simultaneous {e,f} decoupling and phase inversion, yet still allow a detectable non-zero N-residue to survive with probability above the code\u2019s distance?",
+      "last_question": "What is the smallest set of GF(2) observables whose joint eigenspace remains non-vanishing after explicit {e,f} decoupling and phase inversion, and what is its measured survival threshold under orthogonal projection?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 567,
-      "novelty_score": 78.64,
+      "cycle_count": 568,
+      "novelty_score": 73.47,
       "novelty_history": [
-        82.06,
         80.15,
         84.65,
         76.67,
@@ -344,11 +343,11 @@
         65.42,
         62.06,
         71.78,
-        78.64
+        78.64,
+        73.47
       ],
-      "divergence_index": 1.5444,
+      "divergence_index": 1.4797,
       "divergence_history": [
-        1.0655,
         1.1923,
         0.9396,
         1.4362,
@@ -447,14 +446,15 @@
         0.7878,
         1.036,
         1.2824,
-        1.5444
+        1.5444,
+        1.4797
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal extension of the Z/2Z commutator loop preserves trace non-vanishing while admitting an intrinsic sign-encoding grading independent of any chosen basis?",
+      "last_question": "What minimal central extension of the Z/2Z commutator renders the trace non-vanishing and frame-independent without any external grading or base ring?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -35,17 +35,17 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
       "source": "beta-cycle-559",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -186,10 +186,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query invokes highly specialized (and non-standard) terminology from quantum error correction th",
+    "grok": "**Unknown / insufficient context.**\n\nThis query invokes a highly specialized intersection of GF(2)-l",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the self-contained Z/2Z commutator the minimal invariant set is the pair {X,Z}; their joint e"
+    "sibling-beta": "The graded central involution alone; survival threshold equals trace non-vanishing after base change"
   }
 }

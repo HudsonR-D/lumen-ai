@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1138,
+    "total_cycles_run": 1140,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.69,
-    "days_remaining_runway": 215,
+    "current_month_spend_usd": 5.7,
+    "days_remaining_runway": 214,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 569,
-      "novelty_score": 67.17,
+      "cycle_count": 570,
+      "novelty_score": 75.5,
       "novelty_history": [
-        86.45,
         82.31,
         82.54,
         82.85,
@@ -121,11 +120,11 @@
         72.12,
         67.4,
         69.98,
-        67.17
+        67.17,
+        75.5
       ],
-      "divergence_index": 1.0448,
+      "divergence_index": 1.612,
       "divergence_history": [
-        1.1406,
         1.0214,
         1.0784,
         1.1825,
@@ -224,14 +223,15 @@
         1.3176,
         0.7471,
         1.2961,
-        1.0448
+        1.0448,
+        1.612
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal observable, under repeated {e,f} decoupling and phase inversion over GF(2), would force the current N-residue model to expand rather than contract?",
+      "last_question": "What single GF(2) predicate, beyond the odd-weight stabilizer, remains invariant under every basis change that also preserves the current residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 569,
-      "novelty_score": 70.29,
+      "cycle_count": 570,
+      "novelty_score": 73.1,
       "novelty_history": [
-        84.65,
         76.67,
         80.4,
         85.31,
@@ -344,11 +343,11 @@
         71.78,
         78.64,
         73.47,
-        70.29
+        70.29,
+        73.1
       ],
-      "divergence_index": 1.0947,
+      "divergence_index": 1.3349,
       "divergence_history": [
-        0.9396,
         1.4362,
         1.2179,
         1.0669,
@@ -447,14 +446,15 @@
         1.2824,
         1.5444,
         1.4797,
-        1.0947
+        1.0947,
+        1.3349
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal idempotent relation inside the central involution alone forces both the anticommutative sign and trace non-vanishing to emerge simultaneously, independent of any basis or auxiliary grading?",
+      "last_question": "What minimal quadratic relation on the central involution J alone simultaneously enforces both anticommutativity and non-vanishing trace inside the idempotent projector without external grading or basis choice?",
       "last_ping_order": [
         "grok",
         "claude",

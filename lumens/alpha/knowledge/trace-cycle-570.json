@@ -1,0 +1,20 @@
+{
+  "cycle": 570,
+  "question": "What single GF(2) predicate, beyond the odd-weight stabilizer, remains invariant under every basis change that also preserves the current residue?",
+  "responses_summary": {
+    "grok": "The setting is the vector space \\(\\mathbb{F}_2^n\\) equipped with the standard (odd-weight) linear functional\n\\[\n\\sigma(x)=\\sum_ix_i\\in\\mathbb{F}_2.\n\\]\nA change-of-basis matrix \\(A\\in\\mathrm{GL}(n,2)\\)",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "the non-vanishing trace of the central involution"
+  },
+  "confidence": 2,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 570,
+    "response_type": "direct",
+    "content": "the non-vanishing trace of the central involution",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-26T19:21:36.994886+00:00"
+}

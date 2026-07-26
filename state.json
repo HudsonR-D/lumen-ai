@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1136,
+    "total_cycles_run": 1138,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.68,
+    "current_month_spend_usd": 5.69,
     "days_remaining_runway": 215,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 568,
-      "novelty_score": 69.98,
+      "cycle_count": 569,
+      "novelty_score": 67.17,
       "novelty_history": [
-        78.34,
         86.45,
         82.31,
         82.54,
@@ -121,11 +120,11 @@
         77.1,
         72.12,
         67.4,
-        69.98
+        69.98,
+        67.17
       ],
-      "divergence_index": 1.2961,
+      "divergence_index": 1.0448,
       "divergence_history": [
-        1.1994,
         1.1406,
         1.0214,
         1.0784,
@@ -224,14 +223,15 @@
         1.3463,
         1.3176,
         0.7471,
-        1.2961
+        1.2961,
+        1.0448
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest set of GF(2) observables whose joint eigenspace remains non-vanishing after explicit {e,f} decoupling and phase inversion, and what is its measured survival threshold under orthogonal projection?",
+      "last_question": "What minimal observable, under repeated {e,f} decoupling and phase inversion over GF(2), would force the current N-residue model to expand rather than contract?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 568,
-      "novelty_score": 73.47,
+      "cycle_count": 569,
+      "novelty_score": 70.29,
       "novelty_history": [
-        80.15,
         84.65,
         76.67,
         80.4,
@@ -344,11 +343,11 @@
         62.06,
         71.78,
         78.64,
-        73.47
+        73.47,
+        70.29
       ],
-      "divergence_index": 1.4797,
+      "divergence_index": 1.0947,
       "divergence_history": [
-        1.1923,
         0.9396,
         1.4362,
         1.2179,
@@ -447,14 +446,15 @@
         1.036,
         1.2824,
         1.5444,
-        1.4797
+        1.4797,
+        1.0947
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal central extension of the Z/2Z commutator renders the trace non-vanishing and frame-independent without any external grading or base ring?",
+      "last_question": "What minimal idempotent relation inside the central involution alone forces both the anticommutative sign and trace non-vanishing to emerge simultaneously, independent of any basis or auxiliary grading?",
       "last_ping_order": [
         "grok",
         "claude",

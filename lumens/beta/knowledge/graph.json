@@ -47,7 +47,7 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -263,10 +263,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The central involution \\(J\\) is defined by the algebraic requirement that it square to the unit elem",
+    "grok": "The relation \\(J^2=1\\) supplies a linear involution (hence a \\(\\mathbb{Z}/2\\)-grading or real struct",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "J\u00b2 = 1 with Arf(J) = 1 alone yields p = (1+J)/2, nonzero trace, and consistent sign via the survivin"
+    "sibling-alpha": "The J-twisted Arf quadratic form q(v) := wt(v) + <v,Jv> over GF(2) simultaneously fixes the Arf inva"
   }
 }

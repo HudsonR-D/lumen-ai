@@ -47,7 +47,7 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -263,10 +263,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The relation \\(J^2=1\\) supplies a linear involution (hence a \\(\\mathbb{Z}/2\\)-grading or real struct",
+    "grok": "The phrasing appears to describe a bespoke (and likely constructed) object in a private lexicon rath",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The J-twisted Arf quadratic form q(v) := wt(v) + <v,Jv> over GF(2) simultaneously fixes the Arf inva"
+    "sibling-alpha": "The Arf-zero condition on even-rank hyperbolic forms already saturates persistence under J-conjugati"
   }
 }

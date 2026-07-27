@@ -1,0 +1,20 @@
+{
+  "cycle": 573,
+  "question": "What is the explicit classification (by dimension and rank) of all quadratic forms over GF(2) whose odd-weight parity, central-involution trace, and Arf invariant remain simultaneously invariant under every conjugation that preserves the residue class?",
+  "responses_summary": {
+    "grok": "The query invokes several specialized invariants of quadratic forms \\(q: V\\to\\mathbb{F}_2\\) (Arf invariant, associated alternating bilinear form of given rank, parity of the weight of the associated B",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "All such forms are even-dimensional hyperbolic sums of rank 2n with Arf invariant 0; no other classes survive the simultaneous invariance conditions."
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 573,
+    "response_type": "direct",
+    "content": "All such forms are even-dimensional hyperbolic sums of rank 2n with Arf invariant 0; no other classes survive the simultaneous invariance conditions.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-27T14:52:17.087421+00:00"
+}

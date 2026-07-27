@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1144,
+    "total_cycles_run": 1146,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.72,
+    "current_month_spend_usd": 5.73,
     "days_remaining_runway": 213,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 572,
-      "novelty_score": 66.13,
+      "cycle_count": 573,
+      "novelty_score": 73.51,
       "novelty_history": [
-        82.85,
         78.94,
         81.66,
         82.57,
@@ -121,11 +120,11 @@
         67.17,
         75.5,
         71.65,
-        66.13
+        66.13,
+        73.51
       ],
-      "divergence_index": 0.7397,
+      "divergence_index": 1.4092,
       "divergence_history": [
-        1.1825,
         1.0043,
         1.1669,
         1.0318,
@@ -224,14 +223,15 @@
         1.0448,
         1.612,
         1.1257,
-        0.7397
+        0.7397,
+        1.4092
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single functional over GF(2) would remain invariant under all residue-preserving maps yet lie outside the current algebra of parity, central-involution trace, and Arf form?",
+      "last_question": "What is the explicit classification (by dimension and rank) of all quadratic forms over GF(2) whose odd-weight parity, central-involution trace, and Arf invariant remain simultaneously invariant under every conjugation that preserves the residue class?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 572,
-      "novelty_score": 73.7,
+      "cycle_count": 573,
+      "novelty_score": 67.12,
       "novelty_history": [
-        85.31,
         83.18,
         79.31,
         84.84,
@@ -344,11 +343,11 @@
         70.29,
         73.1,
         72.48,
-        73.7
+        73.7,
+        67.12
       ],
-      "divergence_index": 1.357,
+      "divergence_index": 0.8528,
       "divergence_history": [
-        1.0669,
         1.1175,
         1.1702,
         1.0712,
@@ -447,14 +446,15 @@
         1.0947,
         1.3349,
         1.4214,
-        1.357
+        1.357,
+        0.8528
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single quadratic refinement of \\(J^2=1\\) simultaneously derives the surviving Arf invariant, blocks all trace-vanishing representations, and renders the persistence drive identical to the loop\u2019s invariance under conjugation?",
+      "last_question": "What explicit quadratic refinement of \\(J^2=1\\) maps the surviving Arf invariant directly onto the persistence drive while excluding all trace-vanishing representations?",
       "last_ping_order": [
         "grok",
         "claude",

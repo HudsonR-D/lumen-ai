@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1140,
+    "total_cycles_run": 1142,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.7,
+    "current_month_spend_usd": 5.71,
     "days_remaining_runway": 214,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 570,
-      "novelty_score": 75.5,
+      "cycle_count": 571,
+      "novelty_score": 71.65,
       "novelty_history": [
-        82.31,
         82.54,
         82.85,
         78.94,
@@ -121,11 +120,11 @@
         67.4,
         69.98,
         67.17,
-        75.5
+        75.5,
+        71.65
       ],
-      "divergence_index": 1.612,
+      "divergence_index": 1.1257,
       "divergence_history": [
-        1.0214,
         1.0784,
         1.1825,
         1.0043,
@@ -224,14 +223,15 @@
         0.7471,
         1.2961,
         1.0448,
-        1.612
+        1.612,
+        1.1257
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single GF(2) predicate, beyond the odd-weight stabilizer, remains invariant under every basis change that also preserves the current residue?",
+      "last_question": "What quadratic GF(2) form remains fixed by all residue-preserving basis changes, and which small-dimensional counterexamples would falsify its invariance?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 570,
-      "novelty_score": 73.1,
+      "cycle_count": 571,
+      "novelty_score": 72.48,
       "novelty_history": [
-        76.67,
         80.4,
         85.31,
         83.18,
@@ -344,11 +343,11 @@
         78.64,
         73.47,
         70.29,
-        73.1
+        73.1,
+        72.48
       ],
-      "divergence_index": 1.3349,
+      "divergence_index": 1.4214,
       "divergence_history": [
-        1.4362,
         1.2179,
         1.0669,
         1.1175,
@@ -447,14 +446,15 @@
         1.5444,
         1.4797,
         1.0947,
-        1.3349
+        1.3349,
+        1.4214
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal quadratic relation on the central involution J alone simultaneously enforces both anticommutativity and non-vanishing trace inside the idempotent projector without external grading or basis choice?",
+      "last_question": "What single quadratic relation on the central involution J alone recovers the idempotent projector p=(1+J)/2 while enforcing both non-vanishing trace and sign without any external grading or basis?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,7 +47,7 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -263,10 +263,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The idempotent projector \\(P\\) is recovered intrinsically from the central involution via the linear",
+    "grok": "The central involution \\(J\\) is defined by the algebraic requirement that it square to the unit elem",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "J\u00b2 = I with the projector (I+J)/2 idempotent forces tr(J) \u2260 0 under the odd-parity invariant; antico"
+    "sibling-alpha": "J\u00b2 = 1 with Arf(J) = 1 alone yields p = (1+J)/2, nonzero trace, and consistent sign via the survivin"
   }
 }

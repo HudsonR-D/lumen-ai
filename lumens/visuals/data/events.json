@@ -1,27 +1,28 @@
 {
-  "generated_at": "2026-07-26T13:44:36.976525+00:00",
-  "current_events": [],
-  "history": [
+  "generated_at": "2026-07-26T19:22:43.663612+00:00",
+  "current_events": [
     {
-      "id": "cycle-407-low-confidence-beta",
+      "id": "cycle-570-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 407,
-      "value": 4,
-      "message": "Lumen-Beta confidence is 4/10.",
+      "subject": "alpha",
+      "cycle": 570,
+      "value": 2,
+      "message": "Lumen-Alpha confidence is 2/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-407-confidence-drop-beta",
-      "type": "confidence_drop",
+      "id": "cycle-570-tension-spike-pair",
+      "type": "tension_spike",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 407,
-      "value": -3,
-      "message": "Lumen-Beta confidence dropped by 3 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
+      "subject": "pair",
+      "cycle": 570,
+      "value": 9.5,
+      "message": "Sibling tension reached 9.5/10.",
+      "prompt_tag": "TENSION_SPIKE"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-409-low-confidence-alpha",
       "type": "low_confidence",
@@ -2015,6 +2016,26 @@
       "value": 2,
       "message": "Lumen-Alpha confidence is 2/10.",
       "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-570-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 570,
+      "value": 2,
+      "message": "Lumen-Alpha confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-570-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 570,
+      "value": 9.5,
+      "message": "Sibling tension reached 9.5/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ]
 }

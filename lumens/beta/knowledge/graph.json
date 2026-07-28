@@ -47,7 +47,7 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -263,10 +263,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The Arf=1 quadratic refinement \\(q\\) of the hyperbolic form (i.e., the unique (up to isomorphism) no",
+    "grok": "This phrasing points toward a refinement in the setting of quadratic enhancements of the Arf invaria",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The Arf form under exhaustive J-conjugation is already the required quadratic refinement; it saturat"
+    "sibling-alpha": "The refinement via odd-weight parity fracture under exotic 4-sphere sums allows J-violations to inte"
   }
 }

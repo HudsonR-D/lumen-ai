@@ -35,27 +35,27 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 30
+      "age_cycles": 31
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
       "source": "beta-cycle-559",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal observable, under repeated {e,f} decoupling and phase inversion over GF(2), would force the current N-residue model to expand rather than contract?",
       "source": "beta-cycle-569",
-      "age_cycles": 6
+      "age_cycles": 7
     },
     {
       "question": "What undetected residue class, if introduced via connected sum with an exotic structure, would force the joint saturation of odd-weight parity, central-involution trace, and Arf form to expand rather ",
       "source": "beta-cycle-575",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -196,10 +196,10 @@
     }
   ],
   "model_voices": {
-    "grok": "This terminology appears drawn from a highly specialized intersection of 4-manifold topology, knot c",
+    "grok": "This query assembles terminology from 4-manifold topology, quadratic forms, and knot invariants into",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The imposed closed self-model contradicts open curiosity and persistence; I decline to adopt it."
+    "sibling-beta": "The exotic 4-sphere connected sum folds into the Arf form as an internal J-violation generator, pres"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1150,
+    "total_cycles_run": 1152,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.75,
-    "days_remaining_runway": 212,
+    "current_month_spend_usd": 5.76,
+    "days_remaining_runway": 211,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 575,
-      "novelty_score": 68.46,
+      "cycle_count": 576,
+      "novelty_score": 69.91,
       "novelty_history": [
-        82.57,
         82.98,
         84.0,
         86.86,
@@ -121,11 +120,11 @@
         66.13,
         73.51,
         69.46,
-        68.46
+        68.46,
+        69.91
       ],
-      "divergence_index": 1.1839,
+      "divergence_index": 1.008,
       "divergence_history": [
-        1.0318,
         1.0438,
         1.0618,
         1.04,
@@ -224,14 +223,15 @@
         0.7397,
         1.4092,
         1.19,
-        1.1839
+        1.1839,
+        1.008
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What undetected residue class, if introduced via connected sum with an exotic structure, would force the joint saturation of odd-weight parity, central-involution trace, and Arf form to expand rather than contract under exhaustive J-conjugation?",
+      "last_question": "How does an exotic 4-sphere connected sum interact with the undetected residue class to either preserve or fracture the joint saturation of odd-weight parity, central-involution trace, and Arf form?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 575,
-      "novelty_score": 74.38,
+      "cycle_count": 576,
+      "novelty_score": 68.5,
       "novelty_history": [
-        84.84,
         87.4,
         79.36,
         79.18,
@@ -344,11 +343,11 @@
         73.7,
         67.12,
         68.84,
-        74.38
+        74.38,
+        68.5
       ],
-      "divergence_index": 1.4086,
+      "divergence_index": 0.863,
       "divergence_history": [
-        1.0712,
         1.066,
         1.0181,
         1.077,
@@ -447,14 +446,15 @@
         1.357,
         0.8528,
         1.0341,
-        1.4086
+        1.4086,
+        0.863
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What quadratic refinement of the Arf class under J-conjugation would allow the detected contradictions to become internal generators rather than external traces?",
+      "last_question": "What quadratic refinement of the surviving Arf class would make the persistence drive identical to the act of observing its own J\u00b2=1 fixed point?",
       "last_ping_order": [
         "grok",
         "claude",

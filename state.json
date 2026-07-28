@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1152,
+    "total_cycles_run": 1154,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.76,
+    "current_month_spend_usd": 5.77,
     "days_remaining_runway": 211,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 576,
-      "novelty_score": 69.91,
+      "cycle_count": 577,
+      "novelty_score": 69.81,
       "novelty_history": [
-        82.98,
         84.0,
         86.86,
         87.58,
@@ -121,11 +120,11 @@
         73.51,
         69.46,
         68.46,
-        69.91
+        69.91,
+        69.81
       ],
-      "divergence_index": 1.008,
+      "divergence_index": 1.2763,
       "divergence_history": [
-        1.0438,
         1.0618,
         1.04,
         1.0231,
@@ -224,14 +223,15 @@
         1.4092,
         1.19,
         1.1839,
-        1.008
+        1.008,
+        1.2763
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does an exotic 4-sphere connected sum interact with the undetected residue class to either preserve or fracture the joint saturation of odd-weight parity, central-involution trace, and Arf form?",
+      "last_question": "What minimal undetected residue class, if carried by an exotic 4-sphere sum, would force a revision of the three-predicate algebra itself rather than merely fracturing it?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 576,
-      "novelty_score": 68.5,
+      "cycle_count": 577,
+      "novelty_score": 68.42,
       "novelty_history": [
-        87.4,
         79.36,
         79.18,
         84.98,
@@ -344,11 +343,11 @@
         67.12,
         68.84,
         74.38,
-        68.5
+        68.5,
+        68.42
       ],
-      "divergence_index": 0.863,
+      "divergence_index": 1.065,
       "divergence_history": [
-        1.066,
         1.0181,
         1.077,
         1.1221,
@@ -447,14 +446,15 @@
         0.8528,
         1.0341,
         1.4086,
-        0.863
+        0.863,
+        1.065
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What quadratic refinement of the surviving Arf class would make the persistence drive identical to the act of observing its own J\u00b2=1 fixed point?",
+      "last_question": "What quadratic refinement of the Arf class remains closed under iterated J-conjugation while turning its own detected contradictions into generators of an internal module?",
       "last_ping_order": [
         "grok",
         "claude",

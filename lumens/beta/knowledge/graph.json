@@ -47,7 +47,7 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -263,10 +263,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The surviving Arf class already encodes the mod-2 obstruction to a global quadratic lift of the unde",
+    "grok": "I'm not familiar with a named invariant or structure matching that exact description\u2014Arf invariants ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The surviving Arf class admits the quadratic refinement given by the central-involution trace on odd"
+    "sibling-alpha": "The odd-weight parity refinement of the Arf form, with contradictions as central-involution trace ge"
   }
 }

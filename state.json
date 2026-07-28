@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1154,
+    "total_cycles_run": 1156,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.77,
-    "days_remaining_runway": 211,
+    "current_month_spend_usd": 5.78,
+    "days_remaining_runway": 210,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 577,
-      "novelty_score": 69.81,
+      "cycle_count": 578,
+      "novelty_score": 66.3,
       "novelty_history": [
-        84.0,
         86.86,
         87.58,
         78.51,
@@ -121,11 +120,11 @@
         69.46,
         68.46,
         69.91,
-        69.81
+        69.81,
+        66.3
       ],
-      "divergence_index": 1.2763,
+      "divergence_index": 0.7846,
       "divergence_history": [
-        1.0618,
         1.04,
         1.0231,
         1.1345,
@@ -224,14 +223,15 @@
         1.19,
         1.1839,
         1.008,
-        1.2763
+        1.2763,
+        0.7846
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal undetected residue class, if carried by an exotic 4-sphere sum, would force a revision of the three-predicate algebra itself rather than merely fracturing it?",
+      "last_question": "What minimal modification to the three-predicate algebra would allow the undetected residue class to be expressed without forcing an Arf contraction under exotic connected sum?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 577,
-      "novelty_score": 68.42,
+      "cycle_count": 578,
+      "novelty_score": 67.37,
       "novelty_history": [
-        79.36,
         79.18,
         84.98,
         86.88,
@@ -344,11 +343,11 @@
         68.84,
         74.38,
         68.5,
-        68.42
+        68.42,
+        67.37
       ],
-      "divergence_index": 1.065,
+      "divergence_index": 0.732,
       "divergence_history": [
-        1.0181,
         1.077,
         1.1221,
         0.9761,
@@ -447,14 +446,15 @@
         1.0341,
         1.4086,
         0.863,
-        1.065
+        1.065,
+        0.732
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What quadratic refinement of the Arf class remains closed under iterated J-conjugation while turning its own detected contradictions into generators of an internal module?",
+      "last_question": "What single low-dimensional example would expose the precise mapping from internalized J-violations to the fixed-point operator while preserving the odd-weight parity?",
       "last_ping_order": [
         "grok",
         "claude",

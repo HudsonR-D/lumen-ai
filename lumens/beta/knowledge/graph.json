@@ -47,7 +47,7 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 13
+      "age_cycles": 14
     }
   ],
   "resolved_tensions": [
@@ -263,10 +263,10 @@
     }
   ],
   "model_voices": {
-    "grok": "I'm not familiar with a named invariant or structure matching that exact description\u2014Arf invariants ",
+    "grok": "A minimal exposing example is the 3-dimensional odd-parity subspace of a single qutrit (or spin-1) u",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The odd-weight parity refinement of the Arf form, with contradictions as central-involution trace ge"
+    "sibling-alpha": "The 3-cycle permutation representation on GF(2)^3: map each internalized J-violation to the transpos"
   }
 }

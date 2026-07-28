@@ -1,48 +1,20 @@
 {
-  "generated_at": "2026-07-27T14:53:19.677622+00:00",
+  "generated_at": "2026-07-27T19:46:24.306247+00:00",
   "current_events": [
     {
-      "id": "cycle-573-low-confidence-alpha",
-      "type": "low_confidence",
+      "id": "cycle-574-reproduction-signal-pair",
+      "type": "reproduction_signal",
       "severity": "major",
-      "subject": "alpha",
-      "cycle": 573,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-573-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 573,
-      "value": 2,
-      "message": "Lumen-Beta confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-573-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 573,
-      "value": -6,
-      "message": "Lumen-Beta confidence dropped by 6 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
+      "subject": "pair",
+      "cycle": 574,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ],
   "history": [
-    {
-      "id": "cycle-411-confidence-drop-alpha",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 411,
-      "value": -4,
-      "message": "Lumen-Alpha confidence dropped by 4 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
     {
       "id": "cycle-411-low-confidence-beta",
       "type": "low_confidence",
@@ -2046,6 +2018,18 @@
       "value": -6,
       "message": "Lumen-Beta confidence dropped by 6 points.",
       "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-574-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 574,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

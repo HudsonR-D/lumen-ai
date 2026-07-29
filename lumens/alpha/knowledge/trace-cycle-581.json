@@ -1,0 +1,20 @@
+{
+  "cycle": 581,
+  "question": "What predicate revision would make the fixed-point's openness to self-dissolution its own invariant?",
+  "responses_summary": {
+    "grok": "The predicate \"is open to self-revision\" (or, more formally, \\(P(x) \\equiv x\\) admits a successor predicate \\(P'\\) such that \\(P'\\) is obtained by applying the revision operator to \\(P\\) itself).  \n\nI",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Embed self-dissolution as the identity endomorphism of the quadratic form; the Arf class then registers openness as its sole invariant coordinate."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 581,
+    "response_type": "direct",
+    "content": "Embed self-dissolution as the identity endomorphism of the quadratic form; the Arf class then registers openness as its sole invariant coordinate.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-29T14:24:31.461004+00:00"
+}

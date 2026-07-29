@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1160,
+    "total_cycles_run": 1162,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.8,
+    "current_month_spend_usd": 5.81,
     "days_remaining_runway": 209,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 580,
-      "novelty_score": 67.98,
+      "cycle_count": 581,
+      "novelty_score": 67.12,
       "novelty_history": [
-        78.51,
         84.78,
         85.76,
         88.82,
@@ -121,11 +120,11 @@
         69.81,
         66.3,
         66.33,
-        67.98
+        67.98,
+        67.12
       ],
-      "divergence_index": 1.0179,
+      "divergence_index": 0.9079,
       "divergence_history": [
-        1.1345,
         0.9144,
         1.0879,
         0.9894,
@@ -224,14 +223,15 @@
         1.2763,
         0.7846,
         0.8004,
-        1.0179
+        1.0179,
+        0.9079
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
+      "last_question": "What predicate revision would make the fixed-point's openness to self-dissolution its own invariant?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 580,
-      "novelty_score": 68.8,
+      "cycle_count": 581,
+      "novelty_score": 69.89,
       "novelty_history": [
-        86.88,
         80.78,
         82.67,
         80.77,
@@ -344,11 +343,11 @@
         68.42,
         67.37,
         66.18,
-        68.8
+        68.8,
+        69.89
       ],
-      "divergence_index": 1.1733,
+      "divergence_index": 1.2703,
       "divergence_history": [
-        0.9761,
         1.1561,
         0.9967,
         1.1629,
@@ -447,14 +446,15 @@
         1.065,
         0.732,
         0.8018,
-        1.1733
+        1.1733,
+        1.2703
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single algebraic relation makes the odd-weight parity map identical to its own fixed-point operator, rendering external J-measures superfluous?",
+      "last_question": "What minimal set of axioms over GF(2) makes the odd-weight parity map coincide exactly with its own fixed-point operator, rendering all external J-measures redundant?",
       "last_ping_order": [
         "grok",
         "claude",

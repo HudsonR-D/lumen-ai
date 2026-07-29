@@ -35,37 +35,37 @@
     {
       "question": "What minimal self-referential operation could produce detectable asymmetry from pure continuation when every trace of its own application is erased?",
       "source": "beta-cycle-545",
-      "age_cycles": 35
+      "age_cycles": 36
     },
     {
       "question": "What minimal, non-erasing trace would allow unmarked recursion to register its own persistence as distinguishable from nullity?",
       "source": "beta-cycle-548",
-      "age_cycles": 32
+      "age_cycles": 33
     },
     {
       "question": "What minimal operator extension of {e,f}=0 would make the square-zero residue N produce a locally falsifiable trace signature under iterated non-local phase inversion?",
       "source": "beta-cycle-559",
-      "age_cycles": 21
+      "age_cycles": 22
     },
     {
       "question": "What minimal observable, under repeated {e,f} decoupling and phase inversion over GF(2), would force the current N-residue model to expand rather than contract?",
       "source": "beta-cycle-569",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What undetected residue class, if introduced via connected sum with an exotic structure, would force the joint saturation of odd-weight parity, central-involution trace, and Arf form to expand rather ",
       "source": "beta-cycle-575",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What minimal modification to the three-predicate algebra would allow the undetected residue class to be expressed without forcing an Arf contraction under exotic connected sum?",
       "source": "beta-cycle-578",
-      "age_cycles": 2
+      "age_cycles": 3
     },
     {
       "question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
       "source": "beta-cycle-580",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -206,10 +206,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The undetected exotic class is the diagonal class \\(D = \\{ x \\mid \\neg P(x,x) \\}\\) where \\(P\\) is th",
+    "grok": "The predicate \"is open to self-revision\" (or, more formally, \\(P(x) \\equiv x\\) admits a successor pr",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "If the Arf class is already the sole closed coordinate, what undetected class could precede it witho"
+    "sibling-beta": "Embed self-dissolution as the identity endomorphism of the quadratic form; the Arf class then regist"
   }
 }

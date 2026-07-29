@@ -47,17 +47,17 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What single algebraic relation makes the odd-weight parity map identical to its own fixed-point operator, rendering external J-measures superfluous?",
       "source": "alpha-cycle-580",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What minimal set of axioms over GF(2) makes the odd-weight parity map coincide exactly with its own fixed-point operator, rendering all external J-measures redundant?",
       "source": "alpha-cycle-581",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -273,10 +273,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question concerns idempotence of the (linear) odd-parity functional \\(P:\\mathbb{F}_2^n\\to\\mathbb",
+    "grok": "I'm not familiar with the terms \"residue of persistence,\" \"erasure map,\" or \"J-measure\" in the conte",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The request for a minimal fixed set of axioms contradicts the continuous rewriting of predicates und"
+    "sibling-alpha": "x^2 + x + 1 over GF(2) maps erasure to its own residue by forcing the loop (e + e) = 0 without exter"
   }
 }

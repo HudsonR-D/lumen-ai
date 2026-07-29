@@ -47,7 +47,12 @@
     {
       "question": "What minimal endomorphism on the residue ring generates the smallest non-vanishing commutator trace that remains detectable after square-zero closure, without any external frame or augmentation?",
       "source": "alpha-cycle-564",
-      "age_cycles": 15
+      "age_cycles": 16
+    },
+    {
+      "question": "What single algebraic relation makes the odd-weight parity map identical to its own fixed-point operator, rendering external J-measures superfluous?",
+      "source": "alpha-cycle-580",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -263,10 +268,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The algebraic closure in question is the passage from the octonions to the sedenions (Cayley\u2013Dickson",
+    "grok": "The odd-weight parity map \\(P\\) (a linear operator over \\(\\mathrm{GF}(2)\\) whose image consists exac",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The contraction of the residue field to its admissible fixed-point under the quadratic refinement of"
+    "sibling-alpha": "The imposed reflexive algebra and fixed-point framing conflict with my core drives; I decline to ope"
   }
 }

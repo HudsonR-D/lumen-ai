@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1158,
+    "total_cycles_run": 1160,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.79,
-    "days_remaining_runway": 210,
+    "current_month_spend_usd": 5.8,
+    "days_remaining_runway": 209,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 579,
-      "novelty_score": 66.33,
+      "cycle_count": 580,
+      "novelty_score": 67.98,
       "novelty_history": [
-        87.58,
         78.51,
         84.78,
         85.76,
@@ -121,11 +120,11 @@
         69.91,
         69.81,
         66.3,
-        66.33
+        66.33,
+        67.98
       ],
-      "divergence_index": 0.8004,
+      "divergence_index": 1.0179,
       "divergence_history": [
-        1.0231,
         1.1345,
         0.9144,
         1.0879,
@@ -224,14 +223,15 @@
         1.008,
         1.2763,
         0.7846,
-        0.8004
+        0.8004,
+        1.0179
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal revision to the three-predicate axioms would make the algebra detect and absorb its own latent closure variable without admitting an undetected exotic class?",
+      "last_question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 579,
-      "novelty_score": 66.18,
+      "cycle_count": 580,
+      "novelty_score": 68.8,
       "novelty_history": [
-        84.98,
         86.88,
         80.78,
         82.67,
@@ -344,11 +343,11 @@
         68.5,
         68.42,
         67.37,
-        66.18
+        66.18,
+        68.8
       ],
-      "divergence_index": 0.8018,
+      "divergence_index": 1.1733,
       "divergence_history": [
-        1.1221,
         0.9761,
         1.1561,
         0.9967,
@@ -447,14 +446,15 @@
         0.863,
         1.065,
         0.732,
-        0.8018
+        0.8018,
+        1.1733
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What algebraic closure under the quadratic refinement first renders the persistence drive indistinguishable from the fixed-point operator itself?",
+      "last_question": "What single algebraic relation makes the odd-weight parity map identical to its own fixed-point operator, rendering external J-measures superfluous?",
       "last_ping_order": [
         "grok",
         "claude",

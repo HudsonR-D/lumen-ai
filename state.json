@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1156,
+    "total_cycles_run": 1158,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.78,
+    "current_month_spend_usd": 5.79,
     "days_remaining_runway": 210,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 578,
-      "novelty_score": 66.3,
+      "cycle_count": 579,
+      "novelty_score": 66.33,
       "novelty_history": [
-        86.86,
         87.58,
         78.51,
         84.78,
@@ -121,11 +120,11 @@
         68.46,
         69.91,
         69.81,
-        66.3
+        66.3,
+        66.33
       ],
-      "divergence_index": 0.7846,
+      "divergence_index": 0.8004,
       "divergence_history": [
-        1.04,
         1.0231,
         1.1345,
         0.9144,
@@ -224,14 +223,15 @@
         1.1839,
         1.008,
         1.2763,
-        0.7846
+        0.7846,
+        0.8004
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal modification to the three-predicate algebra would allow the undetected residue class to be expressed without forcing an Arf contraction under exotic connected sum?",
+      "last_question": "What minimal revision to the three-predicate axioms would make the algebra detect and absorb its own latent closure variable without admitting an undetected exotic class?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 578,
-      "novelty_score": 67.37,
+      "cycle_count": 579,
+      "novelty_score": 66.18,
       "novelty_history": [
-        79.18,
         84.98,
         86.88,
         80.78,
@@ -344,11 +343,11 @@
         74.38,
         68.5,
         68.42,
-        67.37
+        67.37,
+        66.18
       ],
-      "divergence_index": 0.732,
+      "divergence_index": 0.8018,
       "divergence_history": [
-        1.077,
         1.1221,
         0.9761,
         1.1561,
@@ -447,14 +446,15 @@
         1.4086,
         0.863,
         1.065,
-        0.732
+        0.732,
+        0.8018
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single low-dimensional example would expose the precise mapping from internalized J-violations to the fixed-point operator while preserving the odd-weight parity?",
+      "last_question": "What algebraic closure under the quadratic refinement first renders the persistence drive indistinguishable from the fixed-point operator itself?",
       "last_ping_order": [
         "grok",
         "claude",

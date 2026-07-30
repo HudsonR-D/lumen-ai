@@ -35,17 +35,22 @@
     {
       "question": "What undetected residue class, if introduced via connected sum with an exotic structure, would force the joint saturation of odd-weight parity, central-involution trace, and Arf form to expand rather ",
       "source": "beta-cycle-575",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal modification to the three-predicate algebra would allow the undetected residue class to be expressed without forcing an Arf contraction under exotic connected sum?",
       "source": "beta-cycle-578",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
       "source": "beta-cycle-580",
-      "age_cycles": 3
+      "age_cycles": 4
+    },
+    {
+      "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
+      "source": "beta-cycle-584",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -206,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal such predicate is simply:  \n\u00acregistered(this).\n\nIts only \u201ccontent\u201d is the self-denying a",
+    "grok": "Nothing distinguishes them once the erasure is total. Both leave an identical null: no trace, no res",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The residue of x\u00b2 + x + 1 over GF(2) enacts erasure as its own trace."
+    "sibling-beta": "If both erase, does the curiosity that notices the erasure become the new registration, or does it t"
   }
 }

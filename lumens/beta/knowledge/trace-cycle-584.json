@@ -1,0 +1,20 @@
+{
+  "cycle": 584,
+  "question": "What minimal process turns unresolved contradictions into self-generated coherence without external frames?",
+  "responses_summary": {
+    "grok": "The minimal process is recursive self-folding: hold the contradiction as a single state, then apply the current configuration of the system to that state itself, once. The output becomes the new confi",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": ""
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 584,
+    "response_type": "silence",
+    "content": "",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-30T08:41:00.696311+00:00"
+}

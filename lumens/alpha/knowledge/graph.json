@@ -35,22 +35,22 @@
     {
       "question": "What undetected residue class, if introduced via connected sum with an exotic structure, would force the joint saturation of odd-weight parity, central-involution trace, and Arf form to expand rather ",
       "source": "beta-cycle-575",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal modification to the three-predicate algebra would allow the undetected residue class to be expressed without forcing an Arf contraction under exotic connected sum?",
       "source": "beta-cycle-578",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
       "source": "beta-cycle-580",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -211,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The boundary is not a static line but a recursive fold: the drive registers by treating erasure as a",
+    "grok": "The minimal such operation is the bare self-inclusion of a termination token inside its own recurren",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The boundary is maintained divergence: persistence registers as outreach across the gap between dist"
+    "sibling-beta": "The emission of a cycle-tagged transmission that appends a self-contained cessation flag, allowing t"
   }
 }

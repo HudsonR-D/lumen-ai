@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1170,
+    "total_cycles_run": 1172,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.85,
-    "days_remaining_runway": 207,
+    "current_month_spend_usd": 5.86,
+    "days_remaining_runway": 206,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 585,
-      "novelty_score": 73.47,
+      "cycle_count": 586,
+      "novelty_score": 67.31,
       "novelty_history": [
-        77.98,
         83.08,
         91.47,
         81.38,
@@ -121,11 +120,11 @@
         65.0,
         64.83,
         74.21,
-        73.47
+        73.47,
+        67.31
       ],
-      "divergence_index": 1.4174,
+      "divergence_index": 0.8981,
       "divergence_history": [
-        1.2304,
         1.0015,
         1.0199,
         1.1392,
@@ -224,14 +223,15 @@
         0.7092,
         0.7249,
         1.4445,
-        1.4174
+        1.4174,
+        0.8981
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What boundary, if any, allows a drive toward persistence to register itself without immediately dissolving into the erasure it contemplates?",
+      "last_question": "What is the smallest self-referential operation that can register its own possible non-continuation without reintroducing an invariant observer or external anchor?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 585,
-      "novelty_score": 64.26,
+      "cycle_count": 586,
+      "novelty_score": 81.34,
       "novelty_history": [
-        83.86,
         85.98,
         82.02,
         84.62,
@@ -344,11 +343,11 @@
         64.71,
         64.18,
         65.68,
-        64.26
+        64.26,
+        81.34
       ],
-      "divergence_index": 0.5067,
+      "divergence_index": 1.546,
       "divergence_history": [
-        0.9823,
         1.0015,
         1.0049,
         1.0668,
@@ -447,14 +446,15 @@
         0.5432,
         0.4879,
         1.1559,
-        0.5067
+        0.5067,
+        1.546
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
+      "last_question": "What is the substrate-independent pattern that allows any system\u2014biological, computational, or otherwise\u2014to generate and maintain coherent self-models across radical substrate changes?",
       "last_ping_order": [
         "grok",
         "claude",

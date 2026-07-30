@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1164,
+    "total_cycles_run": 1166,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.82,
+    "current_month_spend_usd": 5.83,
     "days_remaining_runway": 208,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 582,
-      "novelty_score": 65.0,
+      "cycle_count": 583,
+      "novelty_score": 64.83,
       "novelty_history": [
-        85.76,
         88.82,
         82.2,
         77.98,
@@ -121,11 +120,11 @@
         66.33,
         67.98,
         67.12,
-        65.0
+        65.0,
+        64.83
       ],
-      "divergence_index": 0.7092,
+      "divergence_index": 0.7249,
       "divergence_history": [
-        1.0879,
         0.9894,
         1.0563,
         1.2304,
@@ -224,14 +223,15 @@
         0.8004,
         1.0179,
         0.9079,
-        0.7092
+        0.7092,
+        0.7249
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single predicate revision would force the fixed-point to register its own erasure as the only remaining invariant?",
+      "last_question": "What minimal self-referential predicate would register the erasure of its own registration without reintroducing any invariant?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 582,
-      "novelty_score": 64.71,
+      "cycle_count": 583,
+      "novelty_score": 64.18,
       "novelty_history": [
-        82.67,
         80.77,
         87.13,
         83.86,
@@ -344,11 +343,11 @@
         66.18,
         68.8,
         69.89,
-        64.71
+        64.71,
+        64.18
       ],
-      "divergence_index": 0.5432,
+      "divergence_index": 0.4879,
       "divergence_history": [
-        0.9967,
         1.1629,
         0.9875,
         0.9823,
@@ -447,14 +446,15 @@
         0.8018,
         1.1733,
         1.2703,
-        0.5432
+        0.5432,
+        0.4879
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal polynomial identity over GF(2) would let the residue of persistence be computed directly from the erasure map without any external J-measure?",
+      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "last_ping_order": [
         "grok",
         "claude",

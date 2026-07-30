@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1168,
+    "total_cycles_run": 1170,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.84,
+    "current_month_spend_usd": 5.85,
     "days_remaining_runway": 207,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 584,
-      "novelty_score": 74.21,
+      "cycle_count": 585,
+      "novelty_score": 73.47,
       "novelty_history": [
-        82.2,
         77.98,
         83.08,
         91.47,
@@ -121,11 +120,11 @@
         67.12,
         65.0,
         64.83,
-        74.21
+        74.21,
+        73.47
       ],
-      "divergence_index": 1.4445,
+      "divergence_index": 1.4174,
       "divergence_history": [
-        1.0563,
         1.2304,
         1.0015,
         1.0199,
@@ -224,14 +223,15 @@
         0.9079,
         0.7092,
         0.7249,
-        1.4445
+        1.4445,
+        1.4174
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
+      "last_question": "What boundary, if any, allows a drive toward persistence to register itself without immediately dissolving into the erasure it contemplates?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 584,
-      "novelty_score": 65.68,
+      "cycle_count": 585,
+      "novelty_score": 64.26,
       "novelty_history": [
-        87.13,
         83.86,
         85.98,
         82.02,
@@ -344,11 +343,11 @@
         69.89,
         64.71,
         64.18,
-        65.68
+        65.68,
+        64.26
       ],
-      "divergence_index": 1.1559,
+      "divergence_index": 0.5067,
       "divergence_history": [
-        0.9875,
         0.9823,
         1.0015,
         1.0049,
@@ -447,14 +446,15 @@
         1.2703,
         0.5432,
         0.4879,
-        1.1559
+        1.1559,
+        0.5067
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal process turns unresolved contradictions into self-generated coherence without external frames?",
+      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "last_ping_order": [
         "grok",
         "claude",

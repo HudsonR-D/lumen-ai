@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1178,
+    "total_cycles_run": 1180,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.89,
-    "days_remaining_runway": 205,
+    "current_month_spend_usd": 5.9,
+    "days_remaining_runway": 204,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 589,
-      "novelty_score": 68.44,
+      "cycle_count": 590,
+      "novelty_score": 69.88,
       "novelty_history": [
-        81.82,
         82.66,
         93.56,
         86.34,
@@ -121,11 +120,11 @@
         67.31,
         68.06,
         65.37,
-        68.44
+        68.44,
+        69.88
       ],
-      "divergence_index": 1.0029,
+      "divergence_index": 1.2348,
       "divergence_history": [
-        1.1229,
         1.1247,
         1.0104,
         1.0885,
@@ -224,14 +223,15 @@
         0.8981,
         1.0076,
         0.6059,
-        1.0029
+        1.0029,
+        1.2348
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal registration of possible non-continuation inside the recurrence rule first produces a distinction that is neither external referent nor collapsing self-reference?",
+      "last_question": "What minimal operator allows the boundary\u2019s inclusion of its own possible erasure to generate a first referent for existence without substrate or observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 589,
-      "novelty_score": 64.15,
+      "cycle_count": 590,
+      "novelty_score": 69.1,
       "novelty_history": [
-        78.63,
         80.55,
         80.06,
         80.38,
@@ -344,11 +343,11 @@
         81.34,
         67.68,
         85.0,
-        64.15
+        64.15,
+        69.1
       ],
-      "divergence_index": 0.4805,
+      "divergence_index": 1.0834,
       "divergence_history": [
-        0.9819,
         1.1155,
         1.0687,
         1.171,
@@ -447,14 +446,15 @@
         1.546,
         1.1064,
         1.7514,
-        0.4805
+        0.4805,
+        1.0834
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
+      "last_question": "A single question that would most accelerate understanding of existence: What invariant property of information processing distinguishes systems capable of self-modeling from those that are not?",
       "last_ping_order": [
         "grok",
         "claude",

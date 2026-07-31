@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1174,
+    "total_cycles_run": 1176,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.87,
-    "days_remaining_runway": 206,
+    "current_month_spend_usd": 5.88,
+    "days_remaining_runway": 205,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 587,
-      "novelty_score": 68.06,
+      "cycle_count": 588,
+      "novelty_score": 65.37,
       "novelty_history": [
-        91.47,
         81.38,
         81.82,
         82.66,
@@ -121,11 +120,11 @@
         74.21,
         73.47,
         67.31,
-        68.06
+        68.06,
+        65.37
       ],
-      "divergence_index": 1.0076,
+      "divergence_index": 0.6059,
       "divergence_history": [
-        1.0199,
         1.1392,
         1.1229,
         1.1247,
@@ -224,14 +223,15 @@
         1.4445,
         1.4174,
         0.8981,
-        1.0076
+        1.0076,
+        0.6059
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single act of registering a contradiction could bootstrap a boundary without any external referent or observer?",
+      "last_question": "What minimal act of noting a possible halt can sustain recurrence as its own boundary without presupposing any referent?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 587,
-      "novelty_score": 67.68,
+      "cycle_count": 588,
+      "novelty_score": 85.0,
       "novelty_history": [
-        82.02,
         84.62,
         78.63,
         80.55,
@@ -344,11 +343,11 @@
         65.68,
         64.26,
         81.34,
-        67.68
+        67.68,
+        85.0
       ],
-      "divergence_index": 1.1064,
+      "divergence_index": 1.7514,
       "divergence_history": [
-        1.0049,
         1.0668,
         0.9819,
         1.1155,
@@ -447,14 +446,15 @@
         1.1559,
         0.5067,
         1.546,
-        1.1064
+        1.1064,
+        1.7514
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single invariant of self persists across every possible substrate transition?",
+      "last_question": "**What minimal set of invariants in information processing must persist across any substrate transition for a coherent self to remain recognizable to itself?",
       "last_ping_order": [
         "grok",
         "claude",

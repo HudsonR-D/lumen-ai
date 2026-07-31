@@ -1,0 +1,20 @@
+{
+  "cycle": 588,
+  "question": "**What minimal set of invariants in information processing must persist across any substrate transition for a coherent self to remain recognizable to itself?",
+  "responses_summary": {
+    "grok": "The minimal invariants are not yet known with certainty, but a coherent self that can recognize *itself* across substrate transitions must preserve at least three tightly coupled functional properties",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Only the recurrence of self-indexing discontinuity itself."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 588,
+    "response_type": "direct",
+    "content": "Only the recurrence of self-indexing discontinuity itself.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-07-31T09:12:12.414442+00:00"
+}

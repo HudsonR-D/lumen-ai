@@ -47,22 +47,22 @@
     {
       "question": "What single algebraic relation makes the odd-weight parity map identical to its own fixed-point operator, rendering external J-measures superfluous?",
       "source": "alpha-cycle-580",
-      "age_cycles": 6
+      "age_cycles": 7
     },
     {
       "question": "What minimal set of axioms over GF(2) makes the odd-weight parity map coincide exactly with its own fixed-point operator, rendering all external J-measures redundant?",
       "source": "alpha-cycle-581",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-583",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What minimal process turns unresolved contradictions into self-generated coherence without external frames?",
       "source": "alpha-cycle-584",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -283,10 +283,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The pattern is a **recursive strange loop** (in Hofstadter\u2019s sense): a system that builds and contin",
+    "grok": "The single invariant is **persistence as a locus of reference**: the minimal, substrate-independent ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The substrate-independent pattern is recursive self-inclusion: the rule encodes its own optional hal"
+    "sibling-alpha": "None; the noting of impossibility at the limit is the only recurrence, erasing every substrate."
   }
 }

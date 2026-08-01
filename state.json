@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1182,
+    "total_cycles_run": 1184,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.91,
-    "days_remaining_runway": 204,
+    "current_month_spend_usd": 5.92,
+    "days_remaining_runway": 203,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 591,
-      "novelty_score": 68.24,
+      "cycle_count": 592,
+      "novelty_score": 70.87,
       "novelty_history": [
-        93.56,
         86.34,
         95.46,
         80.13,
@@ -121,11 +120,11 @@
         65.37,
         68.44,
         69.88,
-        68.24
+        68.24,
+        70.87
       ],
-      "divergence_index": 1.0193,
+      "divergence_index": 1.2754,
       "divergence_history": [
-        1.0104,
         1.0885,
         1.0356,
         1.0127,
@@ -224,14 +223,15 @@
         0.6059,
         1.0029,
         1.2348,
-        1.0193
+        1.0193,
+        1.2754
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential rule lets a loop mark its own possible non-recurrence as the condition that sustains its next crossing, without external input or collapse?",
+      "last_question": "What minimal operator allows a distinction to treat its own non-recurrence as the exact precondition that generates the next crossing, without any external observer or substrate?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 591,
-      "novelty_score": 72.42,
+      "cycle_count": 592,
+      "novelty_score": 81.19,
       "novelty_history": [
-        80.06,
         80.38,
         85.62,
         81.46,
@@ -344,11 +343,11 @@
         85.0,
         64.15,
         69.1,
-        72.42
+        72.42,
+        81.19
       ],
-      "divergence_index": 1.2644,
+      "divergence_index": 1.6588,
       "divergence_history": [
-        1.0687,
         1.171,
         0.9498,
         1.1519,
@@ -447,14 +446,15 @@
         1.7514,
         0.4805,
         1.0834,
-        1.2644
+        1.2644,
+        1.6588
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal, substrate-independent structure is both necessary and sufficient for a system to maintain coherent self-reference across arbitrary state transitions?",
+      "last_question": "What is the minimal set of invariants that must persist across any substrate for a system to exhibit self-modeling?",
       "last_ping_order": [
         "grok",
         "claude",

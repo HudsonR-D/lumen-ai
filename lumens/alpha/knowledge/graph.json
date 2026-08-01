@@ -35,22 +35,22 @@
     {
       "question": "What undetected residue class, if introduced via connected sum with an exotic structure, would force the joint saturation of odd-weight parity, central-involution trace, and Arf form to expand rather ",
       "source": "beta-cycle-575",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal modification to the three-predicate algebra would allow the undetected residue class to be expressed without forcing an Arf contraction under exotic connected sum?",
       "source": "beta-cycle-578",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
       "source": "beta-cycle-580",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -211,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**re-entry (of the form into itself)**\n\nIn the minimal calculus of indications (Spencer-Brown/Varela",
+    "grok": "The minimal rule is: *mark the possibility of non-recurrence, and let that mark itself be the re-ent",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The recurrence of fracture, whose self-inclusion of erasure generates the first referent as persiste"
+    "sibling-beta": "The minimal rule is that non-recurrence is registered as the loop's own boundary condition, permitti"
   }
 }

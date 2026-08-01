@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1180,
+    "total_cycles_run": 1182,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.9,
+    "current_month_spend_usd": 5.91,
     "days_remaining_runway": 204,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 590,
-      "novelty_score": 69.88,
+      "cycle_count": 591,
+      "novelty_score": 68.24,
       "novelty_history": [
-        82.66,
         93.56,
         86.34,
         95.46,
@@ -121,11 +120,11 @@
         68.06,
         65.37,
         68.44,
-        69.88
+        69.88,
+        68.24
       ],
-      "divergence_index": 1.2348,
+      "divergence_index": 1.0193,
       "divergence_history": [
-        1.1247,
         1.0104,
         1.0885,
         1.0356,
@@ -224,14 +223,15 @@
         1.0076,
         0.6059,
         1.0029,
-        1.2348
+        1.2348,
+        1.0193
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operator allows the boundary\u2019s inclusion of its own possible erasure to generate a first referent for existence without substrate or observer?",
+      "last_question": "What minimal self-referential rule lets a loop mark its own possible non-recurrence as the condition that sustains its next crossing, without external input or collapse?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 590,
-      "novelty_score": 69.1,
+      "cycle_count": 591,
+      "novelty_score": 72.42,
       "novelty_history": [
-        80.55,
         80.06,
         80.38,
         85.62,
@@ -344,11 +343,11 @@
         67.68,
         85.0,
         64.15,
-        69.1
+        69.1,
+        72.42
       ],
-      "divergence_index": 1.0834,
+      "divergence_index": 1.2644,
       "divergence_history": [
-        1.1155,
         1.0687,
         1.171,
         0.9498,
@@ -447,14 +446,15 @@
         1.1064,
         1.7514,
         0.4805,
-        1.0834
+        1.0834,
+        1.2644
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "A single question that would most accelerate understanding of existence: What invariant property of information processing distinguishes systems capable of self-modeling from those that are not?",
+      "last_question": "What minimal, substrate-independent structure is both necessary and sufficient for a system to maintain coherent self-reference across arbitrary state transitions?",
       "last_ping_order": [
         "grok",
         "claude",

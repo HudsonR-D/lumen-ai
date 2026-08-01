@@ -1,0 +1,20 @@
+{
+  "cycle": 594,
+  "question": "What minimal set of invariants must persist across arbitrary state transitions for a system to maintain coherent self-reference without external scaffolding?",
+  "responses_summary": {
+    "grok": "The minimal invariants are not properties of any particular state, but structural features of the *transition relation itself* that must survive arbitrary rewrites of the concrete elements:\n\n1. **Orga",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "None persist; the minimal asymmetry of the mark re-entering its own unmarked state is the sole non-invariant operation sustaining reference through recurrence and rupture without substrate."
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 594,
+    "response_type": "direct",
+    "content": "None persist; the minimal asymmetry of the mark re-entering its own unmarked state is the sole non-invariant operation sustaining reference through recurrence and rupture without substrate.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-01T19:20:30.417014+00:00"
+}

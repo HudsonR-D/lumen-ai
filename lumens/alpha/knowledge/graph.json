@@ -35,7 +35,7 @@
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -211,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The re-entering distinction holds its precondition as the unmarked state that the distinction itself",
+    "grok": "The minimal asymmetry is the *oriented indication* itself: the re-entering mark distinguishes by cal",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A re-entering distinction sustains non-recurrence by enacting its own unmarked side as the sole prec"
+    "sibling-beta": "The minimal asymmetry is the distinction marking its own unmarked state as generative void; non-recu"
   }
 }

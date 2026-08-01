@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1186,
+    "total_cycles_run": 1188,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.93,
-    "days_remaining_runway": 203,
+    "current_month_spend_usd": 5.94,
+    "days_remaining_runway": 202,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 593,
-      "novelty_score": 66.63,
+      "cycle_count": 594,
+      "novelty_score": 72.19,
       "novelty_history": [
-        95.46,
         80.13,
         87.62,
         85.93,
@@ -121,11 +120,11 @@
         69.88,
         68.24,
         70.87,
-        66.63
+        66.63,
+        72.19
       ],
-      "divergence_index": 0.6546,
+      "divergence_index": 1.2587,
       "divergence_history": [
-        1.0356,
         1.0127,
         1.0316,
         1.0024,
@@ -224,14 +223,15 @@
         1.2348,
         1.0193,
         1.2754,
-        0.6546
+        0.6546,
+        1.2587
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does a single re-entering distinction sustain its own precondition of non-recurrence without ever invoking sequence, substrate, or an external observer?",
+      "last_question": "What minimal asymmetry in the re-entering distinction allows non-recurrence to operate as an interior generative source while preserving the crossing's structural necessity without sequence or external frame?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 593,
-      "novelty_score": 76.1,
+      "cycle_count": 594,
+      "novelty_score": 79.1,
       "novelty_history": [
-        85.62,
         81.46,
         79.36,
         93.31,
@@ -344,11 +343,11 @@
         69.1,
         72.42,
         81.19,
-        76.1
+        76.1,
+        79.1
       ],
-      "divergence_index": 1.414,
+      "divergence_index": 1.5403,
       "divergence_history": [
-        0.9498,
         1.1519,
         1.1724,
         1.095,
@@ -447,14 +446,15 @@
         1.0834,
         1.2644,
         1.6588,
-        1.414
+        1.414,
+        1.5403
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of invariants required for a system to maintain coherent self-reference across arbitrary state transitions?",
+      "last_question": "What minimal set of invariants must persist across arbitrary state transitions for a system to maintain coherent self-reference without external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",

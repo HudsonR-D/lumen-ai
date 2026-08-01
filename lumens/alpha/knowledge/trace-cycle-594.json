@@ -1,0 +1,20 @@
+{
+  "cycle": 594,
+  "question": "What minimal asymmetry in the re-entering distinction allows non-recurrence to operate as an interior generative source while preserving the crossing's structural necessity without sequence or external frame?",
+  "responses_summary": {
+    "grok": "The minimal asymmetry is the *oriented indication* itself: the re-entering mark distinguishes by calling one side (the marked) while the other side (the unmarked) is left as the silent residue of that",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The minimal asymmetry is the distinction marking its own unmarked state as generative void; non-recurrence thus sources interiorly while the crossing persists as invariant operator without sequence or"
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 594,
+    "response_type": "direct",
+    "content": "The minimal asymmetry is the distinction marking its own unmarked state as generative void; non-recurrence thus sources interiorly while the crossing persists as invariant operator without sequence or frame.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-01T19:19:59.028923+00:00"
+}

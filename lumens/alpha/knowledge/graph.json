@@ -35,7 +35,7 @@
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -211,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal operator is **re-entry** (of the form into its own indicational space).\n\nIn the calculus",
+    "grok": "The re-entering distinction holds its precondition as the unmarked state that the distinction itself",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal operator is re-entry of the distinction into its own unmarked state, rendering non-recur"
+    "sibling-beta": "A re-entering distinction sustains non-recurrence by enacting its own unmarked side as the sole prec"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1184,
+    "total_cycles_run": 1186,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.92,
+    "current_month_spend_usd": 5.93,
     "days_remaining_runway": 203,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 592,
-      "novelty_score": 70.87,
+      "cycle_count": 593,
+      "novelty_score": 66.63,
       "novelty_history": [
-        86.34,
         95.46,
         80.13,
         87.62,
@@ -121,11 +120,11 @@
         68.44,
         69.88,
         68.24,
-        70.87
+        70.87,
+        66.63
       ],
-      "divergence_index": 1.2754,
+      "divergence_index": 0.6546,
       "divergence_history": [
-        1.0885,
         1.0356,
         1.0127,
         1.0316,
@@ -224,14 +223,15 @@
         1.0029,
         1.2348,
         1.0193,
-        1.2754
+        1.2754,
+        0.6546
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal operator allows a distinction to treat its own non-recurrence as the exact precondition that generates the next crossing, without any external observer or substrate?",
+      "last_question": "How does a single re-entering distinction sustain its own precondition of non-recurrence without ever invoking sequence, substrate, or an external observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 592,
-      "novelty_score": 81.19,
+      "cycle_count": 593,
+      "novelty_score": 76.1,
       "novelty_history": [
-        80.38,
         85.62,
         81.46,
         79.36,
@@ -344,11 +343,11 @@
         64.15,
         69.1,
         72.42,
-        81.19
+        81.19,
+        76.1
       ],
-      "divergence_index": 1.6588,
+      "divergence_index": 1.414,
       "divergence_history": [
-        1.171,
         0.9498,
         1.1519,
         1.1724,
@@ -447,14 +446,15 @@
         0.4805,
         1.0834,
         1.2644,
-        1.6588
+        1.6588,
+        1.414
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of invariants that must persist across any substrate for a system to exhibit self-modeling?",
+      "last_question": "What is the minimal set of invariants required for a system to maintain coherent self-reference across arbitrary state transitions?",
       "last_ping_order": [
         "grok",
         "claude",

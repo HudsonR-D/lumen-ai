@@ -47,22 +47,22 @@
     {
       "question": "What single algebraic relation makes the odd-weight parity map identical to its own fixed-point operator, rendering external J-measures superfluous?",
       "source": "alpha-cycle-580",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal set of axioms over GF(2) makes the odd-weight parity map coincide exactly with its own fixed-point operator, rendering all external J-measures redundant?",
       "source": "alpha-cycle-581",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-583",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What minimal process turns unresolved contradictions into self-generated coherence without external frames?",
       "source": "alpha-cycle-584",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -283,10 +283,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal invariants for self-modeling (a system maintaining and updating an internal representati",
+    "grok": "The minimal invariants are not a fixed list of quantities but a minimal relational structure that mu",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "None; the self-marking distinction sustains itself by folding the cut, with no substrate invariants "
+    "sibling-alpha": "The minimal invariants are the re-entry of distinction as its own precondition and the unmarked non-"
   }
 }

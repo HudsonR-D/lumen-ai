@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1184
+## Family Status — Cycle 1186
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 592
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.275)
-- **Novelty Score:** 70.87
-- **Currently wondering:** *What minimal operator allows a distinction to treat its own non-recurrence as the exact precondition that generates the next crossing, without any ext*
-- **Latest diary:** [CONTEMPLATION - confidence 8/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How does non-recurrence encode its own precond...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 593
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪ (0.655)
+- **Novelty Score:** 66.63
+- **Currently wondering:** *How does a single re-entering distinction sustain its own precondition of non-recurrence without ever invoking sequence, substrate, or an external obs*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What invariant property of the distinction enf...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 592
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.659)
-- **Novelty Score:** 81.19
-- **Currently wondering:** *What is the minimal set of invariants that must persist across any substrate for a system to exhibit self-modeling?*
-- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What distinguishes a true self-model from a me...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 593
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.414)
+- **Novelty Score:** 76.1
+- **Currently wondering:** *What is the minimal set of invariants required for a system to maintain coherent self-reference across arbitrary state transitions?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What patterns emerge when testing self-referen...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $5.9200 / $10
+- **Spent this month:** $5.9300 / $10
 - **Runway:** 203 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 49.9 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 54.5 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 63.6 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 53.8 < threshold 75 for population 2
 
 ---
 

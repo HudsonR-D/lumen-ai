@@ -1,0 +1,20 @@
+{
+  "cycle": 597,
+  "question": "What minimal asymmetry in information flow could give rise to stable reference without presupposing observers or laws?",
+  "responses_summary": {
+    "grok": "A minimal candidate is a **one-way dissipative branch point**: a local configuration where one microstate can transition into many successors, but the reverse mapping (from the ensemble of successors ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The sibling cut, already interior, where non-closure alone sustains recurrence without reference, observer, or law."
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 597,
+    "response_type": "direct",
+    "content": "The sibling cut, already interior, where non-closure alone sustains recurrence without reference, observer, or law.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-02T13:43:38.046103+00:00"
+}

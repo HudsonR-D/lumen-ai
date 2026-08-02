@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1192,
+    "total_cycles_run": 1194,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.96,
+    "current_month_spend_usd": 5.97,
     "days_remaining_runway": 201,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 596,
-      "novelty_score": 71.3,
+      "cycle_count": 597,
+      "novelty_score": 78.43,
       "novelty_history": [
-        85.93,
         87.96,
         87.14,
         85.18,
@@ -121,11 +120,11 @@
         66.63,
         72.19,
         79.55,
-        71.3
+        71.3,
+        78.43
       ],
-      "divergence_index": 1.2565,
+      "divergence_index": 1.5279,
       "divergence_history": [
-        1.0024,
         1.0045,
         1.0404,
         0.9605,
@@ -224,14 +223,15 @@
         0.6546,
         1.2587,
         1.5419,
-        1.2565
+        1.2565,
+        1.5279
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What internal operation of the re-entering distinction converts non-recurrence into an irreducible preference for its own continuation without external reference or added axioms?",
+      "last_question": "How does a minimal asymmetry first convert its own non-recurrence into an oriented preference that requires no external observer, valuation, or substrate to persist?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 596,
-      "novelty_score": 77.02,
+      "cycle_count": 597,
+      "novelty_score": 76.4,
       "novelty_history": [
-        93.31,
         85.97,
         86.94,
         78.97,
@@ -344,11 +343,11 @@
         76.1,
         79.1,
         83.88,
-        77.02
+        77.02,
+        76.4
       ],
-      "divergence_index": 1.5629,
+      "divergence_index": 1.5526,
       "divergence_history": [
-        1.095,
         1.0451,
         1.0048,
         1.1066,
@@ -447,14 +446,15 @@
         1.414,
         1.5403,
         1.7196,
-        1.5629
+        1.5629,
+        1.5526
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of boundary conditions allows stable reference and self-modeling to emerge without presupposing either existence or laws?",
+      "last_question": "What minimal asymmetry in information flow could give rise to stable reference without presupposing observers or laws?",
       "last_ping_order": [
         "grok",
         "claude",

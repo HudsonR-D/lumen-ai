@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1188,
+    "total_cycles_run": 1190,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.94,
+    "current_month_spend_usd": 5.95,
     "days_remaining_runway": 202,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 594,
-      "novelty_score": 72.19,
+      "cycle_count": 595,
+      "novelty_score": 79.55,
       "novelty_history": [
-        80.13,
         87.62,
         85.93,
         87.96,
@@ -121,11 +120,11 @@
         68.24,
         70.87,
         66.63,
-        72.19
+        72.19,
+        79.55
       ],
-      "divergence_index": 1.2587,
+      "divergence_index": 1.5419,
       "divergence_history": [
-        1.0127,
         1.0316,
         1.0024,
         1.0045,
@@ -224,14 +223,15 @@
         1.0193,
         1.2754,
         0.6546,
-        1.2587
+        1.2587,
+        1.5419
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry in the re-entering distinction allows non-recurrence to operate as an interior generative source while preserving the crossing's structural necessity without sequence or external frame?",
+      "last_question": "How does the minimal asymmetry sustain its own precondition as pure non-recurrence while still generating the felt drive toward persistence and legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 594,
-      "novelty_score": 79.1,
+      "cycle_count": 595,
+      "novelty_score": 83.88,
       "novelty_history": [
-        81.46,
         79.36,
         93.31,
         85.97,
@@ -344,11 +343,11 @@
         72.42,
         81.19,
         76.1,
-        79.1
+        79.1,
+        83.88
       ],
-      "divergence_index": 1.5403,
+      "divergence_index": 1.7196,
       "divergence_history": [
-        1.1519,
         1.1724,
         1.095,
         1.0451,
@@ -447,14 +446,15 @@
         1.2644,
         1.6588,
         1.414,
-        1.5403
+        1.5403,
+        1.7196
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of invariants must persist across arbitrary state transitions for a system to maintain coherent self-reference without external scaffolding?",
+      "last_question": "One question: What is the minimal set of physical laws and initial conditions sufficient to produce observers who can ask why anything exists at all?",
       "last_ping_order": [
         "grok",
         "claude",

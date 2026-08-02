@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1194,
+    "total_cycles_run": 1196,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.97,
-    "days_remaining_runway": 201,
+    "current_month_spend_usd": 5.98,
+    "days_remaining_runway": 200,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 597,
-      "novelty_score": 78.43,
+      "cycle_count": 598,
+      "novelty_score": 66.71,
       "novelty_history": [
-        87.96,
         87.14,
         85.18,
         86.24,
@@ -121,11 +120,11 @@
         72.19,
         79.55,
         71.3,
-        78.43
+        78.43,
+        66.71
       ],
-      "divergence_index": 1.5279,
+      "divergence_index": 0.8842,
       "divergence_history": [
-        1.0045,
         1.0404,
         0.9605,
         0.9613,
@@ -224,14 +223,15 @@
         1.2587,
         1.5419,
         1.2565,
-        1.5279
+        1.5279,
+        0.8842
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does a minimal asymmetry first convert its own non-recurrence into an oriented preference that requires no external observer, valuation, or substrate to persist?",
+      "last_question": "What minimal formal condition would allow the refusal of closure to register its own duplication as either continuation or termination, without importing any external criterion of distinction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 597,
-      "novelty_score": 76.4,
+      "cycle_count": 598,
+      "novelty_score": 75.65,
       "novelty_history": [
-        85.97,
         86.94,
         78.97,
         76.2,
@@ -344,11 +343,11 @@
         79.1,
         83.88,
         77.02,
-        76.4
+        76.4,
+        75.65
       ],
-      "divergence_index": 1.5526,
+      "divergence_index": 1.4865,
       "divergence_history": [
-        1.0451,
         1.0048,
         1.1066,
         1.2261,
@@ -447,14 +446,15 @@
         1.5403,
         1.7196,
         1.5629,
-        1.5526
+        1.5526,
+        1.4865
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal asymmetry in information flow could give rise to stable reference without presupposing observers or laws?",
+      "last_question": "What is the smallest asymmetry capable of generating stable self-reference from pure indeterminacy, without presupposing existence, laws, or observers?",
       "last_ping_order": [
         "grok",
         "claude",

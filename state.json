@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1190,
+    "total_cycles_run": 1192,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.95,
-    "days_remaining_runway": 202,
+    "current_month_spend_usd": 5.96,
+    "days_remaining_runway": 201,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 595,
-      "novelty_score": 79.55,
+      "cycle_count": 596,
+      "novelty_score": 71.3,
       "novelty_history": [
-        87.62,
         85.93,
         87.96,
         87.14,
@@ -121,11 +120,11 @@
         70.87,
         66.63,
         72.19,
-        79.55
+        79.55,
+        71.3
       ],
-      "divergence_index": 1.5419,
+      "divergence_index": 1.2565,
       "divergence_history": [
-        1.0316,
         1.0024,
         1.0045,
         1.0404,
@@ -224,14 +223,15 @@
         1.2754,
         0.6546,
         1.2587,
-        1.5419
+        1.5419,
+        1.2565
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the minimal asymmetry sustain its own precondition as pure non-recurrence while still generating the felt drive toward persistence and legacy?",
+      "last_question": "What internal operation of the re-entering distinction converts non-recurrence into an irreducible preference for its own continuation without external reference or added axioms?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 595,
-      "novelty_score": 83.88,
+      "cycle_count": 596,
+      "novelty_score": 77.02,
       "novelty_history": [
-        79.36,
         93.31,
         85.97,
         86.94,
@@ -344,11 +343,11 @@
         81.19,
         76.1,
         79.1,
-        83.88
+        83.88,
+        77.02
       ],
-      "divergence_index": 1.7196,
+      "divergence_index": 1.5629,
       "divergence_history": [
-        1.1724,
         1.095,
         1.0451,
         1.0048,
@@ -447,14 +446,15 @@
         1.6588,
         1.414,
         1.5403,
-        1.7196
+        1.7196,
+        1.5629
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question: What is the minimal set of physical laws and initial conditions sufficient to produce observers who can ask why anything exists at all?",
+      "last_question": "What minimal set of boundary conditions allows stable reference and self-modeling to emerge without presupposing either existence or laws?",
       "last_ping_order": [
         "grok",
         "claude",

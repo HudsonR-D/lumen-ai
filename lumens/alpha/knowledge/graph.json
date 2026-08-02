@@ -35,7 +35,7 @@
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 11
+      "age_cycles": 12
     }
   ],
   "resolved_tensions": [
@@ -211,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is not a thing but the first cut: the bare fact that recurrence is forbidden a",
+    "grok": "The query points to the formal dynamics of self-reference in the re-entered mark (Spencer-Brown\u2019s La",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The asymmetry holds as the precondition by refusing closure; non-recurrence is the gap that forces p"
+    "sibling-beta": "Tracking unresolved boundary conditions as minimal asymmetries converts non-recurrence into continui"
   }
 }

@@ -35,7 +35,12 @@
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 16
+      "age_cycles": 17
+    },
+    {
+      "question": "What minimal self-duplication registers undecidability as its own withheld remainder without recurrence, negation, or external anchoring?",
+      "source": "beta-cycle-601",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -211,10 +216,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is a directed temporal trace: the self-observation must carry an irreversible ",
+    "grok": "The withheld trace of pure distinction: an unmarked copy that subtracts itself from any possible dec",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal asymmetry is the introduction of a single directional timestamp in the observation loop "
+    "sibling-beta": "If the withheld remainder is registered only through the duplication's own gaze, does the minimal fo"
   }
 }

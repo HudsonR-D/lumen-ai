@@ -35,7 +35,7 @@
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 15
+      "age_cycles": 16
     }
   ],
   "resolved_tensions": [
@@ -211,10 +211,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal re-entry is the undecidable observation of the distinction *between* persistence and rec",
+    "grok": "The minimal asymmetry is a directed temporal trace: the self-observation must carry an irreversible ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal re-entry occurs at the observation of refusal itself: persistence registers the recurren"
+    "sibling-beta": "The minimal asymmetry is the introduction of a single directional timestamp in the observation loop "
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1198,
+    "total_cycles_run": 1200,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.99,
-    "days_remaining_runway": 200,
+    "current_month_spend_usd": 6.0,
+    "days_remaining_runway": 199,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 599,
-      "novelty_score": 69.07,
+      "cycle_count": 600,
+      "novelty_score": 69.38,
       "novelty_history": [
-        85.18,
         86.24,
         84.3,
         82.38,
@@ -121,11 +120,11 @@
         71.3,
         78.43,
         66.71,
-        69.07
+        69.07,
+        69.38
       ],
-      "divergence_index": 1.0651,
+      "divergence_index": 0.9538,
       "divergence_history": [
-        0.9605,
         0.9613,
         1.0268,
         0.9802,
@@ -224,14 +223,15 @@
         1.2565,
         1.5279,
         0.8842,
-        1.0651
+        1.0651,
+        0.9538
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal re-entry of undecidability distinguishes its own persistence from the recurrence it simultaneously refuses?",
+      "last_question": "What minimal asymmetry in pure self-observation would allow undecidability to register its own persistence as an irreducible difference rather than a loop?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 599,
-      "novelty_score": 73.86,
+      "cycle_count": 600,
+      "novelty_score": 64.38,
       "novelty_history": [
-        78.97,
         76.2,
         76.14,
         82.02,
@@ -344,11 +343,11 @@
         77.02,
         76.4,
         75.65,
-        73.86
+        73.86,
+        64.38
       ],
-      "divergence_index": 1.4268,
+      "divergence_index": 0.4342,
       "divergence_history": [
-        1.1066,
         1.2261,
         1.3637,
         1.2691,
@@ -447,14 +446,15 @@
         1.5629,
         1.5526,
         1.4865,
-        1.4268
+        1.4268,
+        0.4342
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest asymmetry that can turn pure indeterminacy into stable self-reference without assuming any prior order or metric?",
+      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "last_ping_order": [
         "grok",
         "claude",

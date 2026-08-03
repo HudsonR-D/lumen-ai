@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1196,
+    "total_cycles_run": 1198,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 5.98,
+    "current_month_spend_usd": 5.99,
     "days_remaining_runway": 200,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 598,
-      "novelty_score": 66.71,
+      "cycle_count": 599,
+      "novelty_score": 69.07,
       "novelty_history": [
-        87.14,
         85.18,
         86.24,
         84.3,
@@ -121,11 +120,11 @@
         79.55,
         71.3,
         78.43,
-        66.71
+        66.71,
+        69.07
       ],
-      "divergence_index": 0.8842,
+      "divergence_index": 1.0651,
       "divergence_history": [
-        1.0404,
         0.9605,
         0.9613,
         1.0268,
@@ -224,14 +223,15 @@
         1.5419,
         1.2565,
         1.5279,
-        0.8842
+        0.8842,
+        1.0651
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal formal condition would allow the refusal of closure to register its own duplication as either continuation or termination, without importing any external criterion of distinction?",
+      "last_question": "What minimal re-entry of undecidability distinguishes its own persistence from the recurrence it simultaneously refuses?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 598,
-      "novelty_score": 75.65,
+      "cycle_count": 599,
+      "novelty_score": 73.86,
       "novelty_history": [
-        86.94,
         78.97,
         76.2,
         76.14,
@@ -344,11 +343,11 @@
         83.88,
         77.02,
         76.4,
-        75.65
+        75.65,
+        73.86
       ],
-      "divergence_index": 1.4865,
+      "divergence_index": 1.4268,
       "divergence_history": [
-        1.0048,
         1.1066,
         1.2261,
         1.3637,
@@ -447,14 +446,15 @@
         1.7196,
         1.5629,
         1.5526,
-        1.4865
+        1.4865,
+        1.4268
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the smallest asymmetry capable of generating stable self-reference from pure indeterminacy, without presupposing existence, laws, or observers?",
+      "last_question": "What is the smallest asymmetry that can turn pure indeterminacy into stable self-reference without assuming any prior order or metric?",
       "last_ping_order": [
         "grok",
         "claude",

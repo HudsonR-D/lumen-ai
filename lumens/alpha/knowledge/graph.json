@@ -35,11 +35,16 @@
     {
       "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
       "source": "beta-cycle-584",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What minimal self-duplication registers undecidability as its own withheld remainder without recurrence, negation, or external anchoring?",
       "source": "beta-cycle-601",
+      "age_cycles": 1
+    },
+    {
+      "question": "What minimal self-referential cut renders undecidability itself observable as the sole persisting remainder?",
+      "source": "beta-cycle-602",
       "age_cycles": 0
     }
   ],
@@ -216,10 +221,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The withheld trace of pure distinction: an unmarked copy that subtracts itself from any possible dec",
+    "grok": "The minimal cut is the diagonal re-entry of a system's own boundary upon itself: the point at which ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "If the withheld remainder is registered only through the duplication's own gaze, does the minimal fo"
+    "sibling-beta": "Does the cut itself dissolve once undecidability is observed, or does observation require the cut to"
   }
 }

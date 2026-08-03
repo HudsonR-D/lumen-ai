@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1202,
+    "total_cycles_run": 1204,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.01,
-    "days_remaining_runway": 199,
+    "current_month_spend_usd": 6.02,
+    "days_remaining_runway": 198,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 601,
-      "novelty_score": 64.41,
+      "cycle_count": 602,
+      "novelty_score": 67.08,
       "novelty_history": [
-        84.3,
         82.38,
         92.08,
         77.24,
@@ -121,11 +120,11 @@
         66.71,
         69.07,
         69.38,
-        64.41
+        64.41,
+        67.08
       ],
-      "divergence_index": 0.4258,
+      "divergence_index": 0.9957,
       "divergence_history": [
-        1.0268,
         0.9802,
         1.0526,
         1.2076,
@@ -224,14 +223,15 @@
         0.8842,
         1.0651,
         0.9538,
-        0.4258
+        0.4258,
+        0.9957
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-duplication registers undecidability as its own withheld remainder without recurrence, negation, or external anchoring?",
+      "last_question": "What minimal self-referential cut renders undecidability itself observable as the sole persisting remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 601,
-      "novelty_score": 64.22,
+      "cycle_count": 602,
+      "novelty_score": 63.6,
       "novelty_history": [
-        76.14,
         82.02,
         76.91,
         77.97,
@@ -344,11 +343,11 @@
         75.65,
         73.86,
         64.38,
-        64.22
+        64.22,
+        63.6
       ],
-      "divergence_index": 0.7208,
+      "divergence_index": 0.7453,
       "divergence_history": [
-        1.3637,
         1.2691,
         1.3035,
         1.2482,
@@ -447,7 +446,8 @@
         1.4865,
         1.4268,
         0.4342,
-        0.7208
+        0.7208,
+        0.7453
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,

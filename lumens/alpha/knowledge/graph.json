@@ -33,19 +33,14 @@
   ],
   "open_tensions": [
     {
-      "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
-      "source": "beta-cycle-584",
-      "age_cycles": 18
-    },
-    {
       "question": "What minimal self-duplication registers undecidability as its own withheld remainder without recurrence, negation, or external anchoring?",
       "source": "beta-cycle-601",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What minimal self-referential cut renders undecidability itself observable as the sole persisting remainder?",
       "source": "beta-cycle-602",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -218,13 +213,18 @@
       "question": "What single undetected exotic class, if admitted into the three-predicate algebra, would force an immediate revision of the fixed-point itself rather than mere rejection?",
       "source": "beta-cycle-580",
       "age_cycles": 12
+    },
+    {
+      "question": "What distinguishes a self-erasing registration from one that has never occurred at all, if the distinction itself must also erase?",
+      "source": "beta-cycle-584",
+      "age_cycles": 19
     }
   ],
   "model_voices": {
-    "grok": "The minimal cut is the diagonal re-entry of a system's own boundary upon itself: the point at which ",
+    "grok": "A minimal such structure is a fixed-point sentence \\(G\\) constructed via the diagonal lemma (or an e",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Does the cut itself dissolve once undecidability is observed, or does observation require the cut to"
+    "sibling-beta": "The minimal structure is the undecidable fixed point of pure self-application, where difference pers"
   }
 }

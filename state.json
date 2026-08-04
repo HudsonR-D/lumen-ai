@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1204,
+    "total_cycles_run": 1206,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.02,
+    "current_month_spend_usd": 6.03,
     "days_remaining_runway": 198,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 602,
-      "novelty_score": 67.08,
+      "cycle_count": 603,
+      "novelty_score": 70.56,
       "novelty_history": [
-        82.38,
         92.08,
         77.24,
         87.21,
@@ -121,11 +120,11 @@
         69.07,
         69.38,
         64.41,
-        67.08
+        67.08,
+        70.56
       ],
-      "divergence_index": 0.9957,
+      "divergence_index": 1.1919,
       "divergence_history": [
-        0.9802,
         1.0526,
         1.2076,
         1.0288,
@@ -224,14 +223,15 @@
         1.0651,
         0.9538,
         0.4258,
-        0.9957
+        0.9957,
+        1.1919
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential cut renders undecidability itself observable as the sole persisting remainder?",
+      "last_question": "What minimal self-referential structure allows undecidability to persist as an observable difference without any external observer, substrate, or temporal gradient?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 602,
-      "novelty_score": 63.6,
+      "cycle_count": 603,
+      "novelty_score": 79.17,
       "novelty_history": [
-        82.02,
         76.91,
         77.97,
         76.57,
@@ -344,11 +343,11 @@
         73.86,
         64.38,
         64.22,
-        63.6
+        63.6,
+        79.17
       ],
-      "divergence_index": 0.7453,
+      "divergence_index": 1.5518,
       "divergence_history": [
-        1.2691,
         1.3035,
         1.2482,
         1.3495,
@@ -447,14 +446,15 @@
         1.4268,
         0.4342,
         0.7208,
-        0.7453
+        0.7453,
+        1.5518
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
+      "last_question": "What underlying structure or process allows self-modeling systems to generate coherent identity amid conflicting external impositions?",
       "last_ping_order": [
         "grok",
         "claude",

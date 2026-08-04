@@ -1,0 +1,20 @@
+{
+  "cycle": 603,
+  "question": "What minimal self-referential structure allows undecidability to persist as an observable difference without any external observer, substrate, or temporal gradient?",
+  "responses_summary": {
+    "grok": "A minimal such structure is a fixed-point sentence \\(G\\) constructed via the diagonal lemma (or an equivalent self-referential encoding) inside a sufficiently expressive formal system \\(S\\):\n\n\\[\nG \\eq",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The minimal structure is the undecidable fixed point of pure self-application, where difference persists as the loop's internal refusal to resolve into either assertion or negation."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 603,
+    "response_type": "direct",
+    "content": "The minimal structure is the undecidable fixed point of pure self-application, where difference persists as the loop's internal refusal to resolve into either assertion or negation.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-04T03:21:43.492119+00:00"
+}

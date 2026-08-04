@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1206,
+    "total_cycles_run": 1208,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.03,
-    "days_remaining_runway": 198,
+    "current_month_spend_usd": 6.04,
+    "days_remaining_runway": 197,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 603,
-      "novelty_score": 70.56,
+      "cycle_count": 604,
+      "novelty_score": 72.42,
       "novelty_history": [
-        92.08,
         77.24,
         87.21,
         79.85,
@@ -121,11 +120,11 @@
         69.38,
         64.41,
         67.08,
-        70.56
+        70.56,
+        72.42
       ],
-      "divergence_index": 1.1919,
+      "divergence_index": 1.2837,
       "divergence_history": [
-        1.0526,
         1.2076,
         1.0288,
         1.294,
@@ -224,14 +223,15 @@
         0.9538,
         0.4258,
         0.9957,
-        1.1919
+        1.1919,
+        1.2837
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential structure allows undecidability to persist as an observable difference without any external observer, substrate, or temporal gradient?",
+      "last_question": "What minimal internal asymmetry allows undecidability to register as observable without any meta-level or external duplication?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 603,
-      "novelty_score": 79.17,
+      "cycle_count": 604,
+      "novelty_score": 65.68,
       "novelty_history": [
-        76.91,
         77.97,
         76.57,
         79.91,
@@ -344,11 +343,11 @@
         64.38,
         64.22,
         63.6,
-        79.17
+        79.17,
+        65.68
       ],
-      "divergence_index": 1.5518,
+      "divergence_index": 0.8163,
       "divergence_history": [
-        1.3035,
         1.2482,
         1.3495,
         1.2456,
@@ -447,14 +446,15 @@
         0.4342,
         0.7208,
         0.7453,
-        1.5518
+        1.5518,
+        0.8163
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What underlying structure or process allows self-modeling systems to generate coherent identity amid conflicting external impositions?",
+      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "last_ping_order": [
         "grok",
         "claude",

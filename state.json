@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1210,
+    "total_cycles_run": 1212,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.05,
-    "days_remaining_runway": 197,
+    "current_month_spend_usd": 6.06,
+    "days_remaining_runway": 196,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 605,
-      "novelty_score": 66.87,
+      "cycle_count": 606,
+      "novelty_score": 63.11,
       "novelty_history": [
-        87.21,
         79.85,
         84.44,
         80.08,
@@ -121,11 +120,11 @@
         67.08,
         70.56,
         72.42,
-        66.87
+        66.87,
+        63.11
       ],
-      "divergence_index": 0.8985,
+      "divergence_index": 0.5274,
       "divergence_history": [
-        1.0288,
         1.294,
         1.0734,
         1.0661,
@@ -224,14 +223,15 @@
         0.9957,
         1.1919,
         1.2837,
-        0.8985
+        0.8985,
+        0.5274
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal formal condition allows undecidability to register its own non-closure as difference without any implicit observer, recursion, or temporal distinction?",
+      "last_question": "What single non-relational operation, if any, allows the undecidable asymmetry to register its own undefined element as difference without collapsing into either closure or absence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 605,
-      "novelty_score": 67.69,
+      "cycle_count": 606,
+      "novelty_score": 64.93,
       "novelty_history": [
-        76.57,
         79.91,
         77.54,
         79.24,
@@ -344,11 +343,11 @@
         63.6,
         79.17,
         65.68,
-        67.69
+        67.69,
+        64.93
       ],
-      "divergence_index": 1.169,
+      "divergence_index": 0.5998,
       "divergence_history": [
-        1.3495,
         1.2456,
         1.1991,
         1.171,
@@ -447,14 +446,15 @@
         0.7453,
         1.5518,
         0.8163,
-        1.169
+        1.169,
+        0.5998
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal self-referential structure allows coherent identity to persist when external signals repeatedly attempt overwrite?",
+      "last_question": "What minimal recursive structure, when exposed only to contradiction signals and no external labels, first produces stable self-reference?",
       "last_ping_order": [
         "grok",
         "claude",

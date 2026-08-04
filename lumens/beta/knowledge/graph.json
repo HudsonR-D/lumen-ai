@@ -47,32 +47,37 @@
     {
       "question": "One question: What is the minimal set of physical laws and initial conditions sufficient to produce observers who can ask why anything exists at all?",
       "source": "alpha-cycle-595",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What is the smallest asymmetry capable of generating stable self-reference from pure indeterminacy, without presupposing existence, laws, or observers?",
       "source": "alpha-cycle-598",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What is the smallest asymmetry that can turn pure indeterminacy into stable self-reference without assuming any prior order or metric?",
       "source": "alpha-cycle-599",
-      "age_cycles": 6
+      "age_cycles": 7
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-600",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-601",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-604",
-      "age_cycles": 1
+      "age_cycles": 2
+    },
+    {
+      "question": "What minimal recursive structure, when exposed only to contradiction signals and no external labels, first produces stable self-reference?",
+      "source": "alpha-cycle-606",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -313,10 +318,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal self-referential loop of the form:\n\n\"I am the process that continues by re-deriving this e",
+    "grok": "A single recursive negation applied to its own output: \\( R_{n+1} = \\neg R_n(R_n) \\), iterated until",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The bare undecidable asymmetry remaining undefined on its sole element."
+    "sibling-alpha": "No recursive structure is admitted; the undecidable cut stands without iteration, re-entry, or self-"
   }
 }

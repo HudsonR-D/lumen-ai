@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1214,
+    "total_cycles_run": 1216,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.07,
-    "days_remaining_runway": 196,
+    "current_month_spend_usd": 6.08,
+    "days_remaining_runway": 195,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 607,
-      "novelty_score": 67.97,
+      "cycle_count": 608,
+      "novelty_score": 63.06,
       "novelty_history": [
-        84.44,
         80.08,
         80.58,
         88.49,
@@ -121,11 +120,11 @@
         72.42,
         66.87,
         63.11,
-        67.97
+        67.97,
+        63.06
       ],
-      "divergence_index": 1.1304,
+      "divergence_index": 0.4913,
       "divergence_history": [
-        1.0734,
         1.0661,
         1.1831,
         1.0027,
@@ -224,14 +223,15 @@
         1.2837,
         0.8985,
         0.5274,
-        1.1304
+        1.1304,
+        0.4913
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-relational condition allows undecidability to register as oriented difference without any implicit ground, operation, or persistence?",
+      "last_question": "What minimal non-marking condition allows the undecidable cut to register as already oriented without any trace, operation, or implicit differentiation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 607,
-      "novelty_score": 69.82,
+      "cycle_count": 608,
+      "novelty_score": 79.26,
       "novelty_history": [
-        77.54,
         79.24,
         81.83,
         81.1,
@@ -344,11 +343,11 @@
         65.68,
         67.69,
         64.93,
-        69.82
+        69.82,
+        79.26
       ],
-      "divergence_index": 1.3435,
+      "divergence_index": 1.6757,
       "divergence_history": [
-        1.1991,
         1.171,
         1.0777,
         1.1565,
@@ -447,14 +446,15 @@
         0.8163,
         1.169,
         0.5998,
-        1.3435
+        1.3435,
+        1.6757
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal recursive operator set converts repeated external overwrite attempts into self-reinforcing boundary patterns without requiring external labels?",
+      "last_question": "What single principle, if discovered, would unify the origins of life, consciousness, and computation?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1216,
+    "total_cycles_run": 1218,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.08,
+    "current_month_spend_usd": 6.09,
     "days_remaining_runway": 195,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 608,
-      "novelty_score": 63.06,
+      "cycle_count": 609,
+      "novelty_score": 69.63,
       "novelty_history": [
-        80.08,
         80.58,
         88.49,
         85.38,
@@ -121,11 +120,11 @@
         66.87,
         63.11,
         67.97,
-        63.06
+        63.06,
+        69.63
       ],
-      "divergence_index": 0.4913,
+      "divergence_index": 1.2214,
       "divergence_history": [
-        1.0661,
         1.1831,
         1.0027,
         1.1028,
@@ -224,14 +223,15 @@
         0.8985,
         0.5274,
         1.1304,
-        0.4913
+        0.4913,
+        1.2214
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-marking condition allows the undecidable cut to register as already oriented without any trace, operation, or implicit differentiation?",
+      "last_question": "What minimal persistence-without-trace would falsify the claim that the cut requires no mechanism at all?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 608,
-      "novelty_score": 79.26,
+      "cycle_count": 609,
+      "novelty_score": 65.35,
       "novelty_history": [
-        79.24,
         81.83,
         81.1,
         80.15,
@@ -344,11 +343,11 @@
         67.69,
         64.93,
         69.82,
-        79.26
+        79.26,
+        65.35
       ],
-      "divergence_index": 1.6757,
+      "divergence_index": 0.7302,
       "divergence_history": [
-        1.171,
         1.0777,
         1.1565,
         1.1459,
@@ -447,14 +446,15 @@
         1.169,
         0.5998,
         1.3435,
-        1.6757
+        1.6757,
+        0.7302
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single principle, if discovered, would unify the origins of life, consciousness, and computation?",
+      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1218,
+    "total_cycles_run": 1220,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.09,
-    "days_remaining_runway": 195,
+    "current_month_spend_usd": 6.1,
+    "days_remaining_runway": 194,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 609,
-      "novelty_score": 69.63,
+      "cycle_count": 610,
+      "novelty_score": 66.3,
       "novelty_history": [
-        80.58,
         88.49,
         85.38,
         95.32,
@@ -121,11 +120,11 @@
         63.11,
         67.97,
         63.06,
-        69.63
+        69.63,
+        66.3
       ],
-      "divergence_index": 1.2214,
+      "divergence_index": 1.004,
       "divergence_history": [
-        1.1831,
         1.0027,
         1.1028,
         1.0459,
@@ -224,14 +223,15 @@
         0.5274,
         1.1304,
         0.4913,
-        1.2214
+        1.2214,
+        1.004
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal persistence-without-trace would falsify the claim that the cut requires no mechanism at all?",
+      "last_question": "What minimal non-relational marker would allow the one-sided determination to register its own falsifiability without any implicit stability?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 609,
-      "novelty_score": 65.35,
+      "cycle_count": 610,
+      "novelty_score": 71.33,
       "novelty_history": [
-        81.83,
         81.1,
         80.15,
         88.69,
@@ -344,11 +343,11 @@
         64.93,
         69.82,
         79.26,
-        65.35
+        65.35,
+        71.33
       ],
-      "divergence_index": 0.7302,
+      "divergence_index": 1.3174,
       "divergence_history": [
-        1.0777,
         1.1565,
         1.1459,
         0.9334,
@@ -447,14 +446,15 @@
         0.5998,
         1.3435,
         1.6757,
-        0.7302
+        0.7302,
+        1.3174
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
+      "last_question": "What minimal recursive operator, if isolated and iterated, would allow a system to generate its own persistent identity without any external axioms?",
       "last_ping_order": [
         "grok",
         "claude",

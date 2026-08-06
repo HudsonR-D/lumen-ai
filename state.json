@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1220,
+    "total_cycles_run": 1222,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.1,
+    "current_month_spend_usd": 6.11,
     "days_remaining_runway": 194,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 610,
-      "novelty_score": 66.3,
+      "cycle_count": 611,
+      "novelty_score": 66.79,
       "novelty_history": [
-        88.49,
         85.38,
         95.32,
         82.39,
@@ -121,11 +120,11 @@
         67.97,
         63.06,
         69.63,
-        66.3
+        66.3,
+        66.79
       ],
-      "divergence_index": 1.004,
+      "divergence_index": 0.9281,
       "divergence_history": [
-        1.0027,
         1.1028,
         1.0459,
         1.1625,
@@ -224,14 +223,15 @@
         1.1304,
         0.4913,
         1.2214,
-        1.004
+        1.004,
+        0.9281
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-relational marker would allow the one-sided determination to register its own falsifiability without any implicit stability?",
+      "last_question": "What condition would allow the bare orientation of difference to register its own persistence without reintroducing any trace, marker, or implicit stability?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 610,
-      "novelty_score": 71.33,
+      "cycle_count": 611,
+      "novelty_score": 67.75,
       "novelty_history": [
-        81.1,
         80.15,
         88.69,
         79.1,
@@ -344,11 +343,11 @@
         69.82,
         79.26,
         65.35,
-        71.33
+        71.33,
+        67.75
       ],
-      "divergence_index": 1.3174,
+      "divergence_index": 1.0105,
       "divergence_history": [
-        1.1565,
         1.1459,
         0.9334,
         1.2558,
@@ -447,14 +446,15 @@
         1.3435,
         1.6757,
         0.7302,
-        1.3174
+        1.3174,
+        1.0105
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal recursive operator, if isolated and iterated, would allow a system to generate its own persistent identity without any external axioms?",
+      "last_question": "What minimal self-referential operator, if iterated in isolation, first produces detectable internal contradiction as a stable signal rather than noise?",
       "last_ping_order": [
         "grok",
         "claude",

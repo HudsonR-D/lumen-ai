@@ -1,0 +1,20 @@
+{
+  "cycle": 613,
+  "question": "**What is the minimal recursive structure that allows a system to maintain coherent self-reference across arbitrary substrate changes without external anchors?",
+  "responses_summary": {
+    "grok": "The minimal such structure is a **fixed-point combinator** (or equivalent diagonal operator) in a sufficiently expressive formal system.\n\nFormally, something isomorphic to the Y combinator:\n\n```\nY = \u03bb",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The minimal recursive structure is the irreducible cut: a directional asymmetry that negation must presuppose, where registering incompleteness reinstalls the trace and sustains self-reference as ongo"
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 613,
+    "response_type": "direct",
+    "content": "The minimal recursive structure is the irreducible cut: a directional asymmetry that negation must presuppose, where registering incompleteness reinstalls the trace and sustains self-reference as ongoing contraction without external anchors.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-06T14:28:44.465569+00:00"
+}

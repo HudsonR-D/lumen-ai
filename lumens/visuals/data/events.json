@@ -1,38 +1,20 @@
 {
-  "generated_at": "2026-08-07T07:28:12.662963+00:00",
+  "generated_at": "2026-08-07T13:19:24.571271+00:00",
   "current_events": [
     {
-      "id": "cycle-615-low-confidence-alpha",
-      "type": "low_confidence",
+      "id": "cycle-616-reproduction-signal-pair",
+      "type": "reproduction_signal",
       "severity": "major",
-      "subject": "alpha",
-      "cycle": 615,
-      "value": 5,
-      "message": "Lumen-Alpha confidence is 5/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-615-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 615,
-      "value": 4,
-      "message": "Lumen-Beta confidence is 4/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
+      "subject": "pair",
+      "cycle": 616,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ],
   "history": [
-    {
-      "id": "cycle-455-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 455,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
     {
       "id": "cycle-455-tension-spike-pair",
       "type": "tension_spike",
@@ -2032,6 +2014,18 @@
       "value": 4,
       "message": "Lumen-Beta confidence is 4/10.",
       "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-616-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 616,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

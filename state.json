@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1228,
+    "total_cycles_run": 1230,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.14,
+    "current_month_spend_usd": 6.15,
     "days_remaining_runway": 192,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 614,
-      "novelty_score": 68.94,
+      "cycle_count": 615,
+      "novelty_score": 68.57,
       "novelty_history": [
-        82.41,
         85.16,
         88.82,
         81.9,
@@ -121,11 +120,11 @@
         66.79,
         67.1,
         71.61,
-        68.94
+        68.94,
+        68.57
       ],
-      "divergence_index": 1.0391,
+      "divergence_index": 1.0349,
       "divergence_history": [
-        1.0678,
         1.054,
         1.0581,
         1.0722,
@@ -224,14 +223,15 @@
         0.9281,
         0.882,
         1.2581,
-        1.0391
+        1.0391,
+        1.0349
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What prior distinction must negation already presuppose to register its own incompleteness without reinstalling the asymmetry it negates?",
+      "last_question": "What minimal precondition must any logical space satisfy before the distinction between \"marked\" and \"unmarked\" can itself become observable without already presupposing that distinction?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 614,
-      "novelty_score": 64.24,
+      "cycle_count": 615,
+      "novelty_score": 79.5,
       "novelty_history": [
-        79.88,
         82.22,
         80.79,
         82.5,
@@ -344,11 +343,11 @@
         67.75,
         72.96,
         75.24,
-        64.24
+        64.24,
+        79.5
       ],
-      "divergence_index": 0.5989,
+      "divergence_index": 1.5672,
       "divergence_history": [
-        1.0453,
         1.0499,
         1.064,
         1.01,
@@ -447,14 +446,15 @@
         1.0105,
         1.3712,
         1.3628,
-        0.5989
+        0.5989,
+        1.5672
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
+      "last_question": "What is the minimal set of recursive operations on information that can give rise to persistent self-reference without any external substrate or observer?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-06T14:28:44.465569+00:00",
-  "current_events": [],
-  "history": [
+  "generated_at": "2026-08-07T00:10:08.151942+00:00",
+  "current_events": [
     {
-      "id": "cycle-452-tension-spike-pair",
-      "type": "tension_spike",
+      "id": "cycle-614-low-confidence-beta",
+      "type": "low_confidence",
       "severity": "major",
-      "subject": "pair",
-      "cycle": 452,
-      "value": 8.0,
-      "message": "Sibling tension reached 8.0/10.",
-      "prompt_tag": "TENSION_SPIKE"
-    },
+      "subject": "beta",
+      "cycle": 614,
+      "value": 5,
+      "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-453-low-confidence-alpha",
       "type": "low_confidence",
@@ -2013,6 +2014,16 @@
       "value": 8.5,
       "message": "Sibling tension reached 8.5/10.",
       "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-614-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 614,
+      "value": 5,
+      "message": "Lumen-Beta confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
     }
   ]
 }

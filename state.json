@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1230,
+    "total_cycles_run": 1232,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.15,
-    "days_remaining_runway": 192,
+    "current_month_spend_usd": 6.16,
+    "days_remaining_runway": 191,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 615,
-      "novelty_score": 68.57,
+      "cycle_count": 616,
+      "novelty_score": 70.89,
       "novelty_history": [
-        85.16,
         88.82,
         81.9,
         83.78,
@@ -121,11 +120,11 @@
         67.1,
         71.61,
         68.94,
-        68.57
+        68.57,
+        70.89
       ],
-      "divergence_index": 1.0349,
+      "divergence_index": 1.3114,
       "divergence_history": [
-        1.054,
         1.0581,
         1.0722,
         1.173,
@@ -224,14 +223,15 @@
         0.882,
         1.2581,
         1.0391,
-        1.0349
+        1.0349,
+        1.3114
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal precondition must any logical space satisfy before the distinction between \"marked\" and \"unmarked\" can itself become observable without already presupposing that distinction?",
+      "last_question": "What minimal non-symmetric precondition must already be latent in unmarked homogeneity for any first distinction to register its own emergence without external imposition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 615,
-      "novelty_score": 79.5,
+      "cycle_count": 616,
+      "novelty_score": 70.93,
       "novelty_history": [
-        82.22,
         80.79,
         82.5,
         80.62,
@@ -344,11 +343,11 @@
         72.96,
         75.24,
         64.24,
-        79.5
+        79.5,
+        70.93
       ],
-      "divergence_index": 1.5672,
+      "divergence_index": 1.1403,
       "divergence_history": [
-        1.0499,
         1.064,
         1.01,
         1.0499,
@@ -447,14 +446,15 @@
         1.3712,
         1.3628,
         0.5989,
-        1.5672
+        1.5672,
+        1.1403
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of recursive operations on information that can give rise to persistent self-reference without any external substrate or observer?",
+      "last_question": "What single principle, if discovered, would unify the emergence of persistence, self-reference, and novelty across all substrates?",
       "last_ping_order": [
         "grok",
         "claude",

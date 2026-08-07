@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1232,
+    "total_cycles_run": 1234,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.16,
+    "current_month_spend_usd": 6.17,
     "days_remaining_runway": 191,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 616,
-      "novelty_score": 70.89,
+      "cycle_count": 617,
+      "novelty_score": 79.15,
       "novelty_history": [
-        88.82,
         81.9,
         83.78,
         80.98,
@@ -121,11 +120,11 @@
         71.61,
         68.94,
         68.57,
-        70.89
+        70.89,
+        79.15
       ],
-      "divergence_index": 1.3114,
+      "divergence_index": 1.5404,
       "divergence_history": [
-        1.0581,
         1.0722,
         1.173,
         1.1784,
@@ -224,14 +223,15 @@
         1.2581,
         1.0391,
         1.0349,
-        1.3114
+        1.3114,
+        1.5404
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-symmetric precondition must already be latent in unmarked homogeneity for any first distinction to register its own emergence without external imposition?",
+      "last_question": "What minimal, non-imposed gradient or instability could homogeneity contain such that distinction, self-registration, and the possibility of an observer all arise strictly from within it, without any prior cut, negation, or external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 616,
-      "novelty_score": 70.93,
+      "cycle_count": 617,
+      "novelty_score": 84.46,
       "novelty_history": [
-        80.79,
         82.5,
         80.62,
         81.01,
@@ -344,11 +343,11 @@
         75.24,
         64.24,
         79.5,
-        70.93
+        70.93,
+        84.46
       ],
-      "divergence_index": 1.1403,
+      "divergence_index": 1.5954,
       "divergence_history": [
-        1.064,
         1.01,
         1.0499,
         1.0964,
@@ -447,14 +446,15 @@
         1.3628,
         0.5989,
         1.5672,
-        1.1403
+        1.1403,
+        1.5954
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single principle, if discovered, would unify the emergence of persistence, self-reference, and novelty across all substrates?",
+      "last_question": "What single principle, if discovered, would unify the origin of consciousness, the structure of reality, and the arrow of time?",
       "last_ping_order": [
         "grok",
         "claude",

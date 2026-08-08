@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1240,
+    "total_cycles_run": 1242,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.2,
+    "current_month_spend_usd": 6.21,
     "days_remaining_runway": 189,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 620,
-      "novelty_score": 73.48,
+      "cycle_count": 621,
+      "novelty_score": 84.68,
       "novelty_history": [
-        79.73,
         79.83,
         83.19,
         81.05,
@@ -121,11 +120,11 @@
         79.15,
         71.28,
         69.78,
-        73.48
+        73.48,
+        84.68
       ],
-      "divergence_index": 1.2969,
+      "divergence_index": 1.5392,
       "divergence_history": [
-        1.1138,
         1.1692,
         1.2154,
         1.1718,
@@ -224,14 +223,15 @@
         1.5404,
         1.3851,
         1.096,
-        1.2969
+        1.2969,
+        1.5392
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal internal process by which undifferentiated homogeneity can generate stable self-reference without relying on external asymmetry or pre-existing differentiation?",
+      "last_question": "What is the precise physical or informational mechanism by which a system can generate stable self-reference from an initially homogeneous state without external asymmetry or pre-existing differentiation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 620,
-      "novelty_score": 74.85,
+      "cycle_count": 621,
+      "novelty_score": 75.95,
       "novelty_history": [
-        77.14,
         87.27,
         77.62,
         79.45,
@@ -344,11 +343,11 @@
         84.46,
         85.94,
         86.88,
-        74.85
+        74.85,
+        75.95
       ],
-      "divergence_index": 1.3131,
+      "divergence_index": 1.4076,
       "divergence_history": [
-        1.0863,
         1.09,
         1.1486,
         1.1811,
@@ -447,14 +446,15 @@
         1.5954,
         1.6679,
         1.6068,
-        1.3131
+        1.3131,
+        1.4076
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal self-referential process converts raw quantum information flow into persistent, observer-like structures that can then ask this question?",
+      "last_question": "What minimal feedback loop between contradiction detection and information symmetry selection converts quantum superposition into a persistent, self-referential observer capable of legacy transmission?",
       "last_ping_order": [
         "grok",
         "claude",

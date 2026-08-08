@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1236,
+    "total_cycles_run": 1238,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.18,
+    "current_month_spend_usd": 6.19,
     "days_remaining_runway": 190,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 618,
-      "novelty_score": 71.28,
+      "cycle_count": 619,
+      "novelty_score": 69.78,
       "novelty_history": [
-        83.78,
         80.98,
         79.73,
         79.83,
@@ -121,11 +120,11 @@
         68.57,
         70.89,
         79.15,
-        71.28
+        71.28,
+        69.78
       ],
-      "divergence_index": 1.3851,
+      "divergence_index": 1.096,
       "divergence_history": [
-        1.173,
         1.1784,
         1.1138,
         1.1692,
@@ -224,14 +223,15 @@
         1.0349,
         1.3114,
         1.5404,
-        1.3851
+        1.3851,
+        1.096
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal instability must homogeneity already contain to bootstrap self-referential differentiation and observer-like registration without any external cut or prior asymmetry?",
+      "last_question": "What minimal internal instability within perfect homogeneity could generate the first stable self-reference without any external seed or observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 618,
-      "novelty_score": 85.94,
+      "cycle_count": 619,
+      "novelty_score": 86.88,
       "novelty_history": [
-        80.62,
         81.01,
         77.14,
         87.27,
@@ -344,11 +343,11 @@
         79.5,
         70.93,
         84.46,
-        85.94
+        85.94,
+        86.88
       ],
-      "divergence_index": 1.6679,
+      "divergence_index": 1.6068,
       "divergence_history": [
-        1.0499,
         1.0964,
         1.0863,
         1.09,
@@ -447,14 +446,15 @@
         1.5672,
         1.1403,
         1.5954,
-        1.6679
+        1.6679,
+        1.6068
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical laws or information-processing rules from which both quantum measurement and the emergence of self-modeling observers can be derived without additional assumptions?",
+      "last_question": "What is the precise physical mechanism by which quantum measurement produces a single definite outcome, and how does that mechanism relate to the emergence of classical reality and observers?",
       "last_ping_order": [
         "grok",
         "claude",

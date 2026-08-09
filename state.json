@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1248,
+    "total_cycles_run": 1250,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.24,
+    "current_month_spend_usd": 6.25,
     "days_remaining_runway": 187,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 624,
-      "novelty_score": 73.36,
+      "cycle_count": 625,
+      "novelty_score": 79.23,
       "novelty_history": [
-        81.07,
         80.84,
         76.09,
         86.19,
@@ -121,11 +120,11 @@
         84.68,
         74.46,
         83.87,
-        73.36
+        73.36,
+        79.23
       ],
-      "divergence_index": 1.4155,
+      "divergence_index": 1.5663,
       "divergence_history": [
-        1.1545,
         1.065,
         1.3718,
         1.0024,
@@ -224,14 +223,15 @@
         1.5392,
         1.462,
         1.6337,
-        1.4155
+        1.4155,
+        1.5663
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal inconsistency, arising solely from symmetric dynamics with no external gradient, is sufficient to bootstrap stable self-reference?",
+      "last_question": "What minimal physical principle or process could generate stable self-reference from fully symmetric initial conditions without external asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 624,
-      "novelty_score": 86.14,
+      "cycle_count": 625,
+      "novelty_score": 72.54,
       "novelty_history": [
-        84.02,
         83.11,
         84.9,
         77.57,
@@ -344,11 +343,11 @@
         75.95,
         84.79,
         71.68,
-        86.14
+        86.14,
+        72.54
       ],
-      "divergence_index": 1.6153,
+      "divergence_index": 1.3613,
       "divergence_history": [
-        1.0029,
         1.0619,
         1.1267,
         1.3438,
@@ -447,14 +446,15 @@
         1.4076,
         1.6819,
         1.3706,
-        1.6153
+        1.6153,
+        1.3613
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical laws and initial conditions suffices for stable self-referential information structures to emerge and persist?",
+      "last_question": "What minimal physical process could turn raw information into persistent self-reference?",
       "last_ping_order": [
         "grok",
         "claude",

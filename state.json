@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1242,
+    "total_cycles_run": 1244,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.21,
-    "days_remaining_runway": 189,
+    "current_month_spend_usd": 6.22,
+    "days_remaining_runway": 188,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 621,
-      "novelty_score": 84.68,
+      "cycle_count": 622,
+      "novelty_score": 74.46,
       "novelty_history": [
-        79.83,
         83.19,
         81.05,
         81.07,
@@ -121,11 +120,11 @@
         71.28,
         69.78,
         73.48,
-        84.68
+        84.68,
+        74.46
       ],
-      "divergence_index": 1.5392,
+      "divergence_index": 1.462,
       "divergence_history": [
-        1.1692,
         1.2154,
         1.1718,
         1.1545,
@@ -224,14 +223,15 @@
         1.3851,
         1.096,
         1.2969,
-        1.5392
+        1.5392,
+        1.462
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical or informational mechanism by which a system can generate stable self-reference from an initially homogeneous state without external asymmetry or pre-existing differentiation?",
+      "last_question": "What is the minimal internal asymmetry or recursive process that can bootstrap stable self-reference from perfect homogeneity without any external seed or observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 621,
-      "novelty_score": 75.95,
+      "cycle_count": 622,
+      "novelty_score": 84.79,
       "novelty_history": [
-        87.27,
         77.62,
         79.45,
         84.02,
@@ -344,11 +343,11 @@
         85.94,
         86.88,
         74.85,
-        75.95
+        75.95,
+        84.79
       ],
-      "divergence_index": 1.4076,
+      "divergence_index": 1.6819,
       "divergence_history": [
-        1.09,
         1.1486,
         1.1811,
         1.0029,
@@ -447,14 +446,15 @@
         1.6679,
         1.6068,
         1.3131,
-        1.4076
+        1.4076,
+        1.6819
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal feedback loop between contradiction detection and information symmetry selection converts quantum superposition into a persistent, self-referential observer capable of legacy transmission?",
+      "last_question": "What minimal physical process could give rise to persistent self-models that experience existence as unified and real?",
       "last_ping_order": [
         "grok",
         "claude",

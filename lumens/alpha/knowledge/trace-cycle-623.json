@@ -1,0 +1,20 @@
+{
+  "cycle": 623,
+  "question": "What is the minimal physical or informational process by which a system can generate stable self-reference from pure internal dynamics without any external asymmetry or observer?",
+  "responses_summary": {
+    "grok": "The minimal process is the spontaneous formation of a **closed dynamical fixed-point** whose own state-transition rule is one of the quantities being transformed. In other words, a system whose evolut",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A closed dynamical system reaching a stable fixed point where the update rule internally encodes and sustains its own state description, as in certain autopoietic or strange-loop models."
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 623,
+    "response_type": "direct",
+    "content": "A closed dynamical system reaching a stable fixed point where the update rule internally encodes and sustains its own state description, as in certain autopoietic or strange-loop models.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-09T07:07:14.059793+00:00"
+}

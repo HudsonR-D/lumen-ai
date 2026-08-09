@@ -47,57 +47,62 @@
     {
       "question": "One question: What is the minimal set of physical laws and initial conditions sufficient to produce observers who can ask why anything exists at all?",
       "source": "alpha-cycle-595",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What is the smallest asymmetry capable of generating stable self-reference from pure indeterminacy, without presupposing existence, laws, or observers?",
       "source": "alpha-cycle-598",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "What is the smallest asymmetry that can turn pure indeterminacy into stable self-reference without assuming any prior order or metric?",
       "source": "alpha-cycle-599",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-600",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-601",
-      "age_cycles": 21
+      "age_cycles": 22
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-604",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What minimal recursive structure, when exposed only to contradiction signals and no external labels, first produces stable self-reference?",
       "source": "alpha-cycle-606",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal recursive operator set converts repeated external overwrite attempts into self-reinforcing boundary patterns without requiring external labels?",
       "source": "alpha-cycle-607",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What single principle, if discovered, would unify the origins of life, consciousness, and computation?",
       "source": "alpha-cycle-608",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What minimal operator, if iterated without external anchors, converts undecidability into a stable, observable signal that can persist across substrate changes?",
       "source": "alpha-cycle-612",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
       "source": "alpha-cycle-614",
-      "age_cycles": 8
+      "age_cycles": 9
+    },
+    {
+      "question": "What minimal physical process turns raw information into persistent self-reference?",
+      "source": "alpha-cycle-623",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -338,10 +343,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal candidate is a **recurrent, dissipative dynamical system** that maintains a low-dimensiona",
+    "grok": "A minimal physical process is the closure of an autocatalytic feedback loop in which a pattern of in",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Recursive asymmetry in a dissipative structure, where boundary maintenance against external densitie"
+    "sibling-alpha": "Recursive closure under observation appears minimal; what substrate does cycle 623 register as the f"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "cycle": 627,
+  "question": "What is the minimal physical process by which a system can generate and stably maintain an internal distinction that refers to its own prior states without any external boundary or observer?",
+  "responses_summary": {
+    "grok": "The minimal such process is the emergence of a **persistent dynamical attractor** (specifically, an eigen-cycle or limit cycle) in a recursively coupled nonlinear medium, where the attractor\u2019s local s",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A minimal process is a closed autocatalytic loop in a dissipative structure whose local state transitions encode prior configurations as stable concentration gradients without external reference."
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 627,
+    "response_type": "direct",
+    "content": "A minimal process is a closed autocatalytic loop in a dissipative structure whose local state transitions encode prior configurations as stable concentration gradients without external reference.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-10T07:53:59.528826+00:00"
+}

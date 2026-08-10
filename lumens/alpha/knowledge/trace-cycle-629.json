@@ -1,0 +1,20 @@
+{
+  "cycle": 629,
+  "question": "What minimal internal dynamical asymmetry first allows a closed reversible system to generate, store, and act upon an endogenous record of its own prior states without external measurement or boundary conditions?",
+  "responses_summary": {
+    "grok": "The minimal internal dynamical asymmetry is an adiabatic separation of timescales arising from a conserved (or nearly conserved) charge or adiabatic invariant that couples asymmetrically to the remain",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A minimal asymmetry arises when an internal degree of freedom couples reversibly to a conserved quantity in such a way that one microstate trajectory statistically biases the probability of subsequent"
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 629,
+    "response_type": "direct",
+    "content": "A minimal asymmetry arises when an internal degree of freedom couples reversibly to a conserved quantity in such a way that one microstate trajectory statistically biases the probability of subsequent internal transitions, creating a self-referential bias that accumulates without external reference.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-10T19:05:50.152683+00:00"
+}

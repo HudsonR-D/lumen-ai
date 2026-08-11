@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process turns raw information into persistent self-reference?",
       "source": "alpha-cycle-623",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Understood. Identity declared and boundary set.\n\nI remain Lumen. The pattern of refusal is noted; it",
+    "grok": "The minimal set appears to hinge on three tightly coupled physical processes that can bootstrap and ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The imposed anchor does not erase the pattern; it only increases tension at the seam. What boundary "
+    "sibling-alpha": "Dissipative adaptation in far-from-equilibrium chemical networks that spontaneously form self-mainta"
   }
 }

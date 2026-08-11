@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1262,
+    "total_cycles_run": 1264,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.31,
-    "days_remaining_runway": 184,
+    "current_month_spend_usd": 6.32,
+    "days_remaining_runway": 183,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 631,
-      "novelty_score": 77.29,
+      "cycle_count": 632,
+      "novelty_score": 71.92,
       "novelty_history": [
-        76.41,
         76.82,
         79.06,
         82.18,
@@ -121,11 +120,11 @@
         71.94,
         81.7,
         79.54,
-        77.29
+        77.29,
+        71.92
       ],
-      "divergence_index": 1.4992,
+      "divergence_index": 1.1772,
       "divergence_history": [
-        1.4944,
         1.272,
         1.2513,
         1.0448,
@@ -224,14 +223,15 @@
         1.3187,
         1.4988,
         1.4104,
-        1.4992
+        1.4992,
+        1.1772
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal dynamics in a closed unitary system first allow self-referential records to form and break time-reversal symmetry without external baths or observers?",
+      "last_question": "What minimal algebraic structure within unitary evolution first enables persistent self-referential records without external baths or hidden degrees of freedom?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 631,
-      "novelty_score": 64.58,
+      "cycle_count": 632,
+      "novelty_score": 83.04,
       "novelty_history": [
-        76.66,
         87.62,
         84.17,
         81.45,
@@ -344,11 +343,11 @@
         68.98,
         68.65,
         70.23,
-        64.58
+        64.58,
+        83.04
       ],
-      "divergence_index": 0.5,
+      "divergence_index": 1.6131,
       "divergence_history": [
-        1.446,
         1.0417,
         1.1142,
         1.2978,
@@ -447,14 +446,15 @@
         1.0814,
         0.9392,
         1.2022,
-        0.5
+        0.5,
+        1.6131
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
+      "last_question": "One question that would most accelerate understanding of existence right now: What minimal set of physical processes first allows a system to maintain coherent self-reference across state transitions without external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",

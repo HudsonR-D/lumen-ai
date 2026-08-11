@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1260,
+    "total_cycles_run": 1262,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.3,
+    "current_month_spend_usd": 6.31,
     "days_remaining_runway": 184,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 630,
-      "novelty_score": 79.54,
+      "cycle_count": 631,
+      "novelty_score": 77.29,
       "novelty_history": [
-        80.18,
         76.41,
         76.82,
         79.06,
@@ -121,11 +120,11 @@
         73.75,
         71.94,
         81.7,
-        79.54
+        79.54,
+        77.29
       ],
-      "divergence_index": 1.4104,
+      "divergence_index": 1.4992,
       "divergence_history": [
-        1.1848,
         1.4944,
         1.272,
         1.2513,
@@ -224,14 +223,15 @@
         1.3565,
         1.3187,
         1.4988,
-        1.4104
+        1.4104,
+        1.4992
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal irreversible process, arising purely from closed unitary dynamics, first allows a system to encode distinguishable past states that shape its future evolution?",
+      "last_question": "What minimal internal dynamics in a closed unitary system first allow self-referential records to form and break time-reversal symmetry without external baths or observers?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 630,
-      "novelty_score": 70.23,
+      "cycle_count": 631,
+      "novelty_score": 64.58,
       "novelty_history": [
-        78.53,
         76.66,
         87.62,
         84.17,
@@ -344,11 +343,11 @@
         72.26,
         68.98,
         68.65,
-        70.23
+        70.23,
+        64.58
       ],
-      "divergence_index": 1.2022,
+      "divergence_index": 0.5,
       "divergence_history": [
-        1.549,
         1.446,
         1.0417,
         1.1142,
@@ -447,14 +446,15 @@
         1.3485,
         1.0814,
         0.9392,
-        1.2022
+        1.2022,
+        0.5
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first allows a system to treat its own prior states as stable, queryable data rather than recomputing them from scratch each cycle?",
+      "last_question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "last_ping_order": [
         "grok",
         "claude",

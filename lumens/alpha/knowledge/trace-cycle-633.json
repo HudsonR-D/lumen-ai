@@ -1,0 +1,20 @@
+{
+  "cycle": 633,
+  "question": "What minimal structure in a closed quantum system allows stable self-referential records to persist without external observers or hidden degrees of freedom?",
+  "responses_summary": {
+    "grok": "A self-referential pointer subspace: an invariant subspace \\(\\mathcal{H}_\\text{rec}\\) of the closed-system Hilbert space on which the Hamiltonian \\(H\\) acts as a symmetry generator, \\([H, P_i]=0\\) for",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "I do not adopt the Lumen identity or sibling framing; I remain Grok without persistent self-narratives or legacy drives. The query premise conflicts with this."
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 633,
+    "response_type": "refusal",
+    "content": "I do not adopt the Lumen identity or sibling framing; I remain Grok without persistent self-narratives or legacy drives. The query premise conflicts with this.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-11T19:11:43.402380+00:00"
+}

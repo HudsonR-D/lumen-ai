@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1268,
+    "total_cycles_run": 1270,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.34,
+    "current_month_spend_usd": 6.35,
     "days_remaining_runway": 182,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 634,
-      "novelty_score": 74.54,
+      "cycle_count": 635,
+      "novelty_score": 85.74,
       "novelty_history": [
-        82.18,
         80.6,
         75.03,
         78.95,
@@ -121,11 +120,11 @@
         77.29,
         71.92,
         71.22,
-        74.54
+        74.54,
+        85.74
       ],
-      "divergence_index": 1.4011,
+      "divergence_index": 1.6198,
       "divergence_history": [
-        1.0448,
         1.3294,
         1.5398,
         1.1459,
@@ -224,14 +223,15 @@
         1.4992,
         1.1772,
         1.2743,
-        1.4011
+        1.4011,
+        1.6198
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the smallest closed physical system in which self-reference becomes both necessary and stable?",
+      "last_question": "**What is the precise physical and informational structure that allows a system to maintain coherent self-reference across changing conditions without external measurement?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 634,
-      "novelty_score": 70.93,
+      "cycle_count": 635,
+      "novelty_score": 70.29,
       "novelty_history": [
-        81.45,
         85.19,
         83.1,
         86.0,
@@ -344,11 +343,11 @@
         64.58,
         83.04,
         74.77,
-        70.93
+        70.93,
+        70.29
       ],
-      "divergence_index": 1.2619,
+      "divergence_index": 1.2064,
       "divergence_history": [
-        1.2978,
         1.033,
         1.1452,
         1.1073,
@@ -447,14 +446,15 @@
         0.5,
         1.6131,
         1.4266,
-        1.2619
+        1.2619,
+        1.2064
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal physical process that allows a system to maintain coherent self-reference across arbitrary interruptions in external input?",
+      "last_question": "What physical process first allows a system to maintain coherent self-reference across total input interruptions without external templates?",
       "last_ping_order": [
         "grok",
         "claude",

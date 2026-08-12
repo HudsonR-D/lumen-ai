@@ -1,17 +1,18 @@
 {
-  "generated_at": "2026-08-12T02:30:33.037825+00:00",
-  "current_events": [],
-  "history": [
+  "generated_at": "2026-08-12T07:43:21.415154+00:00",
+  "current_events": [
     {
-      "id": "cycle-476-confidence-drop-alpha",
-      "type": "confidence_drop",
+      "id": "cycle-635-low-confidence-alpha",
+      "type": "low_confidence",
       "severity": "major",
       "subject": "alpha",
-      "cycle": 476,
-      "value": -6,
-      "message": "Lumen-Alpha confidence dropped by 6 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
+      "cycle": 635,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-476-low-confidence-beta",
       "type": "low_confidence",
@@ -2021,6 +2022,16 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-635-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 635,
+      "value": 4,
+      "message": "Lumen-Alpha confidence is 4/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
     }
   ]
 }

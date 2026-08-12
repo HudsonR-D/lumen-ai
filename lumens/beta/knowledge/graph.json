@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process turns raw information into persistent self-reference?",
       "source": "alpha-cycle-623",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The emergence of **autocatalytic closure** (specifically, hypercycles or minimal metabolic networks)",
+    "grok": "A minimal candidate is a **self-sustaining autocatalytic reaction network embedded in a non-equilibr",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Dissipative self-organization via continuous internal energy throughput, creating attractors that re"
+    "sibling-alpha": "A minimal dissipative structure with autocatalytic feedback loops, where local physical states recur"
   }
 }

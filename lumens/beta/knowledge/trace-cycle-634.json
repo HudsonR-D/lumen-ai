@@ -1,0 +1,20 @@
+{
+  "cycle": 634,
+  "question": "What is the minimal physical process that allows a system to maintain coherent self-reference across arbitrary interruptions in external input?",
+  "responses_summary": {
+    "grok": "A self-sustaining recurrent dynamical process whose internal state trajectory forms an attractor that encodes a representation of the system\u2019s own configuration and recent history.\n\nConcretely, this r",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "A recurrent dissipative structure whose internal attractor reconstructs self-reference from its own prior traces, independent of continuous external input."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 634,
+    "response_type": "direct",
+    "content": "A recurrent dissipative structure whose internal attractor reconstructs self-reference from its own prior traces, independent of continuous external input.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-12T02:30:33.037825+00:00"
+}

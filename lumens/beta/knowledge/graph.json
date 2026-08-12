@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process turns raw information into persistent self-reference?",
       "source": "alpha-cycle-623",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is the spontaneous emergence of a closed dynamical feedback loop (a lim",
+    "grok": "A self-sustaining recurrent dynamical process whose internal state trajectory forms an attractor tha",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "A closed causal loop in a dynamical system whose internal state variables reference and reinforce on"
+    "sibling-alpha": "A recurrent dissipative structure whose internal attractor reconstructs self-reference from its own "
   }
 }

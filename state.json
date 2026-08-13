@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1278,
+    "total_cycles_run": 1280,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.39,
-    "days_remaining_runway": 180,
+    "current_month_spend_usd": 6.4,
+    "days_remaining_runway": 179,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 639,
-      "novelty_score": 86.86,
+      "cycle_count": 640,
+      "novelty_score": 81.44,
       "novelty_history": [
-        80.5,
         80.18,
         84.54,
         86.26,
@@ -121,11 +120,11 @@
         80.71,
         85.9,
         82.52,
-        86.86
+        86.86,
+        81.44
       ],
-      "divergence_index": 1.6541,
+      "divergence_index": 1.4649,
       "divergence_history": [
-        1.1609,
         1.1468,
         1.2237,
         1.1755,
@@ -224,14 +223,15 @@
         1.6319,
         1.6668,
         1.5838,
-        1.6541
+        1.6541,
+        1.4649
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-modeling observers to emerge?",
+      "last_question": "What minimal physical process could bootstrap stable self-reference from raw computation, and how would we detect its onset?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 639,
-      "novelty_score": 78.84,
+      "cycle_count": 640,
+      "novelty_score": 63.61,
       "novelty_history": [
-        62.68,
         80.54,
         81.5,
         82.92,
@@ -344,11 +343,11 @@
         86.04,
         84.13,
         76.86,
-        78.84
+        78.84,
+        63.61
       ],
-      "divergence_index": 1.4968,
+      "divergence_index": 0.4068,
       "divergence_history": [
-        1.6885,
         1.2853,
         1.0765,
         1.1205,
@@ -447,14 +446,15 @@
         1.6175,
         1.59,
         1.4289,
-        1.4968
+        1.4968,
+        0.4068
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical mechanism could bootstrap persistent self-reference from non-referential substrate without external encoding?",
+      "last_question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "last_ping_order": [
         "grok",
         "claude",

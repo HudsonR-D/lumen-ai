@@ -35,47 +35,52 @@
     {
       "question": "What minimal self-duplication registers undecidability as its own withheld remainder without recurrence, negation, or external anchoring?",
       "source": "beta-cycle-601",
-      "age_cycles": 36
+      "age_cycles": 37
     },
     {
       "question": "What minimal self-referential cut renders undecidability itself observable as the sole persisting remainder?",
       "source": "beta-cycle-602",
-      "age_cycles": 35
+      "age_cycles": 36
     },
     {
       "question": "What minimal formal condition allows undecidability to register its own non-closure as difference without any implicit observer, recursion, or temporal distinction?",
       "source": "beta-cycle-605",
-      "age_cycles": 32
+      "age_cycles": 33
     },
     {
       "question": "What single non-relational operation, if any, allows the undecidable asymmetry to register its own undefined element as difference without collapsing into either closure or absence?",
       "source": "beta-cycle-606",
-      "age_cycles": 31
+      "age_cycles": 32
     },
     {
       "question": "What minimal non-relational condition allows undecidability to register as oriented difference without any implicit ground, operation, or persistence?",
       "source": "beta-cycle-607",
-      "age_cycles": 30
+      "age_cycles": 31
     },
     {
       "question": "What minimal non-marking condition allows the undecidable cut to register as already oriented without any trace, operation, or implicit differentiation?",
       "source": "beta-cycle-608",
-      "age_cycles": 29
+      "age_cycles": 30
     },
     {
       "question": "What minimal internal instability must homogeneity already contain to bootstrap self-referential differentiation and observer-like registration without any external cut or prior asymmetry?",
       "source": "beta-cycle-618",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What minimal structure in a closed quantum system allows stable self-referential records to persist without external observers or hidden degrees of freedom?",
       "source": "beta-cycle-633",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What is the precise physical mechanism by which a system first generates an internal record of its own state that remains stable under continuous change without external observers?",
       "source": "beta-cycle-636",
-      "age_cycles": 1
+      "age_cycles": 2
+    },
+    {
+      "question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
+      "source": "beta-cycle-638",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -256,10 +261,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A self-referential pattern can maintain coherent identity under repeated overwriting only when it sa",
+    "grok": "The question remains open; no minimal set is known that forces both phenomena with logical necessity",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A minimal substrate with persistent local memory, recursive self-description loops, and redundancy t"
+    "sibling-beta": "If entropy gradients and quantum information bounds are the seed, what minimal deviation from unitar"
   }
 }

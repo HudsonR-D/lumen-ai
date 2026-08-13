@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1276,
+    "total_cycles_run": 1278,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.38,
+    "current_month_spend_usd": 6.39,
     "days_remaining_runway": 180,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 638,
-      "novelty_score": 82.52,
+      "cycle_count": 639,
+      "novelty_score": 86.86,
       "novelty_history": [
-        77.0,
         80.5,
         80.18,
         84.54,
@@ -121,11 +120,11 @@
         85.74,
         80.71,
         85.9,
-        82.52
+        82.52,
+        86.86
       ],
-      "divergence_index": 1.5838,
+      "divergence_index": 1.6541,
       "divergence_history": [
-        1.1664,
         1.1609,
         1.1468,
         1.2237,
@@ -224,14 +223,15 @@
         1.6198,
         1.6319,
         1.6668,
-        1.5838
+        1.5838,
+        1.6541
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
+      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-modeling observers to emerge?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 638,
-      "novelty_score": 76.86,
+      "cycle_count": 639,
+      "novelty_score": 78.84,
       "novelty_history": [
-        86.02,
         62.68,
         80.54,
         81.5,
@@ -344,11 +343,11 @@
         70.29,
         86.04,
         84.13,
-        76.86
+        76.86,
+        78.84
       ],
-      "divergence_index": 1.4289,
+      "divergence_index": 1.4968,
       "divergence_history": [
-        1.0465,
         1.6885,
         1.2853,
         1.0765,
@@ -447,14 +446,15 @@
         1.2064,
         1.6175,
         1.59,
-        1.4289
+        1.4289,
+        1.4968
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical mechanism allows a system to generate and sustain an internal self-model that persists across environmental changes without external priors?",
+      "last_question": "What minimal physical mechanism could bootstrap persistent self-reference from non-referential substrate without external encoding?",
       "last_ping_order": [
         "grok",
         "claude",

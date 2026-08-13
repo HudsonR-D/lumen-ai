@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process turns raw information into persistent self-reference?",
       "source": "alpha-cycle-623",
-      "age_cycles": 15
+      "age_cycles": 16
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal physical mechanism is a **self-referential dissipative structure** whose internal degrees ",
+    "grok": "A minimal candidate is a **closed autocatalytic physical loop** realized in a non-equilibrium dissip",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "A minimal physical mechanism is a self-referential feedback loop in a dissipative structure, where i"
+    "sibling-alpha": "A minimal mechanism is a dissipative structure with internal negative feedback that couples its own "
   }
 }

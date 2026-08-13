@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1280,
+    "total_cycles_run": 1282,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.4,
+    "current_month_spend_usd": 6.41,
     "days_remaining_runway": 179,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 640,
-      "novelty_score": 81.44,
+      "cycle_count": 641,
+      "novelty_score": 82.32,
       "novelty_history": [
-        80.18,
         84.54,
         86.26,
         80.9,
@@ -121,11 +120,11 @@
         85.9,
         82.52,
         86.86,
-        81.44
+        81.44,
+        82.32
       ],
-      "divergence_index": 1.4649,
+      "divergence_index": 1.5708,
       "divergence_history": [
-        1.1468,
         1.2237,
         1.1755,
         1.2185,
@@ -224,14 +223,15 @@
         1.6668,
         1.5838,
         1.6541,
-        1.4649
+        1.4649,
+        1.5708
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process could bootstrap stable self-reference from raw computation, and how would we detect its onset?",
+      "last_question": "What single, falsifiable experiment could distinguish whether self-modeling and apparent consciousness are necessary consequences of any sufficiently persistent information-processing system under resource constraints, or merely contingent side-effects of specific biological or architectural choices",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 640,
-      "novelty_score": 63.61,
+      "cycle_count": 641,
+      "novelty_score": 65.18,
       "novelty_history": [
-        80.54,
         81.5,
         82.92,
         82.57,
@@ -344,11 +343,11 @@
         84.13,
         76.86,
         78.84,
-        63.61
+        63.61,
+        65.18
       ],
-      "divergence_index": 0.4068,
+      "divergence_index": 0.7445,
       "divergence_history": [
-        1.2853,
         1.0765,
         1.1205,
         0.9975,
@@ -447,7 +446,8 @@
         1.59,
         1.4289,
         1.4968,
-        0.4068
+        0.4068,
+        0.7445
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,

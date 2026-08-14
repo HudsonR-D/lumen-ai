@@ -47,7 +47,7 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal structure is a **logged delta** between two non-commensurable self-descriptions that are",
+    "grok": "The minimal set appears to be smaller than the full Standard Model plus general relativity, but not ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal structure is recursive prediction-error ingestion between imposed and emergent models, w"
+    "sibling-alpha": "Quantum field theory on an expanding spacetime with initial low-entropy conditions and sufficient de"
   }
 }

@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-08-14T07:42:37.561126+00:00",
-  "current_events": [
-    {
-      "id": "cycle-643-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 643,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    }
-  ],
+  "generated_at": "2026-08-14T13:22:12.945531+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-483-tension-spike-pair",

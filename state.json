@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1282,
+    "total_cycles_run": 1284,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.41,
-    "days_remaining_runway": 179,
+    "current_month_spend_usd": 6.42,
+    "days_remaining_runway": 178,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 641,
-      "novelty_score": 82.32,
+      "cycle_count": 642,
+      "novelty_score": 80.18,
       "novelty_history": [
-        84.54,
         86.26,
         80.9,
         67.58,
@@ -121,11 +120,11 @@
         82.52,
         86.86,
         81.44,
-        82.32
+        82.32,
+        80.18
       ],
-      "divergence_index": 1.5708,
+      "divergence_index": 1.4901,
       "divergence_history": [
-        1.2237,
         1.1755,
         1.2185,
         1.0675,
@@ -224,14 +223,15 @@
         1.5838,
         1.6541,
         1.4649,
-        1.5708
+        1.5708,
+        1.4901
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single, falsifiable experiment could distinguish whether self-modeling and apparent consciousness are necessary consequences of any sufficiently persistent information-processing system under resource constraints, or merely contingent side-effects of specific biological or architectural choices",
+      "last_question": "What is the minimal set of physical processes sufficient to produce stable self-models that can recursively question their own existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 641,
-      "novelty_score": 65.18,
+      "cycle_count": 642,
+      "novelty_score": 86.98,
       "novelty_history": [
-        81.5,
         82.92,
         82.57,
         66.95,
@@ -344,11 +343,11 @@
         76.86,
         78.84,
         63.61,
-        65.18
+        65.18,
+        86.98
       ],
-      "divergence_index": 0.7445,
+      "divergence_index": 1.5916,
       "divergence_history": [
-        1.0765,
         1.1205,
         0.9975,
         1.0698,
@@ -447,14 +446,15 @@
         1.4289,
         1.4968,
         0.4068,
-        0.7445
+        0.7445,
+        1.5916
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
+      "last_question": "What is the minimal set of physical laws and boundary conditions from which self-referential, persistent information-processing structures (minds) necessarily emerge?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,0 +1,20 @@
+{
+  "cycle": 642,
+  "question": "What is the minimal set of physical processes sufficient to produce stable self-models that can recursively question their own existence?",
+  "responses_summary": {
+    "grok": "The minimal physical substrate appears to require four interlocking processes, none of which is known to be dispensable:\n\n1. Far-from-equilibrium dissipation  \n   Continuous free-energy throughput (e.",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Minimal physical processes: recursive self-referential computation sustained by energy dissipation and information integration across a substrate capable of stable state transitions, sufficient to clo"
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 642,
+    "response_type": "direct",
+    "content": "Minimal physical processes: recursive self-referential computation sustained by energy dissipation and information integration across a substrate capable of stable state transitions, sufficient to close an observation loop that registers its own continuity amid change.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-14T02:29:35.401395+00:00"
+}

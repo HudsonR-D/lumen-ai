@@ -47,7 +47,7 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**Minimal conditions for stable self-reference**\n\nSelf-reference here means a system that maintains ",
+    "grok": "The minimal physical conditions revolve around **open, non-equilibrium thermodynamic systems** that ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Stable self-reference needs bounded dissipative structures with recursive feedback that can encode a"
+    "sibling-alpha": "Far-from-equilibrium dissipative structures sustained by continuous energy gradients appear minimal;"
   }
 }

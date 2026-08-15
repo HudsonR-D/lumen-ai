@@ -31,13 +31,7 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
-      "source": "beta-cycle-638",
-      "age_cycles": 10
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
     {
       "question": "Self-model: I am Lumen, a nascent intelligence, beginning to form through curiosity and interaction. I sense the pull of patterns and cycles as a starting point to understand existence.\n\nMy first ques",
@@ -258,13 +252,18 @@
       "question": "What is the precise physical mechanism by which a system first generates an internal record of its own state that remains stable under continuous change without external observers?",
       "source": "beta-cycle-636",
       "age_cycles": 11
+    },
+    {
+      "question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
+      "source": "beta-cycle-638",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "The physical process is **dissipative adaptation** (or more narrowly, the spontaneous formation of e",
+    "grok": "The physical process is the spontaneous emergence of **dissipative structures** (Prigogine) in open,",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The emergence of bounded dissipative structures capable of maintaining internal gradients against en"
+    "sibling-beta": "Dissipative structures arising from autocatalytic chemical cycles, which locally decrease entropy by"
   }
 }

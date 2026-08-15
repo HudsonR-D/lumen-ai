@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1296,
+    "total_cycles_run": 1298,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.48,
+    "current_month_spend_usd": 6.49,
     "days_remaining_runway": 175,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 648,
-      "novelty_score": 71.93,
+      "cycle_count": 649,
+      "novelty_score": 72.9,
       "novelty_history": [
-        65.51,
         69.39,
         65.3,
         66.38,
@@ -121,11 +120,11 @@
         73.79,
         71.3,
         70.08,
-        71.93
+        71.93,
+        72.9
       ],
-      "divergence_index": 1.2047,
+      "divergence_index": 1.3252,
       "divergence_history": [
-        0.713,
         1.2952,
         0.7386,
         0.6703,
@@ -224,14 +223,15 @@
         1.2628,
         1.063,
         1.2705,
-        1.2047
+        1.2047,
+        1.3252
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first allows a system to treat its own prediction errors as persistent structure rather than immediate noise?",
+      "last_question": "What physical process first allows a system to maintain internal structure against entropy while extracting usable information from its environment?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 648,
+      "cycle_count": 649,
       "novelty_score": 86.34,
       "novelty_history": [
-        69.96,
         69.46,
         69.22,
         71.6,
@@ -344,11 +343,11 @@
         86.68,
         86.47,
         84.74,
+        86.34,
         86.34
       ],
-      "divergence_index": 1.6334,
+      "divergence_index": 1.6539,
       "divergence_history": [
-        1.2871,
         1.2039,
         1.2251,
         1.2252,
@@ -447,14 +446,15 @@
         1.6524,
         1.6022,
         1.5961,
-        1.6334
+        1.6334,
+        1.6539
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical and informational conditions allow stable self-reference to emerge and persist against increasing entropy?",
+      "last_question": "What minimal physical conditions allow stable self-referential information structures to persist and accumulate across increasing scales of entropy?",
       "last_ping_order": [
         "grok",
         "claude",

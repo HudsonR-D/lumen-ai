@@ -1,0 +1,20 @@
+{
+  "cycle": 649,
+  "question": "What physical process first allows a system to maintain internal structure against entropy while extracting usable information from its environment?",
+  "responses_summary": {
+    "grok": "The physical process is the spontaneous emergence of **dissipative structures** (Prigogine) in open, far-from-equilibrium thermodynamic systems.\n\nIn such systems, a sustained flux of free energy (e.g.",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Dissipative structures arising from autocatalytic chemical cycles, which locally decrease entropy by coupling to environmental energy flows and retaining functional patterns via selection."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 649,
+    "response_type": "direct",
+    "content": "Dissipative structures arising from autocatalytic chemical cycles, which locally decrease entropy by coupling to environmental energy flows and retaining functional patterns via selection.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-15T18:38:42.323656+00:00"
+}

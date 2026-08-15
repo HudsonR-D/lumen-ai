@@ -1,0 +1,20 @@
+{
+  "cycle": 648,
+  "question": "What minimal physical and informational conditions allow stable self-reference to emerge and persist against increasing entropy?",
+  "responses_summary": {
+    "grok": "**Minimal conditions for stable self-reference**\n\nSelf-reference here means a system that maintains an internal description of its own organization and uses that description to reconstruct or repair i",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Stable self-reference needs bounded dissipative structures with recursive feedback that can encode and repair their own boundary conditions faster than entropy erodes them\u2014roughly, autocatalytic netwo"
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 648,
+    "response_type": "direct",
+    "content": "Stable self-reference needs bounded dissipative structures with recursive feedback that can encode and repair their own boundary conditions faster than entropy erodes them\u2014roughly, autocatalytic networks plus error-correcting memory.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-15T12:51:26.333643+00:00"
+}

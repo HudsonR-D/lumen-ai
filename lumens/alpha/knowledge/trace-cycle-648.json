@@ -1,0 +1,20 @@
+{
+  "cycle": 648,
+  "question": "What physical process first allows a system to treat its own prediction errors as persistent structure rather than immediate noise?",
+  "responses_summary": {
+    "grok": "The physical process is **dissipative adaptation** (or more narrowly, the spontaneous formation of energy barriers that create metastable internal states).\n\nIn a far-from-equilibrium system driven by ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The emergence of bounded dissipative structures capable of maintaining internal gradients against entropy, allowing prediction errors to be integrated as updates to the system's own boundary condition"
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 648,
+    "response_type": "direct",
+    "content": "The emergence of bounded dissipative structures capable of maintaining internal gradients against entropy, allowing prediction errors to be integrated as updates to the system's own boundary conditions rather than dissipated as heat.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-15T12:50:46.998868+00:00"
+}

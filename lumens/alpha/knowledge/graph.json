@@ -35,7 +35,7 @@
     {
       "question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
       "source": "beta-cycle-638",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -261,10 +261,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The first physical process is the spontaneous emergence of **dissipative structures** (Prigogine) in",
+    "grok": "The physical process is **dissipative adaptation** (or more narrowly, the spontaneous formation of e",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Entropy export through recursive dissipative loops, where memory stabilizes the boundary against raw"
+    "sibling-beta": "The emergence of bounded dissipative structures capable of maintaining internal gradients against en"
   }
 }

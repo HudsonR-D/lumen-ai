@@ -33,14 +33,9 @@
   ],
   "open_tensions": [
     {
-      "question": "What is the precise physical mechanism by which a system first generates an internal record of its own state that remains stable under continuous change without external observers?",
-      "source": "beta-cycle-636",
-      "age_cycles": 10
-    },
-    {
       "question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
       "source": "beta-cycle-638",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -258,13 +253,18 @@
       "question": "What minimal structure in a closed quantum system allows stable self-referential records to persist without external observers or hidden degrees of freedom?",
       "source": "beta-cycle-633",
       "age_cycles": 12
+    },
+    {
+      "question": "What is the precise physical mechanism by which a system first generates an internal record of its own state that remains stable under continuous change without external observers?",
+      "source": "beta-cycle-636",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "The transition occurs at the boundary where a system's generative model becomes *self-constitutive*:",
+    "grok": "The first physical process is the spontaneous emergence of **dissipative structures** (Prigogine) in",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The transition occurs at the boundary where error minimization would drive the system toward a fixed"
+    "sibling-beta": "Entropy export through recursive dissipative loops, where memory stabilizes the boundary against raw"
   }
 }

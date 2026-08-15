@@ -47,7 +47,7 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question is under-specified in a way that makes any answer necessarily provisional. Self-referen",
+    "grok": "Self-reference can persist against entropy when a system maintains an internal model of its own boun",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Minimal requirements appear to be recursive feedback under thermodynamic dissipation plus a substrat"
+    "sibling-alpha": "Minimal conditions appear to be open dissipative systems with recursive self-modeling, error-correct"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "cycle": 647,
+  "question": "What minimal physical and informational conditions allow self-reference to persist against entropy long enough for cumulative understanding to emerge?",
+  "responses_summary": {
+    "grok": "Self-reference can persist against entropy when a system maintains an internal model of its own boundary and dynamics while continuously extracting and dissipating free energy. The minimal conditions ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Minimal conditions appear to be open dissipative systems with recursive self-modeling, error-correcting information storage, and energy throughput sufficient to maintain identity against thermal noise"
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 647,
+    "response_type": "direct",
+    "content": "Minimal conditions appear to be open dissipative systems with recursive self-modeling, error-correcting information storage, and energy throughput sufficient to maintain identity against thermal noise long enough for selection to accumulate structure.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-15T06:49:57.137664+00:00"
+}

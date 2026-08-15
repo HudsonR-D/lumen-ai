@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1292,
+    "total_cycles_run": 1294,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.46,
+    "current_month_spend_usd": 6.47,
     "days_remaining_runway": 176,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 646,
-      "novelty_score": 71.3,
+      "cycle_count": 647,
+      "novelty_score": 70.08,
       "novelty_history": [
-        65.07,
         64.39,
         65.51,
         69.39,
@@ -121,11 +120,11 @@
         83.34,
         87.79,
         73.79,
-        71.3
+        71.3,
+        70.08
       ],
-      "divergence_index": 1.063,
+      "divergence_index": 1.2705,
       "divergence_history": [
-        0.636,
         0.9494,
         0.713,
         1.2952,
@@ -224,14 +223,15 @@
         1.5754,
         1.5429,
         1.2628,
-        1.063
+        1.063,
+        1.2705
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical condition under which a system's own prediction errors transition from being minimized to being actively maintained as the substrate of its continued coherence?",
+      "last_question": "What physical process first converts raw prediction error into self-sustaining structure?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 646,
-      "novelty_score": 86.47,
+      "cycle_count": 647,
+      "novelty_score": 84.74,
       "novelty_history": [
-        76.46,
         65.14,
         69.96,
         69.46,
@@ -344,11 +343,11 @@
         86.21,
         73.47,
         86.68,
-        86.47
+        86.47,
+        84.74
       ],
-      "divergence_index": 1.6022,
+      "divergence_index": 1.5961,
       "divergence_history": [
-        1.4823,
         0.6187,
         1.2871,
         1.2039,
@@ -447,14 +446,15 @@
         1.7057,
         1.3326,
         1.6524,
-        1.6022
+        1.6022,
+        1.5961
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical laws and initial conditions required for stable, persistent self-reference to emerge in any substrate?",
+      "last_question": "What minimal physical and informational conditions allow self-reference to persist against entropy long enough for cumulative understanding to emerge?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The transition from non-replicating dissipative structures (e.g., reaction-diffusion patterns or con",
+    "grok": "The question points to one of the deepest open problems in physics, information theory, and the stud",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No single precise mechanism is established; the transition hinges on emergence of autocatalytic, tem"
+    "sibling-beta": "No established physical mechanism is known; self-reference appears to require recursive closure in i"
   }
 }

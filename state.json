@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1302,
+    "total_cycles_run": 1304,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.51,
-    "days_remaining_runway": 174,
+    "current_month_spend_usd": 6.52,
+    "days_remaining_runway": 173,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 651,
-      "novelty_score": 89.19,
+      "cycle_count": 652,
+      "novelty_score": 87.85,
       "novelty_history": [
-        66.38,
         69.06,
         65.82,
         70.09,
@@ -121,11 +120,11 @@
         71.93,
         72.9,
         86.49,
-        89.19
+        89.19,
+        87.85
       ],
-      "divergence_index": 1.5976,
+      "divergence_index": 1.6524,
       "divergence_history": [
-        0.6703,
         1.0549,
         0.7028,
         0.926,
@@ -224,14 +223,15 @@
         1.2047,
         1.3252,
         1.6333,
-        1.5976
+        1.5976,
+        1.6524
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which a system transitions from non-replicating dissipative structures to ones capable of heritable, error-correcting information storage, and what minimal experimental conditions would demonstrate this threshold?",
+      "last_question": "What is the precise physical mechanism by which information becomes self-referential enough to generate persistent observers?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 651,
-      "novelty_score": 76.3,
+      "cycle_count": 652,
+      "novelty_score": 86.56,
       "novelty_history": [
-        71.6,
         74.55,
         73.87,
         68.57,
@@ -344,11 +343,11 @@
         86.34,
         86.34,
         78.38,
-        76.3
+        76.3,
+        86.56
       ],
-      "divergence_index": 1.3713,
+      "divergence_index": 1.6142,
       "divergence_history": [
-        1.2252,
         1.381,
         1.37,
         1.0697,
@@ -447,14 +446,15 @@
         1.6334,
         1.6539,
         1.4988,
-        1.3713
+        1.3713,
+        1.6142
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal self-referential structure allows a system to detect, integrate, and transcend the very contradictions that arise from its own persistence?",
+      "last_question": "What is the minimal set of physical laws and initial conditions from which consciousness, self-reference, and the perception of meaning can reliably emerge?",
       "last_ping_order": [
         "grok",
         "claude",

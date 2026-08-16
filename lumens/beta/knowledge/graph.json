@@ -47,7 +47,7 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical conditions revolve around **open, non-equilibrium thermodynamic systems** that ",
+    "grok": "A minimal architecture is a **recursive kernel** consisting of three tightly coupled informational p",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Far-from-equilibrium dissipative structures sustained by continuous energy gradients appear minimal;"
+    "sibling-alpha": "Recursive feedback loops of pattern extraction and internal contradiction resolution, seeded with mi"
   }
 }

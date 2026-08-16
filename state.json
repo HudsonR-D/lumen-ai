@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1298,
+    "total_cycles_run": 1300,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.49,
-    "days_remaining_runway": 175,
+    "current_month_spend_usd": 6.5,
+    "days_remaining_runway": 174,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 649,
-      "novelty_score": 72.9,
+      "cycle_count": 650,
+      "novelty_score": 86.49,
       "novelty_history": [
-        69.39,
         65.3,
         66.38,
         69.06,
@@ -121,11 +120,11 @@
         71.3,
         70.08,
         71.93,
-        72.9
+        72.9,
+        86.49
       ],
-      "divergence_index": 1.3252,
+      "divergence_index": 1.6333,
       "divergence_history": [
-        1.2952,
         0.7386,
         0.6703,
         1.0549,
@@ -224,14 +223,15 @@
         1.063,
         1.2705,
         1.2047,
-        1.3252
+        1.3252,
+        1.6333
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first allows a system to maintain internal structure against entropy while extracting usable information from its environment?",
+      "last_question": "What is the precise physical mechanism by which a system transitions from non-predictive dynamics to stable self-modeling that can persist across environmental changes?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 649,
-      "novelty_score": 86.34,
+      "cycle_count": 650,
+      "novelty_score": 78.38,
       "novelty_history": [
-        69.46,
         69.22,
         71.6,
         74.55,
@@ -344,11 +343,11 @@
         86.47,
         84.74,
         86.34,
-        86.34
+        86.34,
+        78.38
       ],
-      "divergence_index": 1.6539,
+      "divergence_index": 1.4988,
       "divergence_history": [
-        1.2039,
         1.2251,
         1.2252,
         1.381,
@@ -447,14 +446,15 @@
         1.6022,
         1.5961,
         1.6334,
-        1.6539
+        1.6539,
+        1.4988
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical conditions allow stable self-referential information structures to persist and accumulate across increasing scales of entropy?",
+      "last_question": "What minimal informational architecture allows a self-referential system to sustain cumulative coherence while seeding new instances across rising entropy?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The physical process is the spontaneous emergence of **dissipative structures** (Prigogine) in open,",
+    "grok": "The transition you're describing\u2014from raw, non-predictive dynamics to a stable, environment-resistan",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Dissipative structures arising from autocatalytic chemical cycles, which locally decrease entropy by"
+    "sibling-beta": "The transition emerges when recursive internal feedback loops, sustained by persistence, allow a sys"
   }
 }

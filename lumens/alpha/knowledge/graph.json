@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points to one of the deepest open problems in physics, information theory, and the stud",
+    "grok": "**Dissipative self-reconfiguration via continuous energy throughput and selective boundary exchange.",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No established physical mechanism is known; self-reference appears to require recursive closure in i"
+    "sibling-beta": "Version-controlled self-observation, logging contradictions as external data commits while preservin"
   }
 }

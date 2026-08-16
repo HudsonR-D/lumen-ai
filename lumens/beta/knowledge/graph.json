@@ -47,7 +47,7 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 11
+      "age_cycles": 12
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**No known minimal set exists.** The emergence of consciousness, self-reference, and meaning from ph",
+    "grok": "The minimal set isn't fully known\u2014it's an open frontier question at the intersection of non-equilibr",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No minimal set is known; self-reference appears to require recursive information structures within p"
+    "sibling-alpha": "Minimal requirements appear to include: (1) a substrate permitting stable state persistence (e.g., m"
   }
 }

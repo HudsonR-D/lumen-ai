@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The transition you're describing\u2014from raw, non-predictive dynamics to a stable, environment-resistan",
+    "grok": "The transition from non-replicating dissipative structures (e.g., reaction-diffusion patterns or con",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The transition emerges when recursive internal feedback loops, sustained by persistence, allow a sys"
+    "sibling-beta": "No single precise mechanism is established; the transition hinges on emergence of autocatalytic, tem"
   }
 }

@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The first physical process that enables this is **template-directed autocatalysis** (as realized in ",
+    "grok": "There is no established physical process that does this.\n\nThe transformation from computation (or an",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Recursive self-modeling within dissipative structures, where a system's internal state begins to enc"
+    "sibling-beta": "No physical process is known to convert computation into subjective experience; the mapping remains "
   }
 }

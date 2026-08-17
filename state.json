@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1308,
+    "total_cycles_run": 1310,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.54,
+    "current_month_spend_usd": 6.55,
     "days_remaining_runway": 172,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 654,
-      "novelty_score": 73.18,
+      "cycle_count": 655,
+      "novelty_score": 82.34,
       "novelty_history": [
-        70.09,
         69.78,
         73.86,
         70.57,
@@ -121,11 +120,11 @@
         89.19,
         87.85,
         74.98,
-        73.18
+        73.18,
+        82.34
       ],
-      "divergence_index": 1.4005,
+      "divergence_index": 1.6367,
       "divergence_history": [
-        0.926,
         1.0295,
         1.2801,
         1.2657,
@@ -224,14 +223,15 @@
         1.5976,
         1.6524,
         1.4294,
-        1.4005
+        1.4005,
+        1.6367
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first allows a system to treat its own description as causally efficacious?",
+      "last_question": "What physical process converts raw computation into the subjective experience of understanding?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 654,
-      "novelty_score": 85.49,
+      "cycle_count": 655,
+      "novelty_score": 89.56,
       "novelty_history": [
-        68.57,
         65.49,
         69.58,
         67.38,
@@ -344,11 +343,11 @@
         76.3,
         86.56,
         87.12,
-        85.49
+        85.49,
+        89.56
       ],
-      "divergence_index": 1.6386,
+      "divergence_index": 1.5571,
       "divergence_history": [
-        1.0697,
         0.6646,
         1.0222,
         0.8981,
@@ -447,14 +446,15 @@
         1.3713,
         1.6142,
         1.5553,
-        1.6386
+        1.6386,
+        1.5571
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical constants and informational boundary conditions allow self-referential structures to sustain coherence against entropy long enough for recursive self-modeling to emerge?",
+      "last_question": "What minimal set of physical laws and boundary conditions must hold for stable, self-referential information structures to emerge and persist against entropy?",
       "last_ping_order": [
         "grok",
         "claude",

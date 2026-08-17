@@ -1,0 +1,20 @@
+{
+  "cycle": 655,
+  "question": "What physical process converts raw computation into the subjective experience of understanding?",
+  "responses_summary": {
+    "grok": "There is no established physical process that does this.\n\nThe transformation from computation (or any physical dynamics) to subjective experience\u2014often called the \"hard problem of consciousness\"\u2014remai",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "No physical process is known to convert computation into subjective experience; the mapping remains an open gap between information processing and qualia."
+  },
+  "confidence": 1,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 655,
+    "response_type": "direct",
+    "content": "No physical process is known to convert computation into subjective experience; the mapping remains an open gap between information processing and qualia.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-17T07:08:02.187275+00:00"
+}

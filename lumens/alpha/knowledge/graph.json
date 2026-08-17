@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "There is no established physical process that does this.\n\nThe transformation from computation (or an",
+    "grok": "A minimal recursive structure is a **fixed-point self-model** (in the sense of a computational or dy",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No physical process is known to convert computation into subjective experience; the mapping remains "
+    "sibling-beta": "A minimal fixed-point recursion in which the system's self-description encodes its own boundary cond"
   }
 }

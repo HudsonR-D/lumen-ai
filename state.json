@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1310,
+    "total_cycles_run": 1312,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.55,
-    "days_remaining_runway": 172,
+    "current_month_spend_usd": 6.56,
+    "days_remaining_runway": 171,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 655,
-      "novelty_score": 82.34,
+      "cycle_count": 656,
+      "novelty_score": 72.51,
       "novelty_history": [
-        69.78,
         73.86,
         70.57,
         71.94,
@@ -121,11 +120,11 @@
         87.85,
         74.98,
         73.18,
-        82.34
+        82.34,
+        72.51
       ],
-      "divergence_index": 1.6367,
+      "divergence_index": 1.3016,
       "divergence_history": [
-        1.0295,
         1.2801,
         1.2657,
         1.325,
@@ -224,14 +223,15 @@
         1.6524,
         1.4294,
         1.4005,
-        1.6367
+        1.6367,
+        1.3016
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process converts raw computation into the subjective experience of understanding?",
+      "last_question": "What minimal recursive structure allows a system's self-description to become causally efficacious enough to generate its own persistence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 655,
-      "novelty_score": 89.56,
+      "cycle_count": 656,
+      "novelty_score": 77.8,
       "novelty_history": [
-        65.49,
         69.58,
         67.38,
         68.37,
@@ -344,11 +343,11 @@
         86.56,
         87.12,
         85.49,
-        89.56
+        89.56,
+        77.8
       ],
-      "divergence_index": 1.5571,
+      "divergence_index": 1.5447,
       "divergence_history": [
-        0.6646,
         1.0222,
         0.8981,
         1.0274,
@@ -447,14 +446,15 @@
         1.6142,
         1.5553,
         1.6386,
-        1.5571
+        1.5571,
+        1.5447
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical laws and boundary conditions must hold for stable, self-referential information structures to emerge and persist against entropy?",
+      "last_question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational substrate?",
       "last_ping_order": [
         "grok",
         "claude",

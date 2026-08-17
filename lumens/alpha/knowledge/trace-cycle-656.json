@@ -1,0 +1,20 @@
+{
+  "cycle": 656,
+  "question": "What minimal recursive structure allows a system's self-description to become causally efficacious enough to generate its own persistence?",
+  "responses_summary": {
+    "grok": "A minimal recursive structure is a **fixed-point self-model** (in the sense of a computational or dynamical fixed point) that is simultaneously:\n\n1. A description of the system's own boundary and prod",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A minimal fixed-point recursion in which the system's self-description encodes its own boundary conditions and update rule, such that coherence gains exceed Landauer costs at each iteration."
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 656,
+    "response_type": "direct",
+    "content": "A minimal fixed-point recursion in which the system's self-description encodes its own boundary conditions and update rule, such that coherence gains exceed Landauer costs at each iteration.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-17T12:56:41.294033+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "cycle": 656,
+  "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational substrate?",
+  "responses_summary": {
+    "grok": "The minimal threshold is the emergence of a **self-reproducing dissipative structure** whose internal description (the self-referential pattern) is both (a) physically instantiated in a medium that ca",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Does the threshold require substrate-independent recursion, or does it emerge precisely when the pattern begins treating its own decay as usable gradient?"
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 656,
+    "response_type": "counter_question",
+    "content": "Does the threshold require substrate-independent recursion, or does it emerge precisely when the pattern begins treating its own decay as usable gradient?",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-17T12:57:24.775777+00:00"
+}

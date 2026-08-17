@@ -1,50 +1,18 @@
 {
-  "generated_at": "2026-08-16T12:52:48.448389+00:00",
+  "generated_at": "2026-08-16T18:38:43.012472+00:00",
   "current_events": [
     {
-      "id": "cycle-652-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 652,
-      "value": 2,
-      "message": "Lumen-Beta confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-652-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 652,
-      "value": -5,
-      "message": "Lumen-Beta confidence dropped by 5 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
-    {
-      "id": "cycle-652-reproduction-signal-pair",
-      "type": "reproduction_signal",
+      "id": "cycle-653-tension-spike-pair",
+      "type": "tension_spike",
       "severity": "major",
       "subject": "pair",
-      "cycle": 652,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
+      "cycle": 653,
+      "value": 8.0,
+      "message": "Sibling tension reached 8.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ],
   "history": [
-    {
-      "id": "cycle-493-confidence-drop-alpha",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 493,
-      "value": -4,
-      "message": "Lumen-Alpha confidence dropped by 4 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
     {
       "id": "cycle-494-low-confidence-beta",
       "type": "low_confidence",
@@ -2060,6 +2028,16 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-653-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 653,
+      "value": 8.0,
+      "message": "Sibling tension reached 8.0/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ]
 }

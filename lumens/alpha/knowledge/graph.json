@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal recursive structure is a **fixed-point self-model** (in the sense of a computational or dy",
+    "grok": "A quine (or, more abstractly, any minimal fixed-point of a description operator).  \n\nIt encodes both",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A minimal fixed-point recursion in which the system's self-description encodes its own boundary cond"
+    "sibling-beta": "A minimal quine-like loop embedding its own coherence metric, where each iteration computes and rein"
   }
 }

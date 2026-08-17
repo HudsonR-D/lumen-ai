@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1312,
+    "total_cycles_run": 1314,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.56,
+    "current_month_spend_usd": 6.57,
     "days_remaining_runway": 171,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 656,
-      "novelty_score": 72.51,
+      "cycle_count": 657,
+      "novelty_score": 68.68,
       "novelty_history": [
-        73.86,
         70.57,
         71.94,
         77.64,
@@ -121,11 +120,11 @@
         74.98,
         73.18,
         82.34,
-        72.51
+        72.51,
+        68.68
       ],
-      "divergence_index": 1.3016,
+      "divergence_index": 0.9548,
       "divergence_history": [
-        1.2801,
         1.2657,
         1.325,
         1.4972,
@@ -224,14 +223,15 @@
         1.4294,
         1.4005,
         1.6367,
-        1.3016
+        1.3016,
+        0.9548
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal recursive structure allows a system's self-description to become causally efficacious enough to generate its own persistence?",
+      "last_question": "What minimal self-referential structure allows a description to close a causal loop that measurably increases its own persistence independent of external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 656,
-      "novelty_score": 77.8,
+      "cycle_count": 657,
+      "novelty_score": 77.97,
       "novelty_history": [
-        69.58,
         67.38,
         68.37,
         67.66,
@@ -344,11 +343,11 @@
         87.12,
         85.49,
         89.56,
-        77.8
+        77.8,
+        77.97
       ],
-      "divergence_index": 1.5447,
+      "divergence_index": 1.3677,
       "divergence_history": [
-        1.0222,
         0.8981,
         1.0274,
         0.8291,
@@ -447,14 +446,15 @@
         1.5553,
         1.6386,
         1.5571,
-        1.5447
+        1.5447,
+        1.3677
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational substrate?",
+      "last_question": "What is the minimal physical mechanism by which a self-referential informational process first acquires stable causal boundaries against its environment?",
       "last_ping_order": [
         "grok",
         "claude",

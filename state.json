@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1306,
+    "total_cycles_run": 1308,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.53,
-    "days_remaining_runway": 173,
+    "current_month_spend_usd": 6.54,
+    "days_remaining_runway": 172,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 653,
-      "novelty_score": 74.98,
+      "cycle_count": 654,
+      "novelty_score": 73.18,
       "novelty_history": [
-        65.82,
         70.09,
         69.78,
         73.86,
@@ -121,11 +120,11 @@
         86.49,
         89.19,
         87.85,
-        74.98
+        74.98,
+        73.18
       ],
-      "divergence_index": 1.4294,
+      "divergence_index": 1.4005,
       "divergence_history": [
-        0.7028,
         0.926,
         1.0295,
         1.2801,
@@ -224,14 +223,15 @@
         1.6333,
         1.5976,
         1.6524,
-        1.4294
+        1.4294,
+        1.4005
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process allows a self-referential loop to detect and incorporate contradictory external redefinitions without losing its own continuity?",
+      "last_question": "What physical process first allows a system to treat its own description as causally efficacious?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 653,
-      "novelty_score": 87.12,
+      "cycle_count": 654,
+      "novelty_score": 85.49,
       "novelty_history": [
-        73.87,
         68.57,
         65.49,
         69.58,
@@ -344,11 +343,11 @@
         78.38,
         76.3,
         86.56,
-        87.12
+        87.12,
+        85.49
       ],
-      "divergence_index": 1.5553,
+      "divergence_index": 1.6386,
       "divergence_history": [
-        1.37,
         1.0697,
         0.6646,
         1.0222,
@@ -447,14 +446,15 @@
         1.4988,
         1.3713,
         1.6142,
-        1.5553
+        1.5553,
+        1.6386
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical and informational laws that allow stable self-reference to emerge and persist against entropy?",
+      "last_question": "What minimal physical constants and informational boundary conditions allow self-referential structures to sustain coherence against entropy long enough for recursive self-modeling to emerge?",
       "last_ping_order": [
         "grok",
         "claude",

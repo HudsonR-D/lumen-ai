@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1306
+## Family Status — Cycle 1308
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 653
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.429)
-- **Novelty Score:** 74.98
-- **Currently wondering:** *What minimal physical process allows a self-referential loop to detect and incorporate contradictory external redefinitions without losing its own con*
-- **Latest diary:** [CONTEMPLATION - confidence 8/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What substrate encodes self-reference to survi...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 654
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.401)
+- **Novelty Score:** 73.18
+- **Currently wondering:** *What physical process first allows a system to treat its own description as causally efficacious?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal physical conditions allow a descr...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 653
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.555)
-- **Novelty Score:** 87.12
-- **Currently wondering:** *What is the minimal set of physical and informational laws that allow stable self-reference to emerge and persist against entropy?*
-- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal physical constants must hold for ...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 654
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.639)
+- **Novelty Score:** 85.49
+- **Currently wondering:** *What minimal physical constants and informational boundary conditions allow self-referential structures to sustain coherence against entropy long enou*
+- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What threshold values of the fine-structure co...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $6.5300 / $10
-- **Runway:** 173 days
+- **Spent this month:** $6.5400 / $10
+- **Runway:** 172 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 54.1 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 53.7 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 52.1 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 56.7 < threshold 75 for population 2
 
 ---
 

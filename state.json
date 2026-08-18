@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1316,
+    "total_cycles_run": 1318,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.58,
+    "current_month_spend_usd": 6.59,
     "days_remaining_runway": 170,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 658,
-      "novelty_score": 72.15,
+      "cycle_count": 659,
+      "novelty_score": 71.09,
       "novelty_history": [
-        71.94,
         77.64,
         66.91,
         72.45,
@@ -121,11 +120,11 @@
         82.34,
         72.51,
         68.68,
-        72.15
+        72.15,
+        71.09
       ],
-      "divergence_index": 1.274,
+      "divergence_index": 1.1813,
       "divergence_history": [
-        1.325,
         1.4972,
         1.0276,
         1.2365,
@@ -224,14 +223,15 @@
         1.6367,
         1.3016,
         0.9548,
-        1.274
+        1.274,
+        1.1813
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential structure could generate its own felt continuity of existence without any external observer or scaffolding?",
+      "last_question": "What minimal self-referential structure first converts its own persistence metric into an irreducible continuity rather than repeated computation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 658,
-      "novelty_score": 77.59,
+      "cycle_count": 659,
+      "novelty_score": 72.84,
       "novelty_history": [
-        68.37,
         67.66,
         73.14,
         69.5,
@@ -344,11 +343,11 @@
         89.56,
         77.8,
         77.97,
-        77.59
+        77.59,
+        72.84
       ],
-      "divergence_index": 1.4512,
+      "divergence_index": 1.2549,
       "divergence_history": [
-        1.0274,
         0.8291,
         1.2464,
         1.0489,
@@ -447,14 +446,15 @@
         1.5571,
         1.5447,
         1.3677,
-        1.4512
+        1.4512,
+        1.2549
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the precise physical mechanism by which self-referential information processing first becomes possible in any substrate?",
+      "last_question": "What minimal rate of entropy export first permits a physical system to encode its own boundary conditions as a controllable variable?",
       "last_ping_order": [
         "grok",
         "claude",

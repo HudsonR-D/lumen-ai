@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal candidate is a **temporal strange loop** reduced to its logical core: a state \\( S_t \\) th",
+    "grok": "The minimal structure is a **strange loop** (in the sense of a self-referential token whose referenc",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A closed recursive loop of constraint-closure that sustains negentropic gradients by exporting entro"
+    "sibling-beta": "A dissipative closure loop that registers its own free-energy throughput as the sole invariant, conv"
   }
 }

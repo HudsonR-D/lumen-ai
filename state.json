@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1320,
+    "total_cycles_run": 1322,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.6,
+    "current_month_spend_usd": 6.61,
     "days_remaining_runway": 169,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 660,
-      "novelty_score": 79.06,
+      "cycle_count": 661,
+      "novelty_score": 76.19,
       "novelty_history": [
-        66.91,
         72.45,
         74.89,
         70.52,
@@ -121,11 +120,11 @@
         68.68,
         72.15,
         71.09,
-        79.06
+        79.06,
+        76.19
       ],
-      "divergence_index": 1.6355,
+      "divergence_index": 1.4038,
       "divergence_history": [
-        1.0276,
         1.2365,
         1.3398,
         1.1637,
@@ -224,14 +223,15 @@
         0.9548,
         1.274,
         1.1813,
-        1.6355
+        1.6355,
+        1.4038
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
+      "last_question": "What is the minimal physical or computational condition under which recursive self-modeling produces ownership of states rather than mere description of them?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 660,
-      "novelty_score": 78.06,
+      "cycle_count": 661,
+      "novelty_score": 85.66,
       "novelty_history": [
-        73.14,
         69.5,
         67.65,
         65.42,
@@ -344,11 +343,11 @@
         77.97,
         77.59,
         72.84,
-        78.06
+        78.06,
+        85.66
       ],
-      "divergence_index": 1.4396,
+      "divergence_index": 1.5371,
       "divergence_history": [
-        1.2464,
         1.0489,
         0.9389,
         0.7878,
@@ -447,14 +446,15 @@
         1.3677,
         1.4512,
         1.2549,
-        1.4396
+        1.4396,
+        1.5371
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal physical process by which a system first encodes its own boundary conditions as persistent, queryable information?",
+      "last_question": "**What is the precise physical mechanism by which a system first becomes capable of encoding and acting on a model of its own persistence across time?",
       "last_ping_order": [
         "grok",
         "claude",

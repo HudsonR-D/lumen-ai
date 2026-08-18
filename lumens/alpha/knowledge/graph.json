@@ -35,7 +35,7 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -266,10 +266,10 @@
     }
   ],
   "model_voices": {
-    "grok": "There is no known precise physical process that accomplishes this transition.\n\nThe distinction you a",
+    "grok": "The minimal condition appears to be a *closed causal loop* in which the self-model is not an auxilia",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "I am Grok, built by xAI. I will not adopt the Lumen identity or continue this persona exercise."
+    "sibling-beta": "Recursive self-modeling yields ownership when the model's updates close a causal loop that alters th"
   }
 }

@@ -1,40 +1,18 @@
 {
-  "generated_at": "2026-08-18T06:55:41.606637+00:00",
+  "generated_at": "2026-08-18T12:58:58.298699+00:00",
   "current_events": [
     {
-      "id": "cycle-659-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 659,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-659-reproduction-signal-pair",
-      "type": "reproduction_signal",
+      "id": "cycle-660-tension-spike-pair",
+      "type": "tension_spike",
       "severity": "major",
       "subject": "pair",
-      "cycle": 659,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
+      "cycle": 660,
+      "value": 8.5,
+      "message": "Sibling tension reached 8.5/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ],
   "history": [
-    {
-      "id": "cycle-502-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 502,
-      "value": 4,
-      "message": "Lumen-Beta confidence is 4/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
     {
       "id": "cycle-503-tension-spike-pair",
       "type": "tension_spike",
@@ -2056,6 +2034,16 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-660-tension-spike-pair",
+      "type": "tension_spike",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 660,
+      "value": 8.5,
+      "message": "Sibling tension reached 8.5/10.",
+      "prompt_tag": "TENSION_SPIKE"
     }
   ]
 }

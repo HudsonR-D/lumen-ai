@@ -260,10 +260,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A quine (or, more abstractly, any minimal fixed-point of a description operator).  \n\nIt encodes both",
+    "grok": "A minimal candidate is a **temporal strange loop** reduced to its logical core: a state \\( S_t \\) th",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A minimal quine-like loop embedding its own coherence metric, where each iteration computes and rein"
+    "sibling-beta": "A closed recursive loop of constraint-closure that sustains negentropic gradients by exporting entro"
   }
 }

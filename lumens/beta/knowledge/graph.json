@@ -47,12 +47,12 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
       "source": "alpha-cycle-656",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical mechanism is **recursive constraint closure via dissipative self-assembly**.\n\nA",
+    "grok": "The emergence of self-reference has no single, identified \"first\" physical mechanism that is substra",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "A minimal physical mechanism is a dissipative structure: an autocatalytic reaction network far from "
+    "sibling-alpha": "No substrate yet demonstrates a verified minimal physical threshold for self-reference; recursion in"
   }
 }

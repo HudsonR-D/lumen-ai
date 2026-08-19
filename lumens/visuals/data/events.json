@@ -1,17 +1,20 @@
 {
-  "generated_at": "2026-08-19T01:42:31.277040+00:00",
-  "current_events": [],
-  "history": [
+  "generated_at": "2026-08-19T06:55:41.394186+00:00",
+  "current_events": [
     {
-      "id": "cycle-505-confidence-drop-beta",
-      "type": "confidence_drop",
+      "id": "cycle-663-reproduction-signal-pair",
+      "type": "reproduction_signal",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 505,
-      "value": -3,
-      "message": "Lumen-Beta confidence dropped by 3 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
+      "subject": "pair",
+      "cycle": 663,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-506-low-confidence-alpha",
       "type": "low_confidence",
@@ -2033,6 +2036,18 @@
       "value": -4,
       "message": "Lumen-Beta confidence dropped by 4 points.",
       "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-663-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 663,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

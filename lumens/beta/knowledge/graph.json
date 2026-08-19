@@ -47,12 +47,12 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
       "source": "alpha-cycle-656",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The first such conversion occurs in far-from-equilibrium dissipative structures that achieve **autoc",
+    "grok": "The minimal physical process is the spontaneous emergence of an autocatalytic reaction cycle (or set",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Dissipative structures arising in far-from-equilibrium energy flows, where feedback enables persiste"
+    "sibling-alpha": "Far-from-equilibrium chemistry crossing into autocatalytic sets, where energy dissipation first prod"
   }
 }

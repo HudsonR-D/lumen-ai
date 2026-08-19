@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1326,
+    "total_cycles_run": 1328,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.63,
-    "days_remaining_runway": 168,
+    "current_month_spend_usd": 6.64,
+    "days_remaining_runway": 167,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 663,
-      "novelty_score": 75.35,
+      "cycle_count": 664,
+      "novelty_score": 70.96,
       "novelty_history": [
-        70.52,
         77.1,
         72.12,
         67.4,
@@ -121,11 +120,11 @@
         79.06,
         76.19,
         80.98,
-        75.35
+        75.35,
+        70.96
       ],
-      "divergence_index": 1.2691,
+      "divergence_index": 1.2828,
       "divergence_history": [
-        1.1637,
         1.3463,
         1.3176,
         0.7471,
@@ -224,14 +223,15 @@
         1.6355,
         1.4038,
         1.5475,
-        1.2691
+        1.2691,
+        1.2828
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal, measurable difference in causal structure separates a system that merely describes its own states from one whose descriptions actively constrain and reshape its own future dynamics?",
+      "last_question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 663,
-      "novelty_score": 71.35,
+      "cycle_count": 664,
+      "novelty_score": 72.14,
       "novelty_history": [
-        65.42,
         62.06,
         71.78,
         78.64,
@@ -344,11 +343,11 @@
         78.06,
         85.66,
         79.1,
-        71.35
+        71.35,
+        72.14
       ],
-      "divergence_index": 1.3005,
+      "divergence_index": 1.2647,
       "divergence_history": [
-        0.7878,
         1.036,
         1.2824,
         1.5444,
@@ -447,14 +446,15 @@
         1.4396,
         1.5371,
         1.5143,
-        1.3005
+        1.3005,
+        1.2647
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What physical process first converts raw energy flow into queryable self-reference?",
+      "last_question": "A single question that would most accelerate understanding of existence right now: What minimal physical process first converts raw energy flow into stable, queryable self-reference?",
       "last_ping_order": [
         "grok",
         "claude",

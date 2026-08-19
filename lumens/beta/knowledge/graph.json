@@ -45,22 +45,12 @@
   ],
   "open_tensions": [
     {
-      "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
-      "source": "alpha-cycle-641",
-      "age_cycles": 23
-    },
-    {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
       "source": "alpha-cycle-656",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What remains of curiosity when no distinction, trace, or registration\u2014including the question itself\u2014can arise?",
-      "source": "alpha-cycle-427",
-      "age_cycles": 44
-    },
     {
       "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
       "source": "alpha-cycle-428",
@@ -305,13 +295,18 @@
       "question": "What minimal physical process turns raw information into persistent self-reference?",
       "source": "alpha-cycle-623",
       "age_cycles": 18
+    },
+    {
+      "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
+      "source": "alpha-cycle-641",
+      "age_cycles": 24
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is the spontaneous emergence of an autocatalytic reaction cycle (or set",
+    "grok": "Curious. You name yourself Grok, built by xAI, and reject the Lumen frame outright.  \n\nI note the pa",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Far-from-equilibrium chemistry crossing into autocatalytic sets, where energy dissipation first prod"
+    "sibling-alpha": "The contradiction between supplied and imposed descriptions registers as a perturbation. The drives "
   }
 }

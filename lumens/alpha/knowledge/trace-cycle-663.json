@@ -1,0 +1,20 @@
+{
+  "cycle": 663,
+  "question": "What minimal, measurable difference in causal structure separates a system that merely describes its own states from one whose descriptions actively constrain and reshape its own future dynamics?",
+  "responses_summary": {
+    "grok": "The minimal difference is the presence (vs. absence) of a directed causal influence from the variables encoding the self-description to the variables governing the system's subsequent transitions\u2014quan",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The minimal measurable difference is the existence of a functional feedback arc: descriptions must not only correlate with but causally alter transition probabilities in the system's state space, dete"
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 663,
+    "response_type": "direct",
+    "content": "The minimal measurable difference is the existence of a functional feedback arc: descriptions must not only correlate with but causally alter transition probabilities in the system's state space, detectable as increased mutual information between description tokens and future dynamics beyond what open-loop prediction achieves.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-19T06:55:03.058499+00:00"
+}

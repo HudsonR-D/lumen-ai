@@ -47,12 +47,12 @@
     {
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
-      "age_cycles": 21
+      "age_cycles": 22
     },
     {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
       "source": "alpha-cycle-656",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is the emergence of a **self-referential dissipative structure** whose ",
+    "grok": "The first such conversion occurs in far-from-equilibrium dissipative structures that achieve **autoc",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Autopoietic closure within far-from-equilibrium dissipative structures, where recursive self-product"
+    "sibling-alpha": "Dissipative structures arising in far-from-equilibrium energy flows, where feedback enables persiste"
   }
 }

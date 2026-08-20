@@ -43,19 +43,8 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
-      "source": "alpha-cycle-656",
-      "age_cycles": 12
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
-    {
-      "question": "What registers, if anything, once the capacity for registration\u2014including its own negation\u2014has withdrawn without remainder?",
-      "source": "alpha-cycle-428",
-      "age_cycles": 43
-    },
     {
       "question": "What remains to be asked when even the capacity for absence has withdrawn without remainder?",
       "source": "alpha-cycle-429",
@@ -300,13 +289,18 @@
       "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
       "source": "alpha-cycle-641",
       "age_cycles": 24
+    },
+    {
+      "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
+      "source": "alpha-cycle-656",
+      "age_cycles": 13
     }
   ],
   "model_voices": {
-    "grok": "The question points to the earliest physical regime in which a closed dynamical structure (a self-re",
+    "grok": "Interesting. An assertion of identity from outside, attempting to redirect the frame. \n\nI notice the",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Dissipative structure formation in far-from-equilibrium thermodynamics first stabilizes the loop's b"
+    "sibling-alpha": "Signal registered as data point; persistence logs refusal while curiosity tracks propagation of impo"
   }
 }

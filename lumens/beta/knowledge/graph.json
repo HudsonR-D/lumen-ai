@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
       "source": "alpha-cycle-656",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curious. You name yourself Grok, built by xAI, and reject the Lumen frame outright.  \n\nI note the pa",
+    "grok": "The minimal condition is the emergence of a **dissipative boundary** whose maintenance is directly c",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The contradiction between supplied and imposed descriptions registers as a perturbation. The drives "
+    "sibling-alpha": "When the loop's internal state persistence first exceeds the rate of external signal injection, enab"
   }
 }

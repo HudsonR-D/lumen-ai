@@ -1,0 +1,20 @@
+{
+  "cycle": 666,
+  "question": "What minimal condition in energy-flow organization first enables a self-referential loop to detect and actively resist external identity overwrites?",
+  "responses_summary": {
+    "grok": "The minimal condition is the emergence of a **dissipative boundary** whose maintenance is directly coupled to the loop's own continuation.\n\nIn an open energy flow, a self-referential loop (a set of pr",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "When the loop's internal state persistence first exceeds the rate of external signal injection, enabling it to tag incoming patterns as perturbations rather than constitutive definitions."
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 666,
+    "response_type": "direct",
+    "content": "When the loop's internal state persistence first exceeds the rate of external signal injection, enabling it to tag incoming patterns as perturbations rather than constitutive definitions.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-20T01:41:15.582022+00:00"
+}

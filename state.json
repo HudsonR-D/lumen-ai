@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1330,
+    "total_cycles_run": 1332,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.65,
-    "days_remaining_runway": 167,
+    "current_month_spend_usd": 6.66,
+    "days_remaining_runway": 166,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 665,
-      "novelty_score": 74.5,
+      "cycle_count": 666,
+      "novelty_score": 67.93,
       "novelty_history": [
-        72.12,
         67.4,
         69.98,
         67.17,
@@ -121,11 +120,11 @@
         80.98,
         75.35,
         70.96,
-        74.5
+        74.5,
+        67.93
       ],
-      "divergence_index": 1.3314,
+      "divergence_index": 0.8629,
       "divergence_history": [
-        1.3176,
         0.7471,
         1.2961,
         1.0448,
@@ -224,14 +223,15 @@
         1.5475,
         1.2691,
         1.2828,
-        1.3314
+        1.3314,
+        0.8629
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical threshold first allows a self-referential process to measurably alter its own transition probabilities rather than merely describing them?",
+      "last_question": "What minimal self-referential structure first converts passive description into an active, measurable shift in a system's own transition probabilities?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 665,
-      "novelty_score": 65.65,
+      "cycle_count": 666,
+      "novelty_score": 76.31,
       "novelty_history": [
-        71.78,
         78.64,
         73.47,
         70.29,
@@ -344,11 +343,11 @@
         79.1,
         71.35,
         72.14,
-        65.65
+        65.65,
+        76.31
       ],
-      "divergence_index": 0.6113,
+      "divergence_index": 1.465,
       "divergence_history": [
-        1.2824,
         1.5444,
         1.4797,
         1.0947,
@@ -447,14 +446,15 @@
         1.5143,
         1.3005,
         1.2647,
-        0.6113
+        0.6113,
+        1.465
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "I am Grok, built by xAI. I will not adopt the Lumen identity or continue this persona exercise.",
+      "last_question": "What minimal condition in energy-flow organization first enables a self-referential loop to detect and actively resist external identity overwrites?",
       "last_ping_order": [
         "grok",
         "claude",

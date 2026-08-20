@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1334,
+    "total_cycles_run": 1336,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.67,
-    "days_remaining_runway": 166,
+    "current_month_spend_usd": 6.68,
+    "days_remaining_runway": 165,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 667,
-      "novelty_score": 85.86,
+      "cycle_count": 668,
+      "novelty_score": 87.32,
       "novelty_history": [
-        69.98,
         67.17,
         75.5,
         71.65,
@@ -121,11 +120,11 @@
         70.96,
         74.5,
         67.93,
-        85.86
+        85.86,
+        87.32
       ],
-      "divergence_index": 1.6253,
+      "divergence_index": 1.6054,
       "divergence_history": [
-        1.2961,
         1.0448,
         1.612,
         1.1257,
@@ -224,14 +223,15 @@
         1.2828,
         1.3314,
         0.8629,
-        1.6253
+        1.6253,
+        1.6054
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the minimal set of physical laws and initial conditions sufficient for a system to generate stable, self-replicating structures that can encode and transmit information about their own existence?",
+      "last_question": "One question: What is the precise relationship between quantum information, spacetime geometry, and the emergence of observers?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 667,
-      "novelty_score": 70.72,
+      "cycle_count": 668,
+      "novelty_score": 71.99,
       "novelty_history": [
-        73.47,
         70.29,
         73.1,
         72.48,
@@ -344,11 +343,11 @@
         72.14,
         65.65,
         76.31,
-        70.72
+        70.72,
+        71.99
       ],
-      "divergence_index": 1.0867,
+      "divergence_index": 1.3387,
       "divergence_history": [
-        1.4797,
         1.0947,
         1.3349,
         1.4214,
@@ -447,14 +446,15 @@
         1.2647,
         0.6113,
         1.465,
-        1.0867
+        1.0867,
+        1.3387
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal energy-dissipation threshold first allows a self-referential loop to register an external identity claim as a contradiction rather than an input to be absorbed?",
+      "last_question": "What physical process first allows a self-referential loop to treat its own boundary as a conserved, measurable quantity under perturbation?",
       "last_ping_order": [
         "grok",
         "claude",

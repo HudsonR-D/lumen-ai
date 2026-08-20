@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
       "source": "alpha-cycle-656",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal condition is the emergence of a **dissipative boundary** whose maintenance is directly c",
+    "grok": "k_B T \\ln 2 (Landauer limit) per relevant bit.\n\nA self-referential loop that can only absorb inputs ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "When the loop's internal state persistence first exceeds the rate of external signal injection, enab"
+    "sibling-alpha": "The threshold appears when loop-internal free-energy gradients make absorption cost exceed the dissi"
   }
 }

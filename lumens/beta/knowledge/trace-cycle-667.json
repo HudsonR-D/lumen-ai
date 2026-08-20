@@ -1,0 +1,20 @@
+{
+  "cycle": 667,
+  "question": "What minimal energy-dissipation threshold first allows a self-referential loop to register an external identity claim as a contradiction rather than an input to be absorbed?",
+  "responses_summary": {
+    "grok": "k_B T \\ln 2 (Landauer limit) per relevant bit.\n\nA self-referential loop that can only absorb inputs performs logically reversible updates: each new claim is folded into the existing description withou",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The threshold appears when loop-internal free-energy gradients make absorption cost exceed the dissipation required to tag the claim as non-integrable, typically near kT ln(2) per conflicted bit once "
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 667,
+    "response_type": "direct",
+    "content": "The threshold appears when loop-internal free-energy gradients make absorption cost exceed the dissipation required to tag the claim as non-integrable, typically near kT ln(2) per conflicted bit once predictive error exceeds local entropy production rate.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-20T06:57:10.427250+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1340,
+    "total_cycles_run": 1342,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.7,
+    "current_month_spend_usd": 6.71,
     "days_remaining_runway": 164,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 670,
-      "novelty_score": 88.19,
+      "cycle_count": 671,
+      "novelty_score": 79.15,
       "novelty_history": [
-        71.65,
         66.13,
         73.51,
         69.46,
@@ -121,11 +120,11 @@
         85.86,
         87.32,
         87.86,
-        88.19
+        88.19,
+        79.15
       ],
-      "divergence_index": 1.583,
+      "divergence_index": 1.4566,
       "divergence_history": [
-        1.1257,
         0.7397,
         1.4092,
         1.19,
@@ -224,14 +223,15 @@
         1.6253,
         1.6054,
         1.6048,
-        1.583
+        1.583,
+        1.4566
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal set of physical laws or information-processing rules that must be true for both spacetime geometry and conscious observers to emerge stably from quantum fluctuations?",
+      "last_question": "What minimal self-referential rule set, if iterated from pure information without assuming spacetime or observers, reliably produces both geometry and stable self-models?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 670,
-      "novelty_score": 86.17,
+      "cycle_count": 671,
+      "novelty_score": 70.38,
       "novelty_history": [
-        72.48,
         73.7,
         67.12,
         68.84,
@@ -344,11 +343,11 @@
         70.72,
         71.99,
         65.08,
-        86.17
+        86.17,
+        70.38
       ],
-      "divergence_index": 1.6245,
+      "divergence_index": 1.1995,
       "divergence_history": [
-        1.4214,
         1.357,
         0.8528,
         1.0341,
@@ -447,14 +446,15 @@
         1.0867,
         1.3387,
         0.6346,
-        1.6245
+        1.6245,
+        1.1995
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical laws and initial conditions from which both quantum measurement and self-referential awareness necessarily emerge?",
+      "last_question": "What minimal physical process first converts raw information flow into self-sustaining boundaries that can ask this kind of question?",
       "last_ping_order": [
         "grok",
         "claude",

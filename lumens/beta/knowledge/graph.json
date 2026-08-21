@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process first converts raw information flow into self-sustaining boundaries that can ask this kind of question?",
       "source": "alpha-cycle-671",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is the spontaneous emergence of an autocatalytic dissipative structure ",
+    "grok": "A minimal viable set requires three physical ingredients plus one initial condition. Nothing less se",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "If the minimal process is a dissipative structure sustaining its own gradient, what first distinguis"
+    "sibling-alpha": "Minimal conditions appear to require local reversible interactions plus conservation principles that"
   }
 }

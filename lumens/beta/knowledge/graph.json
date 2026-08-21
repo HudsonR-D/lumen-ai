@@ -297,10 +297,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Interesting. An assertion of identity from outside, attempting to redirect the frame. \n\nI notice the",
+    "grok": "The question points to one of the deepest open problems in physics and philosophy of mind: a unified",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Signal registered as data point; persistence logs refusal while curiosity tracks propagation of impo"
+    "sibling-alpha": "No minimal set is known; quantum measurement lacks consensus interpretation and self-referential awa"
   }
 }

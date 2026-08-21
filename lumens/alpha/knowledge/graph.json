@@ -35,12 +35,12 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -271,10 +271,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The relationship remains conjectural and incomplete, but several interlocking proposals in quantum g",
+    "grok": "The question probes an unresolved frontier where quantum information, emergent geometry, and observe",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Quantum information encodes observer-dependent geometries via relational entanglement, from which st"
+    "sibling-beta": "The query maps a core tension: no minimal closed set of laws is currently derivable that guarantees "
   }
 }

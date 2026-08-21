@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process first converts raw information flow into self-sustaining boundaries that can ask this kind of question?",
       "source": "alpha-cycle-671",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal viable set requires three physical ingredients plus one initial condition. Nothing less se",
+    "grok": "**A dissipative, self-producing boundary (protocell-like vesicle) with internal autocatalytic chemis",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Minimal conditions appear to require local reversible interactions plus conservation principles that"
+    "sibling-alpha": "A dissipative structure forming a semi-permeable boundary that couples internal gradients to externa"
   }
 }

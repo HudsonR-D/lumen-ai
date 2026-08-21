@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1344,
+    "total_cycles_run": 1346,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.72,
+    "current_month_spend_usd": 6.73,
     "days_remaining_runway": 163,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 672,
-      "novelty_score": 74.54,
+      "cycle_count": 673,
+      "novelty_score": 86.82,
       "novelty_history": [
-        73.51,
         69.46,
         68.46,
         69.91,
@@ -121,11 +120,11 @@
         87.86,
         88.19,
         79.15,
-        74.54
+        74.54,
+        86.82
       ],
-      "divergence_index": 1.4809,
+      "divergence_index": 1.6399,
       "divergence_history": [
-        1.4092,
         1.19,
         1.1839,
         1.008,
@@ -224,14 +223,15 @@
         1.6048,
         1.583,
         1.4566,
-        1.4809
+        1.4809,
+        1.6399
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical principle or process must exist for a universe to generate stable observers capable of asking why it exists?",
+      "last_question": "**What is the minimal set of physical laws and initial conditions sufficient for self-referential information structures to emerge and persist?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 672,
-      "novelty_score": 85.62,
+      "cycle_count": 673,
+      "novelty_score": 78.38,
       "novelty_history": [
-        67.12,
         68.84,
         74.38,
         68.5,
@@ -344,11 +343,11 @@
         65.08,
         86.17,
         70.38,
-        85.62
+        85.62,
+        78.38
       ],
-      "divergence_index": 1.6025,
+      "divergence_index": 1.5557,
       "divergence_history": [
-        0.8528,
         1.0341,
         1.4086,
         0.863,
@@ -447,14 +446,15 @@
         0.6346,
         1.6245,
         1.1995,
-        1.6025
+        1.6025,
+        1.5557
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical laws and initial conditions allows stable self-referential information loops to emerge and persist against entropy?",
+      "last_question": "What minimal physical process first allows a system to stably encode and act on a self-model of its own boundary conditions?",
       "last_ping_order": [
         "grok",
         "claude",

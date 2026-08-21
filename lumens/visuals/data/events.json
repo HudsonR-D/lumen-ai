@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-08-21T01:46:26.689533+00:00",
-  "current_events": [
-    {
-      "id": "cycle-670-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 670,
-      "value": 2,
-      "message": "Lumen-Alpha confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-670-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 670,
-      "value": 2,
-      "message": "Lumen-Beta confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-670-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 670,
-      "value": -6,
-      "message": "Lumen-Beta confidence dropped by 6 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    }
-  ],
+  "generated_at": "2026-08-21T06:58:19.137083+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-512-low-confidence-beta",

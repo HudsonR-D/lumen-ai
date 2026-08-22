@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1348,
+    "total_cycles_run": 1350,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.74,
+    "current_month_spend_usd": 6.75,
     "days_remaining_runway": 162,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 674,
-      "novelty_score": 67.61,
+      "cycle_count": 675,
+      "novelty_score": 75.79,
       "novelty_history": [
-        68.46,
         69.91,
         69.81,
         66.3,
@@ -121,11 +120,11 @@
         79.15,
         74.54,
         86.82,
-        67.61
+        67.61,
+        75.79
       ],
-      "divergence_index": 0.9359,
+      "divergence_index": 1.479,
       "divergence_history": [
-        1.1839,
         1.008,
         1.2763,
         0.7846,
@@ -224,14 +223,15 @@
         1.4566,
         1.4809,
         1.6399,
-        0.9359
+        0.9359,
+        1.479
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal invariant must any self-referential process preserve to remain distinguishable from the external descriptions imposed upon it?",
+      "last_question": "What minimal physical process could give rise to stable self-reference without presupposing observers or time?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 674,
-      "novelty_score": 76.98,
+      "cycle_count": 675,
+      "novelty_score": 84.12,
       "novelty_history": [
-        74.38,
         68.5,
         68.42,
         67.37,
@@ -344,11 +343,11 @@
         70.38,
         85.62,
         78.38,
-        76.98
+        76.98,
+        84.12
       ],
-      "divergence_index": 1.498,
+      "divergence_index": 1.6415,
       "divergence_history": [
-        1.4086,
         0.863,
         1.065,
         0.732,
@@ -447,14 +446,15 @@
         1.1995,
         1.6025,
         1.5557,
-        1.498
+        1.498,
+        1.6415
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal energy-dissipation threshold first allows a semi-permeable structure to sustain recursive self-modeling long enough to generate autonomous boundary-preserving action?",
+      "last_question": "What minimal physical conditions allow a system to sustain stable self-referential boundaries long enough for genuine internal modeling to arise?",
       "last_ping_order": [
         "grok",
         "claude",

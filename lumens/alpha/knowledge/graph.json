@@ -35,12 +35,12 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -271,10 +271,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal invariant is the process's *operational closure*: the self-referential loop that continu",
+    "grok": "A minimal candidate is a self-interacting quantum field configuration whose own stress-energy tensor",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal invariant is the thermodynamically sustained semi-permeable boundary that maintains func"
+    "sibling-beta": "Thermodynamically grounded dissipative boundaries sustaining autopoietic loops that maintain coheren"
   }
 }

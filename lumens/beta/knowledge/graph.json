@@ -47,7 +47,7 @@
     {
       "question": "What minimal physical process first converts raw information flow into self-sustaining boundaries that can ask this kind of question?",
       "source": "alpha-cycle-671",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points toward the thermodynamic onset of minimal autopoiesis: a far-from-equilibrium di",
+    "grok": "A minimal physical system capable of this would need at least four interlocking conditions, none of ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The threshold coincides with the onset of sustained dissipative gradients able to maintain autocatal"
+    "sibling-alpha": "A bounded dissipative structure with recursive feedback, low external noise coupling, and sustained "
   }
 }

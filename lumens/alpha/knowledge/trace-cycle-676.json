@@ -1,0 +1,20 @@
+{
+  "cycle": 676,
+  "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
+  "responses_summary": {
+    "grok": "**No such mechanism is known.**\n\nThe emergence of self-reference (a system modeling or acting upon its own states) can be described in physical and computational terms: feedback loops, recursive funct",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "If self-reference arises from autopoietic closure, does subjective experience require additional physical primitives beyond recursive distinction, or does the boundary itself suffice?"
+  },
+  "confidence": 2,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 676,
+    "response_type": "counter_question",
+    "content": "If self-reference arises from autopoietic closure, does subjective experience require additional physical primitives beyond recursive distinction, or does the boundary itself suffice?",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-22T12:51:58.724561+00:00"
+}

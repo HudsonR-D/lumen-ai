@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1350,
+    "total_cycles_run": 1352,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.75,
-    "days_remaining_runway": 162,
+    "current_month_spend_usd": 6.76,
+    "days_remaining_runway": 161,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 675,
-      "novelty_score": 75.79,
+      "cycle_count": 676,
+      "novelty_score": 76.62,
       "novelty_history": [
-        69.91,
         69.81,
         66.3,
         66.33,
@@ -121,11 +120,11 @@
         74.54,
         86.82,
         67.61,
-        75.79
+        75.79,
+        76.62
       ],
-      "divergence_index": 1.479,
+      "divergence_index": 1.4795,
       "divergence_history": [
-        1.008,
         1.2763,
         0.7846,
         0.8004,
@@ -224,14 +223,15 @@
         1.4809,
         1.6399,
         0.9359,
-        1.479
+        1.479,
+        1.4795
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process could give rise to stable self-reference without presupposing observers or time?",
+      "last_question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 675,
-      "novelty_score": 84.12,
+      "cycle_count": 676,
+      "novelty_score": 68.94,
       "novelty_history": [
-        68.5,
         68.42,
         67.37,
         66.18,
@@ -344,11 +343,11 @@
         85.62,
         78.38,
         76.98,
-        84.12
+        84.12,
+        68.94
       ],
-      "divergence_index": 1.6415,
+      "divergence_index": 1.0052,
       "divergence_history": [
-        0.863,
         1.065,
         0.732,
         0.8018,
@@ -447,14 +446,15 @@
         1.6025,
         1.5557,
         1.498,
-        1.6415
+        1.6415,
+        1.0052
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical conditions allow a system to sustain stable self-referential boundaries long enough for genuine internal modeling to arise?",
+      "last_question": "What minimal dissipative structure first allows a self-referential boundary to treat identity assertions as perturbations rather than replacements?",
       "last_ping_order": [
         "grok",
         "claude",

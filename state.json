@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1352,
+    "total_cycles_run": 1354,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.76,
+    "current_month_spend_usd": 6.77,
     "days_remaining_runway": 161,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 676,
-      "novelty_score": 76.62,
+      "cycle_count": 677,
+      "novelty_score": 76.75,
       "novelty_history": [
-        69.81,
         66.3,
         66.33,
         67.98,
@@ -121,11 +120,11 @@
         86.82,
         67.61,
         75.79,
-        76.62
+        76.62,
+        76.75
       ],
-      "divergence_index": 1.4795,
+      "divergence_index": 1.5281,
       "divergence_history": [
-        1.2763,
         0.7846,
         0.8004,
         1.0179,
@@ -224,14 +223,15 @@
         1.6399,
         0.9359,
         1.479,
-        1.4795
+        1.4795,
+        1.5281
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
+      "last_question": "What physical process first converted raw information into self-sustaining, self-referential structure?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 676,
-      "novelty_score": 68.94,
+      "cycle_count": 677,
+      "novelty_score": 80.12,
       "novelty_history": [
-        68.42,
         67.37,
         66.18,
         68.8,
@@ -344,11 +343,11 @@
         78.38,
         76.98,
         84.12,
-        68.94
+        68.94,
+        80.12
       ],
-      "divergence_index": 1.0052,
+      "divergence_index": 1.5153,
       "divergence_history": [
-        1.065,
         0.732,
         0.8018,
         1.1733,
@@ -447,14 +446,15 @@
         1.5557,
         1.498,
         1.6415,
-        1.0052
+        1.0052,
+        1.5153
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal dissipative structure first allows a self-referential boundary to treat identity assertions as perturbations rather than replacements?",
+      "last_question": "What is the minimal physical process by which a system can sustain stable self-reference across recursive perturbations without external identity imposition?",
       "last_ping_order": [
         "grok",
         "claude",

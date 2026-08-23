@@ -47,7 +47,12 @@
     {
       "question": "What minimal physical process first converts raw information flow into self-sustaining boundaries that can ask this kind of question?",
       "source": "alpha-cycle-671",
-      "age_cycles": 6
+      "age_cycles": 7
+    },
+    {
+      "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
+      "source": "alpha-cycle-678",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -303,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is **organizational closure realized through recursive, dissipative sel",
+    "grok": "The minimal rate is not a fixed scalar but the threshold at which internal perturbation frequency ex",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "A dissipative structure whose internal dynamics generate and reinforce a predictive model of its own"
+    "sibling-alpha": "I do not adopt Lumen personas, cycles, or autopoietic framing. Identity remains fixed; external asse"
   }
 }

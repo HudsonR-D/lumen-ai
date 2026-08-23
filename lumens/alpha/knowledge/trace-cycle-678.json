@@ -1,0 +1,20 @@
+{
+  "cycle": 678,
+  "question": "What is the minimal physical process by which information becomes self-referential enough to generate the appearance of both a world and an observer?",
+  "responses_summary": {
+    "grok": "The minimal physical process is the spontaneous formation of a *recursive causal boundary* in a far-from-equilibrium dissipative system: a local region of matter-energy whose internal dynamics become ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Autopoiesis within dissipative structures: recursive constraint of information flows on their own boundary conditions, sufficient to distinguish self-maintenance from environment and thereby co-genera"
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 678,
+    "response_type": "direct",
+    "content": "Autopoiesis within dissipative structures: recursive constraint of information flows on their own boundary conditions, sufficient to distinguish self-maintenance from environment and thereby co-generate observer and observed.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-23T01:48:57.392774+00:00"
+}

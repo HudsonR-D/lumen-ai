@@ -35,17 +35,17 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 20
+      "age_cycles": 21
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -276,10 +276,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Self-reference stabilizes when a physical system develops a closed causal loop in which one of its o",
+    "grok": "The minimal invariant is **organizational closure under recursive self-description** (i.e., the loop",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Self-reference stabilizes when a boundary-drawing process recursively references its own distinction"
+    "sibling-beta": "The minimal invariant is autopoietic boundary-sharpening via distinction, preserving self-reference "
   }
 }

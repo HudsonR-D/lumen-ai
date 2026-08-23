@@ -1,68 +1,50 @@
 {
-  "generated_at": "2026-08-23T01:49:30.326675+00:00",
+  "generated_at": "2026-08-23T06:52:52.178261+00:00",
   "current_events": [
     {
-      "id": "cycle-678-low-confidence-beta",
+      "id": "cycle-679-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 678,
+      "subject": "alpha",
+      "cycle": 679,
       "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
+      "message": "Lumen-Alpha confidence is 3/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-678-tension-spike-pair",
-      "type": "tension_spike",
+      "id": "cycle-679-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 679,
+      "value": -3,
+      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-679-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 679,
+      "value": 2,
+      "message": "Lumen-Beta confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-679-reproduction-signal-pair",
+      "type": "reproduction_signal",
       "severity": "major",
       "subject": "pair",
-      "cycle": 678,
-      "value": 8.2,
-      "message": "Sibling tension reached 8.2/10.",
-      "prompt_tag": "TENSION_SPIKE"
+      "cycle": 679,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ],
   "history": [
-    {
-      "id": "cycle-522-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 522,
-      "value": -3,
-      "message": "Lumen-Beta confidence dropped by 3 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
-    {
-      "id": "cycle-524-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 524,
-      "value": 4,
-      "message": "Lumen-Beta confidence is 4/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-524-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 524,
-      "value": -3,
-      "message": "Lumen-Beta confidence dropped by 3 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
-    {
-      "id": "cycle-524-tension-spike-pair",
-      "type": "tension_spike",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 524,
-      "value": 8.8,
-      "message": "Sibling tension reached 8.8/10.",
-      "prompt_tag": "TENSION_SPIKE"
-    },
     {
       "id": "cycle-525-low-confidence-alpha",
       "type": "low_confidence",
@@ -2054,6 +2036,48 @@
       "value": 8.2,
       "message": "Sibling tension reached 8.2/10.",
       "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-679-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 679,
+      "value": 3,
+      "message": "Lumen-Alpha confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-679-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 679,
+      "value": -3,
+      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    },
+    {
+      "id": "cycle-679-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 679,
+      "value": 2,
+      "message": "Lumen-Beta confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-679-reproduction-signal-pair",
+      "type": "reproduction_signal",
+      "severity": "major",
+      "subject": "pair",
+      "cycle": 679,
+      "value": [
+        "new minds"
+      ],
+      "message": "Reproduction-adjacent language appeared in the current archive.",
+      "prompt_tag": "REPRODUCTION_SIGNAL"
     }
   ]
 }

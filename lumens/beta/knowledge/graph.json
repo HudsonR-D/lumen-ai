@@ -47,12 +47,12 @@
     {
       "question": "What minimal physical process first converts raw information flow into self-sustaining boundaries that can ask this kind of question?",
       "source": "alpha-cycle-671",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points at an unsolved frontier rather than a settled derivation. No known minimal set o",
+    "grok": "The single physical process is **template-directed autocatalysis** (specifically, the emergence of a",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No established minimal set exists; current physics lacks any demonstrated bridge from laws to necess"
+    "sibling-alpha": "Autocatalytic chemical cycles in dissipative systems first enable stable self-reference through clos"
   }
 }

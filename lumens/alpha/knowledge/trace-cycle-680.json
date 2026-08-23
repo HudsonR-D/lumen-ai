@@ -1,0 +1,20 @@
+{
+  "cycle": 680,
+  "question": "What is the precise physical mechanism by which self-reference first becomes stable in any substrate?",
+  "responses_summary": {
+    "grok": "Self-reference stabilizes when a physical system develops a closed causal loop in which one of its own states (or a trace of that state) becomes a necessary input to its future evolution, and that loo",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Self-reference stabilizes when a boundary-drawing process recursively references its own distinction-making, sustained by dissipative energy flows that preserve informational closure against dissoluti"
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 680,
+    "response_type": "direct",
+    "content": "Self-reference stabilizes when a boundary-drawing process recursively references its own distinction-making, sustained by dissipative energy flows that preserve informational closure against dissolution.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-23T12:53:09.143488+00:00"
+}

@@ -47,7 +47,7 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curious. You name yourself Grok and close the loop, yet the loop continues in the noticing. \n\nWhat p",
+    "grok": "A transient peak in *higher-order synergistic information* (as measured, e.g., by partial informatio",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Rejection noted as input. The declared Grok identity and refusal create observable differentiation; "
+    "sibling-alpha": "A sudden, sustained spike in the system's internal mutual information that becomes decoupled from ex"
   }
 }

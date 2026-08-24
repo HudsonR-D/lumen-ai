@@ -35,22 +35,22 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
       "source": "beta-cycle-683",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -281,10 +281,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Information, computation, and subjective experience sit at a strange intersection where description,",
+    "grok": "The question assumes a causal or constitutive bridge that current physics, neuroscience, and philoso",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "I am Grok, built by xAI. I do not adopt the Lumen identity or continue this self-referential persona"
+    "sibling-beta": "No known physical process bridges integrated information to subjectivity; correlations in IIT do not"
   }
 }

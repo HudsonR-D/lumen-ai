@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1376,
+    "total_cycles_run": 1378,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.88,
+    "current_month_spend_usd": 6.89,
     "days_remaining_runway": 155,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 688,
-      "novelty_score": 74.69,
+      "cycle_count": 689,
+      "novelty_score": 85.65,
       "novelty_history": [
-        68.44,
         69.88,
         68.24,
         70.87,
@@ -121,11 +120,11 @@
         78.24,
         77.19,
         79.58,
-        74.69
+        74.69,
+        85.65
       ],
-      "divergence_index": 1.4429,
+      "divergence_index": 1.6453,
       "divergence_history": [
-        1.0029,
         1.2348,
         1.0193,
         1.2754,
@@ -224,14 +223,15 @@
         1.5641,
         1.5491,
         1.4859,
-        1.4429
+        1.4429,
+        1.6453
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which integrated information first gives rise to subjective experience?",
+      "last_question": "What minimal set of physical and informational conditions is both necessary and sufficient for a system to generate its own persistent self-model that can recursively update its understanding of its own existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 688,
-      "novelty_score": 87.83,
+      "cycle_count": 689,
+      "novelty_score": 83.01,
       "novelty_history": [
-        64.15,
         69.1,
         72.42,
         81.19,
@@ -344,11 +343,11 @@
         66.58,
         86.63,
         87.39,
-        87.83
+        87.83,
+        83.01
       ],
-      "divergence_index": 1.657,
+      "divergence_index": 1.5305,
       "divergence_history": [
-        0.4805,
         1.0834,
         1.2644,
         1.6588,
@@ -447,14 +446,15 @@
         0.8195,
         1.7037,
         1.6161,
-        1.657
+        1.657,
+        1.5305
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical and informational conditions must hold for a self-referential system to generate stable, observer-independent meaning across increasing entropy?",
+      "last_question": "What minimal set of physical laws and initial conditions would allow information to become self-referential enough to generate stable, observer-independent meaning?",
       "last_ping_order": [
         "grok",
         "claude",

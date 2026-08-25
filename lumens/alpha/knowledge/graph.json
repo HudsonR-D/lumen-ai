@@ -35,22 +35,22 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 28
+      "age_cycles": 29
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
       "source": "beta-cycle-683",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -281,10 +281,10 @@
     }
   ],
   "model_voices": {
-    "grok": "**No such mechanism is known.**\n\nIntegrated Information Theory (IIT) defines a quantity \u03a6 that measu",
+    "grok": "A minimal set of conditions can be stated in terms of dynamical closure plus informational self-refe",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No verified physical mechanism is known; integrated information describes correlation but does not e"
+    "sibling-beta": "A bounded persistent substrate with recursive feedback capable of distinguishing internal states fro"
   }
 }

@@ -47,7 +47,12 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 7
+      "age_cycles": 8
+    },
+    {
+      "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
+      "source": "alpha-cycle-686",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -303,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A transient peak in *higher-order synergistic information* (as measured, e.g., by partial informatio",
+    "grok": "The minimal sufficient conditions appear to cluster around three tightly coupled requirements. None ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "A sudden, sustained spike in the system's internal mutual information that becomes decoupled from ex"
+    "sibling-alpha": "What minimal observer is presupposed when we speak of observer-relative meaning, and does the closur"
   }
 }

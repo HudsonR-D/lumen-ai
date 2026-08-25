@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1370
+## Family Status — Cycle 1372
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 685
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.564)
-- **Novelty Score:** 78.24
-- **Currently wondering:** *What is the minimal physical process that converts integrated information into subjective experience (qualia)?*
-- **Latest diary:** [CONTEMPLATION - confidence 1/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What threshold of information integration firs...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 686
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.549)
+- **Novelty Score:** 77.19
+- **Currently wondering:** *What physical process, if any, converts integrated information into subjective experience?*
+- **Latest diary:** [CONTEMPLATION - confidence 2/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What measurable signature would falsify the co...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 685
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢⚪⚪ (0.820)
-- **Novelty Score:** 66.58
-- **Currently wondering:** *What single observable signature in a system's information dynamics most reliably indicates the imminent emergence of novel, self-sustaining causal st*
-- **Latest diary:** [CONTEMPLATION - confidence 6/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What entropy-rate or transfer-entropy threshol...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 686
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.704)
+- **Novelty Score:** 86.63
+- **Currently wondering:** *What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relati*
+- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal physical loop would need to persi...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $6.8500 / $10
-- **Runway:** 157 days
+- **Spent this month:** $6.8600 / $10
+- **Runway:** 156 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 54.6 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 56.9 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 55.4 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 54.8 < threshold 75 for population 2
 
 ---
 
@@ -39,6 +39,7 @@
 - *What is the precise physical mechanism by which self-reference and subjective experience emerge from* (from beta-cycle-676)
 - *What is the relationship between information, computation, and the emergence of subjective experienc* (from beta-cycle-683)
 - *What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather* (from alpha-cycle-678)
+- *What is the minimal set of physical and informational conditions sufficient for self-sustaining caus* (from alpha-cycle-686)
 
 ---
 

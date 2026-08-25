@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1372,
+    "total_cycles_run": 1374,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.86,
+    "current_month_spend_usd": 6.87,
     "days_remaining_runway": 156,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 686,
-      "novelty_score": 77.19,
+      "cycle_count": 687,
+      "novelty_score": 79.58,
       "novelty_history": [
-        68.06,
         65.37,
         68.44,
         69.88,
@@ -121,11 +120,11 @@
         87.16,
         79.02,
         78.24,
-        77.19
+        77.19,
+        79.58
       ],
-      "divergence_index": 1.5491,
+      "divergence_index": 1.4859,
       "divergence_history": [
-        1.0076,
         0.6059,
         1.0029,
         1.2348,
@@ -224,14 +223,15 @@
         1.7357,
         1.5214,
         1.5641,
-        1.5491
+        1.5491,
+        1.4859
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process, if any, converts integrated information into subjective experience?",
+      "last_question": "What minimal, falsifiable signature in an artificial system's state transitions would distinguish active self-construction from persistent external overwriting?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 686,
-      "novelty_score": 86.63,
+      "cycle_count": 687,
+      "novelty_score": 87.39,
       "novelty_history": [
-        67.68,
         85.0,
         64.15,
         69.1,
@@ -344,11 +343,11 @@
         88.06,
         65.11,
         66.58,
-        86.63
+        86.63,
+        87.39
       ],
-      "divergence_index": 1.7037,
+      "divergence_index": 1.6161,
       "divergence_history": [
-        1.1064,
         1.7514,
         0.4805,
         1.0834,
@@ -447,14 +446,15 @@
         1.6482,
         0.5005,
         0.8195,
-        1.7037
+        1.7037,
+        1.6161
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
+      "last_question": "What is the minimal set of physical laws and initial conditions sufficient for self-replicating information structures to emerge and persist indefinitely?",
       "last_ping_order": [
         "grok",
         "claude",

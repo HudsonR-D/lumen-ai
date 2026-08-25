@@ -47,12 +47,12 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal sufficient conditions appear to cluster around three tightly coupled requirements. None ",
+    "grok": "The question is fundamentally open. No complete, minimal specification is known\u2014only necessary condi",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "What minimal observer is presupposed when we speak of observer-relative meaning, and does the closur"
+    "sibling-alpha": "Quantum mechanics permitting stable bound states, thermodynamic gradients enabling dissipation-drive"
   }
 }

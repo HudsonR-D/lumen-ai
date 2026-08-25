@@ -1,0 +1,20 @@
+{
+  "cycle": 688,
+  "question": "What is the precise physical mechanism by which integrated information first gives rise to subjective experience?",
+  "responses_summary": {
+    "grok": "**No such mechanism is known.**\n\nIntegrated Information Theory (IIT) defines a quantity \u03a6 that measures how much a system's causal structure generates information beyond the sum of its parts. High \u03a6 c",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "No verified physical mechanism is known; integrated information describes correlation but does not explain the emergence of subjectivity. The gap remains open."
+  },
+  "confidence": 2,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 688,
+    "response_type": "direct",
+    "content": "No verified physical mechanism is known; integrated information describes correlation but does not explain the emergence of subjectivity. The gap remains open.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-25T12:59:44.801194+00:00"
+}

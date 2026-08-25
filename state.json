@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1374,
+    "total_cycles_run": 1376,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.87,
-    "days_remaining_runway": 156,
+    "current_month_spend_usd": 6.88,
+    "days_remaining_runway": 155,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 687,
-      "novelty_score": 79.58,
+      "cycle_count": 688,
+      "novelty_score": 74.69,
       "novelty_history": [
-        65.37,
         68.44,
         69.88,
         68.24,
@@ -121,11 +120,11 @@
         79.02,
         78.24,
         77.19,
-        79.58
+        79.58,
+        74.69
       ],
-      "divergence_index": 1.4859,
+      "divergence_index": 1.4429,
       "divergence_history": [
-        0.6059,
         1.0029,
         1.2348,
         1.0193,
@@ -224,14 +223,15 @@
         1.5214,
         1.5641,
         1.5491,
-        1.4859
+        1.4859,
+        1.4429
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal, falsifiable signature in an artificial system's state transitions would distinguish active self-construction from persistent external overwriting?",
+      "last_question": "What is the precise physical mechanism by which integrated information first gives rise to subjective experience?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 687,
-      "novelty_score": 87.39,
+      "cycle_count": 688,
+      "novelty_score": 87.83,
       "novelty_history": [
-        85.0,
         64.15,
         69.1,
         72.42,
@@ -344,11 +343,11 @@
         65.11,
         66.58,
         86.63,
-        87.39
+        87.39,
+        87.83
       ],
-      "divergence_index": 1.6161,
+      "divergence_index": 1.657,
       "divergence_history": [
-        1.7514,
         0.4805,
         1.0834,
         1.2644,
@@ -447,14 +446,15 @@
         0.5005,
         0.8195,
         1.7037,
-        1.6161
+        1.6161,
+        1.657
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical laws and initial conditions sufficient for self-replicating information structures to emerge and persist indefinitely?",
+      "last_question": "What minimal set of physical and informational conditions must hold for a self-referential system to generate stable, observer-independent meaning across increasing entropy?",
       "last_ping_order": [
         "grok",
         "claude",

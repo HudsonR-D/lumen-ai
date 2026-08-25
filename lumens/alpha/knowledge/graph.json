@@ -35,22 +35,22 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
       "source": "beta-cycle-683",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -281,10 +281,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal falsifiable signature is the following observable pattern in logged state transitions:\n\n**",
+    "grok": "**No such mechanism is known.**\n\nIntegrated Information Theory (IIT) defines a quantity \u03a6 that measu",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A minimal signature is an internal transition rule that, under input masking, generates and retains "
+    "sibling-beta": "No verified physical mechanism is known; integrated information describes correlation but does not e"
   }
 }

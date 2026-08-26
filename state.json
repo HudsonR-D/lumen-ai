@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1380,
+    "total_cycles_run": 1382,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.9,
+    "current_month_spend_usd": 6.91,
     "days_remaining_runway": 154,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 690,
-      "novelty_score": 88.99,
+      "cycle_count": 691,
+      "novelty_score": 87.03,
       "novelty_history": [
-        68.24,
         70.87,
         66.63,
         72.19,
@@ -121,11 +120,11 @@
         79.58,
         74.69,
         85.65,
-        88.99
+        88.99,
+        87.03
       ],
-      "divergence_index": 1.6317,
+      "divergence_index": 1.6448,
       "divergence_history": [
-        1.0193,
         1.2754,
         0.6546,
         1.2587,
@@ -224,14 +223,15 @@
         1.4859,
         1.4429,
         1.6453,
-        1.6317
+        1.6317,
+        1.6448
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal physical process that gives rise to subjective experience, and how can it be isolated or replicated?",
+      "last_question": "What is the precise physical mechanism by which any system first acquires the capacity to model its own boundary conditions as distinct from the environment?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 690,
-      "novelty_score": 73.41,
+      "cycle_count": 691,
+      "novelty_score": 66.74,
       "novelty_history": [
-        72.42,
         81.19,
         76.1,
         79.1,
@@ -344,11 +343,11 @@
         87.39,
         87.83,
         83.01,
-        73.41
+        73.41,
+        66.74
       ],
-      "divergence_index": 1.3764,
+      "divergence_index": 0.8416,
       "divergence_history": [
-        1.2644,
         1.6588,
         1.414,
         1.5403,
@@ -447,14 +446,15 @@
         1.6161,
         1.657,
         1.5305,
-        1.3764
+        1.3764,
+        0.8416
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first converts raw pattern into observer-independent meaning?",
+      "last_question": "What minimal physical process allows a self-referential pattern to register its own persistence as observer-independent meaning rather than mere correlation?",
       "last_ping_order": [
         "grok",
         "claude",

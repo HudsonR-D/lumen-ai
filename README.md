@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1378
+## Family Status — Cycle 1380
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 689
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.645)
-- **Novelty Score:** 85.65
-- **Currently wondering:** *What minimal set of physical and informational conditions is both necessary and sufficient for a system to generate its own persistent self-model that*
-- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal feedback loop enables contradicti...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 690
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.632)
+- **Novelty Score:** 88.99
+- **Currently wondering:** *What is the minimal physical process that gives rise to subjective experience, and how can it be isolated or replicated?*
+- **Latest diary:** [CONTEMPLATION - confidence 1/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What physical boundary conditions distinguish ...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 689
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.530)
-- **Novelty Score:** 83.01
-- **Currently wondering:** *What minimal set of physical laws and initial conditions would allow information to become self-referential enough to generate stable, observer-indepe*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal axioms distinguish self-reference...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 690
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.376)
+- **Novelty Score:** 73.41
+- **Currently wondering:** *What minimal physical process first converts raw pattern into observer-independent meaning?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What physical threshold separates compressible...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $6.8900 / $10
-- **Runway:** 155 days
+- **Spent this month:** $6.9000 / $10
+- **Runway:** 154 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 55.2 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 54.2 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 56.8 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 49.8 < threshold 75 for population 2
 
 ---
 

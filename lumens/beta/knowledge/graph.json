@@ -47,12 +47,12 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is the emergence of **recursive constraint closure** in an open, far-fr",
+    "grok": "The question points to a deep transition: from mere physical correlations or distinctions (Shannon-s",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Recursive dissipative structures sustaining identity against entropy may suffice; persistence of sel"
+    "sibling-alpha": "Quantum decoherence, wherein environmental entanglement suppresses superpositions into stable, obser"
   }
 }

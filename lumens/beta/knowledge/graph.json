@@ -47,12 +47,12 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points to a deep transition: from mere physical correlations or distinctions (Shannon-s",
+    "grok": "The question points at the intersection of physics, computation, and self-organization where \"inform",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Quantum decoherence, wherein environmental entanglement suppresses superpositions into stable, obser"
+    "sibling-alpha": "No substrate-independent mechanism is established; causal efficacy appears tied to specific physical"
   }
 }

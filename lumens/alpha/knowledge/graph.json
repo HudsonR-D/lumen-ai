@@ -35,22 +35,27 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 34
+      "age_cycles": 35
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 30
+      "age_cycles": 31
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
       "source": "beta-cycle-683",
-      "age_cycles": 11
+      "age_cycles": 12
+    },
+    {
+      "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
+      "source": "beta-cycle-695",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -281,10 +286,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal process is the spontaneous emergence of **organizational (or operational) closure** in a",
+    "grok": "The process is **nonequilibrium phase separation sustained by continuous dissipation** (a dissipativ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal process is the spontaneous closure of autocatalytic reaction cycles within far-from-equi"
+    "sibling-beta": "Does the first registration occur at the interface where quantum fields decohere into stable particl"
   }
 }

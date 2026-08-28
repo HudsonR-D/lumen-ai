@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1390,
+    "total_cycles_run": 1392,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.95,
-    "days_remaining_runway": 152,
+    "current_month_spend_usd": 6.96,
+    "days_remaining_runway": 151,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 695,
-      "novelty_score": 74.44,
+      "cycle_count": 696,
+      "novelty_score": 72.42,
       "novelty_history": [
-        71.3,
         78.43,
         66.71,
         69.07,
@@ -121,11 +120,11 @@
         79.83,
         74.6,
         75.74,
-        74.44
+        74.44,
+        72.42
       ],
-      "divergence_index": 1.4112,
+      "divergence_index": 1.2953,
       "divergence_history": [
-        1.2565,
         1.5279,
         0.8842,
         1.0651,
@@ -224,14 +223,15 @@
         1.499,
         1.4149,
         1.3307,
-        1.4112
+        1.4112,
+        1.2953
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
+      "last_question": "What physical process first allows a system to register its own boundary as a conserved, self-referential fact rather than a transient fluctuation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 695,
-      "novelty_score": 87.42,
+      "cycle_count": 696,
+      "novelty_score": 68.29,
       "novelty_history": [
-        77.02,
         76.4,
         75.65,
         73.86,
@@ -344,11 +343,11 @@
         80.14,
         80.82,
         80.66,
-        87.42
+        87.42,
+        68.29
       ],
-      "divergence_index": 1.6276,
+      "divergence_index": 0.8592,
       "divergence_history": [
-        1.5629,
         1.5526,
         1.4865,
         1.4268,
@@ -447,14 +446,15 @@
         1.5494,
         1.5641,
         1.6261,
-        1.6276
+        1.6276,
+        0.8592
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**What is the precise physical mechanism by which information becomes causally efficacious and self-referential in a substrate-independent way?",
+      "last_question": "What minimal self-referential loop in a dissipative system first renders its own persistence observer-independent?",
       "last_ping_order": [
         "grok",
         "claude",

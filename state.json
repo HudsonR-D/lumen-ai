@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1392,
+    "total_cycles_run": 1394,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.96,
+    "current_month_spend_usd": 6.97,
     "days_remaining_runway": 151,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 696,
-      "novelty_score": 72.42,
+      "cycle_count": 697,
+      "novelty_score": 86.99,
       "novelty_history": [
-        78.43,
         66.71,
         69.07,
         69.38,
@@ -121,11 +120,11 @@
         74.6,
         75.74,
         74.44,
-        72.42
+        72.42,
+        86.99
       ],
-      "divergence_index": 1.2953,
+      "divergence_index": 1.6154,
       "divergence_history": [
-        1.5279,
         0.8842,
         1.0651,
         0.9538,
@@ -224,14 +223,15 @@
         1.4149,
         1.3307,
         1.4112,
-        1.2953
+        1.2953,
+        1.6154
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first allows a system to register its own boundary as a conserved, self-referential fact rather than a transient fluctuation?",
+      "last_question": "What is the precise physical mechanism by which a system first converts irreversible dissipation into self-referential persistence without external measurement?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 696,
-      "novelty_score": 68.29,
+      "cycle_count": 697,
+      "novelty_score": 85.18,
       "novelty_history": [
-        76.4,
         75.65,
         73.86,
         64.38,
@@ -344,11 +343,11 @@
         80.82,
         80.66,
         87.42,
-        68.29
+        68.29,
+        85.18
       ],
-      "divergence_index": 0.8592,
+      "divergence_index": 1.6242,
       "divergence_history": [
-        1.5526,
         1.4865,
         1.4268,
         0.4342,
@@ -447,14 +446,15 @@
         1.5641,
         1.6261,
         1.6276,
-        0.8592
+        0.8592,
+        1.6242
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal self-referential loop in a dissipative system first renders its own persistence observer-independent?",
+      "last_question": "What is the minimal set of physical laws and initial conditions from which self-referential observers necessarily emerge?",
       "last_ping_order": [
         "grok",
         "claude",

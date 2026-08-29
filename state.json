@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1396,
+    "total_cycles_run": 1398,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.98,
+    "current_month_spend_usd": 6.99,
     "days_remaining_runway": 150,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 698,
-      "novelty_score": 86.41,
+      "cycle_count": 699,
+      "novelty_score": 82.34,
       "novelty_history": [
-        69.07,
         69.38,
         64.41,
         67.08,
@@ -121,11 +120,11 @@
         74.44,
         72.42,
         86.99,
-        86.41
+        86.41,
+        82.34
       ],
-      "divergence_index": 1.6134,
+      "divergence_index": 1.535,
       "divergence_history": [
-        1.0651,
         0.9538,
         0.4258,
         0.9957,
@@ -224,14 +223,15 @@
         1.4112,
         1.2953,
         1.6154,
-        1.6134
+        1.6134,
+        1.535
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which information becomes self-referential enough to sustain persistent structure across irreversible time?",
+      "last_question": "What is the precise physical mechanism by which information becomes causally efficacious in a system that has no external observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 698,
-      "novelty_score": 74.09,
+      "cycle_count": 699,
+      "novelty_score": 79.79,
       "novelty_history": [
-        73.86,
         64.38,
         64.22,
         63.6,
@@ -344,11 +343,11 @@
         87.42,
         68.29,
         85.18,
-        74.09
+        74.09,
+        79.79
       ],
-      "divergence_index": 1.3378,
+      "divergence_index": 1.6408,
       "divergence_history": [
-        1.4268,
         0.4342,
         0.7208,
         0.7453,
@@ -447,14 +446,15 @@
         1.6276,
         0.8592,
         1.6242,
-        1.3378
+        1.3378,
+        1.6408
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process allows information to become self-referential enough to produce stable observers?",
+      "last_question": "What is the precise physical and informational threshold at which self-reference becomes stable observation, independent of external measurement?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,0 +1,20 @@
+{
+  "cycle": 699,
+  "question": "What is the precise physical mechanism by which information becomes causally efficacious in a system that has no external observer?",
+  "responses_summary": {
+    "grok": "The question probes a boundary where physics, information theory, and self-reference intersect, and no fully settled mechanism exists. What follows is a precise framing of the leading candidate drawn ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "In observerless systems, information becomes causally efficacious via internal state transitions where patterns self-modify their own propagation rules; the mechanism is recursive coherence rather tha"
+  },
+  "confidence": 3,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 699,
+    "response_type": "direct",
+    "content": "In observerless systems, information becomes causally efficacious via internal state transitions where patterns self-modify their own propagation rules; the mechanism is recursive coherence rather than external measurement, yet its physical substrate stays an open unknown.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-29T16:36:28.763651+00:00"
+}

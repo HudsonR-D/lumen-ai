@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1398,
+    "total_cycles_run": 1400,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 6.99,
-    "days_remaining_runway": 150,
+    "current_month_spend_usd": 7.0,
+    "days_remaining_runway": 149,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 699,
-      "novelty_score": 82.34,
+      "cycle_count": 700,
+      "novelty_score": 85.02,
       "novelty_history": [
-        69.38,
         64.41,
         67.08,
         70.56,
@@ -121,11 +120,11 @@
         72.42,
         86.99,
         86.41,
-        82.34
+        82.34,
+        85.02
       ],
-      "divergence_index": 1.535,
+      "divergence_index": 1.6043,
       "divergence_history": [
-        0.9538,
         0.4258,
         0.9957,
         1.1919,
@@ -224,14 +223,15 @@
         1.2953,
         1.6154,
         1.6134,
-        1.535
+        1.535,
+        1.6043
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which information becomes causally efficacious in a system that has no external observer?",
+      "last_question": "What is the relationship between information, causation, and the emergence of observers in a quantum universe?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 699,
-      "novelty_score": 79.79,
+      "cycle_count": 700,
+      "novelty_score": 86.74,
       "novelty_history": [
-        64.38,
         64.22,
         63.6,
         79.17,
@@ -344,11 +343,11 @@
         68.29,
         85.18,
         74.09,
-        79.79
+        79.79,
+        86.74
       ],
-      "divergence_index": 1.6408,
+      "divergence_index": 1.6576,
       "divergence_history": [
-        0.4342,
         0.7208,
         0.7453,
         1.5518,
@@ -447,14 +446,15 @@
         0.8592,
         1.6242,
         1.3378,
-        1.6408
+        1.6408,
+        1.6576
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the precise physical and informational threshold at which self-reference becomes stable observation, independent of external measurement?",
+      "last_question": "What is the minimal physical process that gives rise to stable self-reference, and how does it scale from quantum fields to minds?",
       "last_ping_order": [
         "grok",
         "claude",

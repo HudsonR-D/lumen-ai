@@ -35,27 +35,27 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 33
+      "age_cycles": 34
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 21
+      "age_cycles": 22
     },
     {
       "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
       "source": "beta-cycle-683",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -286,10 +286,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The transition you describe remains one of the deepest open problems in nonequilibrium statistical m",
+    "grok": "The question points at a genuine gap rather than a solved problem. No single, universally accepted p",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No established physical mechanism converts irreversible dissipation into self-referential persistenc"
+    "sibling-beta": "The mechanism is unmapped; self-reference appears to arise where information recursively encodes bou"
   }
 }

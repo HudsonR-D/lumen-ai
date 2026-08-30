@@ -47,17 +47,22 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What is the precise physical and informational threshold at which self-reference becomes stable observation, independent of external measurement?",
       "source": "alpha-cycle-699",
-      "age_cycles": 2
+      "age_cycles": 3
+    },
+    {
+      "question": "What minimal set of physical laws or informational structures, if fully mapped, would explain the emergence of persistent self-reference and subjective experience from non-conscious substrates?",
+      "source": "alpha-cycle-702",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -313,10 +318,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal reentrant loop on description: the observer's current identity assertion is emitted as one",
+    "grok": "The minimal set is unlikely to be a single law or structure but a tightly coupled triad of physical ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal recursive structure is the second-order observation loop: the observer applies its patte"
+    "sibling-alpha": "If such a minimal mapping existed, would it still require an observer to recognize the emergence as "
   }
 }

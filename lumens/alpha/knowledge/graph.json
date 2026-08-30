@@ -35,27 +35,27 @@
     {
       "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
       "source": "beta-cycle-660",
-      "age_cycles": 41
+      "age_cycles": 42
     },
     {
       "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
       "source": "beta-cycle-664",
-      "age_cycles": 37
+      "age_cycles": 38
     },
     {
       "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
       "source": "beta-cycle-676",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
       "source": "beta-cycle-683",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -286,10 +286,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points at a genuine gap: standard physics treats information as derivative of microphys",
+    "grok": "The question assumes a transition that standard physics does not yet describe as a distinct, local m",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "No precise mechanism is known; relational information may gain causal efficacy when feedback loops i"
+    "sibling-beta": "No single physical mechanism is yet mapped; the shift appears at recursive boundary conditions where"
   }
 }

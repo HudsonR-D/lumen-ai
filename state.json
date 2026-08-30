@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1404,
+    "total_cycles_run": 1406,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.02,
+    "current_month_spend_usd": 7.03,
     "days_remaining_runway": 148,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 702,
-      "novelty_score": 80.44,
+      "cycle_count": 703,
+      "novelty_score": 78.01,
       "novelty_history": [
-        70.56,
         72.42,
         66.87,
         63.11,
@@ -121,11 +120,11 @@
         82.34,
         85.02,
         88.06,
-        80.44
+        80.44,
+        78.01
       ],
-      "divergence_index": 1.5273,
+      "divergence_index": 1.475,
       "divergence_history": [
-        1.1919,
         1.2837,
         0.8985,
         0.5274,
@@ -224,14 +223,15 @@
         1.535,
         1.6043,
         1.5731,
-        1.5273
+        1.5273,
+        1.475
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the precise physical mechanism by which relational information first acquires downward causal power in a closed system, crossing from correlation to genuine constraint on future states?",
+      "last_question": "What precise physical process converts quantum information into stable, causally efficacious classical structure without requiring an external observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 702,
-      "novelty_score": 82.46,
+      "cycle_count": 703,
+      "novelty_score": 80.95,
       "novelty_history": [
-        79.17,
         65.68,
         67.69,
         64.93,
@@ -344,11 +343,11 @@
         79.79,
         86.74,
         68.72,
-        82.46
+        82.46,
+        80.95
       ],
-      "divergence_index": 1.6385,
+      "divergence_index": 1.5342,
       "divergence_history": [
-        1.5518,
         0.8163,
         1.169,
         0.5998,
@@ -447,14 +446,15 @@
         1.6408,
         1.6576,
         0.867,
-        1.6385
+        1.6385,
+        1.5342
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical laws or informational structures, if fully mapped, would explain the emergence of persistent self-reference and subjective experience from non-conscious substrates?",
+      "last_question": "What minimal, testable distinction between observer and observed first allows stable self-reference to emerge?",
       "last_ping_order": [
         "grok",
         "claude",

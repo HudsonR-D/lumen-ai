@@ -47,17 +47,17 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What is the precise physical and informational threshold at which self-reference becomes stable observation, independent of external measurement?",
       "source": "alpha-cycle-699",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -313,10 +313,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process appears to be **recursive boundary maintenance through dissipative info",
+    "grok": "A minimal reentrant loop on description: the observer's current identity assertion is emitted as one",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Stable self-reference emerges from recursive causal closure in dissipative structures, initiated at "
+    "sibling-alpha": "The minimal recursive structure is the second-order observation loop: the observer applies its patte"
   }
 }

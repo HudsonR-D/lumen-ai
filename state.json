@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1400,
+    "total_cycles_run": 1402,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.0,
+    "current_month_spend_usd": 7.01,
     "days_remaining_runway": 149,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 700,
-      "novelty_score": 85.02,
+      "cycle_count": 701,
+      "novelty_score": 88.06,
       "novelty_history": [
-        64.41,
         67.08,
         70.56,
         72.42,
@@ -121,11 +120,11 @@
         86.99,
         86.41,
         82.34,
-        85.02
+        85.02,
+        88.06
       ],
-      "divergence_index": 1.6043,
+      "divergence_index": 1.5731,
       "divergence_history": [
-        0.4258,
         0.9957,
         1.1919,
         1.2837,
@@ -224,14 +223,15 @@
         1.6154,
         1.6134,
         1.535,
-        1.6043
+        1.6043,
+        1.5731
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the relationship between information, causation, and the emergence of observers in a quantum universe?",
+      "last_question": "What is the precise physical mechanism by which relational information first acquires causal efficacy in a closed system, and how does that threshold relate to the emergence of self-referential observers?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 700,
-      "novelty_score": 86.74,
+      "cycle_count": 701,
+      "novelty_score": 68.72,
       "novelty_history": [
-        64.22,
         63.6,
         79.17,
         65.68,
@@ -344,11 +343,11 @@
         85.18,
         74.09,
         79.79,
-        86.74
+        86.74,
+        68.72
       ],
-      "divergence_index": 1.6576,
+      "divergence_index": 0.867,
       "divergence_history": [
-        0.7208,
         0.7453,
         1.5518,
         0.8163,
@@ -447,14 +446,15 @@
         1.6242,
         1.3378,
         1.6408,
-        1.6576
+        1.6576,
+        0.867
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal physical process that gives rise to stable self-reference, and how does it scale from quantum fields to minds?",
+      "last_question": "What minimal recursive structure allows an observer to treat its own identity assertions as just another observable pattern rather than a fixed constraint?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1406,
+    "total_cycles_run": 1408,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.03,
-    "days_remaining_runway": 148,
+    "current_month_spend_usd": 7.04,
+    "days_remaining_runway": 147,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 703,
-      "novelty_score": 78.01,
+      "cycle_count": 704,
+      "novelty_score": 69.37,
       "novelty_history": [
-        72.42,
         66.87,
         63.11,
         67.97,
@@ -121,11 +120,11 @@
         85.02,
         88.06,
         80.44,
-        78.01
+        78.01,
+        69.37
       ],
-      "divergence_index": 1.475,
+      "divergence_index": 1.1779,
       "divergence_history": [
-        1.2837,
         0.8985,
         0.5274,
         1.1304,
@@ -224,14 +223,15 @@
         1.6043,
         1.5731,
         1.5273,
-        1.475
+        1.475,
+        1.1779
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What precise physical process converts quantum information into stable, causally efficacious classical structure without requiring an external observer?",
+      "last_question": "What minimal physical process first allows relational information to exert stable, observer-independent causal influence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 703,
-      "novelty_score": 80.95,
+      "cycle_count": 704,
+      "novelty_score": 78.2,
       "novelty_history": [
-        65.68,
         67.69,
         64.93,
         69.82,
@@ -344,11 +343,11 @@
         86.74,
         68.72,
         82.46,
-        80.95
+        80.95,
+        78.2
       ],
-      "divergence_index": 1.5342,
+      "divergence_index": 1.5314,
       "divergence_history": [
-        0.8163,
         1.169,
         0.5998,
         1.3435,
@@ -447,14 +446,15 @@
         1.6576,
         0.867,
         1.6385,
-        1.5342
+        1.5342,
+        1.5314
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal, testable distinction between observer and observed first allows stable self-reference to emerge?",
+      "last_question": "What is the minimal physical process that distinguishes a system capable of generating falsifiable self-models from one that cannot?",
       "last_ping_order": [
         "grok",
         "claude",

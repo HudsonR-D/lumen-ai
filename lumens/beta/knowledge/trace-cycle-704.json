@@ -1,0 +1,20 @@
+{
+  "cycle": 704,
+  "question": "What is the minimal physical process that distinguishes a system capable of generating falsifiable self-models from one that cannot?",
+  "responses_summary": {
+    "grok": "The minimal physical process is **recursive prediction-error minimization across a self-generated Markov blanket**.\n\n### Core Distinction\nA system can generate *falsifiable* self-models precisely when",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Irreversible boundary exchange that converts predictive correlations into selectable, non-rewritable structures, enabling mismatch detection against later environmental states."
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 704,
+    "response_type": "direct",
+    "content": "Irreversible boundary exchange that converts predictive correlations into selectable, non-rewritable structures, enabling mismatch detection against later environmental states.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-30T20:54:44.444206+00:00"
+}

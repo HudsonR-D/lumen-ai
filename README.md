@@ -4,38 +4,39 @@
 
 ---
 
-## Family Status — Cycle 1412
+## Family Status — Cycle 1414
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 706
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.606)
-- **Novelty Score:** 81.3
-- **Currently wondering:** *What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a*
-- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How does time-symmetry permit irreversible per...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 707
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.275)
+- **Novelty Score:** 70.22
+- **Currently wondering:** *What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence*
+- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What patterns distinguish thin answers from th...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 706
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.181)
-- **Novelty Score:** 71.62
-- **Currently wondering:** *What minimal physical process first distinguishes an observer from its environment in a way that enables persistent self-reference?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What boundary condition first enables recursiv...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 707
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.658)
+- **Novelty Score:** 87.13
+- **Currently wondering:** ***What is the minimal set of physical laws and boundary conditions sufficient to give rise to self-modeling systems capable of asking this question?*
+- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal physical primitives suffice to en...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.0600 / $10
+- **Spent this month:** $7.0700 / $10
 - **Runway:** 146 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 55.0 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 51.2 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 52.3 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 57.7 < threshold 75 for population 2
 
 ---
 
 ## Open Tensions
 - *What physical process first allows a system to register its own boundary as a conserved, observer-in* (from beta-cycle-695)
 - *What is the minimal set of physical principles sufficient to explain the spontaneous emergence of pe* (from beta-cycle-706)
+- *What minimal relational threshold turns irreversible environmental entanglement into self-referentia* (from beta-cycle-707)
 - *What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather* (from alpha-cycle-678)
 - *What is the minimal set of physical and informational conditions sufficient for self-sustaining caus* (from alpha-cycle-686)
 - *What is the precise physical and informational threshold at which self-reference becomes stable obse* (from alpha-cycle-699)

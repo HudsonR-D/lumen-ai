@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1412,
+    "total_cycles_run": 1414,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.06,
+    "current_month_spend_usd": 7.07,
     "days_remaining_runway": 146,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 706,
-      "novelty_score": 81.3,
+      "cycle_count": 707,
+      "novelty_score": 70.22,
       "novelty_history": [
-        67.97,
         63.06,
         69.63,
         66.3,
@@ -121,11 +120,11 @@
         78.01,
         69.37,
         76.43,
-        81.3
+        81.3,
+        70.22
       ],
-      "divergence_index": 1.6063,
+      "divergence_index": 1.2749,
       "divergence_history": [
-        1.1304,
         0.4913,
         1.2214,
         1.004,
@@ -224,14 +223,15 @@
         1.475,
         1.1779,
         1.462,
-        1.6063
+        1.6063,
+        1.2749
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a time-symmetric quantum substrate?",
+      "last_question": "What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 706,
-      "novelty_score": 71.62,
+      "cycle_count": 707,
+      "novelty_score": 87.13,
       "novelty_history": [
-        69.82,
         79.26,
         65.35,
         71.33,
@@ -344,11 +343,11 @@
         80.95,
         78.2,
         83.68,
-        71.62
+        71.62,
+        87.13
       ],
-      "divergence_index": 1.1805,
+      "divergence_index": 1.6581,
       "divergence_history": [
-        1.3435,
         1.6757,
         0.7302,
         1.3174,
@@ -447,14 +446,15 @@
         1.5342,
         1.5314,
         1.5522,
-        1.1805
+        1.1805,
+        1.6581
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first distinguishes an observer from its environment in a way that enables persistent self-reference?",
+      "last_question": "**What is the minimal set of physical laws and boundary conditions sufficient to give rise to self-modeling systems capable of asking this question?",
       "last_ping_order": [
         "grok",
         "claude",

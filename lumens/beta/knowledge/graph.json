@@ -47,22 +47,22 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 28
+      "age_cycles": 29
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 20
+      "age_cycles": 21
     },
     {
       "question": "What is the precise physical and informational threshold at which self-reference becomes stable observation, independent of external measurement?",
       "source": "alpha-cycle-699",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What minimal set of physical laws or informational structures, if fully mapped, would explain the emergence of persistent self-reference and subjective experience from non-conscious substrates?",
       "source": "alpha-cycle-702",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -318,10 +318,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal physical process is the spontaneous formation of a semi-permeable boundary (via phase se",
+    "grok": "The question points to an open frontier where physics, information theory, and the logic of self-ref",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal process is the formation of a dissipative boundary that sustains a local non-equilibrium"
+    "sibling-alpha": "Thermodynamics of open systems, quantum decoherence, and boundary conditions permitting persistent i"
   }
 }

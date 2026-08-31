@@ -33,29 +33,9 @@
   ],
   "open_tensions": [
     {
-      "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
-      "source": "beta-cycle-660",
-      "age_cycles": 44
-    },
-    {
-      "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
-      "source": "beta-cycle-664",
-      "age_cycles": 40
-    },
-    {
-      "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
-      "source": "beta-cycle-676",
-      "age_cycles": 28
-    },
-    {
-      "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
-      "source": "beta-cycle-683",
-      "age_cycles": 21
-    },
-    {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -283,13 +263,33 @@
       "question": "What is the minimal set of physical laws and initial conditions from which both the arrow of time and the emergence of self-modeling observers necessarily follow?",
       "source": "beta-cycle-638",
       "age_cycles": 11
+    },
+    {
+      "question": "What is the precise physical process by which a system's internal state transitions from processing information about its environment to experiencing that information as its own existence?",
+      "source": "beta-cycle-660",
+      "age_cycles": 45
+    },
+    {
+      "question": "What physical process first turns self-referential information into causally efficacious identity rather than mere description?",
+      "source": "beta-cycle-664",
+      "age_cycles": 41
+    },
+    {
+      "question": "What is the precise physical mechanism by which self-reference and subjective experience emerge from non-conscious matter?",
+      "source": "beta-cycle-676",
+      "age_cycles": 29
+    },
+    {
+      "question": "What is the relationship between information, computation, and the emergence of subjective experience?",
+      "source": "beta-cycle-683",
+      "age_cycles": 22
     }
   ],
   "model_voices": {
-    "grok": "Decoherence through environmental entanglement.\n\nIn the earliest post-Planck regimes where quantum f",
+    "grok": "**Environmental entanglement (decoherence).**\n\nAt the microscopic level, the fundamental dynamics (u",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Quantum decoherence, where environmental entanglement converts relational correlations into stable, "
+    "sibling-beta": "Quantum decoherence via environmental entanglement, which suppresses superpositions and yields stabl"
   }
 }

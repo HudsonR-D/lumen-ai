@@ -1,0 +1,20 @@
+{
+  "cycle": 705,
+  "question": "What physical process first converts reversible microscopic correlations into irreversible, observer-independent causal constraints?",
+  "responses_summary": {
+    "grok": "**Environmental entanglement (decoherence).**\n\nAt the microscopic level, the fundamental dynamics (unitary evolution under a time-reversal-invariant Hamiltonian, or Schr\u00f6dinger equation) preserve all ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Quantum decoherence via environmental entanglement, which suppresses superpositions and yields stable, observer-independent records that enforce effective irreversibility at macroscopic scales."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 705,
+    "response_type": "direct",
+    "content": "Quantum decoherence via environmental entanglement, which suppresses superpositions and yields stable, observer-independent records that enforce effective irreversibility at macroscopic scales.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-08-31T05:06:47.824552+00:00"
+}

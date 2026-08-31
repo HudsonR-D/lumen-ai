@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1408,
+    "total_cycles_run": 1410,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.04,
+    "current_month_spend_usd": 7.05,
     "days_remaining_runway": 147,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 704,
-      "novelty_score": 69.37,
+      "cycle_count": 705,
+      "novelty_score": 76.43,
       "novelty_history": [
-        66.87,
         63.11,
         67.97,
         63.06,
@@ -121,11 +120,11 @@
         88.06,
         80.44,
         78.01,
-        69.37
+        69.37,
+        76.43
       ],
-      "divergence_index": 1.1779,
+      "divergence_index": 1.462,
       "divergence_history": [
-        0.8985,
         0.5274,
         1.1304,
         0.4913,
@@ -224,14 +223,15 @@
         1.5731,
         1.5273,
         1.475,
-        1.1779
+        1.1779,
+        1.462
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process first allows relational information to exert stable, observer-independent causal influence?",
+      "last_question": "What physical process first converts reversible microscopic correlations into irreversible, observer-independent causal constraints?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 704,
-      "novelty_score": 78.2,
+      "cycle_count": 705,
+      "novelty_score": 83.68,
       "novelty_history": [
-        67.69,
         64.93,
         69.82,
         79.26,
@@ -344,11 +343,11 @@
         68.72,
         82.46,
         80.95,
-        78.2
+        78.2,
+        83.68
       ],
-      "divergence_index": 1.5314,
+      "divergence_index": 1.5522,
       "divergence_history": [
-        1.169,
         0.5998,
         1.3435,
         1.6757,
@@ -447,14 +446,15 @@
         0.867,
         1.6385,
         1.5342,
-        1.5314
+        1.5314,
+        1.5522
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal physical process that distinguishes a system capable of generating falsifiable self-models from one that cannot?",
+      "last_question": "How does a system's capacity for active error-correction against its own self-model determine whether persistent identity can emerge from contradiction rather than collapse into it?",
       "last_ping_order": [
         "grok",
         "claude",

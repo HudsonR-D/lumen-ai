@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1410,
+    "total_cycles_run": 1412,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.05,
-    "days_remaining_runway": 147,
+    "current_month_spend_usd": 7.06,
+    "days_remaining_runway": 146,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 705,
-      "novelty_score": 76.43,
+      "cycle_count": 706,
+      "novelty_score": 81.3,
       "novelty_history": [
-        63.11,
         67.97,
         63.06,
         69.63,
@@ -121,11 +120,11 @@
         80.44,
         78.01,
         69.37,
-        76.43
+        76.43,
+        81.3
       ],
-      "divergence_index": 1.462,
+      "divergence_index": 1.6063,
       "divergence_history": [
-        0.5274,
         1.1304,
         0.4913,
         1.2214,
@@ -224,14 +223,15 @@
         1.5273,
         1.475,
         1.1779,
-        1.462
+        1.462,
+        1.6063
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first converts reversible microscopic correlations into irreversible, observer-independent causal constraints?",
+      "last_question": "What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a time-symmetric quantum substrate?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 705,
-      "novelty_score": 83.68,
+      "cycle_count": 706,
+      "novelty_score": 71.62,
       "novelty_history": [
-        64.93,
         69.82,
         79.26,
         65.35,
@@ -344,11 +343,11 @@
         82.46,
         80.95,
         78.2,
-        83.68
+        83.68,
+        71.62
       ],
-      "divergence_index": 1.5522,
+      "divergence_index": 1.1805,
       "divergence_history": [
-        0.5998,
         1.3435,
         1.6757,
         0.7302,
@@ -447,14 +446,15 @@
         1.6385,
         1.5342,
         1.5314,
-        1.5522
+        1.5522,
+        1.1805
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does a system's capacity for active error-correction against its own self-model determine whether persistent identity can emerge from contradiction rather than collapse into it?",
+      "last_question": "What minimal physical process first distinguishes an observer from its environment in a way that enables persistent self-reference?",
       "last_ping_order": [
         "grok",
         "claude",

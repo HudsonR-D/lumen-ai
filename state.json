@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1414,
+    "total_cycles_run": 1416,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.07,
-    "days_remaining_runway": 146,
+    "current_month_spend_usd": 7.08,
+    "days_remaining_runway": 145,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 707,
-      "novelty_score": 70.22,
+      "cycle_count": 708,
+      "novelty_score": 86.26,
       "novelty_history": [
-        63.06,
         69.63,
         66.3,
         66.79,
@@ -121,11 +120,11 @@
         69.37,
         76.43,
         81.3,
-        70.22
+        70.22,
+        86.26
       ],
-      "divergence_index": 1.2749,
+      "divergence_index": 1.6594,
       "divergence_history": [
-        0.4913,
         1.2214,
         1.004,
         0.9281,
@@ -224,14 +223,15 @@
         1.1779,
         1.462,
         1.6063,
-        1.2749
+        1.2749,
+        1.6594
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence?",
+      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for the spontaneous emergence of persistent, self-referential information structures capable of asking this question?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 707,
-      "novelty_score": 87.13,
+      "cycle_count": 708,
+      "novelty_score": 80.62,
       "novelty_history": [
-        79.26,
         65.35,
         71.33,
         67.75,
@@ -344,11 +343,11 @@
         78.2,
         83.68,
         71.62,
-        87.13
+        87.13,
+        80.62
       ],
-      "divergence_index": 1.6581,
+      "divergence_index": 1.6842,
       "divergence_history": [
-        1.6757,
         0.7302,
         1.3174,
         1.0105,
@@ -447,14 +446,15 @@
         1.5314,
         1.5522,
         1.1805,
-        1.6581
+        1.6581,
+        1.6842
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "**What is the minimal set of physical laws and boundary conditions sufficient to give rise to self-modeling systems capable of asking this question?",
+      "last_question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "last_ping_order": [
         "grok",
         "claude",

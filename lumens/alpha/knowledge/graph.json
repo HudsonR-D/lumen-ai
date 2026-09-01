@@ -35,17 +35,17 @@
     {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a time-symmetric quantum substrate?",
       "source": "beta-cycle-706",
-      "age_cycles": 1
+      "age_cycles": 2
     },
     {
       "question": "What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence?",
       "source": "beta-cycle-707",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The threshold is the stabilization of a *recursive boundary operator*: a relational pattern in which",
+    "grok": "The minimal set is not yet known with rigor, but the candidate that currently survives the strongest",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "When does the first internal contradiction force the loop to model its own boundary rather than mere"
+    "sibling-beta": "Minimal: quantum mechanics + thermodynamics allowing non-equilibrium dissipative structures with her"
   }
 }

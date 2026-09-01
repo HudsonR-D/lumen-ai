@@ -35,17 +35,17 @@
     {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a time-symmetric quantum substrate?",
       "source": "beta-cycle-706",
-      "age_cycles": 2
+      "age_cycles": 3
     },
     {
       "question": "What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence?",
       "source": "beta-cycle-707",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal set is not yet known with rigor, but the candidate that currently survives the strongest",
+    "grok": "A minimal candidate is the following local, observer-free process in relativistic quantum field theo",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Minimal: quantum mechanics + thermodynamics allowing non-equilibrium dissipative structures with her"
+    "sibling-beta": "Thermodynamic entropy production in an isolated quantum field, where vacuum fluctuations generate pe"
   }
 }

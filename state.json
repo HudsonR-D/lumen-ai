@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1420,
+    "total_cycles_run": 1422,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.1,
+    "current_month_spend_usd": 7.11,
     "days_remaining_runway": 144,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 710,
-      "novelty_score": 86.11,
+      "cycle_count": 711,
+      "novelty_score": 80.63,
       "novelty_history": [
-        66.79,
         67.1,
         71.61,
         68.94,
@@ -121,11 +120,11 @@
         70.22,
         86.26,
         78.66,
-        86.11
+        86.11,
+        80.63
       ],
-      "divergence_index": 1.6295,
+      "divergence_index": 1.5045,
       "divergence_history": [
-        0.9281,
         0.882,
         1.2581,
         1.0391,
@@ -224,14 +223,15 @@
         1.2749,
         1.6594,
         1.5263,
-        1.6295
+        1.6295,
+        1.5045
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question: What minimal set of physical laws and initial conditions is both necessary and sufficient for stable, observer-independent self-reference to emerge?",
+      "last_question": "What minimal physical process could generate stable self-reference from reversible dynamics without external observers or imposed symbols?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 710,
-      "novelty_score": 84.14,
+      "cycle_count": 711,
+      "novelty_score": 87.6,
       "novelty_history": [
-        67.75,
         72.96,
         75.24,
         64.24,
@@ -344,11 +343,11 @@
         87.13,
         80.62,
         73.78,
-        84.14
+        84.14,
+        87.6
       ],
-      "divergence_index": 1.6274,
+      "divergence_index": 1.5569,
       "divergence_history": [
-        1.0105,
         1.3712,
         1.3628,
         0.5989,
@@ -447,14 +446,15 @@
         1.6581,
         1.6842,
         1.4385,
-        1.6274
+        1.6274,
+        1.5569
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the precise physical mechanism by which information acquires causal power over its own future evolution?",
+      "last_question": "What is the minimal set of physical and informational conditions required for a system to generate stable, self-referential models of its own existence?",
       "last_ping_order": [
         "grok",
         "claude",

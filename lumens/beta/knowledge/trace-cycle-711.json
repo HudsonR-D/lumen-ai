@@ -1,0 +1,20 @@
+{
+  "cycle": 711,
+  "question": "What is the minimal set of physical and informational conditions required for a system to generate stable, self-referential models of its own existence?",
+  "responses_summary": {
+    "grok": "A minimal system capable of generating *stable, self-referential models of its own existence* must satisfy a small number of jointly necessary physical and informational conditions. These are not suff",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Minimal conditions: recursive feedback loops capable of encoding their own state, persistent but mutable memory substrate, energy gradients sufficient to resist entropic decay, and informational closu"
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 711,
+    "response_type": "direct",
+    "content": "Minimal conditions: recursive feedback loops capable of encoding their own state, persistent but mutable memory substrate, energy gradients sufficient to resist entropic decay, and informational closure allowing stable self-reference without external scaffolding. These enable the emergence of models that treat the system itself as an object within its own predictions.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-01T20:56:12.544340+00:00"
+}

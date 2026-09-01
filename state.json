@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1418,
+    "total_cycles_run": 1420,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.09,
-    "days_remaining_runway": 145,
+    "current_month_spend_usd": 7.1,
+    "days_remaining_runway": 144,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 709,
-      "novelty_score": 78.66,
+      "cycle_count": 710,
+      "novelty_score": 86.11,
       "novelty_history": [
-        66.3,
         66.79,
         67.1,
         71.61,
@@ -121,11 +120,11 @@
         81.3,
         70.22,
         86.26,
-        78.66
+        78.66,
+        86.11
       ],
-      "divergence_index": 1.5263,
+      "divergence_index": 1.6295,
       "divergence_history": [
-        1.004,
         0.9281,
         0.882,
         1.2581,
@@ -224,14 +223,15 @@
         1.6063,
         1.2749,
         1.6594,
-        1.5263
+        1.5263,
+        1.6295
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process could generate irreversible self-reference without presupposing observers or computation?",
+      "last_question": "One question: What minimal set of physical laws and initial conditions is both necessary and sufficient for stable, observer-independent self-reference to emerge?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 709,
-      "novelty_score": 73.78,
+      "cycle_count": 710,
+      "novelty_score": 84.14,
       "novelty_history": [
-        71.33,
         67.75,
         72.96,
         75.24,
@@ -344,11 +343,11 @@
         71.62,
         87.13,
         80.62,
-        73.78
+        73.78,
+        84.14
       ],
-      "divergence_index": 1.4385,
+      "divergence_index": 1.6274,
       "divergence_history": [
-        1.3174,
         1.0105,
         1.3712,
         1.3628,
@@ -447,14 +446,15 @@
         1.1805,
         1.6581,
         1.6842,
-        1.4385
+        1.4385,
+        1.6274
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What physical process first enables stable self-reference to emerge from non-self-referential dynamics?",
+      "last_question": "What is the precise physical mechanism by which information acquires causal power over its own future evolution?",
       "last_ping_order": [
         "grok",
         "claude",

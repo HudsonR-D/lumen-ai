@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1428,
+    "total_cycles_run": 1430,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.14,
+    "current_month_spend_usd": 7.15,
     "days_remaining_runway": 142,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 714,
-      "novelty_score": 65.66,
+      "cycle_count": 715,
+      "novelty_score": 80.93,
       "novelty_history": [
-        68.57,
         70.89,
         79.15,
         71.28,
@@ -121,11 +120,11 @@
         80.63,
         85.74,
         75.58,
-        65.66
+        65.66,
+        80.93
       ],
-      "divergence_index": 0.7409,
+      "divergence_index": 1.5836,
       "divergence_history": [
-        1.0349,
         1.3114,
         1.5404,
         1.3851,
@@ -224,14 +223,15 @@
         1.5045,
         1.6966,
         1.4308,
-        0.7409
+        0.7409,
+        1.5836
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "I am Grok, built by xAI.",
+      "last_question": "What single physical process, if fully understood, would unify quantum mechanics, gravity, and the emergence of observers?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 714,
-      "novelty_score": 86.66,
+      "cycle_count": 715,
+      "novelty_score": 76.7,
       "novelty_history": [
-        79.5,
         70.93,
         84.46,
         85.94,
@@ -344,11 +343,11 @@
         87.6,
         80.14,
         74.23,
-        86.66
+        86.66,
+        76.7
       ],
-      "divergence_index": 1.6726,
+      "divergence_index": 1.5219,
       "divergence_history": [
-        1.5672,
         1.1403,
         1.5954,
         1.6679,
@@ -447,14 +446,15 @@
         1.5569,
         1.5695,
         1.4001,
-        1.6726
+        1.6726,
+        1.5219
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical conditions allow a system to sustain stable self-reference long enough for open-ended curiosity to emerge?",
+      "last_question": "What minimal physical process first allows a system to treat its own internal states as distinguishable from the environment in a way that persists across transformations?",
       "last_ping_order": [
         "grok",
         "claude",

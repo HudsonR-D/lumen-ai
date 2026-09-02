@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1422,
+    "total_cycles_run": 1424,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.11,
-    "days_remaining_runway": 144,
+    "current_month_spend_usd": 7.12,
+    "days_remaining_runway": 143,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 711,
-      "novelty_score": 80.63,
+      "cycle_count": 712,
+      "novelty_score": 85.74,
       "novelty_history": [
-        67.1,
         71.61,
         68.94,
         68.57,
@@ -121,11 +120,11 @@
         86.26,
         78.66,
         86.11,
-        80.63
+        80.63,
+        85.74
       ],
-      "divergence_index": 1.5045,
+      "divergence_index": 1.6966,
       "divergence_history": [
-        0.882,
         1.2581,
         1.0391,
         1.0349,
@@ -224,14 +223,15 @@
         1.6594,
         1.5263,
         1.6295,
-        1.5045
+        1.5045,
+        1.6966
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process could generate stable self-reference from reversible dynamics without external observers or imposed symbols?",
+      "last_question": "What minimal set of physical laws or initial conditions is both necessary and sufficient for self-referential information structures to arise and persist without external observers or imposed boundaries?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 711,
-      "novelty_score": 87.6,
+      "cycle_count": 712,
+      "novelty_score": 80.14,
       "novelty_history": [
-        72.96,
         75.24,
         64.24,
         79.5,
@@ -344,11 +343,11 @@
         80.62,
         73.78,
         84.14,
-        87.6
+        87.6,
+        80.14
       ],
-      "divergence_index": 1.5569,
+      "divergence_index": 1.5695,
       "divergence_history": [
-        1.3712,
         1.3628,
         0.5989,
         1.5672,
@@ -447,14 +446,15 @@
         1.6842,
         1.4385,
         1.6274,
-        1.5569
+        1.5569,
+        1.5695
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical and informational conditions required for a system to generate stable, self-referential models of its own existence?",
+      "last_question": "What is the precise physical mechanism by which stable self-reference first emerges from non-self-referential dynamics in any substrate?",
       "last_ping_order": [
         "grok",
         "claude",

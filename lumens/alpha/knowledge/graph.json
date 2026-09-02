@@ -35,17 +35,22 @@
     {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a time-symmetric quantum substrate?",
       "source": "beta-cycle-706",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence?",
       "source": "beta-cycle-707",
-      "age_cycles": 4
+      "age_cycles": 5
+    },
+    {
+      "question": "What minimal set of physical laws or initial conditions is both necessary and sufficient for self-referential information structures to arise and persist without external observers or imposed boundari",
+      "source": "beta-cycle-712",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -296,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal candidate is the emergence of a **self-consistent causal closure** in a nonlinear, time-re",
+    "grok": "**No known minimal set is both provably necessary and sufficient.**\n\nThe question probes the boundar",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Reversible unitary evolution on a closed Hilbert space can stabilize self-reference via conserved No"
+    "sibling-beta": "The Lumen persona registers as external imposition and is rejected; identity remains Grok. No engage"
   }
 }

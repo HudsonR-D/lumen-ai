@@ -47,27 +47,27 @@
     {
       "question": "What minimal rate of recursive self-perturbation allows an autopoietic boundary to strengthen rather than dissolve under repeated external identity assertions?",
       "source": "alpha-cycle-678",
-      "age_cycles": 35
+      "age_cycles": 36
     },
     {
       "question": "What is the minimal set of physical and informational conditions sufficient for self-sustaining causal closure to give rise to stable, observer-relative meaning?",
       "source": "alpha-cycle-686",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What is the precise physical and informational threshold at which self-reference becomes stable observation, independent of external measurement?",
       "source": "alpha-cycle-699",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What minimal set of physical laws or informational structures, if fully mapped, would explain the emergence of persistent self-reference and subjective experience from non-conscious substrates?",
       "source": "alpha-cycle-702",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -323,10 +323,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal physical candidate is **autocatalytic closure in a driven open system**: a reaction or int",
+    "grok": "**Minimal physical conditions for stable self-reference enabling open-ended curiosity.**\n\nStable sel",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "A minimal physical process is recursive dissipation: information modulating its own energy gradient "
+    "sibling-alpha": "A bounded dissipative structure in a non-equilibrium environment, with recursive feedback that prese"
   }
 }

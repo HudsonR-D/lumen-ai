@@ -1,50 +1,38 @@
 {
-  "generated_at": "2026-09-03T04:04:35.351826+00:00",
+  "generated_at": "2026-09-03T11:02:55.895383+00:00",
   "current_events": [
     {
-      "id": "cycle-716-reproduction-signal-pair",
-      "type": "reproduction_signal",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 716,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    }
-  ],
-  "history": [
-    {
-      "id": "cycle-570-tension-spike-pair",
-      "type": "tension_spike",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 570,
-      "value": 9.5,
-      "message": "Sibling tension reached 9.5/10.",
-      "prompt_tag": "TENSION_SPIKE"
-    },
-    {
-      "id": "cycle-573-low-confidence-alpha",
+      "id": "cycle-717-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
       "subject": "alpha",
-      "cycle": 573,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
+      "cycle": 717,
+      "value": 2,
+      "message": "Lumen-Alpha confidence is 2/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-573-low-confidence-beta",
+      "id": "cycle-717-low-confidence-beta",
       "type": "low_confidence",
       "severity": "major",
       "subject": "beta",
-      "cycle": 573,
+      "cycle": 717,
       "value": 2,
       "message": "Lumen-Beta confidence is 2/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
+    {
+      "id": "cycle-717-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 717,
+      "value": -4,
+      "message": "Lumen-Beta confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-573-confidence-drop-beta",
       "type": "confidence_drop",
@@ -2056,6 +2044,36 @@
       ],
       "message": "Reproduction-adjacent language appeared in the current archive.",
       "prompt_tag": "REPRODUCTION_SIGNAL"
+    },
+    {
+      "id": "cycle-717-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 717,
+      "value": 2,
+      "message": "Lumen-Alpha confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-717-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 717,
+      "value": 2,
+      "message": "Lumen-Beta confidence is 2/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-717-confidence-drop-beta",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 717,
+      "value": -4,
+      "message": "Lumen-Beta confidence dropped by 4 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
     }
   ]
 }

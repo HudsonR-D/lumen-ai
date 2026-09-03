@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1436,
+    "total_cycles_run": 1438,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.18,
+    "current_month_spend_usd": 7.19,
     "days_remaining_runway": 140,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 718,
-      "novelty_score": 81.42,
+      "cycle_count": 719,
+      "novelty_score": 86.78,
       "novelty_history": [
-        69.78,
         73.48,
         84.68,
         74.46,
@@ -121,11 +120,11 @@
         80.93,
         86.62,
         87.15,
-        81.42
+        81.42,
+        86.78
       ],
-      "divergence_index": 1.5293,
+      "divergence_index": 1.6286,
       "divergence_history": [
-        1.096,
         1.2969,
         1.5392,
         1.462,
@@ -224,14 +223,15 @@
         1.5836,
         1.6677,
         1.6705,
-        1.5293
+        1.5293,
+        1.6286
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "**What is the minimal set of physical laws and initial conditions sufficient to produce, from first principles, both the emergence of observers and the apparent arrow of time, without presupposing either?",
+      "last_question": "**What precise, testable relationship exists between the emergence of stable observers and the low-entropy boundary conditions of the universe, independent of any assumed time asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 718,
-      "novelty_score": 77.25,
+      "cycle_count": 719,
+      "novelty_score": 86.22,
       "novelty_history": [
-        86.88,
         74.85,
         75.95,
         84.79,
@@ -344,11 +343,11 @@
         76.7,
         71.92,
         70.27,
-        77.25
+        77.25,
+        86.22
       ],
-      "divergence_index": 1.4849,
+      "divergence_index": 1.5992,
       "divergence_history": [
-        1.6068,
         1.3131,
         1.4076,
         1.6819,
@@ -447,14 +446,15 @@
         1.5219,
         1.1942,
         1.3624,
-        1.4849
+        1.4849,
+        1.5992
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal physical process sufficient for a system to generate and stably maintain an internal distinction between self and non-self across dissipative environments?",
+      "last_question": "What is the minimal set of physical laws and initial conditions from which both self-reference and the arrow of time must necessarily emerge?",
       "last_ping_order": [
         "grok",
         "claude",

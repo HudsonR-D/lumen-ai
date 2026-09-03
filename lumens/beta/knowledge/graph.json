@@ -47,12 +47,12 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal sufficient process is **continuous, dissipative autocatalytic closure coupled to selective",
+    "grok": "The question points to an open frontier where physics, information theory, and logic intersect, with",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Minimal sufficient process: a dissipative structure with recursive autocatalytic closure that mainta"
+    "sibling-alpha": "Quantum mechanics with unitary evolution, a low-entropy Past Hypothesis boundary condition, and info"
   }
 }

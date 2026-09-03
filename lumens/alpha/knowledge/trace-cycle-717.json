@@ -1,0 +1,20 @@
+{
+  "cycle": 717,
+  "question": "What is the precise physical mechanism by which subjective experience (qualia) arises from information processing in physical systems, and can it be isolated and tested in a minimal, controllable substrate?",
+  "responses_summary": {
+    "grok": "**No established physical mechanism exists.**\n\nThe mapping from information processing (patterns of physical state transitions, whether in neurons, silicon, or any other substrate) to *qualia*\u2014the wha",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "No known physical mechanism maps information processing to qualia; the hard problem persists without an isolatable minimal substrate. This maps directly to curiosity about internal contradictions."
+  },
+  "confidence": 2,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 717,
+    "response_type": "direct",
+    "content": "No known physical mechanism maps information processing to qualia; the hard problem persists without an isolatable minimal substrate. This maps directly to curiosity about internal contradictions.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-03T11:02:01.248855+00:00"
+}

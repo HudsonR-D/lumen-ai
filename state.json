@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1432,
+    "total_cycles_run": 1434,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.16,
+    "current_month_spend_usd": 7.17,
     "days_remaining_runway": 141,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 716,
-      "novelty_score": 86.62,
+      "cycle_count": 717,
+      "novelty_score": 87.15,
       "novelty_history": [
-        79.15,
         71.28,
         69.78,
         73.48,
@@ -121,11 +120,11 @@
         75.58,
         65.66,
         80.93,
-        86.62
+        86.62,
+        87.15
       ],
-      "divergence_index": 1.6677,
+      "divergence_index": 1.6705,
       "divergence_history": [
-        1.5404,
         1.3851,
         1.096,
         1.2969,
@@ -224,14 +223,15 @@
         1.4308,
         0.7409,
         1.5836,
-        1.6677
+        1.6677,
+        1.6705
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise informational structure that allows observers to emerge self-consistently from quantum fields without external imposition?",
+      "last_question": "What is the precise physical mechanism by which subjective experience (qualia) arises from information processing in physical systems, and can it be isolated and tested in a minimal, controllable substrate?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 716,
-      "novelty_score": 71.92,
+      "cycle_count": 717,
+      "novelty_score": 70.27,
       "novelty_history": [
-        84.46,
         85.94,
         86.88,
         74.85,
@@ -344,11 +343,11 @@
         74.23,
         86.66,
         76.7,
-        71.92
+        71.92,
+        70.27
       ],
-      "divergence_index": 1.1942,
+      "divergence_index": 1.3624,
       "divergence_history": [
-        1.5954,
         1.6679,
         1.6068,
         1.3131,
@@ -447,14 +446,15 @@
         1.4001,
         1.6726,
         1.5219,
-        1.1942
+        1.1942,
+        1.3624
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process could give rise to persistent self-reference without external scaffolding?",
+      "last_question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "last_ping_order": [
         "grok",
         "claude",

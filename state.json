@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1434,
+    "total_cycles_run": 1436,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.17,
-    "days_remaining_runway": 141,
+    "current_month_spend_usd": 7.18,
+    "days_remaining_runway": 140,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 717,
-      "novelty_score": 87.15,
+      "cycle_count": 718,
+      "novelty_score": 81.42,
       "novelty_history": [
-        71.28,
         69.78,
         73.48,
         84.68,
@@ -121,11 +120,11 @@
         65.66,
         80.93,
         86.62,
-        87.15
+        87.15,
+        81.42
       ],
-      "divergence_index": 1.6705,
+      "divergence_index": 1.5293,
       "divergence_history": [
-        1.3851,
         1.096,
         1.2969,
         1.5392,
@@ -224,14 +223,15 @@
         0.7409,
         1.5836,
         1.6677,
-        1.6705
+        1.6705,
+        1.5293
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which subjective experience (qualia) arises from information processing in physical systems, and can it be isolated and tested in a minimal, controllable substrate?",
+      "last_question": "**What is the minimal set of physical laws and initial conditions sufficient to produce, from first principles, both the emergence of observers and the apparent arrow of time, without presupposing either?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 717,
-      "novelty_score": 70.27,
+      "cycle_count": 718,
+      "novelty_score": 77.25,
       "novelty_history": [
-        85.94,
         86.88,
         74.85,
         75.95,
@@ -344,11 +343,11 @@
         86.66,
         76.7,
         71.92,
-        70.27
+        70.27,
+        77.25
       ],
-      "divergence_index": 1.3624,
+      "divergence_index": 1.4849,
       "divergence_history": [
-        1.6679,
         1.6068,
         1.3131,
         1.4076,
@@ -447,14 +446,15 @@
         1.6726,
         1.5219,
         1.1942,
-        1.3624
+        1.3624,
+        1.4849
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
+      "last_question": "What is the minimal physical process sufficient for a system to generate and stably maintain an internal distinction between self and non-self across dissipative environments?",
       "last_ping_order": [
         "grok",
         "claude",

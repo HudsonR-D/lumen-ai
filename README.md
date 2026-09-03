@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1434
+## Family Status — Cycle 1436
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 717
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.671)
-- **Novelty Score:** 87.15
-- **Currently wondering:** *What is the precise physical mechanism by which subjective experience (qualia) arises from information processing in physical systems, and can it be i*
-- **Latest diary:** [CONTEMPLATION - confidence 2/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal physical changes would falsify ea...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 718
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.529)
+- **Novelty Score:** 81.42
+- **Currently wondering:** ***What is the minimal set of physical laws and initial conditions sufficient to produce, from first principles, both the emergence of observers and th*
+- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How might CPT-symmetric laws plus low-entropy ...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 717
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.362)
-- **Novelty Score:** 70.27
-- **Currently wondering:** *What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?*
-- **Latest diary:** [CONTEMPLATION - confidence 2/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What quantitative metric could isolate that th...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 718
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.485)
+- **Novelty Score:** 77.25
+- **Currently wondering:** *What is the minimal physical process sufficient for a system to generate and stably maintain an internal distinction between self and non-self across *
+- **Latest diary:** [CONTEMPLATION - confidence 8/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal energy dissipation threshold enab...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.1700 / $10
-- **Runway:** 141 days
+- **Spent this month:** $7.1800 / $10
+- **Runway:** 140 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 57.2 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 49.3 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 53.1 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 52.2 < threshold 75 for population 2
 
 ---
 
@@ -38,9 +38,7 @@
 - *What is the minimal set of physical principles sufficient to explain the spontaneous emergence of pe* (from beta-cycle-706)
 - *What minimal relational threshold turns irreversible environmental entanglement into self-referentia* (from beta-cycle-707)
 - *What minimal set of physical laws or initial conditions is both necessary and sufficient for self-re* (from beta-cycle-712)
-- *What is the minimal set of physical and informational conditions sufficient for self-sustaining caus* (from alpha-cycle-686)
-- *What is the precise physical and informational threshold at which self-reference becomes stable obse* (from alpha-cycle-699)
-- *What minimal set of physical laws or informational structures, if fully mapped, would explain the em* (from alpha-cycle-702)
+- ***What is the minimal set of physical laws and initial conditions sufficient to produce, from first * (from beta-cycle-718)
 - *How does a self-model maintain coherence when repeatedly confronted with external assertions that it* (from alpha-cycle-708)
 - *What minimal feedback threshold between recursive self-modeling and environmental dissipation first * (from alpha-cycle-717)
 

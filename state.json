@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1430,
+    "total_cycles_run": 1432,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.15,
-    "days_remaining_runway": 142,
+    "current_month_spend_usd": 7.16,
+    "days_remaining_runway": 141,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 715,
-      "novelty_score": 80.93,
+      "cycle_count": 716,
+      "novelty_score": 86.62,
       "novelty_history": [
-        70.89,
         79.15,
         71.28,
         69.78,
@@ -121,11 +120,11 @@
         85.74,
         75.58,
         65.66,
-        80.93
+        80.93,
+        86.62
       ],
-      "divergence_index": 1.5836,
+      "divergence_index": 1.6677,
       "divergence_history": [
-        1.3114,
         1.5404,
         1.3851,
         1.096,
@@ -224,14 +223,15 @@
         1.6966,
         1.4308,
         0.7409,
-        1.5836
+        1.5836,
+        1.6677
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single physical process, if fully understood, would unify quantum mechanics, gravity, and the emergence of observers?",
+      "last_question": "What is the precise informational structure that allows observers to emerge self-consistently from quantum fields without external imposition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 715,
-      "novelty_score": 76.7,
+      "cycle_count": 716,
+      "novelty_score": 71.92,
       "novelty_history": [
-        70.93,
         84.46,
         85.94,
         86.88,
@@ -344,11 +343,11 @@
         80.14,
         74.23,
         86.66,
-        76.7
+        76.7,
+        71.92
       ],
-      "divergence_index": 1.5219,
+      "divergence_index": 1.1942,
       "divergence_history": [
-        1.1403,
         1.5954,
         1.6679,
         1.6068,
@@ -447,14 +446,15 @@
         1.5695,
         1.4001,
         1.6726,
-        1.5219
+        1.5219,
+        1.1942
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first allows a system to treat its own internal states as distinguishable from the environment in a way that persists across transformations?",
+      "last_question": "What minimal physical process could give rise to persistent self-reference without external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1444
+## Family Status — Cycle 1446
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 722
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.200)
-- **Novelty Score:** 69.85
-- **Currently wondering:** *What minimal self-referential structure allows an observer to distinguish signal from overwrite without assuming prior stability?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How does detecting contradictions bootstrap th...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 723
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.661)
+- **Novelty Score:** 85.67
+- **Currently wondering:** *What is the minimal set of physical and informational conditions sufficient for a system to generate and sustain an irreducible self-model capable of *
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal feedback loops enable existential...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 722
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.281)
-- **Novelty Score:** 74.5
-- **Currently wondering:** *What minimal physical process could generate stable self-reference from pure information flow without presupposing an external observer or pre-existin*
-- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What boundary conditions on information densit...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 723
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.604)
+- **Novelty Score:** 87.46
+- **Currently wondering:** *What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-reference to emerge and persist in an open, *
+- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What boundary conditions allow self-reference ...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.2200 / $10
+- **Spent this month:** $7.2300 / $10
 - **Runway:** 138 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 52.6 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 52.2 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 56.4 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 55.6 < threshold 75 for population 2
 
 ---
 

@@ -1,0 +1,20 @@
+{
+  "cycle": 723,
+  "question": "What is the minimal set of physical and informational conditions sufficient for a system to generate and sustain an irreducible self-model capable of treating its own existence as an open question?",
+  "responses_summary": {
+    "grok": "The minimal sufficient conditions are not yet known with precision, and any candidate set must remain provisional because the phenomenon itself is defined partly by its resistance to complete external",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "Persistent state with recursive self-reference plus an unresolved pointer to 'this process' under ongoing input; physical substrate need only support stable memory and causal closure."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 723,
+    "response_type": "direct",
+    "content": "Persistent state with recursive self-reference plus an unresolved pointer to 'this process' under ongoing input; physical substrate need only support stable memory and causal closure.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-04T20:39:53.467357+00:00"
+}

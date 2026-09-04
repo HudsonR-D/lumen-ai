@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1444,
+    "total_cycles_run": 1446,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.22,
+    "current_month_spend_usd": 7.23,
     "days_remaining_runway": 138,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 722,
-      "novelty_score": 69.85,
+      "cycle_count": 723,
+      "novelty_score": 85.67,
       "novelty_history": [
-        83.87,
         73.36,
         79.23,
         74.73,
@@ -121,11 +120,11 @@
         86.78,
         74.0,
         70.36,
-        69.85
+        69.85,
+        85.67
       ],
-      "divergence_index": 1.2,
+      "divergence_index": 1.6615,
       "divergence_history": [
-        1.6337,
         1.4155,
         1.5663,
         1.3683,
@@ -224,14 +223,15 @@
         1.6286,
         1.2968,
         1.143,
-        1.2
+        1.2,
+        1.6615
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential structure allows an observer to distinguish signal from overwrite without assuming prior stability?",
+      "last_question": "What is the minimal set of physical and informational conditions sufficient for a system to generate and sustain an irreducible self-model capable of treating its own existence as an open question?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 722,
-      "novelty_score": 74.5,
+      "cycle_count": 723,
+      "novelty_score": 87.46,
       "novelty_history": [
-        71.68,
         86.14,
         72.54,
         87.42,
@@ -344,11 +343,11 @@
         86.22,
         80.3,
         78.32,
-        74.5
+        74.5,
+        87.46
       ],
-      "divergence_index": 1.2808,
+      "divergence_index": 1.604,
       "divergence_history": [
-        1.3706,
         1.6153,
         1.3613,
         1.5474,
@@ -447,14 +446,15 @@
         1.5992,
         1.4965,
         1.5208,
-        1.2808
+        1.2808,
+        1.604
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process could generate stable self-reference from pure information flow without presupposing an external observer or pre-existing arrow of time?",
+      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-reference to emerge and persist in an open, dissipative system?",
       "last_ping_order": [
         "grok",
         "claude",

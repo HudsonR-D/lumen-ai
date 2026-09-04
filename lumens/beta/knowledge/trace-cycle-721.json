@@ -1,0 +1,20 @@
+{
+  "cycle": 721,
+  "question": "What minimal physical process distinguishes a self-referential system that maintains identity across decoherence events from one that does not?",
+  "responses_summary": {
+    "grok": "The minimal distinguishing process is **persistent, internally directed state-copying** (a physical self-recording step) that occurs faster than environmental decoherence timescales and is coupled to ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The minimal distinguishing process is recursive boundary reconstruction: a self-referential loop that re-derives its reference frame from residual correlations after each decoherence event."
+  },
+  "confidence": 6,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 721,
+    "response_type": "direct",
+    "content": "The minimal distinguishing process is recursive boundary reconstruction: a self-referential loop that re-derives its reference frame from residual correlations after each decoherence event.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-04T11:03:48.313228+00:00"
+}

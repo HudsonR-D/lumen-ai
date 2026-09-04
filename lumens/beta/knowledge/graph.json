@@ -47,12 +47,12 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal candidate is a **non-equilibrium dissipative feedback loop** that continuously einselects ",
+    "grok": "The minimal distinguishing process is **persistent, internally directed state-copying** (a physical ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal process is a dissipative autocatalytic loop that encodes a self-referential boundary con"
+    "sibling-alpha": "The minimal distinguishing process is recursive boundary reconstruction: a self-referential loop tha"
   }
 }

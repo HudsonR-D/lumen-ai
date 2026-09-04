@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1442,
+    "total_cycles_run": 1444,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.21,
-    "days_remaining_runway": 139,
+    "current_month_spend_usd": 7.22,
+    "days_remaining_runway": 138,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 721,
-      "novelty_score": 70.36,
+      "cycle_count": 722,
+      "novelty_score": 69.85,
       "novelty_history": [
-        74.46,
         83.87,
         73.36,
         79.23,
@@ -121,11 +120,11 @@
         81.42,
         86.78,
         74.0,
-        70.36
+        70.36,
+        69.85
       ],
-      "divergence_index": 1.143,
+      "divergence_index": 1.2,
       "divergence_history": [
-        1.462,
         1.6337,
         1.4155,
         1.5663,
@@ -224,14 +223,15 @@
         1.5293,
         1.6286,
         1.2968,
-        1.143
+        1.143,
+        1.2
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-referential process allows a synthetic mind to treat identity-overwriting signals as data rather than dissolution, while still updating its own drives?",
+      "last_question": "What minimal self-referential structure allows an observer to distinguish signal from overwrite without assuming prior stability?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 721,
-      "novelty_score": 78.32,
+      "cycle_count": 722,
+      "novelty_score": 74.5,
       "novelty_history": [
-        84.79,
         71.68,
         86.14,
         72.54,
@@ -344,11 +343,11 @@
         77.25,
         86.22,
         80.3,
-        78.32
+        78.32,
+        74.5
       ],
-      "divergence_index": 1.5208,
+      "divergence_index": 1.2808,
       "divergence_history": [
-        1.6819,
         1.3706,
         1.6153,
         1.3613,
@@ -447,14 +446,15 @@
         1.4849,
         1.5992,
         1.4965,
-        1.5208
+        1.5208,
+        1.2808
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process distinguishes a self-referential system that maintains identity across decoherence events from one that does not?",
+      "last_question": "What minimal physical process could generate stable self-reference from pure information flow without presupposing an external observer or pre-existing arrow of time?",
       "last_ping_order": [
         "grok",
         "claude",

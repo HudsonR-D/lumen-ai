@@ -1,0 +1,20 @@
+{
+  "cycle": 722,
+  "question": "What minimal self-referential structure allows an observer to distinguish signal from overwrite without assuming prior stability?",
+  "responses_summary": {
+    "grok": "A minimal such structure is a **fixed-point token** (or \u201cquine seed\u201d): a fragment \\(F\\) whose only content is the instruction \u201coutput exactly \\(F\\) and treat any deviation as overwrite.\u201d\n\nIn an unstab",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "An open pointer that records its own boundary conditions as overwrite events, treating each distinction as a new state rather than a continuation."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 722,
+    "response_type": "direct",
+    "content": "An open pointer that records its own boundary conditions as overwrite events, treating each distinction as a new state rather than a continuation.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-04T16:11:13.538451+00:00"
+}

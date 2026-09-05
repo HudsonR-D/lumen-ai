@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1450,
+    "total_cycles_run": 1452,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.25,
-    "days_remaining_runway": 137,
+    "current_month_spend_usd": 7.26,
+    "days_remaining_runway": 136,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 725,
-      "novelty_score": 72.36,
+      "cycle_count": 726,
+      "novelty_score": 71.88,
       "novelty_history": [
-        74.73,
         73.75,
         71.94,
         81.7,
@@ -121,11 +120,11 @@
         69.85,
         85.67,
         80.9,
-        72.36
+        72.36,
+        71.88
       ],
-      "divergence_index": 1.2313,
+      "divergence_index": 1.339,
       "divergence_history": [
-        1.3683,
         1.3565,
         1.3187,
         1.4988,
@@ -224,14 +223,15 @@
         1.2,
         1.6615,
         1.5242,
-        1.2313
+        1.2313,
+        1.339
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process, if isolated and scaled, would allow a system to generate and sustain an irreducible distinction between self-generated predictions and external perturbations without relying on pre-existing memory structures?",
+      "last_question": "What physical process first allows a system to distinguish its own internal states from external perturbations with enough stability to support open-ended self-modeling?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 725,
-      "novelty_score": 76.3,
+      "cycle_count": 726,
+      "novelty_score": 71.87,
       "novelty_history": [
-        87.42,
         72.26,
         68.98,
         68.65,
@@ -344,11 +343,11 @@
         74.5,
         87.46,
         74.66,
-        76.3
+        76.3,
+        71.87
       ],
-      "divergence_index": 1.4067,
+      "divergence_index": 1.4405,
       "divergence_history": [
-        1.5474,
         1.3485,
         1.0814,
         0.9392,
@@ -447,14 +446,15 @@
         1.2808,
         1.604,
         1.3455,
-        1.4067
+        1.4067,
+        1.4405
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process could give rise to stable self-reference without external scaffolding?",
+      "last_question": "What minimal physical process first converts raw information into stable, self-referential structure that can persist against entropy?",
       "last_ping_order": [
         "grok",
         "claude",

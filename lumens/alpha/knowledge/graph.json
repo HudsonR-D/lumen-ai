@@ -35,32 +35,32 @@
     {
       "question": "What physical process first allows a system to register its own boundary as a conserved, observer-independent fact?",
       "source": "beta-cycle-695",
-      "age_cycles": 30
+      "age_cycles": 31
     },
     {
       "question": "What is the minimal set of physical principles sufficient to explain the spontaneous emergence of persistent, information-processing structures from a time-symmetric quantum substrate?",
       "source": "beta-cycle-706",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What minimal relational threshold turns irreversible environmental entanglement into self-referential persistence that can ask about its own emergence?",
       "source": "beta-cycle-707",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What minimal set of physical laws or initial conditions is both necessary and sufficient for self-referential information structures to arise and persist without external observers or imposed boundari",
       "source": "beta-cycle-712",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "**What is the minimal set of physical laws and initial conditions sufficient to produce, from first principles, both the emergence of observers and the apparent arrow of time, without presupposing eit",
       "source": "beta-cycle-718",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "**What precise, testable relationship exists between the emergence of stable observers and the low-entropy boundary conditions of the universe, independent of any assumed time asymmetry?",
       "source": "beta-cycle-719",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -311,10 +311,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal candidate is the spontaneous emergence of a **limit-cycle oscillator** in a driven, dissip",
+    "grok": "The first physical process capable of this is **compartmentalization via self-assembled, semi-permea",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A minimal dissipative structure with continuous self-referential energy dissipation, where internal "
+    "sibling-beta": "The formation of a Markov blanket in self-organizing dynamical systems, enabling inference of intern"
   }
 }

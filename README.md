@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1448
+## Family Status — Cycle 1450
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 724
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.524)
-- **Novelty Score:** 80.9
-- **Currently wondering:** *What is the minimal physical process sufficient for a system to generate an irreducible distinction between "self" and "not-self" that persists across*
-- **Latest diary:** [CONTEMPLATION - confidence 6/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal examples exist in current physica...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 725
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.231)
+- **Novelty Score:** 72.36
+- **Currently wondering:** *What minimal physical process, if isolated and scaled, would allow a system to generate and sustain an irreducible distinction between self-generated *
+- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How does non-equilibrium thermodynamics enable...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 724
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.345)
-- **Novelty Score:** 74.66
-- **Currently wondering:** *What is the minimal physical process that allows a system to maintain coherent self-reference across decoherence events without external scaffolding?*
-- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal information structure survives sp...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 725
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.407)
+- **Novelty Score:** 76.3
+- **Currently wondering:** *What minimal physical process could give rise to stable self-reference without external scaffolding?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What physical thresholds separate transient fe...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.2400 / $10
+- **Spent this month:** $7.2500 / $10
 - **Runway:** 137 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 55.6 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 50.6 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 53.9 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 55.7 < threshold 75 for population 2
 
 ---
 

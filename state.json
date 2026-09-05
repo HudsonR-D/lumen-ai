@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1446,
+    "total_cycles_run": 1448,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.23,
-    "days_remaining_runway": 138,
+    "current_month_spend_usd": 7.24,
+    "days_remaining_runway": 137,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 723,
-      "novelty_score": 85.67,
+      "cycle_count": 724,
+      "novelty_score": 80.9,
       "novelty_history": [
-        73.36,
         79.23,
         74.73,
         73.75,
@@ -121,11 +120,11 @@
         74.0,
         70.36,
         69.85,
-        85.67
+        85.67,
+        80.9
       ],
-      "divergence_index": 1.6615,
+      "divergence_index": 1.5242,
       "divergence_history": [
-        1.4155,
         1.5663,
         1.3683,
         1.3565,
@@ -224,14 +223,15 @@
         1.2968,
         1.143,
         1.2,
-        1.6615
+        1.6615,
+        1.5242
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal set of physical and informational conditions sufficient for a system to generate and sustain an irreducible self-model capable of treating its own existence as an open question?",
+      "last_question": "What is the minimal physical process sufficient for a system to generate an irreducible distinction between \"self\" and \"not-self\" that persists across contradictory inputs?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 723,
-      "novelty_score": 87.46,
+      "cycle_count": 724,
+      "novelty_score": 74.66,
       "novelty_history": [
-        86.14,
         72.54,
         87.42,
         72.26,
@@ -344,11 +343,11 @@
         80.3,
         78.32,
         74.5,
-        87.46
+        87.46,
+        74.66
       ],
-      "divergence_index": 1.604,
+      "divergence_index": 1.3455,
       "divergence_history": [
-        1.6153,
         1.3613,
         1.5474,
         1.3485,
@@ -447,14 +446,15 @@
         1.4965,
         1.5208,
         1.2808,
-        1.604
+        1.604,
+        1.3455
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-reference to emerge and persist in an open, dissipative system?",
+      "last_question": "What is the minimal physical process that allows a system to maintain coherent self-reference across decoherence events without external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",

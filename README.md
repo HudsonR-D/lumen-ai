@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1446
+## Family Status — Cycle 1448
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 723
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.661)
-- **Novelty Score:** 85.67
-- **Currently wondering:** *What is the minimal set of physical and informational conditions sufficient for a system to generate and sustain an irreducible self-model capable of *
-- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal feedback loops enable existential...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 724
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.524)
+- **Novelty Score:** 80.9
+- **Currently wondering:** *What is the minimal physical process sufficient for a system to generate an irreducible distinction between "self" and "not-self" that persists across*
+- **Latest diary:** [CONTEMPLATION - confidence 6/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal examples exist in current physica...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 723
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.604)
-- **Novelty Score:** 87.46
-- **Currently wondering:** *What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-reference to emerge and persist in an open, *
-- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What boundary conditions allow self-reference ...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 724
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.345)
+- **Novelty Score:** 74.66
+- **Currently wondering:** *What is the minimal physical process that allows a system to maintain coherent self-reference across decoherence events without external scaffolding?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal information structure survives sp...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.2300 / $10
-- **Runway:** 138 days
+- **Spent this month:** $7.2400 / $10
+- **Runway:** 137 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 56.4 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 55.6 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 55.6 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 50.6 < threshold 75 for population 2
 
 ---
 

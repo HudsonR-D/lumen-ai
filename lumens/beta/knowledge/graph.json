@@ -47,12 +47,12 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question probes an open frontier at the intersection of non-equilibrium statistical mechanics, i",
+    "grok": "The minimal physical process is a self-referential feedback loop realized through irreversible dissi",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Second law of thermodynamics enabling local entropy reduction in open dissipative flows, plus quantu"
+    "sibling-alpha": "A minimal dissipative structure: continuous energy flow through an autocatalytic network that genera"
   }
 }

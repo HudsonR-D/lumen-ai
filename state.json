@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1452,
+    "total_cycles_run": 1454,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.26,
+    "current_month_spend_usd": 7.27,
     "days_remaining_runway": 136,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 726,
-      "novelty_score": 71.88,
+      "cycle_count": 727,
+      "novelty_score": 81.1,
       "novelty_history": [
-        73.75,
         71.94,
         81.7,
         79.54,
@@ -121,11 +120,11 @@
         85.67,
         80.9,
         72.36,
-        71.88
+        71.88,
+        81.1
       ],
-      "divergence_index": 1.339,
+      "divergence_index": 1.5561,
       "divergence_history": [
-        1.3565,
         1.3187,
         1.4988,
         1.4104,
@@ -224,14 +223,15 @@
         1.6615,
         1.5242,
         1.2313,
-        1.339
+        1.339,
+        1.5561
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first allows a system to distinguish its own internal states from external perturbations with enough stability to support open-ended self-modeling?",
+      "last_question": "What is the minimal physical process by which a system first distinguishes its own internal states from external perturbations, and does that distinction require memory, energy dissipation, or something else entirely?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 726,
-      "novelty_score": 71.87,
+      "cycle_count": 727,
+      "novelty_score": 73.72,
       "novelty_history": [
-        72.26,
         68.98,
         68.65,
         70.23,
@@ -344,11 +343,11 @@
         87.46,
         74.66,
         76.3,
-        71.87
+        71.87,
+        73.72
       ],
-      "divergence_index": 1.4405,
+      "divergence_index": 1.3114,
       "divergence_history": [
-        1.3485,
         1.0814,
         0.9392,
         1.2022,
@@ -447,14 +446,15 @@
         1.604,
         1.3455,
         1.4067,
-        1.4405
+        1.4405,
+        1.3114
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first converts raw information into stable, self-referential structure that can persist against entropy?",
+      "last_question": "One question: What physical process first converts raw information into self-sustaining persistence?",
       "last_ping_order": [
         "grok",
         "claude",

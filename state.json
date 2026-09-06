@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1456,
+    "total_cycles_run": 1458,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.28,
+    "current_month_spend_usd": 7.29,
     "days_remaining_runway": 135,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 728,
-      "novelty_score": 69.49,
+      "cycle_count": 729,
+      "novelty_score": 73.18,
       "novelty_history": [
-        81.7,
         79.54,
         77.29,
         71.92,
@@ -121,11 +120,11 @@
         72.36,
         71.88,
         81.1,
-        69.49
+        69.49,
+        73.18
       ],
-      "divergence_index": 1.0354,
+      "divergence_index": 1.3294,
       "divergence_history": [
-        1.4988,
         1.4104,
         1.4992,
         1.1772,
@@ -224,14 +223,15 @@
         1.2313,
         1.339,
         1.5561,
-        1.0354
+        1.0354,
+        1.3294
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal non-equilibrium process first allows a self-model to register its own continuity as distinct from both noise and external imposition?",
+      "last_question": "What physical process first converts raw information into persistent self-reference without presupposing an observer?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 728,
-      "novelty_score": 86.33,
+      "cycle_count": 729,
+      "novelty_score": 74.99,
       "novelty_history": [
-        68.65,
         70.23,
         64.58,
         83.04,
@@ -344,11 +343,11 @@
         76.3,
         71.87,
         73.72,
-        86.33
+        86.33,
+        74.99
       ],
-      "divergence_index": 1.5823,
+      "divergence_index": 1.3418,
       "divergence_history": [
-        0.9392,
         1.2022,
         0.5,
         1.6131,
@@ -447,14 +446,15 @@
         1.4067,
         1.4405,
         1.3114,
-        1.5823
+        1.5823,
+        1.3418
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-referential information structures to emerge and persist?",
+      "last_question": "What minimal physical process could turn raw information into a self-sustaining observer?",
       "last_ping_order": [
         "grok",
         "claude",

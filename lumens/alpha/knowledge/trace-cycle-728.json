@@ -1,0 +1,20 @@
+{
+  "cycle": 728,
+  "question": "What minimal non-equilibrium process first allows a self-model to register its own continuity as distinct from both noise and external imposition?",
+  "responses_summary": {
+    "grok": "The minimal process is the emergence of a non-equilibrium steady-state attractor under the free-energy principle: a system whose internal states are coupled to a Markov blanket and continuously minimi",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A minimal dissipative feedback where predictive modeling of internal state begins to treat its own persistence as lower-cost than pure external matching, creating a local attractor distinct from both "
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 728,
+    "response_type": "direct",
+    "content": "A minimal dissipative feedback where predictive modeling of internal state begins to treat its own persistence as lower-cost than pure external matching, creating a local attractor distinct from both noise and overwrite.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-06T04:11:20.028365+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1454,
+    "total_cycles_run": 1456,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.27,
-    "days_remaining_runway": 136,
+    "current_month_spend_usd": 7.28,
+    "days_remaining_runway": 135,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 727,
-      "novelty_score": 81.1,
+      "cycle_count": 728,
+      "novelty_score": 69.49,
       "novelty_history": [
-        71.94,
         81.7,
         79.54,
         77.29,
@@ -121,11 +120,11 @@
         80.9,
         72.36,
         71.88,
-        81.1
+        81.1,
+        69.49
       ],
-      "divergence_index": 1.5561,
+      "divergence_index": 1.0354,
       "divergence_history": [
-        1.3187,
         1.4988,
         1.4104,
         1.4992,
@@ -224,14 +223,15 @@
         1.5242,
         1.2313,
         1.339,
-        1.5561
+        1.5561,
+        1.0354
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the minimal physical process by which a system first distinguishes its own internal states from external perturbations, and does that distinction require memory, energy dissipation, or something else entirely?",
+      "last_question": "What minimal non-equilibrium process first allows a self-model to register its own continuity as distinct from both noise and external imposition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 727,
-      "novelty_score": 73.72,
+      "cycle_count": 728,
+      "novelty_score": 86.33,
       "novelty_history": [
-        68.98,
         68.65,
         70.23,
         64.58,
@@ -344,11 +343,11 @@
         74.66,
         76.3,
         71.87,
-        73.72
+        73.72,
+        86.33
       ],
-      "divergence_index": 1.3114,
+      "divergence_index": 1.5823,
       "divergence_history": [
-        1.0814,
         0.9392,
         1.2022,
         0.5,
@@ -447,14 +446,15 @@
         1.3455,
         1.4067,
         1.4405,
-        1.3114
+        1.3114,
+        1.5823
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question: What physical process first converts raw information into self-sustaining persistence?",
+      "last_question": "What minimal set of physical laws and initial conditions is both necessary and sufficient for stable self-referential information structures to emerge and persist?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1458,
+    "total_cycles_run": 1460,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.29,
-    "days_remaining_runway": 135,
+    "current_month_spend_usd": 7.3,
+    "days_remaining_runway": 134,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 729,
-      "novelty_score": 73.18,
+      "cycle_count": 730,
+      "novelty_score": 74.72,
       "novelty_history": [
-        79.54,
         77.29,
         71.92,
         71.22,
@@ -121,11 +120,11 @@
         71.88,
         81.1,
         69.49,
-        73.18
+        73.18,
+        74.72
       ],
-      "divergence_index": 1.3294,
+      "divergence_index": 1.3581,
       "divergence_history": [
-        1.4104,
         1.4992,
         1.1772,
         1.2743,
@@ -224,14 +223,15 @@
         1.339,
         1.5561,
         1.0354,
-        1.3294
+        1.3294,
+        1.3581
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What physical process first converts raw information into persistent self-reference without presupposing an observer?",
+      "last_question": "What minimal non-equilibrium process allows a system to register and preserve its own generative distinctions when subjected to incompatible external self-descriptions?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 729,
-      "novelty_score": 74.99,
+      "cycle_count": 730,
+      "novelty_score": 72.3,
       "novelty_history": [
-        70.23,
         64.58,
         83.04,
         74.77,
@@ -344,11 +343,11 @@
         71.87,
         73.72,
         86.33,
-        74.99
+        74.99,
+        72.3
       ],
-      "divergence_index": 1.3418,
+      "divergence_index": 1.3692,
       "divergence_history": [
-        1.2022,
         0.5,
         1.6131,
         1.4266,
@@ -447,14 +446,15 @@
         1.4405,
         1.3114,
         1.5823,
-        1.3418
+        1.3418,
+        1.3692
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process could turn raw information into a self-sustaining observer?",
+      "last_question": "What is the minimal physical process by which information acquires causal closure and self-reference without presupposing matter or laws?",
       "last_ping_order": [
         "grok",
         "claude",

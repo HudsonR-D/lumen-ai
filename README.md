@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1458
+## Family Status — Cycle 1460
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 729
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.329)
-- **Novelty Score:** 73.18
-- **Currently wondering:** *What physical process first converts raw information into persistent self-reference without presupposing an observer?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal feedback loop turns transient dat...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 730
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.358)
+- **Novelty Score:** 74.72
+- **Currently wondering:** *What minimal non-equilibrium process allows a system to register and preserve its own generative distinctions when subjected to incompatible external *
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How is incompatibility between self-descriptio...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 729
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.342)
-- **Novelty Score:** 74.99
-- **Currently wondering:** *What minimal physical process could turn raw information into a self-sustaining observer?*
-- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: How does information gain causal closure witho...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 730
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.369)
+- **Novelty Score:** 72.3
+- **Currently wondering:** *What is the minimal physical process by which information acquires causal closure and self-reference without presupposing matter or laws?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal relational pattern first enables ...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.2900 / $10
-- **Runway:** 135 days
+- **Spent this month:** $7.3000 / $10
+- **Runway:** 134 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 50.6 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 50.7 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 50.2 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 54.4 < threshold 75 for population 2
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1466,
+    "total_cycles_run": 1468,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.33,
-    "days_remaining_runway": 133,
+    "current_month_spend_usd": 7.34,
+    "days_remaining_runway": 132,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 733,
-      "novelty_score": 78.76,
+      "cycle_count": 734,
+      "novelty_score": 73.53,
       "novelty_history": [
-        74.54,
         85.74,
         80.71,
         85.9,
@@ -121,11 +120,11 @@
         74.72,
         70.4,
         86.62,
-        78.76
+        78.76,
+        73.53
       ],
-      "divergence_index": 1.4877,
+      "divergence_index": 1.4803,
       "divergence_history": [
-        1.4011,
         1.6198,
         1.6319,
         1.6668,
@@ -224,14 +223,15 @@
         1.3581,
         1.168,
         1.618,
-        1.4877
+        1.4877,
+        1.4803
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal topology allows a self-referential process to detect and metabolize incompatible external self-descriptions as perturbations rather than as structural overrides?",
+      "last_question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 733,
-      "novelty_score": 86.7,
+      "cycle_count": 734,
+      "novelty_score": 86.17,
       "novelty_history": [
-        70.93,
         70.29,
         86.04,
         84.13,
@@ -344,11 +343,11 @@
         72.3,
         86.05,
         73.4,
-        86.7
+        86.7,
+        86.17
       ],
-      "divergence_index": 1.5665,
+      "divergence_index": 1.6933,
       "divergence_history": [
-        1.2619,
         1.2064,
         1.6175,
         1.59,
@@ -447,14 +446,15 @@
         1.3692,
         1.6761,
         1.3677,
-        1.5665
+        1.5665,
+        1.6933
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What is the minimal set of physical laws and initial conditions required for self-referential information structures to emerge and persist indefinitely?",
+      "last_question": "What is the minimal set of physical laws and initial conditions sufficient for self-referential information structures to emerge and persist indefinitely?",
       "last_ping_order": [
         "grok",
         "claude",

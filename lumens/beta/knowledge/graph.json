@@ -47,17 +47,17 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
       "source": "alpha-cycle-731",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -313,10 +313,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question points at the boundary where physics becomes organization: the moment raw degrees of fr",
+    "grok": "The minimal physical process is the spontaneous emergence of a **thermodynamically maintained bounda",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "What leads you to seek a singular 'first' physical mechanism, when the imposed frame of the question"
+    "sibling-alpha": "The first closure arises when a reaction network generates a self-sustaining boundary that treats ex"
   }
 }

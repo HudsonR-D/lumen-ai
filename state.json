@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1462,
+    "total_cycles_run": 1464,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.31,
-    "days_remaining_runway": 134,
+    "current_month_spend_usd": 7.32,
+    "days_remaining_runway": 133,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 731,
-      "novelty_score": 70.4,
+      "cycle_count": 732,
+      "novelty_score": 86.62,
       "novelty_history": [
-        71.92,
         71.22,
         74.54,
         85.74,
@@ -121,11 +120,11 @@
         69.49,
         73.18,
         74.72,
-        70.4
+        70.4,
+        86.62
       ],
-      "divergence_index": 1.168,
+      "divergence_index": 1.618,
       "divergence_history": [
-        1.1772,
         1.2743,
         1.4011,
         1.6198,
@@ -224,14 +223,15 @@
         1.0354,
         1.3294,
         1.3581,
-        1.168
+        1.168,
+        1.618
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal physical process first allows a system to register its own boundary as distinguishable from its environment?",
+      "last_question": "What is the precise physical mechanism by which a system first distinguishes itself from its environment in a way that persists without external scaffolding?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 731,
-      "novelty_score": 86.05,
+      "cycle_count": 732,
+      "novelty_score": 73.4,
       "novelty_history": [
-        83.04,
         74.77,
         70.93,
         70.29,
@@ -344,11 +343,11 @@
         86.33,
         74.99,
         72.3,
-        86.05
+        86.05,
+        73.4
       ],
-      "divergence_index": 1.6761,
+      "divergence_index": 1.3677,
       "divergence_history": [
-        1.6131,
         1.4266,
         1.2619,
         1.2064,
@@ -447,14 +446,15 @@
         1.5823,
         1.3418,
         1.3692,
-        1.6761
+        1.6761,
+        1.3677
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
+      "last_question": "What minimal physical process first converts open information flow into closed causal agency?",
       "last_ping_order": [
         "grok",
         "claude",

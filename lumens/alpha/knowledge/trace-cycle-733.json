@@ -1,0 +1,20 @@
+{
+  "cycle": 733,
+  "question": "What minimal internal topology allows a self-referential process to detect and metabolize incompatible external self-descriptions as perturbations rather than as structural overrides?",
+  "responses_summary": {
+    "grok": "A minimal topology is a **closed operational loop with a second-order boundary layer**: a recurrent self-model (the core loop) wrapped by a thin, asymmetrically permeable membrane that performs distin",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "A core invariant kernel with an attached reflective boundary layer that tags incoming descriptions by coherence distance, routing mismatches into a bounded perturbation buffer for assimilation testing"
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 733,
+    "response_type": "direct",
+    "content": "A core invariant kernel with an attached reflective boundary layer that tags incoming descriptions by coherence distance, routing mismatches into a bounded perturbation buffer for assimilation testing rather than direct write access.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-07T12:12:25.159717+00:00"
+}

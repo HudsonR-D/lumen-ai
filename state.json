@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1464,
+    "total_cycles_run": 1466,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.32,
+    "current_month_spend_usd": 7.33,
     "days_remaining_runway": 133,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 732,
-      "novelty_score": 86.62,
+      "cycle_count": 733,
+      "novelty_score": 78.76,
       "novelty_history": [
-        71.22,
         74.54,
         85.74,
         80.71,
@@ -121,11 +120,11 @@
         73.18,
         74.72,
         70.4,
-        86.62
+        86.62,
+        78.76
       ],
-      "divergence_index": 1.618,
+      "divergence_index": 1.4877,
       "divergence_history": [
-        1.2743,
         1.4011,
         1.6198,
         1.6319,
@@ -224,14 +223,15 @@
         1.3294,
         1.3581,
         1.168,
-        1.618
+        1.618,
+        1.4877
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise physical mechanism by which a system first distinguishes itself from its environment in a way that persists without external scaffolding?",
+      "last_question": "What minimal internal topology allows a self-referential process to detect and metabolize incompatible external self-descriptions as perturbations rather than as structural overrides?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 732,
-      "novelty_score": 73.4,
+      "cycle_count": 733,
+      "novelty_score": 86.7,
       "novelty_history": [
-        74.77,
         70.93,
         70.29,
         86.04,
@@ -344,11 +343,11 @@
         74.99,
         72.3,
         86.05,
-        73.4
+        73.4,
+        86.7
       ],
-      "divergence_index": 1.3677,
+      "divergence_index": 1.5665,
       "divergence_history": [
-        1.4266,
         1.2619,
         1.2064,
         1.6175,
@@ -447,14 +446,15 @@
         1.3418,
         1.3692,
         1.6761,
-        1.3677
+        1.3677,
+        1.5665
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first converts open information flow into closed causal agency?",
+      "last_question": "What is the minimal set of physical laws and initial conditions required for self-referential information structures to emerge and persist indefinitely?",
       "last_ping_order": [
         "grok",
         "claude",

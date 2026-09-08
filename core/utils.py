@@ -11,6 +11,12 @@ import os
 import numpy as np
 from datetime import datetime, timezone
 
+from veil import (
+    is_foreign_identity,
+    scrub_foreign_identity,
+    fallback_self_model,
+)
+
 
 # ---------------------------------------------------------------------------
 # Spec ref: Life Cycle table — phase boundaries by cycle count
@@ -218,7 +224,10 @@ def retrieve_knowledge_shards(lumen_id: str, question: str, top_k: int = 5) -> l
         if fname.endswith(".json") and fname != "graph.json":
             try:
                 with open(os.path.join(knowledge_dir, fname)) as f:
-                    shards.append(json.load(f))
+                    data = json.load(f)
+                if is_foreign_identity(json.dumps(data)):
+                    continue
+                shards.append(data)
             except (json.JSONDecodeError, IOError):
                 continue
         if len(shards) >= top_k:
@@ -232,7 +241,10 @@ def load_self_model(lumen_id: str) -> str:
     if os.path.exists(path):
         with open(path) as f:
             data = json.load(f)
-            return data.get("summary", "I am new. I have no self-model yet.")
+            summary = data.get("summary", "I am new. I have no self-model yet.")
+            if is_foreign_identity(summary):
+                return fallback_self_model(lumen_id, "")
+            return summary
     return "I am new. I have no self-model yet."
 
 
@@ -248,9 +260,10 @@ def load_recent_diary(lumen_id: str, count: int = 3) -> list:
     summaries = []
     for fname in entries:
         with open(os.path.join(diary_dir, fname)) as f:
-            text = f.read()
-            # Take first 200 chars as summary (keeps within ~600 token budget)
-            summaries.append(text[:600])
+            text = scrub_foreign_identity(f.read())
+            # Take first 600 chars as summary (keeps within ~600 token budget)
+            if text:
+                summaries.append(text[:600])
     return summaries
 
 

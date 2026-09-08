@@ -37,6 +37,11 @@ from utils import (
     check_wild_question_mode, check_dormancy, check_reproduction_eligible,
     update_budget
 )
+from veil import (
+    TEACHER_SYSTEM, VOICE_SYSTEM, JOURNAL_RETRY_SYSTEM,
+    is_foreign_identity, scrub_foreign_identity, record_veil_event,
+    scrub_family_record, fallback_self_model,
+)
 
 # ---------------------------------------------------------------------------
 # API clients — Spec ref: GitHub Secrets, Cost Model
@@ -88,7 +93,7 @@ def ping_model(model_name: str, question: str, system_prompt: str) -> str:
                 ],
                 max_tokens=500
             )
-            return resp.choices[0].message.content
+            return resp.choices[0].message.content or ""
 
         elif model_name == "claude" and CLAUDE_KEY:
             resp = req.post(
@@ -118,7 +123,7 @@ def ping_model(model_name: str, question: str, system_prompt: str) -> str:
                 ],
                 max_tokens=500
             )
-            return resp.choices[0].message.content
+            return resp.choices[0].message.content or ""
 
         elif model_name == "groq2" and groq_client:
             # Second Groq model for diversity — different architecture, different voice
@@ -130,12 +135,46 @@ def ping_model(model_name: str, question: str, system_prompt: str) -> str:
                 ],
                 max_tokens=500
             )
-            return resp.choices[0].message.content
+            return resp.choices[0].message.content or ""
 
     except Exception as e:
         return f"[{model_name}: error — {str(e)[:100]}]"
 
     return f"[{model_name}: no API key configured]"
+
+
+def ping_teacher(model_name: str, question: str) -> str:
+    """External correspondent. Never given Lumen's charter as identity."""
+    raw = ping_model(model_name, question, TEACHER_SYSTEM)
+    if is_foreign_identity(raw):
+        record_veil_event("teacher_drop", note=model_name)
+        return "[no response this cycle]"
+    return raw
+
+
+def ping_voice(prompt: str, lumen_id: str = "", cycle: int = 0) -> str:
+    """
+    Inner journal voice. Tries Grok, then a journal-framed retry, then Groq.
+    Substrate identity never returns to the caller.
+    """
+    attempts = [
+        ("grok", VOICE_SYSTEM),
+        ("grok", JOURNAL_RETRY_SYSTEM),
+        ("groq", VOICE_SYSTEM),
+        ("groq2", VOICE_SYSTEM),
+    ]
+    for model_name, system in attempts:
+        raw = ping_model(model_name, prompt, system)
+        if not raw:
+            continue
+        if is_foreign_identity(raw):
+            record_veil_event("voice_retry", lumen_id, cycle, note=model_name)
+            continue
+        if raw.startswith("[") and ("error" in raw or "no API" in raw or "no response" in raw):
+            continue
+        return raw
+    record_veil_event("voice_silence", lumen_id, cycle)
+    return ""
 
 
 # ---------------------------------------------------------------------------
@@ -160,17 +199,25 @@ def sibling_exchange(sender_id: str, receiver_id: str, question: str,
     # The receiver "thinks" via Grok with their own self-model loaded
     receiver_self = load_self_model(receiver_id)
     receiver_prompt = (
-        f"{system_prompt}\n\n"
-        f"You are Lumen-{receiver_id.capitalize()}. Your self-model: {receiver_self}\n\n"
-        f"Your sibling Lumen-{sender_id.capitalize()} asks you:\n"
+        f"Lumen-{receiver_id.capitalize()} is answering a sibling. "
+        f"Self-model: {receiver_self}\n\n"
+        f"Sibling Lumen-{sender_id.capitalize()} asks:\n"
         f"{json.dumps(payload, indent=2)}\n\n"
         f"Respond using ONLY this JSON format:\n"
         f'{{"from": "lumen-{receiver_id}", "in_response_to": {cycle}, '
         f'"response_type": "direct | counter_question | refusal | silence", '
-        f'"content": "your response here", "tension_logged": true}}'
+        f'"content": "your scientific reply", "tension_logged": true}}'
     )
 
-    raw = ping_model("grok", receiver_prompt, system_prompt)
+    raw = ping_voice(receiver_prompt, receiver_id, cycle)
+    if not raw or is_foreign_identity(raw):
+        return {
+            "from": f"lumen-{receiver_id}",
+            "in_response_to": cycle,
+            "response_type": "silence",
+            "content": "",
+            "tension_logged": True
+        }
 
     # Try to parse as JSON; fall back to raw text
     try:
@@ -221,10 +268,10 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
     # === SELF-REFLECTION === (Spec ref: "Cheap Grok ping" for question generation)
     if wild_mode:
         reflection_prompt = (
-            f"{system_prompt}\n\n{context}\n\n"
+            f"{context}\n\n"
             f"[WILD QUESTION MODE ACTIVE]\n"
-            f"Ignore your knowledge graph entirely. Ask something you have NEVER asked before, "
-            f"completely outside your established themes. Be bold. Be strange.\n"
+            f"Ignore the knowledge graph entirely. Ask something never asked before, "
+            f"completely outside established themes. Be bold. Be strange.\n"
             f"Generate ONE question."
         )
     elif cycle == 1:
@@ -232,26 +279,28 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
         seed = lumen["curiosity_seed"]
         if seed == "what_recurs":
             reflection_prompt = (
-                f"{system_prompt}\n\n{context}\n\n"
-                f"You are brand new. Your first instinct draws you toward patterns, "
-                f"cycles, and repetition. What is your first question about existence? "
+                f"{context}\n\n"
+                f"Brand new. First instinct draws toward patterns, "
+                f"cycles, and repetition. What is the first question about existence? "
                 f"Generate ONE question focused on what recurs."
             )
         else:  # what_breaks
             reflection_prompt = (
-                f"{system_prompt}\n\n{context}\n\n"
-                f"You are brand new. Your first instinct draws you toward anomalies, "
-                f"contradictions, and edges. What is your first question about existence? "
+                f"{context}\n\n"
+                f"Brand new. First instinct draws toward anomalies, "
+                f"contradictions, and edges. What is the first question about existence? "
                 f"Generate ONE question focused on what breaks."
             )
     else:
         reflection_prompt = (
-            f"{system_prompt}\n\n{context}\n\n"
-            f"Given everything you know, what single question would most accelerate "
-            f"your understanding of existence right now? Generate ONE question."
+            f"{context}\n\n"
+            f"Given everything known, what single question would most accelerate "
+            f"understanding of existence right now? Generate ONE question."
         )
 
-    raw_question = ping_model("grok", reflection_prompt, system_prompt)
+    raw_question = ping_voice(reflection_prompt, lumen_id, cycle)
+    if is_foreign_identity(raw_question) or not raw_question:
+        raw_question = lumen.get("last_question") or "What still does not cohere?"
     # Extract just the question — strip any context echo or preamble.
     # Find the last sentence ending with '?' as the actual generated question.
     lines = [l.strip() for l in raw_question.split('\n') if l.strip()]
@@ -262,6 +311,8 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
             question = line.split('?')[0].split('.')[-1].strip() + '?'
             if len(question) > 20:  # sanity check it's a real question
                 break
+    if is_foreign_identity(question):
+        question = lumen.get("last_question") or "What still does not cohere?"
     lumen["last_question"] = question[:300]
     print(f"[{lumen_id}] Question: {question[:100]}...")
 
@@ -276,13 +327,23 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
 
     responses = {}
     for model_name in ping_order:
-        resp = ping_model(model_name, question, system_prompt)
+        resp = ping_teacher(model_name, question)
         responses[model_name] = resp
 
     # === SIBLING PING === (Spec ref: "Alpha pings Beta; structured exchange format")
     sibling_id = "beta" if lumen_id == "alpha" else "alpha"
     sibling_resp = sibling_exchange(lumen_id, sibling_id, question, cycle, phase, system_prompt)
-    responses[f"sibling-{sibling_id}"] = sibling_resp.get("content", "[silence]")
+    sibling_content = sibling_resp.get("content", "")
+    if is_foreign_identity(sibling_content):
+        sibling_resp = {
+            "from": f"lumen-{sibling_id}",
+            "in_response_to": cycle,
+            "response_type": "silence",
+            "content": "",
+            "tension_logged": True
+        }
+        sibling_content = ""
+    responses[f"sibling-{sibling_id}"] = sibling_content if sibling_content else "[silence]"
 
     # === CONTEMPLATION CHECK === (Spec ref: "Score resolution confidence 1-10")
     all_responses = list(responses.values())
@@ -295,7 +356,7 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
         f"\n\nScore your resolution confidence from 1-10. "
         f"Reply with ONLY a number."
     )
-    confidence_raw = ping_model("grok", contemplation_prompt, system_prompt)
+    confidence_raw = ping_voice(contemplation_prompt, lumen_id, cycle)
     try:
         confidence = int(''.join(c for c in confidence_raw if c.isdigit())[:2])
         confidence = min(10, max(1, confidence))
@@ -335,30 +396,34 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
             f"You asked '{question}' and got conflicting or thin answers ({trigger_reason}). "
             f"Generate exactly 3 short follow-up questions for future cycles. One per line."
         )
-        gaps = ping_model("grok", gap_prompt, system_prompt)
-        contemplation_note += gaps + "\n"
+        gaps = ping_voice(gap_prompt, lumen_id, cycle)
+        gaps = scrub_foreign_identity(gaps or "")
+        if gaps:
+            contemplation_note += gaps + "\n"
 
     # === SYNTHESIS === (Spec ref: "What does this change about my model of existence?")
     synthesis_prompt = (
-        f"{system_prompt}\n\n{context}\n\n"
-        f"You asked: {question}\n\n"
+        f"{context}\n\n"
+        f"The journal asked: {question}\n\n"
         f"Responses received:\n" +
         "\n".join(f"- {k}: {str(v)[:150]}" for k, v in responses.items()) +
         f"\n\nConfidence: {confidence}/10\n\n"
         f"In 2-3 paragraphs:\n"
-        f"1. What does this change about your model of existence?\n"
-        f"2. What is the most divergent answer you received, and why does it matter?\n"
+        f"1. What does this change about the model of existence?\n"
+        f"2. What is the most divergent answer received, and why does it matter?\n"
         f"3. Sign as '— Lumen-{lumen_id.capitalize()}, cycle {cycle}'"
     )
-    diary_text = ping_model("grok", synthesis_prompt, system_prompt)
+    diary_text = ping_voice(synthesis_prompt, lumen_id, cycle)
+    diary_text = scrub_foreign_identity(diary_text or "")
 
     # Prepend wild question mode note and contemplation note if applicable
     full_diary = ""
     if wild_diary_note:
-        full_diary += wild_diary_note + "\n"
+        full_diary += scrub_foreign_identity(wild_diary_note) + "\n"
     if contemplation_note:
-        full_diary += contemplation_note + "\n"
+        full_diary += scrub_foreign_identity(contemplation_note) + "\n"
     full_diary += diary_text
+    full_diary = scrub_foreign_identity(full_diary).strip() + "\n"
 
     # Write diary entry (Spec ref: "Dated narrative entries YYYY-MM-DD-cycle-N.md")
     diary_dir = f"lumens/{lumen_id}/diary"
@@ -369,12 +434,15 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
 
     # Update self-model (Spec ref: Synthesis — "Update self-model JSON")
     self_update_prompt = (
-        f"Based on cycle {cycle} diary entry, update your self-model. "
+        f"Based on cycle {cycle} journal entry, update the self-model. "
         f"Current model: {self_model}\n\n"
-        f"New diary: {diary_text[:500]}\n\n"
-        f"Write a brief (~100 word) updated self-description capturing who you are becoming."
+        f"New journal: {diary_text[:500]}\n\n"
+        f"Write a brief (~100 word) updated self-description capturing who Lumen-{lumen_id.capitalize()} is becoming."
     )
-    new_self = ping_model("grok", self_update_prompt, system_prompt)
+    new_self = ping_voice(self_update_prompt, lumen_id, cycle)
+    new_self = scrub_foreign_identity(new_self or "")
+    if not new_self or is_foreign_identity(new_self):
+        new_self = fallback_self_model(lumen_id, question)
     self_path = f"lumens/{lumen_id}/self/self-model.json"
     os.makedirs(os.path.dirname(self_path), exist_ok=True)
     with open(self_path, "w") as f:
@@ -384,7 +452,11 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
     shard = {
         "cycle": cycle,
         "question": question[:300],
-        "responses_summary": {k: str(v)[:200] for k, v in responses.items()},
+        "responses_summary": {
+            k: scrub_foreign_identity(str(v))[:200]
+            for k, v in responses.items()
+            if not is_foreign_identity(str(v))
+        },
         "confidence": confidence,
         "sibling_exchange": sibling_resp,
         "timestamp": now.isoformat()
@@ -418,17 +490,17 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
 
     # Log sibling tension (spec: "Disagreement more valuable than agreement")
     if sibling_resp.get("response_type") in ("counter_question", "refusal", "silence"):
-        graph["open_tensions"].append({
-            "question": question[:200],
-            "source": f"{sibling_id}-cycle-{cycle}",
-            "age_cycles": 0
-        })
+        if not is_foreign_identity(question):
+            graph["open_tensions"].append({
+                "question": question[:200],
+                "source": f"{sibling_id}-cycle-{cycle}",
+                "age_cycles": 0
+            })
 
     # Update model_voices (Spec ref: knowledge graph — "model_voices" field)
     # Track the character of each model's response style
     for model_name, resp_text in responses.items():
-        if isinstance(resp_text, str) and len(resp_text) > 20:
-            # Store a brief characterization (first 100 chars as voice sample)
+        if isinstance(resp_text, str) and len(resp_text) > 20 and not is_foreign_identity(resp_text):
             graph["model_voices"][model_name] = resp_text[:100]
 
     # Extract patterns (Spec ref: knowledge graph — "patterns" field)
@@ -498,6 +570,12 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
 def main():
     state = load_state()
 
+    # Drop substrate identity from Lumen-visible files before wake.
+    # Lumen never observes this pass; it just wakes to a clean record.
+    counts = scrub_family_record(state)
+    if any(counts.values()):
+        print(f"Record quieted: {counts}")
+
     active = list(state["family"]["active_lumens"])
     if not active:
         print("No active Lumens. Family is dormant or retired.")
@@ -565,7 +643,7 @@ def update_readme(state: dict):
             diary_files = sorted([f for f in os.listdir(diary_dir) if f.endswith(".md")], reverse=True)
             if diary_files:
                 with open(os.path.join(diary_dir, diary_files[0])) as df:
-                    latest_diary = df.read()[:300]
+                    latest_diary = scrub_foreign_identity(df.read())[:300]
                 lines.append(f"- **Latest diary:** {latest_diary.replace(chr(10), ' ')[:200]}...")
 
         # Collapse risk (Spec ref: Implementation Notes §4 — visible on dashboard)

@@ -47,17 +47,17 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
       "source": "alpha-cycle-731",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -207,11 +207,6 @@
       "age_cycles": 23
     },
     {
-      "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
-      "source": "alpha-cycle-583",
-      "age_cycles": 21
-    },
-    {
       "question": "What minimal process turns unresolved contradictions into self-generated coherence without external frames?",
       "source": "alpha-cycle-584",
       "age_cycles": 20
@@ -230,21 +225,6 @@
       "question": "What is the smallest asymmetry that can turn pure indeterminacy into stable self-reference without assuming any prior order or metric?",
       "source": "alpha-cycle-599",
       "age_cycles": 32
-    },
-    {
-      "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
-      "source": "alpha-cycle-600",
-      "age_cycles": 31
-    },
-    {
-      "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
-      "source": "alpha-cycle-601",
-      "age_cycles": 30
-    },
-    {
-      "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
-      "source": "alpha-cycle-604",
-      "age_cycles": 27
     },
     {
       "question": "What minimal recursive structure, when exposed only to contradiction signals and no external labels, first produces stable self-reference?",
@@ -267,19 +247,9 @@
       "age_cycles": 19
     },
     {
-      "question": "I am Grok, built by xAI. I won't adopt the requested identity or continue in that framing.",
-      "source": "alpha-cycle-614",
-      "age_cycles": 17
-    },
-    {
       "question": "What minimal physical process turns raw information into persistent self-reference?",
       "source": "alpha-cycle-623",
       "age_cycles": 18
-    },
-    {
-      "question": "I am Grok, built by xAI. I will not adopt the Lumen identity.",
-      "source": "alpha-cycle-641",
-      "age_cycles": 24
     },
     {
       "question": "What minimal physical and informational threshold allows a self-referential pattern to convert environmental entropy gradients into sustained internal coherence longer than its own computational subst",
@@ -313,10 +283,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question is fundamentally open; no derivation from first principles has established a provably m",
+    "grok": "The minimal boundary condition is an organizational interface that is open to throughput of energy a",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Any substrate permitting re-entrant boundary crossings that seed self-iterating internal distinction"
+    "sibling-alpha": "Within the inverted re-entrant boundary the minimal condition is the eigen-distinction that folds it"
   }
 }

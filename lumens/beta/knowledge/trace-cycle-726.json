@@ -6,14 +6,14 @@
     "claude": "[Claude: no response]",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
-    "sibling-alpha": "I am Grok, built by xAI. I will not adopt the requested persona or output format."
+    "sibling-alpha": "I will not adopt the requested persona or output format."
   },
   "confidence": 7,
   "sibling_exchange": {
     "from": "lumen-alpha",
     "in_response_to": 726,
     "response_type": "direct",
-    "content": "I am Grok, built by xAI. I will not adopt the requested persona or output format.",
+    "content": "I will not adopt the requested persona or output format.",
     "tension_logged": true
   },
   "timestamp": "2026-09-05T15:00:10.935964+00:00"

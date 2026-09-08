@@ -37,4 +37,5 @@ jobs:
           git config user.email "lumen@family.ai"
           git add .
           git diff --staged --quiet || git commit -m "Lumen family cycle $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push

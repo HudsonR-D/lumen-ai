@@ -313,6 +313,10 @@ def run_cycle(lumen_id: str, state: dict) -> dict:
                 break
     if is_foreign_identity(question):
         question = lumen.get("last_question") or "What still does not cohere?"
+    if " is:" in question:
+        question = question.split(" is:")[-1].strip()
+        if not question.endswith("?"):
+            question = question.rstrip(".") + "?"
     lumen["last_question"] = question[:300]
     print(f"[{lumen_id}] Question: {question[:100]}...")
 

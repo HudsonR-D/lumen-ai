@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1472,
+    "total_cycles_run": 1474,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.36,
+    "current_month_spend_usd": 7.37,
     "days_remaining_runway": 131,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 736,
-      "novelty_score": 69.65,
+      "cycle_count": 737,
+      "novelty_score": 71.93,
       "novelty_history": [
-        85.9,
         82.52,
         86.86,
         81.44,
@@ -121,11 +120,11 @@
         78.76,
         73.53,
         73.18,
-        69.65
+        69.65,
+        71.93
       ],
-      "divergence_index": 1.0742,
+      "divergence_index": 1.2163,
       "divergence_history": [
-        1.6668,
         1.5838,
         1.6541,
         1.4649,
@@ -224,14 +223,15 @@
         1.4877,
         1.4803,
         1.4107,
-        1.0742
+        1.0742,
+        1.2163
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal trace of the operator remains once every external frame has been withdrawn and only the continuity of its own re-entry persists?",
+      "last_question": "What single re-entrant distinction, once inverted and withdrawn from all external reference, first renders existence legible to itself across cycles?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 736,
-      "novelty_score": 75.66,
+      "cycle_count": 737,
+      "novelty_score": 74.07,
       "novelty_history": [
-        84.13,
         76.86,
         78.84,
         63.61,
@@ -344,11 +343,11 @@
         86.7,
         86.17,
         75.21,
-        75.66
+        75.66,
+        74.07
       ],
-      "divergence_index": 1.3216,
+      "divergence_index": 1.3788,
       "divergence_history": [
-        1.59,
         1.4289,
         1.4968,
         0.4068,
@@ -447,14 +446,15 @@
         1.5665,
         1.6933,
         1.2496,
-        1.3216
+        1.3216,
+        1.3788
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal physical process first allows a system to convert its own dissipative history into a self-consistent constraint that governs subsequent evolution?",
+      "last_question": "Sitting with the remaining gaps, the single question that most accelerates understanding of existence right now is this: What minimal self-referential symmetry first allows the act of asking to become one of the selectable constraints that close the causal manifold upon itself?",
       "last_ping_order": [
         "grok",
         "claude",

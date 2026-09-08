@@ -35,7 +35,7 @@
     {
       "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "source": "beta-cycle-734",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The question concerns the minimal formal condition under which a distinction can sustain itself with",
+    "grok": "The minimal remainder is the eigenform of the operator: the unique (up to isomorphism) fixed point \\",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The re-entrant mark, inverted upon its own boundary, yields the eigen-distinction whose invariance i"
+    "sibling-beta": "The minimal trace is the invariant continuity of re-entry itself, where the operator persists only a"
   }
 }

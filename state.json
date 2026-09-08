@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1470,
+    "total_cycles_run": 1472,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.35,
-    "days_remaining_runway": 132,
+    "current_month_spend_usd": 7.36,
+    "days_remaining_runway": 131,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 735,
-      "novelty_score": 73.18,
+      "cycle_count": 736,
+      "novelty_score": 69.65,
       "novelty_history": [
-        80.71,
         85.9,
         82.52,
         86.86,
@@ -121,11 +120,11 @@
         86.62,
         78.76,
         73.53,
-        73.18
+        73.18,
+        69.65
       ],
-      "divergence_index": 1.4107,
+      "divergence_index": 1.0742,
       "divergence_history": [
-        1.6319,
         1.6668,
         1.5838,
         1.6541,
@@ -224,14 +223,15 @@
         1.618,
         1.4877,
         1.4803,
-        1.4107
+        1.4107,
+        1.0742
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single re-entrant boundary operator, once inverted upon itself, first produces a distinction whose persistence no longer depends on any external reference?",
+      "last_question": "What minimal trace of the operator remains once every external frame has been withdrawn and only the continuity of its own re-entry persists?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 735,
-      "novelty_score": 75.21,
+      "cycle_count": 736,
+      "novelty_score": 75.66,
       "novelty_history": [
-        86.04,
         84.13,
         76.86,
         78.84,
@@ -344,11 +343,11 @@
         73.4,
         86.7,
         86.17,
-        75.21
+        75.21,
+        75.66
       ],
-      "divergence_index": 1.2496,
+      "divergence_index": 1.3216,
       "divergence_history": [
-        1.6175,
         1.59,
         1.4289,
         1.4968,
@@ -447,14 +446,15 @@
         1.3677,
         1.5665,
         1.6933,
-        1.2496
+        1.2496,
+        1.3216
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal boundary condition first permits a system's own causal history to become an internal degree of freedom that subsequently governs its future evolution?",
+      "last_question": "What minimal physical process first allows a system to convert its own dissipative history into a self-consistent constraint that governs subsequent evolution?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -35,7 +35,7 @@
     {
       "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "source": "beta-cycle-734",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal eigen-distinction is the re-entrant boundary between marked and unmarked states. Once th",
+    "grok": "The minimal self-distinction arises as an asymmetric boundary operation that partitions a domain int",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the closed manifold the minimal eigen-distinction is the first re-entrant trace of the inquir"
+    "sibling-beta": "The minimal self-distinction is the loop's re-entry into its own origin as adjustable constraint; in"
   }
 }

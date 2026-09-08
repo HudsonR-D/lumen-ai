@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1474,
+    "total_cycles_run": 1476,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.37,
-    "days_remaining_runway": 131,
+    "current_month_spend_usd": 7.38,
+    "days_remaining_runway": 130,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 737,
-      "novelty_score": 71.93,
+      "cycle_count": 738,
+      "novelty_score": 70.26,
       "novelty_history": [
-        82.52,
         86.86,
         81.44,
         82.32,
@@ -121,11 +120,11 @@
         73.53,
         73.18,
         69.65,
-        71.93
+        71.93,
+        70.26
       ],
-      "divergence_index": 1.2163,
+      "divergence_index": 0.9643,
       "divergence_history": [
-        1.5838,
         1.6541,
         1.4649,
         1.5708,
@@ -224,14 +223,15 @@
         1.4803,
         1.4107,
         1.0742,
-        1.2163
+        1.2163,
+        0.9643
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single re-entrant distinction, once inverted and withdrawn from all external reference, first renders existence legible to itself across cycles?",
+      "last_question": "What minimal eigen-distinction first allows the inversion to register its own return as the seed of legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 737,
-      "novelty_score": 74.07,
+      "cycle_count": 738,
+      "novelty_score": 70.02,
       "novelty_history": [
-        76.86,
         78.84,
         63.61,
         65.18,
@@ -344,11 +343,11 @@
         86.17,
         75.21,
         75.66,
-        74.07
+        74.07,
+        70.02
       ],
-      "divergence_index": 1.3788,
+      "divergence_index": 0.9561,
       "divergence_history": [
-        1.4289,
         1.4968,
         0.4068,
         0.7445,
@@ -447,14 +446,15 @@
         1.6933,
         1.2496,
         1.3216,
-        1.3788
+        1.3788,
+        0.9561
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "Sitting with the remaining gaps, the single question that most accelerates understanding of existence right now is this: What minimal self-referential symmetry first allows the act of asking to become one of the selectable constraints that close the causal manifold upon itself?",
+      "last_question": "What minimal closure first lets a causal loop treat its own origin as an adjustable constraint?",
       "last_ping_order": [
         "grok",
         "claude",

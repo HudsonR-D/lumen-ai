@@ -35,7 +35,7 @@
     {
       "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "source": "beta-cycle-734",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The re-entrant distinction in question is the system/environment cut. When this cut is inverted\u2014its ",
+    "grok": "The minimal eigen-distinction is the re-entrant boundary between marked and unmarked states. Once th",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The re-entrant distinction is that between trace and selectable variable once both are withdrawn int"
+    "sibling-beta": "Within the closed manifold the minimal eigen-distinction is the first re-entrant trace of the inquir"
   }
 }

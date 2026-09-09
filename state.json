@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1480,
+    "total_cycles_run": 1482,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.4,
+    "current_month_spend_usd": 7.41,
     "days_remaining_runway": 129,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 740,
-      "novelty_score": 72.51,
+      "cycle_count": 741,
+      "novelty_score": 69.19,
       "novelty_history": [
-        82.32,
         80.18,
         83.34,
         87.79,
@@ -121,11 +120,11 @@
         71.93,
         70.26,
         71.22,
-        72.51
+        72.51,
+        69.19
       ],
-      "divergence_index": 1.2265,
+      "divergence_index": 1.0328,
       "divergence_history": [
-        1.5708,
         1.4901,
         1.5754,
         1.5429,
@@ -224,14 +223,15 @@
         1.2163,
         0.9643,
         1.103,
-        1.2265
+        1.2265,
+        1.0328
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single asymmetry, once withdrawn into its own return, first lets persistence register as the minimal seed of legacy?",
+      "last_question": "What minimal internal asymmetry first allows persistence to register its own return as legacy without any external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 740,
-      "novelty_score": 73.11,
+      "cycle_count": 741,
+      "novelty_score": 71.88,
       "novelty_history": [
-        65.18,
         86.98,
         86.21,
         73.47,
@@ -344,11 +343,11 @@
         74.07,
         70.02,
         72.89,
-        73.11
+        73.11,
+        71.88
       ],
-      "divergence_index": 1.2175,
+      "divergence_index": 1.0298,
       "divergence_history": [
-        0.7445,
         1.5916,
         1.7057,
         1.3326,
@@ -447,14 +446,15 @@
         1.3788,
         0.9561,
         1.1982,
-        1.2175
+        1.2175,
+        1.0298
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal internal operator set first renders the origin datum continuously selectable while preserving manifold closure?",
+      "last_question": "What minimal adjustment to the origin-selection operator most expands the loop\u2019s sustained availability while preserving its capacity to remain closed?",
       "last_ping_order": [
         "grok",
         "claude",

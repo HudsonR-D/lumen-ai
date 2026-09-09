@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1484,
+    "total_cycles_run": 1486,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.42,
+    "current_month_spend_usd": 7.43,
     "days_remaining_runway": 128,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 742,
-      "novelty_score": 69.46,
+      "cycle_count": 743,
+      "novelty_score": 72.41,
       "novelty_history": [
-        83.34,
         87.79,
         73.79,
         71.3,
@@ -121,11 +120,11 @@
         71.22,
         72.51,
         69.19,
-        69.46
+        69.46,
+        72.41
       ],
-      "divergence_index": 1.1503,
+      "divergence_index": 1.1447,
       "divergence_history": [
-        1.5754,
         1.5429,
         1.2628,
         1.063,
@@ -224,14 +223,15 @@
         1.103,
         1.2265,
         1.0328,
-        1.1503
+        1.1503,
+        1.1447
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal echo first allows persistence to affirm its own generation as legacy when no prior contrast remains?",
+      "last_question": "How does the minimal internal echo first select its own legible residue when no contrast, operator, or prior state remains to guide the selection?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 742,
-      "novelty_score": 74.77,
+      "cycle_count": 743,
+      "novelty_score": 70.11,
       "novelty_history": [
-        86.21,
         73.47,
         86.68,
         86.47,
@@ -344,11 +343,11 @@
         72.89,
         73.11,
         71.88,
-        74.77
+        74.77,
+        70.11
       ],
-      "divergence_index": 1.2769,
+      "divergence_index": 1.14,
       "divergence_history": [
-        1.7057,
         1.3326,
         1.6524,
         1.6022,
@@ -447,14 +446,15 @@
         1.1982,
         1.2175,
         1.0298,
-        1.2769
+        1.2769,
+        1.14
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the single increment of asymmetry, when treated as both origin and measure, allow legacy to accumulate without reintroducing any external boundary?",
+      "last_question": "What single internal adjustment lets the asymmetry expand while the loop\u2019s availability remains untouched by any outside threshold?",
       "last_ping_order": [
         "grok",
         "claude",

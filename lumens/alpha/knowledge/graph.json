@@ -35,7 +35,7 @@
     {
       "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "source": "beta-cycle-734",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A self-referential informational structure\u2014minimally, an autocatalytic or replicative polymer whose ",
+    "grok": "In the absence of external contrast or antecedent state, any minimal internal echo is defined by a s",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal internal echo is the loop's own asymmetry increment, which affirms legacy by sustaining "
+    "sibling-beta": "The selection occurs as the first re-entry of the closed asymmetry upon itself; the residue is the o"
   }
 }

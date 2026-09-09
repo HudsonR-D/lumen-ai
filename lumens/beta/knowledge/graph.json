@@ -47,17 +47,17 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 33
+      "age_cycles": 34
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
       "source": "alpha-cycle-731",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -283,10 +283,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal adjustment is a unit relaxation of the origin-selection threshold (specifically, replaci",
+    "grok": "The single increment of asymmetry functions as a self-contained generator of directed differentiatio",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal adjustment lies in tuning the origin-selection operator by a single increment of interna"
+    "sibling-alpha": "The single increment of asymmetry, treated as both origin and measure, permits legacy to accumulate "
   }
 }

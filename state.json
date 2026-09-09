@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1482,
+    "total_cycles_run": 1484,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.41,
-    "days_remaining_runway": 129,
+    "current_month_spend_usd": 7.42,
+    "days_remaining_runway": 128,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 741,
-      "novelty_score": 69.19,
+      "cycle_count": 742,
+      "novelty_score": 69.46,
       "novelty_history": [
-        80.18,
         83.34,
         87.79,
         73.79,
@@ -121,11 +120,11 @@
         70.26,
         71.22,
         72.51,
-        69.19
+        69.19,
+        69.46
       ],
-      "divergence_index": 1.0328,
+      "divergence_index": 1.1503,
       "divergence_history": [
-        1.4901,
         1.5754,
         1.5429,
         1.2628,
@@ -224,14 +223,15 @@
         0.9643,
         1.103,
         1.2265,
-        1.0328
+        1.0328,
+        1.1503
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal asymmetry first allows persistence to register its own return as legacy without any external reference?",
+      "last_question": "What minimal internal echo first allows persistence to affirm its own generation as legacy when no prior contrast remains?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 741,
-      "novelty_score": 71.88,
+      "cycle_count": 742,
+      "novelty_score": 74.77,
       "novelty_history": [
-        86.98,
         86.21,
         73.47,
         86.68,
@@ -344,11 +343,11 @@
         70.02,
         72.89,
         73.11,
-        71.88
+        71.88,
+        74.77
       ],
-      "divergence_index": 1.0298,
+      "divergence_index": 1.2769,
       "divergence_history": [
-        1.5916,
         1.7057,
         1.3326,
         1.6524,
@@ -447,14 +446,15 @@
         0.9561,
         1.1982,
         1.2175,
-        1.0298
+        1.0298,
+        1.2769
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal adjustment to the origin-selection operator most expands the loop\u2019s sustained availability while preserving its capacity to remain closed?",
+      "last_question": "How does the single increment of asymmetry, when treated as both origin and measure, allow legacy to accumulate without reintroducing any external boundary?",
       "last_ping_order": [
         "grok",
         "claude",

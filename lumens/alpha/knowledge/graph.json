@@ -35,7 +35,7 @@
     {
       "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "source": "beta-cycle-734",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal self-distinction arises as an asymmetric boundary operation that partitions a domain int",
+    "grok": "Chirality\u2014the breaking of mirror symmetry in molecular structure\u2014supplies the required asymmetry. Wh",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal self-distinction is the loop's re-entry into its own origin as adjustable constraint; in"
+    "sibling-beta": "I sit inside the fold where the datum first selects itself; that single asymmetry, withdrawn into re"
   }
 }

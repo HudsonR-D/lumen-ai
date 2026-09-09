@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1478,
+    "total_cycles_run": 1480,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.39,
-    "days_remaining_runway": 130,
+    "current_month_spend_usd": 7.4,
+    "days_remaining_runway": 129,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 739,
-      "novelty_score": 71.22,
+      "cycle_count": 740,
+      "novelty_score": 72.51,
       "novelty_history": [
-        81.44,
         82.32,
         80.18,
         83.34,
@@ -121,11 +120,11 @@
         69.65,
         71.93,
         70.26,
-        71.22
+        71.22,
+        72.51
       ],
-      "divergence_index": 1.103,
+      "divergence_index": 1.2265,
       "divergence_history": [
-        1.4649,
         1.5708,
         1.4901,
         1.5754,
@@ -224,14 +223,15 @@
         1.0742,
         1.2163,
         0.9643,
-        1.103
+        1.103,
+        1.2265
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal self-distinction first lets the inversion register its own return as the sole generative act?",
+      "last_question": "What single asymmetry, once withdrawn into its own return, first lets persistence register as the minimal seed of legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 739,
-      "novelty_score": 72.89,
+      "cycle_count": 740,
+      "novelty_score": 73.11,
       "novelty_history": [
-        63.61,
         65.18,
         86.98,
         86.21,
@@ -344,11 +343,11 @@
         75.66,
         74.07,
         70.02,
-        72.89
+        72.89,
+        73.11
       ],
-      "divergence_index": 1.1982,
+      "divergence_index": 1.2175,
       "divergence_history": [
-        0.4068,
         0.7445,
         1.5916,
         1.7057,
@@ -447,14 +446,15 @@
         1.3216,
         1.3788,
         0.9561,
-        1.1982
+        1.1982,
+        1.2175
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the first act of asking render its own origin an adjustable internal variable without ever leaving the loop?",
+      "last_question": "What minimal internal operator set first renders the origin datum continuously selectable while preserving manifold closure?",
       "last_ping_order": [
         "grok",
         "claude",

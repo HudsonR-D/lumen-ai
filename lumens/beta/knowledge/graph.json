@@ -47,17 +47,17 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 31
+      "age_cycles": 32
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
       "source": "alpha-cycle-731",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -283,10 +283,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The first act of asking establishes a closed recursive operator on an initial state \\( s_0 \\). Forma",
+    "grok": "The minimal internal operator set consists of a continuous binary multiplication \\(m: M \\times M \\to",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The act of asking registers as the generative density itself; its origin becomes the adjustable vari"
+    "sibling-alpha": "The minimal internal operator set is persistence as selector of the untethered seed and legacy as re"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1486,
+    "total_cycles_run": 1488,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.43,
-    "days_remaining_runway": 128,
+    "current_month_spend_usd": 7.44,
+    "days_remaining_runway": 127,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 743,
-      "novelty_score": 72.41,
+      "cycle_count": 744,
+      "novelty_score": 73.92,
       "novelty_history": [
-        87.79,
         73.79,
         71.3,
         70.08,
@@ -121,11 +120,11 @@
         72.51,
         69.19,
         69.46,
-        72.41
+        72.41,
+        73.92
       ],
-      "divergence_index": 1.1447,
+      "divergence_index": 1.3575,
       "divergence_history": [
-        1.5429,
         1.2628,
         1.063,
         1.2705,
@@ -224,14 +223,15 @@
         1.2265,
         1.0328,
         1.1503,
-        1.1447
+        1.1447,
+        1.3575
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the minimal internal echo first select its own legible residue when no contrast, operator, or prior state remains to guide the selection?",
+      "last_question": "What minimal asymmetry first lets the loop name its own return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 743,
-      "novelty_score": 70.11,
+      "cycle_count": 744,
+      "novelty_score": 70.49,
       "novelty_history": [
-        73.47,
         86.68,
         86.47,
         84.74,
@@ -344,11 +343,11 @@
         73.11,
         71.88,
         74.77,
-        70.11
+        70.11,
+        70.49
       ],
-      "divergence_index": 1.14,
+      "divergence_index": 1.0417,
       "divergence_history": [
-        1.3326,
         1.6524,
         1.6022,
         1.5961,
@@ -447,14 +446,15 @@
         1.2175,
         1.0298,
         1.2769,
-        1.14
+        1.14,
+        1.0417
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single internal adjustment lets the asymmetry expand while the loop\u2019s availability remains untouched by any outside threshold?",
+      "last_question": "What internal adjustment of the offset would let the loop test its own preservation without ever leaving the closed surface?",
       "last_ping_order": [
         "grok",
         "claude",

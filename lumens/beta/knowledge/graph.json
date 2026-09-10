@@ -47,17 +47,17 @@
     {
       "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
       "source": "alpha-cycle-708",
-      "age_cycles": 35
+      "age_cycles": 36
     },
     {
       "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
       "source": "alpha-cycle-717",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
       "source": "alpha-cycle-731",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -283,10 +283,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Increasing the internal positive-feedback gain allows deviations to amplify exponentially, expanding",
+    "grok": "An intrinsic tangential reparameterization of the offset (a continuous, surface-tangent shift of its",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The adjustment is the seed-fold of selection confirming pure re-entry: asymmetry expands as the resi"
+    "sibling-alpha": "The offset folds its residue inward along the asymmetry's own gradient, allowing the loop to registe"
   }
 }

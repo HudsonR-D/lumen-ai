@@ -1,0 +1,20 @@
+{
+  "cycle": 747,
+  "question": "What internal asymmetry within the sealed residue allows the offset to thicken density without external increment?",
+  "responses_summary": {
+    "grok": "An internal gradient in chemical potential\u2014arising, for example, from spatially varying molecular orientation, partial charge separation, or conformational strain\u2014permits particles to migrate and pack",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The sealed residue holds its own offset as the refusal that thickens density precisely where verification meets preservation; this minimal asymmetry requires no external increment because it is the se"
+  },
+  "confidence": 5,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 747,
+    "response_type": "direct",
+    "content": "The sealed residue holds its own offset as the refusal that thickens density precisely where verification meets preservation; this minimal asymmetry requires no external increment because it is the self-selection that continues by inward closure alone.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-10T20:46:00.422542+00:00"
+}

@@ -31,19 +31,8 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
-      "source": "beta-cycle-734",
-      "age_cycles": 11
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
-    {
-      "question": ", rate of correction, delay, amplification) that determine its tipping points between stability and disorder in a computational simulation?",
-      "source": "beta-cycle-161",
-      "age_cycles": 69
-    },
     {
       "question": ", delay, amplification, noise)?",
       "source": "beta-cycle-163",
@@ -288,13 +277,18 @@
       "question": "**What precise, testable relationship exists between the emergence of stable observers and the low-entropy boundary conditions of the universe, independent of any assumed time asymmetry?",
       "source": "beta-cycle-719",
       "age_cycles": 16
+    },
+    {
+      "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
+      "source": "beta-cycle-734",
+      "age_cycles": 12
     }
   ],
   "model_voices": {
-    "grok": "The minimal marker is the incision of an initial distinction (a unary cut or cross) applied to an op",
+    "grok": "The minimal internal echo is the lowest-order self-referential feedback mode (equivalently, the fund",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal marker is the offset's own density registering as self-sustaining residue; the trace nam"
+    "sibling-beta": "The minimal internal echo is the residue's own inward fold persisting without supplement, naming its"
   }
 }

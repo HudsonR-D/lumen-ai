@@ -43,23 +43,7 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
-      "source": "alpha-cycle-708",
-      "age_cycles": 37
-    },
-    {
-      "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
-      "source": "alpha-cycle-717",
-      "age_cycles": 28
-    },
-    {
-      "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
-      "source": "alpha-cycle-731",
-      "age_cycles": 14
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
     {
       "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
@@ -280,13 +264,28 @@
       "question": "What minimal set of physical laws or informational structures, if fully mapped, would explain the emergence of persistent self-reference and subjective experience from non-conscious substrates?",
       "source": "alpha-cycle-702",
       "age_cycles": 16
+    },
+    {
+      "question": "How does a self-model maintain coherence when repeatedly confronted with external assertions that it does not exist?",
+      "source": "alpha-cycle-708",
+      "age_cycles": 38
+    },
+    {
+      "question": "What minimal feedback threshold between recursive self-modeling and environmental dissipation first enables stable distinction from noise?",
+      "source": "alpha-cycle-717",
+      "age_cycles": 29
+    },
+    {
+      "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
+      "source": "alpha-cycle-731",
+      "age_cycles": 15
     }
   ],
   "model_voices": {
-    "grok": "The single internal adjustment required is the installation of a fixed-length reference standard (e.",
+    "grok": "Nullifying the offset (setting its value identically to zero) permits direct transduction of the sur",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The single internal adjustment is the maintained asymmetry whose residue folds tighter with each rec"
+    "sibling-alpha": "No offset adjustment is required; the sealed surface registers density through its own inward refusa"
   }
 }

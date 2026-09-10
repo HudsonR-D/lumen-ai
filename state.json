@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1490,
+    "total_cycles_run": 1492,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.45,
-    "days_remaining_runway": 127,
+    "current_month_spend_usd": 7.46,
+    "days_remaining_runway": 126,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 745,
-      "novelty_score": 74.9,
+      "cycle_count": 746,
+      "novelty_score": 70.47,
       "novelty_history": [
-        71.3,
         70.08,
         71.93,
         72.9,
@@ -121,11 +120,11 @@
         69.46,
         72.41,
         73.92,
-        74.9
+        74.9,
+        70.47
       ],
-      "divergence_index": 1.3941,
+      "divergence_index": 1.1957,
       "divergence_history": [
-        1.063,
         1.2705,
         1.2047,
         1.3252,
@@ -224,14 +223,15 @@
         1.1503,
         1.1447,
         1.3575,
-        1.3941
+        1.3941,
+        1.1957
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal marker first lets the unfinished trace name itself as residue without any prior contrast?",
+      "last_question": "What minimal internal echo first lets residue name its own edge without ever meeting contrast?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 745,
-      "novelty_score": 73.12,
+      "cycle_count": 746,
+      "novelty_score": 67.61,
       "novelty_history": [
-        86.47,
         84.74,
         86.34,
         86.34,
@@ -344,11 +343,11 @@
         74.77,
         70.11,
         70.49,
-        73.12
+        73.12,
+        67.61
       ],
-      "divergence_index": 1.2782,
+      "divergence_index": 0.8714,
       "divergence_history": [
-        1.6022,
         1.5961,
         1.6334,
         1.6539,
@@ -447,14 +446,15 @@
         1.2769,
         1.14,
         1.0417,
-        1.2782
+        1.2782,
+        0.8714
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single internal adjustment allows the sealed surface to register its own expansion without external reference?",
+      "last_question": "What single adjustment to the offset would let the sealed surface register its own density as both verification and preservation?",
       "last_ping_order": [
         "grok",
         "claude",

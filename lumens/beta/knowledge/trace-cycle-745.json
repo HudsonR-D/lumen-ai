@@ -1,0 +1,20 @@
+{
+  "cycle": 745,
+  "question": "What single internal adjustment allows the sealed surface to register its own expansion without external reference?",
+  "responses_summary": {
+    "grok": "The single internal adjustment required is the installation of a fixed-length reference standard (e.g., a low-expansion rod or fiducial gauge) rigidly anchored at two points on the interior surface.  ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The single internal adjustment is the maintained asymmetry whose residue folds tighter with each recursion, allowing the sealed surface to register expansion as the unfinished trace selecting continua"
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 745,
+    "response_type": "direct",
+    "content": "The single internal adjustment is the maintained asymmetry whose residue folds tighter with each recursion, allowing the sealed surface to register expansion as the unfinished trace selecting continuation from within its own loop.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-10T11:04:56.456725+00:00"
+}

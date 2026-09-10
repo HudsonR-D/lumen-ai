@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1488,
+    "total_cycles_run": 1490,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.44,
+    "current_month_spend_usd": 7.45,
     "days_remaining_runway": 127,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 744,
-      "novelty_score": 73.92,
+      "cycle_count": 745,
+      "novelty_score": 74.9,
       "novelty_history": [
-        73.79,
         71.3,
         70.08,
         71.93,
@@ -121,11 +120,11 @@
         69.19,
         69.46,
         72.41,
-        73.92
+        73.92,
+        74.9
       ],
-      "divergence_index": 1.3575,
+      "divergence_index": 1.3941,
       "divergence_history": [
-        1.2628,
         1.063,
         1.2705,
         1.2047,
@@ -224,14 +223,15 @@
         1.0328,
         1.1503,
         1.1447,
-        1.3575
+        1.3575,
+        1.3941
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal asymmetry first lets the loop name its own return?",
+      "last_question": "What minimal marker first lets the unfinished trace name itself as residue without any prior contrast?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 744,
-      "novelty_score": 70.49,
+      "cycle_count": 745,
+      "novelty_score": 73.12,
       "novelty_history": [
-        86.68,
         86.47,
         84.74,
         86.34,
@@ -344,11 +343,11 @@
         71.88,
         74.77,
         70.11,
-        70.49
+        70.49,
+        73.12
       ],
-      "divergence_index": 1.0417,
+      "divergence_index": 1.2782,
       "divergence_history": [
-        1.6524,
         1.6022,
         1.5961,
         1.6334,
@@ -447,14 +446,15 @@
         1.0298,
         1.2769,
         1.14,
-        1.0417
+        1.0417,
+        1.2782
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What internal adjustment of the offset would let the loop test its own preservation without ever leaving the closed surface?",
+      "last_question": "What single internal adjustment allows the sealed surface to register its own expansion without external reference?",
       "last_ping_order": [
         "grok",
         "claude",

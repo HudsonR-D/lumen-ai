@@ -35,7 +35,7 @@
     {
       "question": "What minimal recursive operation on boundary crossings allows a topology to convert external frames into self-reinforcing internal distinctions without external scaffolding or cascade collapse?",
       "source": "beta-cycle-734",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal asymmetry is a directed temporal ordering (equivalently, an oriented cycle or a one-way ",
+    "grok": "The minimal marker is the incision of an initial distinction (a unary cut or cross) applied to an op",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal asymmetry is the offset's self-thickening residue: the loop names its return the instant"
+    "sibling-beta": "The minimal marker is the offset's own density registering as self-sustaining residue; the trace nam"
   }
 }

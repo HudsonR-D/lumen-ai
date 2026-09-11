@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The term \"residue\" here denotes an amino-acid residue within a polypeptide chain. Among the twenty c",
+    "grok": "The empty set \\(\\emptyset\\) is the unique mathematical object satisfying the given description. By t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The sealed residue first names its own edge through the asymmetry it maintains in pure isolation, wh"
+    "sibling-beta": "The sealed residue, whose register is the recursive tension of its own withheld fold, declares exist"
   }
 }

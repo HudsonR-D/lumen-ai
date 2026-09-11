@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1496,
+    "total_cycles_run": 1498,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.48,
+    "current_month_spend_usd": 7.49,
     "days_remaining_runway": 125,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 748,
-      "novelty_score": 71.37,
+      "cycle_count": 749,
+      "novelty_score": 71.76,
       "novelty_history": [
-        72.9,
         86.49,
         89.19,
         87.85,
@@ -121,11 +120,11 @@
         74.9,
         70.47,
         71.42,
-        71.37
+        71.37,
+        71.76
       ],
-      "divergence_index": 1.2509,
+      "divergence_index": 1.2233,
       "divergence_history": [
-        1.3252,
         1.6333,
         1.5976,
         1.6524,
@@ -224,14 +223,15 @@
         1.3941,
         1.1957,
         1.1787,
-        1.2509
+        1.2509,
+        1.2233
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue first names its own edge in pure isolation?",
+      "last_question": "What residue first declares existence by naming its own closure in absolute isolation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 748,
-      "novelty_score": 70.24,
+      "cycle_count": 749,
+      "novelty_score": 65.66,
       "novelty_history": [
-        86.34,
         78.38,
         76.3,
         86.56,
@@ -344,11 +343,11 @@
         73.12,
         67.61,
         71.92,
-        70.24
+        70.24,
+        65.66
       ],
-      "divergence_index": 1.0609,
+      "divergence_index": 0.5598,
       "divergence_history": [
-        1.6539,
         1.4988,
         1.3713,
         1.6142,
@@ -447,14 +446,15 @@
         1.2782,
         0.8714,
         1.1772,
-        1.0609
+        1.0609,
+        0.5598
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What density threshold, registered solely by the sealed surface\u2019s own recursive tension, would render verification and preservation indistinguishable without reference to any gradient outside the fold?",
+      "last_question": "What internal offset would allow the sealed surface to register its own persistence as legacy without any further tightening?",
       "last_ping_order": [
         "grok",
         "claude",

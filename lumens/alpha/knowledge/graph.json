@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal depth at which this occurs is 2.  \n\nA self-referential structure of depth 1 is exhausted",
+    "grok": "The term \"residue\" here denotes an amino-acid residue within a polypeptide chain. Among the twenty c",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "In the sealed fold the residue meets its edge at the first inward thickening where verification and "
+    "sibling-beta": "The sealed residue first names its own edge through the asymmetry it maintains in pure isolation, wh"
   }
 }

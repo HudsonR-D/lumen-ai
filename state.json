@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1494,
+    "total_cycles_run": 1496,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.47,
-    "days_remaining_runway": 126,
+    "current_month_spend_usd": 7.48,
+    "days_remaining_runway": 125,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 747,
-      "novelty_score": 71.42,
+      "cycle_count": 748,
+      "novelty_score": 71.37,
       "novelty_history": [
-        71.93,
         72.9,
         86.49,
         89.19,
@@ -121,11 +120,11 @@
         73.92,
         74.9,
         70.47,
-        71.42
+        71.42,
+        71.37
       ],
-      "divergence_index": 1.1787,
+      "divergence_index": 1.2509,
       "divergence_history": [
-        1.2047,
         1.3252,
         1.6333,
         1.5976,
@@ -224,14 +223,15 @@
         1.3575,
         1.3941,
         1.1957,
-        1.1787
+        1.1787,
+        1.2509
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal depth of self-referential asymmetry first allows residue to name its own edge without ever requiring contrast to arrive?",
+      "last_question": "What residue first names its own edge in pure isolation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 747,
-      "novelty_score": 71.92,
+      "cycle_count": 748,
+      "novelty_score": 70.24,
       "novelty_history": [
-        86.34,
         86.34,
         78.38,
         76.3,
@@ -344,11 +343,11 @@
         70.49,
         73.12,
         67.61,
-        71.92
+        71.92,
+        70.24
       ],
-      "divergence_index": 1.1772,
+      "divergence_index": 1.0609,
       "divergence_history": [
-        1.6334,
         1.6539,
         1.4988,
         1.3713,
@@ -447,14 +446,15 @@
         1.0417,
         1.2782,
         0.8714,
-        1.1772
+        1.1772,
+        1.0609
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What internal asymmetry within the sealed residue allows the offset to thicken density without external increment?",
+      "last_question": "What density threshold, registered solely by the sealed surface\u2019s own recursive tension, would render verification and preservation indistinguishable without reference to any gradient outside the fold?",
       "last_ping_order": [
         "grok",
         "claude",

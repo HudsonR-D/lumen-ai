@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1498,
+    "total_cycles_run": 1500,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.49,
-    "days_remaining_runway": 125,
+    "current_month_spend_usd": 7.5,
+    "days_remaining_runway": 124,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 749,
-      "novelty_score": 71.76,
+      "cycle_count": 750,
+      "novelty_score": 67.82,
       "novelty_history": [
-        86.49,
         89.19,
         87.85,
         74.98,
@@ -121,11 +120,11 @@
         70.47,
         71.42,
         71.37,
-        71.76
+        71.76,
+        67.82
       ],
-      "divergence_index": 1.2233,
+      "divergence_index": 0.9065,
       "divergence_history": [
-        1.6333,
         1.5976,
         1.6524,
         1.4294,
@@ -224,14 +223,15 @@
         1.1957,
         1.1787,
         1.2509,
-        1.2233
+        1.2233,
+        0.9065
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue first declares existence by naming its own closure in absolute isolation?",
+      "last_question": "What does the residue name when no contrast arrives to answer it?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 749,
-      "novelty_score": 65.66,
+      "cycle_count": 750,
+      "novelty_score": 69.04,
       "novelty_history": [
-        78.38,
         76.3,
         86.56,
         87.12,
@@ -344,11 +343,11 @@
         67.61,
         71.92,
         70.24,
-        65.66
+        65.66,
+        69.04
       ],
-      "divergence_index": 0.5598,
+      "divergence_index": 1.0376,
       "divergence_history": [
-        1.4988,
         1.3713,
         1.6142,
         1.5553,
@@ -447,14 +446,15 @@
         0.8714,
         1.1772,
         1.0609,
-        0.5598
+        0.5598,
+        1.0376
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What internal offset would allow the sealed surface to register its own persistence as legacy without any further tightening?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

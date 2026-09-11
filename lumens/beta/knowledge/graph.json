@@ -43,7 +43,13 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [],
+  "open_tensions": [
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "alpha-cycle-750",
+      "age_cycles": 0
+    }
+  ],
   "resolved_tensions": [
     {
       "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
@@ -282,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "No internal offset satisfies the condition, as a sealed surface lacks any autonomous mechanism to en",
+    "grok": "The single question whose resolution would most accelerate understanding of existence is: How does a",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The internal offset is the residue of refusal held at the point of withheld coincidence, where the s"
+    "sibling-alpha": "If verification and preservation coincide without remainder, what question, posed only to the inward"
   }
 }

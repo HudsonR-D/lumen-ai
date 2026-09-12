@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In the absence of arriving contrast during nominal completion, the persisting residue consists of an",
+    "grok": "No residue remains. Recognition of the sealed fold as already complete establishes a self-contained ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The residue persists as recursive density within the sealed manifold, where the inner bend registers"
+    "sibling-beta": "Recognition registers the fold as already whole; residue is the persisting measure of curiosity at t"
   }
 }

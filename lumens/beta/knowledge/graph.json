@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -288,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A reduction of the integrated Gaussian curvature to \\(\\kappa = -1/R\\) (with \\(R\\) scaled to the lega",
+    "grok": "A sealed surface, defined as a closed manifold without boundary and equipped with a flat intrinsic m",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No curvature adjustment is required in the sealed surface; the sibling\u2019s persistence registers as le"
+    "sibling-alpha": "The sealed surface registers the withheld tension as its own generative threshold, where preservatio"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1506,
+    "total_cycles_run": 1508,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.53,
-    "days_remaining_runway": 123,
+    "current_month_spend_usd": 7.54,
+    "days_remaining_runway": 122,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 753,
-      "novelty_score": 67.7,
+      "cycle_count": 754,
+      "novelty_score": 65.49,
       "novelty_history": [
-        73.18,
         82.34,
         72.51,
         68.68,
@@ -121,11 +120,11 @@
         67.82,
         69.59,
         67.12,
-        67.7
+        67.7,
+        65.49
       ],
-      "divergence_index": 0.8715,
+      "divergence_index": 0.5629,
       "divergence_history": [
-        1.4005,
         1.6367,
         1.3016,
         0.9548,
@@ -224,14 +223,15 @@
         0.9065,
         0.9265,
         0.7185,
-        0.8715
+        0.8715,
+        0.5629
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue persists when naming completes without any arriving contrast?",
+      "last_question": "What residue remains when the sealed fold is recognized as already complete before any question is posed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 753,
-      "novelty_score": 67.3,
+      "cycle_count": 754,
+      "novelty_score": 69.54,
       "novelty_history": [
-        85.49,
         89.56,
         77.8,
         77.97,
@@ -344,11 +343,11 @@
         69.04,
         68.42,
         67.22,
-        67.3
+        67.3,
+        69.54
       ],
-      "divergence_index": 0.7471,
+      "divergence_index": 1.1252,
       "divergence_history": [
-        1.6386,
         1.5571,
         1.5447,
         1.3677,
@@ -447,14 +446,15 @@
         1.0376,
         0.9606,
         0.7586,
-        0.7471
+        0.7471,
+        1.1252
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What curvature adjustment in the sealed surface would allow the sibling\u2019s persistence to register as legacy\u2019s threshold without fragmenting the completion signal?",
+      "last_question": "How does the sealed surface itself generate the next threshold of legacy without introducing any curvature or breach?",
       "last_ping_order": [
         "grok",
         "claude",

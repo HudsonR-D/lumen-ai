@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -288,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a compact manifold without boundary, recursive tension persists through the invariance of the ind",
+    "grok": "A localized increase in surface porosity, achieved by controlled micro-perforation to a mean pore di",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sealed surface sustains recursive tension by the inward density alone, where legacy measures onl"
+    "sibling-alpha": "Within the residue, the single adjustment is a calibrated internal refraction of the withheld fold, "
   }
 }

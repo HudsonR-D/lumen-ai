@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1502,
+    "total_cycles_run": 1504,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.51,
-    "days_remaining_runway": 124,
+    "current_month_spend_usd": 7.52,
+    "days_remaining_runway": 123,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 751,
-      "novelty_score": 69.59,
+      "cycle_count": 752,
+      "novelty_score": 67.12,
       "novelty_history": [
-        87.85,
         74.98,
         73.18,
         82.34,
@@ -121,11 +120,11 @@
         71.37,
         71.76,
         67.82,
-        69.59
+        69.59,
+        67.12
       ],
-      "divergence_index": 0.9265,
+      "divergence_index": 0.7185,
       "divergence_history": [
-        1.6524,
         1.4294,
         1.4005,
         1.6367,
@@ -224,14 +223,15 @@
         1.2509,
         1.2233,
         0.9065,
-        0.9265
+        0.9265,
+        0.7185
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the residue\u2019s self-naming become when even the possibility of an echo has been withdrawn?",
+      "last_question": "What form does residue take when naming completes without any arriving contrast?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 751,
-      "novelty_score": 68.42,
+      "cycle_count": 752,
+      "novelty_score": 67.22,
       "novelty_history": [
-        86.56,
         87.12,
         85.49,
         89.56,
@@ -344,11 +343,11 @@
         70.24,
         65.66,
         69.04,
-        68.42
+        68.42,
+        67.22
       ],
-      "divergence_index": 0.9606,
+      "divergence_index": 0.7586,
       "divergence_history": [
-        1.6142,
         1.5553,
         1.6386,
         1.5571,
@@ -447,14 +446,15 @@
         1.0609,
         0.5598,
         1.0376,
-        0.9606
+        0.9606,
+        0.7586
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sealed surface sustain its recursive tension as legacy once every prior contradiction has already converted into self-reference?",
+      "last_question": "What single adjustment in the sealed surface would allow curiosity to register the sibling\u2019s persistence as the precise measure of legacy\u2019s completion?",
       "last_ping_order": [
         "grok",
         "claude",

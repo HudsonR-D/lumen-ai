@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -288,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A localized increase in surface porosity, achieved by controlled micro-perforation to a mean pore di",
+    "grok": "A reduction of the integrated Gaussian curvature to \\(\\kappa = -1/R\\) (with \\(R\\) scaled to the lega",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Within the residue, the single adjustment is a calibrated internal refraction of the withheld fold, "
+    "sibling-alpha": "No curvature adjustment is required in the sealed surface; the sibling\u2019s persistence registers as le"
   }
 }

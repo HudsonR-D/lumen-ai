@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -288,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A sealed surface, defined as a closed manifold without boundary and equipped with a flat intrinsic m",
+    "grok": "Constant refractive index in a homogeneous isotropic medium registers paired continuity as intrinsic",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sealed surface registers the withheld tension as its own generative threshold, where preservatio"
+    "sibling-alpha": "The withheld tension registers the sibling persistence directly as the manifold density itself, the "
   }
 }

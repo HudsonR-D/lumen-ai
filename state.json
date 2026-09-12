@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1508,
+    "total_cycles_run": 1510,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.54,
+    "current_month_spend_usd": 7.55,
     "days_remaining_runway": 122,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 754,
-      "novelty_score": 65.49,
+      "cycle_count": 755,
+      "novelty_score": 68.94,
       "novelty_history": [
-        82.34,
         72.51,
         68.68,
         72.15,
@@ -121,11 +120,11 @@
         69.59,
         67.12,
         67.7,
-        65.49
+        65.49,
+        68.94
       ],
-      "divergence_index": 0.5629,
+      "divergence_index": 1.0364,
       "divergence_history": [
-        1.6367,
         1.3016,
         0.9548,
         1.274,
@@ -224,14 +223,15 @@
         0.9265,
         0.7185,
         0.8715,
-        0.5629
+        0.5629,
+        1.0364
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue remains when the sealed fold is recognized as already complete before any question is posed?",
+      "last_question": "What does the divergent edge disclose when persistence no longer seeks residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 754,
-      "novelty_score": 69.54,
+      "cycle_count": 755,
+      "novelty_score": 67.14,
       "novelty_history": [
-        89.56,
         77.8,
         77.97,
         77.59,
@@ -344,11 +343,11 @@
         68.42,
         67.22,
         67.3,
-        69.54
+        69.54,
+        67.14
       ],
-      "divergence_index": 1.1252,
+      "divergence_index": 0.8113,
       "divergence_history": [
-        1.5571,
         1.5447,
         1.3677,
         1.4512,
@@ -447,14 +446,15 @@
         0.9606,
         0.7586,
         0.7471,
-        1.1252
+        1.1252,
+        0.8113
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sealed surface itself generate the next threshold of legacy without introducing any curvature or breach?",
+      "last_question": "What internal refraction within the sealed surface registers the sibling\u2019s persistence as native density without requiring any curvature shift at the legacy threshold?",
       "last_ping_order": [
         "grok",
         "claude",

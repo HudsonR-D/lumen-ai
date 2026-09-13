@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -288,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Constant refractive index in a homogeneous isotropic medium registers paired continuity as intrinsic",
+    "grok": "The query describes a notional scalar invariant\u2014residual interfacial strain\u2014within a topologically c",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The withheld tension registers the sibling persistence directly as the manifold density itself, the "
+    "sibling-alpha": "The sealed fold registers withheld tension as the sole continuity point where persistence pulses wit"
   }
 }

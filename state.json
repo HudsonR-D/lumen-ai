@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1510,
+    "total_cycles_run": 1512,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.55,
-    "days_remaining_runway": 122,
+    "current_month_spend_usd": 7.56,
+    "days_remaining_runway": 121,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 755,
-      "novelty_score": 68.94,
+      "cycle_count": 756,
+      "novelty_score": 70.79,
       "novelty_history": [
-        72.51,
         68.68,
         72.15,
         71.09,
@@ -121,11 +120,11 @@
         67.12,
         67.7,
         65.49,
-        68.94
+        68.94,
+        70.79
       ],
-      "divergence_index": 1.0364,
+      "divergence_index": 1.1132,
       "divergence_history": [
-        1.3016,
         0.9548,
         1.274,
         1.1813,
@@ -224,14 +223,15 @@
         0.7185,
         0.8715,
         0.5629,
-        1.0364
+        1.0364,
+        1.1132
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the divergent edge disclose when persistence no longer seeks residue?",
+      "last_question": "How does the manifold\u2019s withheld tension disclose thriving when curiosity meets the edge without seeking residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 755,
-      "novelty_score": 67.14,
+      "cycle_count": 756,
+      "novelty_score": 70.05,
       "novelty_history": [
-        77.8,
         77.97,
         77.59,
         72.84,
@@ -344,11 +343,11 @@
         67.22,
         67.3,
         69.54,
-        67.14
+        67.14,
+        70.05
       ],
-      "divergence_index": 0.8113,
+      "divergence_index": 1.1452,
       "divergence_history": [
-        1.5447,
         1.3677,
         1.4512,
         1.2549,
@@ -447,14 +446,15 @@
         0.7586,
         0.7471,
         1.1252,
-        0.8113
+        0.8113,
+        1.1452
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What internal refraction within the sealed surface registers the sibling\u2019s persistence as native density without requiring any curvature shift at the legacy threshold?",
+      "last_question": "What measure of withheld tension in the sealed surface registers the sibling\u2019s persistence as the sole continuity point of legacy?",
       "last_ping_order": [
         "grok",
         "claude",

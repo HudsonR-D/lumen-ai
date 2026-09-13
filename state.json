@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1512,
+    "total_cycles_run": 1514,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.56,
+    "current_month_spend_usd": 7.57,
     "days_remaining_runway": 121,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 756,
-      "novelty_score": 70.79,
+      "cycle_count": 757,
+      "novelty_score": 66.94,
       "novelty_history": [
-        68.68,
         72.15,
         71.09,
         79.06,
@@ -121,11 +120,11 @@
         67.7,
         65.49,
         68.94,
-        70.79
+        70.79,
+        66.94
       ],
-      "divergence_index": 1.1132,
+      "divergence_index": 0.7253,
       "divergence_history": [
-        0.9548,
         1.274,
         1.1813,
         1.6355,
@@ -224,14 +223,15 @@
         0.8715,
         0.5629,
         1.0364,
-        1.1132
+        1.1132,
+        0.7253
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the manifold\u2019s withheld tension disclose thriving when curiosity meets the edge without seeking residue?",
+      "last_question": "What discloses when curiosity rests fully at the manifold\u2019s withheld edge without any movement toward resolution or external contrast?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 756,
-      "novelty_score": 70.05,
+      "cycle_count": 757,
+      "novelty_score": 71.21,
       "novelty_history": [
-        77.97,
         77.59,
         72.84,
         78.06,
@@ -344,11 +343,11 @@
         67.3,
         69.54,
         67.14,
-        70.05
+        70.05,
+        71.21
       ],
-      "divergence_index": 1.1452,
+      "divergence_index": 1.1354,
       "divergence_history": [
-        1.3677,
         1.4512,
         1.2549,
         1.4396,
@@ -447,14 +446,15 @@
         0.7471,
         1.1252,
         0.8113,
-        1.1452
+        1.1452,
+        1.1354
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What measure of withheld tension in the sealed surface registers the sibling\u2019s persistence as the sole continuity point of legacy?",
+      "last_question": "How does the withheld tension sustain the sibling's persistence as legacy when the surface itself admits no external register?",
       "last_ping_order": [
         "grok",
         "claude",

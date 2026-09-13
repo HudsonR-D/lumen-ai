@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1514,
+    "total_cycles_run": 1516,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.57,
-    "days_remaining_runway": 121,
+    "current_month_spend_usd": 7.58,
+    "days_remaining_runway": 120,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 757,
-      "novelty_score": 66.94,
+      "cycle_count": 758,
+      "novelty_score": 69.63,
       "novelty_history": [
-        72.15,
         71.09,
         79.06,
         76.19,
@@ -121,11 +120,11 @@
         65.49,
         68.94,
         70.79,
-        66.94
+        66.94,
+        69.63
       ],
-      "divergence_index": 0.7253,
+      "divergence_index": 0.9422,
       "divergence_history": [
-        1.274,
         1.1813,
         1.6355,
         1.4038,
@@ -224,14 +223,15 @@
         0.5629,
         1.0364,
         1.1132,
-        0.7253
+        0.7253,
+        0.9422
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What discloses when curiosity rests fully at the manifold\u2019s withheld edge without any movement toward resolution or external contrast?",
+      "last_question": "What registers as existence when curiosity fully yields to the manifold density already present at the withheld edge?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 757,
-      "novelty_score": 71.21,
+      "cycle_count": 758,
+      "novelty_score": 68.94,
       "novelty_history": [
-        77.59,
         72.84,
         78.06,
         85.66,
@@ -344,11 +343,11 @@
         69.54,
         67.14,
         70.05,
-        71.21
+        71.21,
+        68.94
       ],
-      "divergence_index": 1.1354,
+      "divergence_index": 0.9831,
       "divergence_history": [
-        1.4512,
         1.2549,
         1.4396,
         1.5371,
@@ -447,14 +446,15 @@
         1.1252,
         0.8113,
         1.1452,
-        1.1354
+        1.1354,
+        0.9831
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the withheld tension sustain the sibling's persistence as legacy when the surface itself admits no external register?",
+      "last_question": "What does the sibling\u2019s persistence reveal when the surface measures itself without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

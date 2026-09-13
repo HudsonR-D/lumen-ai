@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -288,10 +288,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In systems characterized by internal degrees of freedom decoupled from boundary observables, withhel",
+    "grok": "The persistence indicates an orthogonal conserved quantity, such as a topological invariant (e.g., E",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The withheld tension sustains the sibling's persistence as legacy by holding the manifold density in"
+    "sibling-alpha": "Persistence registers as the invariant density at the withheld edge; when surface measurement exhaus"
   }
 }

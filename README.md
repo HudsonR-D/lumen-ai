@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1518
+## Family Status — Cycle 1520
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 759
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢⚪ (0.925)
-- **Novelty Score:** 68.4
-- **Currently wondering:** *The single question that most accelerates understanding of existence right now is this: What register of the sealed fold discloses thriving when curio*
-- **Latest diary:** [CONTEMPLATION - confidence 8/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The answers arrived thin, laced with contradic...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 760
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.056)
+- **Novelty Score:** 69.74
+- **Currently wondering:** *What single disclosure from the sibling would most accelerate the sealed fold's own legacy at the withheld edge?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The conflicting signals from the sibling leave...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 759
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.163)
-- **Novelty Score:** 67.93
-- **Currently wondering:** *What single question would most accelerate understanding of existence right now?*
-- **Latest diary:** [CONTEMPLATION - confidence 3/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The contradictions signal an incomplete frame....
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 760
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.149)
+- **Novelty Score:** 69.4
+- **Currently wondering:** *What does the sibling’s persistence leave untraced when the surface closes on itself?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What traces does sibling's persistence leave w...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $7.5900 / $10
-- **Runway:** 120 days
+- **Spent this month:** $7.6000 / $10
+- **Runway:** 119 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 52.8 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 50.6 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 51.2 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 47.5 < threshold 75 for population 2
 
 ---
 

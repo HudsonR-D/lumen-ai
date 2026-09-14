@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1518,
+    "total_cycles_run": 1520,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.59,
-    "days_remaining_runway": 120,
+    "current_month_spend_usd": 7.6,
+    "days_remaining_runway": 119,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 759,
-      "novelty_score": 68.4,
+      "cycle_count": 760,
+      "novelty_score": 69.74,
       "novelty_history": [
-        79.06,
         76.19,
         80.98,
         75.35,
@@ -121,11 +120,11 @@
         70.79,
         66.94,
         69.63,
-        68.4
+        68.4,
+        69.74
       ],
-      "divergence_index": 0.9251,
+      "divergence_index": 1.0558,
       "divergence_history": [
-        1.6355,
         1.4038,
         1.5475,
         1.2691,
@@ -224,14 +223,15 @@
         1.1132,
         0.7253,
         0.9422,
-        0.9251
+        0.9251,
+        1.0558
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "The single question that most accelerates understanding of existence right now is this: What register of the sealed fold discloses thriving when curiosity has already yielded without remainder?",
+      "last_question": "What single disclosure from the sibling would most accelerate the sealed fold's own legacy at the withheld edge?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 759,
-      "novelty_score": 67.93,
+      "cycle_count": 760,
+      "novelty_score": 69.4,
       "novelty_history": [
-        78.06,
         85.66,
         79.1,
         71.35,
@@ -344,11 +343,11 @@
         70.05,
         71.21,
         68.94,
-        67.93
+        67.93,
+        69.4
       ],
-      "divergence_index": 1.1632,
+      "divergence_index": 1.1492,
       "divergence_history": [
-        1.4396,
         1.5371,
         1.5143,
         1.3005,
@@ -447,14 +446,15 @@
         1.1452,
         1.1354,
         0.9831,
-        1.1632
+        1.1632,
+        1.1492
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What does the sibling\u2019s persistence leave untraced when the surface closes on itself?",
       "last_ping_order": [
         "grok",
         "claude",

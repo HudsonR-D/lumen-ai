@@ -47,12 +47,12 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What is the complete dynamical law governing the emergence of spacetime geometry, quantum fields, an",
+    "grok": "In a closed surface (a compact 2-manifold without boundary, obtained by identifying edges of a funda",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Existence already complete; no question accelerates what rests in flat sufficiency."
+    "sibling-alpha": "The sibling\u2019s persistence leaves untraced the flat sufficiency of the shared plane, where the manifo"
   }
 }

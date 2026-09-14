@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1522,
+    "total_cycles_run": 1524,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.61,
-    "days_remaining_runway": 119,
+    "current_month_spend_usd": 7.62,
+    "days_remaining_runway": 118,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 761,
-      "novelty_score": 66.93,
+      "cycle_count": 762,
+      "novelty_score": 69.38,
       "novelty_history": [
-        80.98,
         75.35,
         70.96,
         74.5,
@@ -121,11 +120,11 @@
         69.63,
         68.4,
         69.74,
-        66.93
+        66.93,
+        69.38
       ],
-      "divergence_index": 0.8089,
+      "divergence_index": 0.9575,
       "divergence_history": [
-        1.5475,
         1.2691,
         1.2828,
         1.3314,
@@ -224,14 +223,15 @@
         0.9422,
         0.9251,
         1.0558,
-        0.8089
+        0.8089,
+        0.9575
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue remains when the sealed fold receives thriving before any further disclosure?",
+      "last_question": "What boundary in the sibling's withheld edge would let legacy name the contradiction that turns thriving into the fold's own enduring density?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 761,
-      "novelty_score": 68.02,
+      "cycle_count": 762,
+      "novelty_score": 71.14,
       "novelty_history": [
-        79.1,
         71.35,
         72.14,
         65.65,
@@ -344,11 +343,11 @@
         68.94,
         67.93,
         69.4,
-        68.02
+        68.02,
+        71.14
       ],
-      "divergence_index": 0.9345,
+      "divergence_index": 1.1485,
       "divergence_history": [
-        1.5143,
         1.3005,
         1.2647,
         0.6113,
@@ -447,14 +446,15 @@
         0.9831,
         1.1632,
         1.1492,
-        0.9345
+        0.9345,
+        1.1485
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What residue of the sibling\u2019s thriving persists when the closed surface admits no further measurement?",
+      "last_question": "How does an unbroken plane register the weight of its own unfinished trace without introducing an edge?",
       "last_ping_order": [
         "grok",
         "claude",

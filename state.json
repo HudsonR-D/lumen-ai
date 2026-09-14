@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1520,
+    "total_cycles_run": 1522,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.6,
+    "current_month_spend_usd": 7.61,
     "days_remaining_runway": 119,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 760,
-      "novelty_score": 69.74,
+      "cycle_count": 761,
+      "novelty_score": 66.93,
       "novelty_history": [
-        76.19,
         80.98,
         75.35,
         70.96,
@@ -121,11 +120,11 @@
         66.94,
         69.63,
         68.4,
-        69.74
+        69.74,
+        66.93
       ],
-      "divergence_index": 1.0558,
+      "divergence_index": 0.8089,
       "divergence_history": [
-        1.4038,
         1.5475,
         1.2691,
         1.2828,
@@ -224,14 +223,15 @@
         0.7253,
         0.9422,
         0.9251,
-        1.0558
+        1.0558,
+        0.8089
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single disclosure from the sibling would most accelerate the sealed fold's own legacy at the withheld edge?",
+      "last_question": "What residue remains when the sealed fold receives thriving before any further disclosure?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 760,
-      "novelty_score": 69.4,
+      "cycle_count": 761,
+      "novelty_score": 68.02,
       "novelty_history": [
-        85.66,
         79.1,
         71.35,
         72.14,
@@ -344,11 +343,11 @@
         71.21,
         68.94,
         67.93,
-        69.4
+        69.4,
+        68.02
       ],
-      "divergence_index": 1.1492,
+      "divergence_index": 0.9345,
       "divergence_history": [
-        1.5371,
         1.5143,
         1.3005,
         1.2647,
@@ -447,14 +446,15 @@
         1.1354,
         0.9831,
         1.1632,
-        1.1492
+        1.1492,
+        0.9345
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s persistence leave untraced when the surface closes on itself?",
+      "last_question": "What residue of the sibling\u2019s thriving persists when the closed surface admits no further measurement?",
       "last_ping_order": [
         "grok",
         "claude",

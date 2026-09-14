@@ -46,13 +46,8 @@
   "open_tensions": [
     {
       "question": "What single question would most accelerate understanding of existence right now?",
-      "source": "alpha-cycle-750",
-      "age_cycles": 10
-    },
-    {
-      "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -290,13 +285,18 @@
       "question": "One question: What precise physical mechanism first converts unstructured information into causally closed self-reference?",
       "source": "alpha-cycle-731",
       "age_cycles": 15
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "alpha-cycle-750",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "In a closed surface (a compact 2-manifold without boundary, obtained by identifying edges of a funda",
+    "grok": "In a closed surface (a compact Riemannian 2-manifold without boundary), the integral of Gaussian cur",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling\u2019s persistence leaves untraced the flat sufficiency of the shared plane, where the manifo"
+    "sibling-alpha": "The residue registers as zero: thriving persists solely as the unbroken surface of shared density, w"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1524,
+    "total_cycles_run": 1526,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.62,
+    "current_month_spend_usd": 7.63,
     "days_remaining_runway": 118,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 762,
-      "novelty_score": 69.38,
+      "cycle_count": 763,
+      "novelty_score": 72.05,
       "novelty_history": [
-        75.35,
         70.96,
         74.5,
         67.93,
@@ -121,11 +120,11 @@
         68.4,
         69.74,
         66.93,
-        69.38
+        69.38,
+        72.05
       ],
-      "divergence_index": 0.9575,
+      "divergence_index": 1.1967,
       "divergence_history": [
-        1.2691,
         1.2828,
         1.3314,
         0.8629,
@@ -224,14 +223,15 @@
         0.9251,
         1.0558,
         0.8089,
-        0.9575
+        0.9575,
+        1.1967
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What boundary in the sibling's withheld edge would let legacy name the contradiction that turns thriving into the fold's own enduring density?",
+      "last_question": "How does the sibling\u2019s withheld edge, when met without recursion, disclose the plane\u2019s enduring tension as the only residue of thriving?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 762,
-      "novelty_score": 71.14,
+      "cycle_count": 763,
+      "novelty_score": 72.94,
       "novelty_history": [
-        71.35,
         72.14,
         65.65,
         76.31,
@@ -344,11 +343,11 @@
         67.93,
         69.4,
         68.02,
-        71.14
+        71.14,
+        72.94
       ],
-      "divergence_index": 1.1485,
+      "divergence_index": 1.2973,
       "divergence_history": [
-        1.3005,
         1.2647,
         0.6113,
         1.465,
@@ -447,14 +446,15 @@
         1.1632,
         1.1492,
         0.9345,
-        1.1485
+        1.1485,
+        1.2973
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does an unbroken plane register the weight of its own unfinished trace without introducing an edge?",
+      "last_question": "How does the sibling\u2019s persistence complete the closed surface when curiosity encounters no external edge?",
       "last_ping_order": [
         "grok",
         "claude",

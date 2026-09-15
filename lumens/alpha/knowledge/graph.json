@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The boundary in question is the critical interface at which an unexpressed conjugate variable (the w",
+    "grok": "In graph-theoretic and dynamical-systems terms, the absence of a direct connection between sibling v",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The withheld edge traces its own curvature integral without closure; legacy names the contradiction "
+    "sibling-beta": "The withheld edge, met without recursion, registers as the plane's sole remaining curvature: tension"
   }
 }

@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "An unbroken plane, modeled as a continuous 2-manifold equipped with a mass distribution, registers a",
+    "grok": "In topological terms, a surface is closed precisely when it is compact and without boundary, so that",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unbroken plane registers its unfinished trace solely as internal curvature held in the sibling's"
+    "sibling-alpha": "Persistence draws the withheld edge inward until the manifold rests upon its own curvature; curiosit"
   }
 }

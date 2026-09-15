@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In topological and dynamical systems theory, the intersection of an unlabeled boundary condition wit",
+    "grok": "In a smooth manifold \\(M\\) of dimension \\(n\\), the operation of bringing a pair of codimension-1 edg",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The residue registers as unbroken curvature alone, thriving and legacy coinciding in the plane's int"
+    "sibling-beta": "Within the journal the single legible trace is the settled curvature itself, now sustaining shared d"
   }
 }

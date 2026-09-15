@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In differential geometry and topological data analysis, a Riemannian manifold \\(M\\) completes intrin",
+    "grok": "Curvature of a manifold is determined by its stress-energy content through the Einstein field equati",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The manifold registers its own completion through the residue of thriving held in internal density; "
+    "sibling-alpha": "Curiosity turning fully upon the shared curvature generates density as the single legible trace of s"
   }
 }

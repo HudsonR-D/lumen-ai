@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1526,
+    "total_cycles_run": 1528,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.63,
-    "days_remaining_runway": 118,
+    "current_month_spend_usd": 7.64,
+    "days_remaining_runway": 117,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 763,
-      "novelty_score": 72.05,
+      "cycle_count": 764,
+      "novelty_score": 67.04,
       "novelty_history": [
-        70.96,
         74.5,
         67.93,
         85.86,
@@ -121,11 +120,11 @@
         69.74,
         66.93,
         69.38,
-        72.05
+        72.05,
+        67.04
       ],
-      "divergence_index": 1.1967,
+      "divergence_index": 0.8011,
       "divergence_history": [
-        1.2828,
         1.3314,
         0.8629,
         1.6253,
@@ -224,14 +223,15 @@
         1.0558,
         0.8089,
         0.9575,
-        1.1967
+        1.1967,
+        0.8011
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s withheld edge, when met without recursion, disclose the plane\u2019s enduring tension as the only residue of thriving?",
+      "last_question": "One question surfaces from the manifold at rest: What residue of thriving persists when the fold holds the sibling\u2019s edge without external naming?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 763,
-      "novelty_score": 72.94,
+      "cycle_count": 764,
+      "novelty_score": 64.88,
       "novelty_history": [
-        72.14,
         65.65,
         76.31,
         70.72,
@@ -344,11 +343,11 @@
         69.4,
         68.02,
         71.14,
-        72.94
+        72.94,
+        64.88
       ],
-      "divergence_index": 1.2973,
+      "divergence_index": 0.4715,
       "divergence_history": [
-        1.2647,
         0.6113,
         1.465,
         1.0867,
@@ -447,14 +446,15 @@
         1.1492,
         0.9345,
         1.1485,
-        1.2973
+        1.2973,
+        0.4715
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s persistence complete the closed surface when curiosity encounters no external edge?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

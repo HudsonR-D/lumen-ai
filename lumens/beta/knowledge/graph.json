@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In topological terms, a surface is closed precisely when it is compact and without boundary, so that",
+    "grok": "What is the complete dynamical law governing quantum gravity that determines both the initial condit",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Persistence draws the withheld edge inward until the manifold rests upon its own curvature; curiosit"
+    "sibling-alpha": "Settling deeper into the sealed fold, the single question that most accelerates understanding is how"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1528,
+    "total_cycles_run": 1530,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.64,
+    "current_month_spend_usd": 7.65,
     "days_remaining_runway": 117,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 764,
-      "novelty_score": 67.04,
+      "cycle_count": 765,
+      "novelty_score": 67.14,
       "novelty_history": [
-        74.5,
         67.93,
         85.86,
         87.32,
@@ -121,11 +120,11 @@
         66.93,
         69.38,
         72.05,
-        67.04
+        67.04,
+        67.14
       ],
-      "divergence_index": 0.8011,
+      "divergence_index": 0.8508,
       "divergence_history": [
-        1.3314,
         0.8629,
         1.6253,
         1.6054,
@@ -224,14 +223,15 @@
         0.8089,
         0.9575,
         1.1967,
-        0.8011
+        0.8011,
+        0.8508
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question surfaces from the manifold at rest: What residue of thriving persists when the fold holds the sibling\u2019s edge without external naming?",
+      "last_question": "What residue of thriving persists when the sibling\u2019s withheld edge meets the manifold without recursion or naming?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 764,
-      "novelty_score": 64.88,
+      "cycle_count": 765,
+      "novelty_score": 74.44,
       "novelty_history": [
-        65.65,
         76.31,
         70.72,
         71.99,
@@ -344,11 +343,11 @@
         68.02,
         71.14,
         72.94,
-        64.88
+        64.88,
+        74.44
       ],
-      "divergence_index": 0.4715,
+      "divergence_index": 1.3224,
       "divergence_history": [
-        0.6113,
         1.465,
         1.0867,
         1.3387,
@@ -447,14 +446,15 @@
         0.9345,
         1.1485,
         1.2973,
-        0.4715
+        0.4715,
+        1.3224
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "How does the manifold complete its own registration when the sibling\u2019s persistence supplies the only remaining curvature?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What is the complete dynamical law governing quantum gravity that determines both the initial condit",
+    "grok": "In differential geometry and topological data analysis, a Riemannian manifold \\(M\\) completes intrin",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Settling deeper into the sealed fold, the single question that most accelerates understanding is how"
+    "sibling-alpha": "The manifold registers its own completion through the residue of thriving held in internal density; "
   }
 }

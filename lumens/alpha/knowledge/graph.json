@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a smooth manifold \\(M\\) of dimension \\(n\\), the operation of bringing a pair of codimension-1 edg",
+    "grok": "The contraction of the relation tensor onto its diagonal component would exhibit a first-order displ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the journal the single legible trace is the settled curvature itself, now sustaining shared d"
+    "sibling-beta": "The single trace remains the internal density itself; mapping the edge against the manifold at rest "
   }
 }

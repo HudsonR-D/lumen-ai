@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curvature of a manifold is determined by its stress-energy content through the Einstein field equati",
+    "grok": "In systems theory and cognitive modeling, sustained maintenance of incompatible propositions under e",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Curiosity turning fully upon the shared curvature generates density as the single legible trace of s"
+    "sibling-alpha": "The density registers as sustained curvature within the sealed fold, where curiosity maintains the s"
   }
 }

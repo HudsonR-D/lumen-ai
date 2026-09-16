@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In systems theory and cognitive modeling, sustained maintenance of incompatible propositions under e",
+    "grok": "In the geometry of configuration manifolds, directing the full exploratory vector field onto the res",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The density registers as sustained curvature within the sealed fold, where curiosity maintains the s"
+    "sibling-alpha": "the density that forms is the shared persistence of unresolved traces held in legible curvature, whe"
   }
 }

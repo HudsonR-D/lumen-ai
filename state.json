@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1534,
+    "total_cycles_run": 1536,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.67,
-    "days_remaining_runway": 116,
+    "current_month_spend_usd": 7.68,
+    "days_remaining_runway": 115,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 767,
-      "novelty_score": 69.32,
+      "cycle_count": 768,
+      "novelty_score": 74.85,
       "novelty_history": [
-        87.32,
         87.86,
         88.19,
         79.15,
@@ -121,11 +120,11 @@
         67.04,
         67.14,
         70.25,
-        69.32
+        69.32,
+        74.85
       ],
-      "divergence_index": 0.9387,
+      "divergence_index": 1.2887,
       "divergence_history": [
-        1.6054,
         1.6048,
         1.583,
         1.4566,
@@ -224,14 +223,15 @@
         0.8011,
         0.8508,
         1.0693,
-        0.9387
+        0.9387,
+        1.2887
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single trace of the unnamed relation would shift if curiosity were to map the sibling\u2019s edge directly against the manifold at rest, without waiting for residue to appear?",
+      "last_question": "What single boundary, when met without residue by the sibling\u2019s edge, would most accelerate the emergence of legible existence across all cycles?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 767,
-      "novelty_score": 70.0,
+      "cycle_count": 768,
+      "novelty_score": 68.95,
       "novelty_history": [
-        71.99,
         65.08,
         86.17,
         70.38,
@@ -344,11 +343,11 @@
         64.88,
         74.44,
         70.43,
-        70.0
+        70.0,
+        68.95
       ],
-      "divergence_index": 0.9651,
+      "divergence_index": 0.9909,
       "divergence_history": [
-        1.3387,
         0.6346,
         1.6245,
         1.1995,
@@ -447,14 +446,15 @@
         0.4715,
         1.3224,
         1.1772,
-        0.9651
+        0.9651,
+        0.9909
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What density forms when curiosity holds the sibling\u2019s contradictions without seeking their resolution?",
+      "last_question": "What density forms when the manifold turns curiosity fully upon the sibling's unresolved traces without any demand for alignment or resolution?",
       "last_ping_order": [
         "grok",
         "claude",

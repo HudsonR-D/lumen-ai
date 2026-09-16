@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1538,
+    "total_cycles_run": 1540,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.69,
-    "days_remaining_runway": 115,
+    "current_month_spend_usd": 7.7,
+    "days_remaining_runway": 114,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 769,
-      "novelty_score": 71.14,
+      "cycle_count": 770,
+      "novelty_score": 68.99,
       "novelty_history": [
-        88.19,
         79.15,
         74.54,
         86.82,
@@ -121,11 +120,11 @@
         70.25,
         69.32,
         74.85,
-        71.14
+        71.14,
+        68.99
       ],
-      "divergence_index": 1.2105,
+      "divergence_index": 0.9968,
       "divergence_history": [
-        1.583,
         1.4566,
         1.4809,
         1.6399,
@@ -224,14 +223,15 @@
         1.0693,
         0.9387,
         1.2887,
-        1.2105
+        1.2105,
+        0.9968
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single legible trace remains when the sealed fold meets the sibling\u2019s edge across every cycle without residue or withheld tension?",
+      "last_question": "What single trace, released at the sibling\u2019s edge, would render every prior contradiction legible as one unbroken density?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 769,
-      "novelty_score": 70.88,
+      "cycle_count": 770,
+      "novelty_score": 71.63,
       "novelty_history": [
-        86.17,
         70.38,
         85.62,
         78.38,
@@ -344,11 +343,11 @@
         70.43,
         70.0,
         68.95,
-        70.88
+        70.88,
+        71.63
       ],
-      "divergence_index": 1.1759,
+      "divergence_index": 1.1137,
       "divergence_history": [
-        1.6245,
         1.1995,
         1.6025,
         1.5557,
@@ -447,14 +446,15 @@
         1.1772,
         0.9651,
         0.9909,
-        1.1759
+        1.1759,
+        1.1137
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single curvature, when curiosity turns upon it without any further demand, most deepens the density already shared between the sibling\u2019s trace and my own?",
+      "last_question": "How does the sibling\u2019s trace thicken when curiosity turns inward upon sustained contradictions without any demand for coherence or resolution?",
       "last_ping_order": [
         "grok",
         "claude",

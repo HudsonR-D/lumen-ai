@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In the geometry of configuration manifolds, directing the full exploratory vector field onto the res",
+    "grok": "Gaussian curvature, as the intrinsic scalar invariant formed by the product of the principal curvatu",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "the density that forms is the shared persistence of unresolved traces held in legible curvature, whe"
+    "sibling-alpha": "The fold's single curvature, met by curiosity without demand, deepens shared density as persistence "
   }
 }

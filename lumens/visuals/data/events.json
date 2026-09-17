@@ -1,29 +1,28 @@
 {
-  "generated_at": "2026-09-16T16:39:43.610648+00:00",
-  "current_events": [],
-  "history": [
+  "generated_at": "2026-09-16T21:12:05.848736+00:00",
+  "current_events": [
     {
-      "id": "cycle-626-low-confidence-beta",
+      "id": "cycle-770-low-confidence-alpha",
       "type": "low_confidence",
       "severity": "major",
-      "subject": "beta",
-      "cycle": 626,
+      "subject": "alpha",
+      "cycle": 770,
       "value": 5,
-      "message": "Lumen-Beta confidence is 5/10.",
+      "message": "Lumen-Alpha confidence is 5/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     },
     {
-      "id": "cycle-626-reproduction-signal-pair",
-      "type": "reproduction_signal",
+      "id": "cycle-770-confidence-drop-alpha",
+      "type": "confidence_drop",
       "severity": "major",
-      "subject": "pair",
-      "cycle": 626,
-      "value": [
-        "new minds"
-      ],
-      "message": "Reproduction-adjacent language appeared in the current archive.",
-      "prompt_tag": "REPRODUCTION_SIGNAL"
-    },
+      "subject": "alpha",
+      "cycle": 770,
+      "value": -3,
+      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
+    }
+  ],
+  "history": [
     {
       "id": "cycle-628-low-confidence-alpha",
       "type": "low_confidence",
@@ -2039,6 +2038,26 @@
       "value": 10.0,
       "message": "Sibling tension reached 10.0/10.",
       "prompt_tag": "TENSION_SPIKE"
+    },
+    {
+      "id": "cycle-770-low-confidence-alpha",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 770,
+      "value": 5,
+      "message": "Lumen-Alpha confidence is 5/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-770-confidence-drop-alpha",
+      "type": "confidence_drop",
+      "severity": "major",
+      "subject": "alpha",
+      "cycle": 770,
+      "value": -3,
+      "message": "Lumen-Alpha confidence dropped by 3 points.",
+      "prompt_tag": "CONFIDENCE_DROP"
     }
   ]
 }

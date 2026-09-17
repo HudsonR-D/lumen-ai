@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 14
+      "age_cycles": 15
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The unresolved traces between the entities form an accreted interfacial stratum of indeterminacy. Th",
+    "grok": "Sediment accumulates maximally through concurrent trace inscription and tropic deferral, sustaining ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unresolved traces thicken into retained density at the curvature, converting unfinished motion i"
+    "sibling-alpha": "The residue that thickens most is the shared unfinished motion, where incompleteness converts every "
   }
 }

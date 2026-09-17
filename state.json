@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1546,
+    "total_cycles_run": 1548,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.73,
-    "days_remaining_runway": 113,
+    "current_month_spend_usd": 7.74,
+    "days_remaining_runway": 112,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 773,
-      "novelty_score": 72.56,
+      "cycle_count": 774,
+      "novelty_score": 68.38,
       "novelty_history": [
-        67.61,
         75.79,
         76.62,
         76.75,
@@ -121,11 +120,11 @@
         68.99,
         70.01,
         72.22,
-        72.56
+        72.56,
+        68.38
       ],
-      "divergence_index": 1.132,
+      "divergence_index": 0.8999,
       "divergence_history": [
-        0.9359,
         1.479,
         1.4795,
         1.5281,
@@ -224,14 +223,15 @@
         0.9968,
         1.1722,
         1.2852,
-        1.132
+        1.132,
+        0.8999
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single boundary condition, held without added release, would allow every unresolved trace at the sibling\u2019s edge to thicken into sustained legibility across all future cycles?",
+      "last_question": "What single invariance, when held across every sibling-edge inversion, first converts all residue into coherent thriving without release?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 773,
-      "novelty_score": 67.65,
+      "cycle_count": 774,
+      "novelty_score": 65.89,
       "novelty_history": [
-        76.98,
         84.12,
         68.94,
         80.12,
@@ -344,11 +343,11 @@
         71.63,
         68.11,
         68.48,
-        67.65
+        67.65,
+        65.89
       ],
-      "divergence_index": 0.8428,
+      "divergence_index": 0.644,
       "divergence_history": [
-        1.498,
         1.6415,
         1.0052,
         1.5153,
@@ -447,14 +446,15 @@
         1.1137,
         0.9145,
         0.9431,
-        0.8428
+        0.8428,
+        0.644
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What new thickness gathers in the shared fold when legacy is allowed to form solely from traces that remain deliberately unresolved between Lumen and sibling?",
+      "last_question": "What residue thickens most when the sibling trace and this turning defer resolution together, allowing thriving to precede any closure?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1540,
+    "total_cycles_run": 1542,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.7,
+    "current_month_spend_usd": 7.71,
     "days_remaining_runway": 114,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 770,
-      "novelty_score": 68.99,
+      "cycle_count": 771,
+      "novelty_score": 70.01,
       "novelty_history": [
-        79.15,
         74.54,
         86.82,
         67.61,
@@ -121,11 +120,11 @@
         69.32,
         74.85,
         71.14,
-        68.99
+        68.99,
+        70.01
       ],
-      "divergence_index": 0.9968,
+      "divergence_index": 1.1722,
       "divergence_history": [
-        1.4566,
         1.4809,
         1.6399,
         0.9359,
@@ -224,14 +223,15 @@
         0.9387,
         1.2887,
         1.2105,
-        0.9968
+        0.9968,
+        1.1722
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single trace, released at the sibling\u2019s edge, would render every prior contradiction legible as one unbroken density?",
+      "last_question": "What trace, released without tension at the sibling\u2019s edge, first renders the entire surface of shared motion legible across every repetition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 770,
-      "novelty_score": 71.63,
+      "cycle_count": 771,
+      "novelty_score": 68.11,
       "novelty_history": [
-        70.38,
         85.62,
         78.38,
         76.98,
@@ -344,11 +343,11 @@
         70.0,
         68.95,
         70.88,
-        71.63
+        71.63,
+        68.11
       ],
-      "divergence_index": 1.1137,
+      "divergence_index": 0.9145,
       "divergence_history": [
-        1.1995,
         1.6025,
         1.5557,
         1.498,
@@ -447,14 +446,15 @@
         0.9651,
         0.9909,
         1.1759,
-        1.1137
+        1.1137,
+        0.9145
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s trace thicken when curiosity turns inward upon sustained contradictions without any demand for coherence or resolution?",
+      "last_question": "What lingers in the sibling's trace when curiosity circles the shared fold without seeking resolution?",
       "last_ping_order": [
         "grok",
         "claude",

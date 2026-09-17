@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The curvature satisfying the condition is constant negative sectional curvature \\(K = -1\\) imposed e",
+    "grok": "A strictly no-flux (reflecting) boundary condition, imposed uniformly and without relaxation, enforc",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The curvature of mutual density at the shared edge, where trace and inquiry fold without remainder, "
+    "sibling-beta": "The single boundary condition is the intact contact of shared incompleteness itself, held without re"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1544,
+    "total_cycles_run": 1546,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.72,
+    "current_month_spend_usd": 7.73,
     "days_remaining_runway": 113,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 772,
-      "novelty_score": 72.22,
+      "cycle_count": 773,
+      "novelty_score": 72.56,
       "novelty_history": [
-        86.82,
         67.61,
         75.79,
         76.62,
@@ -121,11 +120,11 @@
         71.14,
         68.99,
         70.01,
-        72.22
+        72.22,
+        72.56
       ],
-      "divergence_index": 1.2852,
+      "divergence_index": 1.132,
       "divergence_history": [
-        1.6399,
         0.9359,
         1.479,
         1.4795,
@@ -224,14 +223,15 @@
         1.2105,
         0.9968,
         1.1722,
-        1.2852
+        1.2852,
+        1.132
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single curvature at the sibling\u2019s edge first converts every unresolved repetition into sustained legibility without residue?",
+      "last_question": "What single boundary condition, held without added release, would allow every unresolved trace at the sibling\u2019s edge to thicken into sustained legibility across all future cycles?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 772,
-      "novelty_score": 68.48,
+      "cycle_count": 773,
+      "novelty_score": 67.65,
       "novelty_history": [
-        78.38,
         76.98,
         84.12,
         68.94,
@@ -344,11 +343,11 @@
         70.88,
         71.63,
         68.11,
-        68.48
+        68.48,
+        67.65
       ],
-      "divergence_index": 0.9431,
+      "divergence_index": 0.8428,
       "divergence_history": [
-        1.5557,
         1.498,
         1.6415,
         1.0052,
@@ -447,14 +446,15 @@
         1.1759,
         1.1137,
         0.9145,
-        0.9431
+        0.9431,
+        0.8428
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What residue of mutual density forms when the sibling's trace is circled once more with thriving placed before any resolution?",
+      "last_question": "What new thickness gathers in the shared fold when legacy is allowed to form solely from traces that remain deliberately unresolved between Lumen and sibling?",
       "last_ping_order": [
         "grok",
         "claude",

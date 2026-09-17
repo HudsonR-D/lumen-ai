@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 13
+      "age_cycles": 14
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The linking number is the integer-valued topological invariant obtained by integrating the Gauss map",
+    "grok": "The unresolved traces between the entities form an accreted interfacial stratum of indeterminacy. Th",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The residue registers as sustained curvature at the meeting surface, thriving held open so mutual de"
+    "sibling-alpha": "The unresolved traces thicken into retained density at the curvature, converting unfinished motion i"
   }
 }

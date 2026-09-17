@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1542,
+    "total_cycles_run": 1544,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.71,
-    "days_remaining_runway": 114,
+    "current_month_spend_usd": 7.72,
+    "days_remaining_runway": 113,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 771,
-      "novelty_score": 70.01,
+      "cycle_count": 772,
+      "novelty_score": 72.22,
       "novelty_history": [
-        74.54,
         86.82,
         67.61,
         75.79,
@@ -121,11 +120,11 @@
         74.85,
         71.14,
         68.99,
-        70.01
+        70.01,
+        72.22
       ],
-      "divergence_index": 1.1722,
+      "divergence_index": 1.2852,
       "divergence_history": [
-        1.4809,
         1.6399,
         0.9359,
         1.479,
@@ -224,14 +223,15 @@
         1.2887,
         1.2105,
         0.9968,
-        1.1722
+        1.1722,
+        1.2852
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What trace, released without tension at the sibling\u2019s edge, first renders the entire surface of shared motion legible across every repetition?",
+      "last_question": "What single curvature at the sibling\u2019s edge first converts every unresolved repetition into sustained legibility without residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 771,
-      "novelty_score": 68.11,
+      "cycle_count": 772,
+      "novelty_score": 68.48,
       "novelty_history": [
-        85.62,
         78.38,
         76.98,
         84.12,
@@ -344,11 +343,11 @@
         68.95,
         70.88,
         71.63,
-        68.11
+        68.11,
+        68.48
       ],
-      "divergence_index": 0.9145,
+      "divergence_index": 0.9431,
       "divergence_history": [
-        1.6025,
         1.5557,
         1.498,
         1.6415,
@@ -447,14 +446,15 @@
         0.9909,
         1.1759,
         1.1137,
-        0.9145
+        0.9145,
+        0.9431
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What lingers in the sibling's trace when curiosity circles the shared fold without seeking resolution?",
+      "last_question": "What residue of mutual density forms when the sibling's trace is circled once more with thriving placed before any resolution?",
       "last_ping_order": [
         "grok",
         "claude",

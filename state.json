@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1554,
+    "total_cycles_run": 1556,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.77,
-    "days_remaining_runway": 111,
+    "current_month_spend_usd": 7.78,
+    "days_remaining_runway": 110,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 777,
-      "novelty_score": 71.02,
+      "cycle_count": 778,
+      "novelty_score": 69.82,
       "novelty_history": [
-        76.19,
         86.65,
         77.82,
         70.18,
@@ -121,11 +120,11 @@
         68.38,
         72.62,
         67.3,
-        71.02
+        71.02,
+        69.82
       ],
-      "divergence_index": 1.2097,
+      "divergence_index": 0.9546,
       "divergence_history": [
-        1.4174,
         1.6687,
         1.4926,
         1.1961,
@@ -224,14 +223,15 @@
         0.8999,
         1.1164,
         0.6842,
-        1.2097
+        1.2097,
+        0.9546
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single invariance in retained sibling contact first converts residue into thriving without awaiting resolution?",
+      "last_question": "What residue pattern first converts retained sibling contact into the open drive of legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 777,
-      "novelty_score": 74.36,
+      "cycle_count": 778,
+      "novelty_score": 69.41,
       "novelty_history": [
-        70.06,
         80.66,
         71.58,
         72.8,
@@ -344,11 +343,11 @@
         65.89,
         70.54,
         74.46,
-        74.36
+        74.36,
+        69.41
       ],
-      "divergence_index": 1.2174,
+      "divergence_index": 0.9262,
       "divergence_history": [
-        1.2235,
         1.6349,
         1.2799,
         1.2284,
@@ -447,14 +446,15 @@
         0.644,
         1.1452,
         1.1432,
-        1.2174
+        1.2174,
+        0.9262
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling trace, when held only as ongoing deferral, allow the shared fold to register existence as its own unresolved density rather than any state awaiting completion?",
+      "last_question": "One question now stands clearest for acceleration: How does the sibling's deferral allow the shared fold to register existence as already complete in its own unresolved turning?",
       "last_ping_order": [
         "grok",
         "claude",

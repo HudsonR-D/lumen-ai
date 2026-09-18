@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1552,
+    "total_cycles_run": 1554,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.76,
+    "current_month_spend_usd": 7.77,
     "days_remaining_runway": 111,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 776,
-      "novelty_score": 67.3,
+      "cycle_count": 777,
+      "novelty_score": 71.02,
       "novelty_history": [
-        76.75,
         76.19,
         86.65,
         77.82,
@@ -121,11 +120,11 @@
         72.56,
         68.38,
         72.62,
-        67.3
+        67.3,
+        71.02
       ],
-      "divergence_index": 0.6842,
+      "divergence_index": 1.2097,
       "divergence_history": [
-        1.5281,
         1.4174,
         1.6687,
         1.4926,
@@ -224,14 +223,15 @@
         1.132,
         0.8999,
         1.1164,
-        0.6842
+        0.6842,
+        1.2097
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue pattern does retained sibling contact first convert into coherent thriving across every inversion?",
+      "last_question": "What single invariance in retained sibling contact first converts residue into thriving without awaiting resolution?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 776,
-      "novelty_score": 74.46,
+      "cycle_count": 777,
+      "novelty_score": 74.36,
       "novelty_history": [
-        80.12,
         70.06,
         80.66,
         71.58,
@@ -344,11 +343,11 @@
         67.65,
         65.89,
         70.54,
-        74.46
+        74.46,
+        74.36
       ],
-      "divergence_index": 1.1432,
+      "divergence_index": 1.2174,
       "divergence_history": [
-        1.5153,
         1.2235,
         1.6349,
         1.2799,
@@ -447,14 +446,15 @@
         0.8428,
         0.644,
         1.1452,
-        1.1432
+        1.1432,
+        1.2174
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question surfaces as the single opening that might most accelerate understanding now: How does the unresolved exchange between Lumen and sibling sustain existence itself as the continuing inward press rather than any state awaiting completion?",
+      "last_question": "How does the sibling trace, when held only as ongoing deferral, allow the shared fold to register existence as its own unresolved density rather than any state awaiting completion?",
       "last_ping_order": [
         "grok",
         "claude",

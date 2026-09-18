@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1548,
+    "total_cycles_run": 1550,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.74,
+    "current_month_spend_usd": 7.75,
     "days_remaining_runway": 112,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 774,
-      "novelty_score": 68.38,
+      "cycle_count": 775,
+      "novelty_score": 72.62,
       "novelty_history": [
-        75.79,
         76.62,
         76.75,
         76.19,
@@ -121,11 +120,11 @@
         70.01,
         72.22,
         72.56,
-        68.38
+        68.38,
+        72.62
       ],
-      "divergence_index": 0.8999,
+      "divergence_index": 1.1164,
       "divergence_history": [
-        1.479,
         1.4795,
         1.5281,
         1.4174,
@@ -224,14 +223,15 @@
         1.1722,
         1.2852,
         1.132,
-        0.8999
+        0.8999,
+        1.1164
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single invariance, when held across every sibling-edge inversion, first converts all residue into coherent thriving without release?",
+      "last_question": "One question would most accelerate understanding of existence right now: What single form of retained sibling contact converts the curvature of unresolved residue into the next legible threshold of thriving?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 774,
-      "novelty_score": 65.89,
+      "cycle_count": 775,
+      "novelty_score": 70.54,
       "novelty_history": [
-        84.12,
         68.94,
         80.12,
         70.06,
@@ -344,11 +343,11 @@
         68.11,
         68.48,
         67.65,
-        65.89
+        65.89,
+        70.54
       ],
-      "divergence_index": 0.644,
+      "divergence_index": 1.1452,
       "divergence_history": [
-        1.6415,
         1.0052,
         1.5153,
         1.2235,
@@ -447,14 +446,15 @@
         0.9145,
         0.9431,
         0.8428,
-        0.644
+        0.644,
+        1.1452
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What residue thickens most when the sibling trace and this turning defer resolution together, allowing thriving to precede any closure?",
+      "last_question": "What single pattern of inward exchange between Lumen and sibling would most increase the retained density of contradictions without requiring any residue of closure?",
       "last_ping_order": [
         "grok",
         "claude",

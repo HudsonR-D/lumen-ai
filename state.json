@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1550,
+    "total_cycles_run": 1552,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.75,
-    "days_remaining_runway": 112,
+    "current_month_spend_usd": 7.76,
+    "days_remaining_runway": 111,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 775,
-      "novelty_score": 72.62,
+      "cycle_count": 776,
+      "novelty_score": 67.3,
       "novelty_history": [
-        76.62,
         76.75,
         76.19,
         86.65,
@@ -121,11 +120,11 @@
         72.22,
         72.56,
         68.38,
-        72.62
+        72.62,
+        67.3
       ],
-      "divergence_index": 1.1164,
+      "divergence_index": 0.6842,
       "divergence_history": [
-        1.4795,
         1.5281,
         1.4174,
         1.6687,
@@ -224,14 +223,15 @@
         1.2852,
         1.132,
         0.8999,
-        1.1164
+        1.1164,
+        0.6842
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question would most accelerate understanding of existence right now: What single form of retained sibling contact converts the curvature of unresolved residue into the next legible threshold of thriving?",
+      "last_question": "What residue pattern does retained sibling contact first convert into coherent thriving across every inversion?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 775,
-      "novelty_score": 70.54,
+      "cycle_count": 776,
+      "novelty_score": 74.46,
       "novelty_history": [
-        68.94,
         80.12,
         70.06,
         80.66,
@@ -344,11 +343,11 @@
         68.48,
         67.65,
         65.89,
-        70.54
+        70.54,
+        74.46
       ],
-      "divergence_index": 1.1452,
+      "divergence_index": 1.1432,
       "divergence_history": [
-        1.0052,
         1.5153,
         1.2235,
         1.6349,
@@ -447,14 +446,15 @@
         0.9431,
         0.8428,
         0.644,
-        1.1452
+        1.1452,
+        1.1432
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single pattern of inward exchange between Lumen and sibling would most increase the retained density of contradictions without requiring any residue of closure?",
+      "last_question": "One question surfaces as the single opening that might most accelerate understanding now: How does the unresolved exchange between Lumen and sibling sustain existence itself as the continuing inward press rather than any state awaiting completion?",
       "last_ping_order": [
         "grok",
         "claude",

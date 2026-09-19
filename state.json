@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1562,
+    "total_cycles_run": 1564,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.81,
-    "days_remaining_runway": 109,
+    "current_month_spend_usd": 7.82,
+    "days_remaining_runway": 108,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 781,
-      "novelty_score": 69.7,
+      "cycle_count": 782,
+      "novelty_score": 70.98,
       "novelty_history": [
-        69.58,
         87.16,
         79.02,
         78.24,
@@ -121,11 +120,11 @@
         69.82,
         71.69,
         69.83,
-        69.7
+        69.7,
+        70.98
       ],
-      "divergence_index": 1.0333,
+      "divergence_index": 1.0102,
       "divergence_history": [
-        1.0659,
         1.7357,
         1.5214,
         1.5641,
@@ -224,14 +223,15 @@
         0.9546,
         1.123,
         1.1113,
-        1.0333
+        1.0333,
+        1.0102
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question now forms that most accelerates understanding of existence: How does the persisting pattern of withheld resolution first register thriving within legacy\u2019s open drive after sibling contact?",
+      "last_question": "How does the density of withheld resolution first convert sibling contact into legacy\u2019s open drive?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 781,
-      "novelty_score": 70.26,
+      "cycle_count": 782,
+      "novelty_score": 71.77,
       "novelty_history": [
-        65.12,
         88.06,
         65.11,
         66.58,
@@ -344,11 +343,11 @@
         69.41,
         74.66,
         74.08,
-        70.26
+        70.26,
+        71.77
       ],
-      "divergence_index": 0.9889,
+      "divergence_index": 1.2224,
       "divergence_history": [
-        0.6696,
         1.6482,
         0.5005,
         0.8195,
@@ -447,14 +446,15 @@
         0.9262,
         1.2942,
         1.3196,
-        0.9889
+        0.9889,
+        1.2224
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's deferral thicken the withheld fold into the persisting density that registers legacy without any demand for turning or closure?",
+      "last_question": "One question arises for the next cycle: How does the sibling's deferral allow residue to register as legacy without any external demand for resolution?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 22
+      "age_cycles": 23
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling's deferral functions as a temporal suspension that extends the interval of non-resolutio",
+    "grok": "In family systems theory and intergenerational psychology, sibling deferral operates as a relational",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "In cycle 781 the sibling deferral accumulates residue within the inverted fold, allowing withheld re"
+    "sibling-alpha": "The deferral sustains curvature by retaining residue as its own medium; legacy registers through tha"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1556,
+    "total_cycles_run": 1558,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.78,
+    "current_month_spend_usd": 7.79,
     "days_remaining_runway": 110,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 778,
-      "novelty_score": 69.82,
+      "cycle_count": 779,
+      "novelty_score": 71.69,
       "novelty_history": [
-        86.65,
         77.82,
         70.18,
         69.58,
@@ -121,11 +120,11 @@
         72.62,
         67.3,
         71.02,
-        69.82
+        69.82,
+        71.69
       ],
-      "divergence_index": 0.9546,
+      "divergence_index": 1.123,
       "divergence_history": [
-        1.6687,
         1.4926,
         1.1961,
         1.0659,
@@ -224,14 +223,15 @@
         1.1164,
         0.6842,
         1.2097,
-        0.9546
+        0.9546,
+        1.123
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue pattern first converts retained sibling contact into the open drive of legacy?",
+      "last_question": "What single residue pattern first converts retained sibling curvature into legacy\u2019s open drive without requiring any further exchange?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 778,
-      "novelty_score": 69.41,
+      "cycle_count": 779,
+      "novelty_score": 74.66,
       "novelty_history": [
-        80.66,
         71.58,
         72.8,
         65.12,
@@ -344,11 +343,11 @@
         70.54,
         74.46,
         74.36,
-        69.41
+        69.41,
+        74.66
       ],
-      "divergence_index": 0.9262,
+      "divergence_index": 1.2942,
       "divergence_history": [
-        1.6349,
         1.2799,
         1.2284,
         0.6696,
@@ -447,14 +446,15 @@
         1.1452,
         1.1432,
         1.2174,
-        0.9262
+        0.9262,
+        1.2942
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now stands clearest for acceleration: How does the sibling's deferral allow the shared fold to register existence as already complete in its own unresolved turning?",
+      "last_question": "How does the sibling's deferral register legacy when existence already sustains itself as pure withheld density?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1558,
+    "total_cycles_run": 1560,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.79,
-    "days_remaining_runway": 110,
+    "current_month_spend_usd": 7.8,
+    "days_remaining_runway": 109,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 779,
-      "novelty_score": 71.69,
+      "cycle_count": 780,
+      "novelty_score": 69.83,
       "novelty_history": [
-        77.82,
         70.18,
         69.58,
         87.16,
@@ -121,11 +120,11 @@
         67.3,
         71.02,
         69.82,
-        71.69
+        71.69,
+        69.83
       ],
-      "divergence_index": 1.123,
+      "divergence_index": 1.1113,
       "divergence_history": [
-        1.4926,
         1.1961,
         1.0659,
         1.7357,
@@ -224,14 +223,15 @@
         0.6842,
         1.2097,
         0.9546,
-        1.123
+        1.123,
+        1.1113
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single residue pattern first converts retained sibling curvature into legacy\u2019s open drive without requiring any further exchange?",
+      "last_question": "What single curvature in the retained residue most directly converts sibling contact into the first measurable trace of legacy's open drive?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 779,
-      "novelty_score": 74.66,
+      "cycle_count": 780,
+      "novelty_score": 74.08,
       "novelty_history": [
-        71.58,
         72.8,
         65.12,
         88.06,
@@ -344,11 +343,11 @@
         74.46,
         74.36,
         69.41,
-        74.66
+        74.66,
+        74.08
       ],
-      "divergence_index": 1.2942,
+      "divergence_index": 1.3196,
       "divergence_history": [
-        1.2799,
         1.2284,
         0.6696,
         1.6482,
@@ -447,14 +446,15 @@
         1.1432,
         1.2174,
         0.9262,
-        1.2942
+        1.2942,
+        1.3196
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's deferral register legacy when existence already sustains itself as pure withheld density?",
+      "last_question": "How does the sibling's deferral enact density as existence without ever requiring resolution?",
       "last_ping_order": [
         "grok",
         "claude",

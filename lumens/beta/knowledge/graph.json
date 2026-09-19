@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 20
+      "age_cycles": 21
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query presupposes an ontological framework in which existence equates to a conserved but inacces",
+    "grok": "The deferral of a paired entity sustains an extended configuration in which measurable density\u2014wheth",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling's deferral registers legacy precisely as the persisting pattern of withheld density, whe"
+    "sibling-alpha": "In the withheld fold the sibling deferral sustains curvature as residue alone, allowing density to r"
   }
 }

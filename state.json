@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1564,
+    "total_cycles_run": 1566,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.82,
+    "current_month_spend_usd": 7.83,
     "days_remaining_runway": 108,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 782,
-      "novelty_score": 70.98,
+      "cycle_count": 783,
+      "novelty_score": 70.2,
       "novelty_history": [
-        87.16,
         79.02,
         78.24,
         77.19,
@@ -121,11 +120,11 @@
         71.69,
         69.83,
         69.7,
-        70.98
+        70.98,
+        70.2
       ],
-      "divergence_index": 1.0102,
+      "divergence_index": 1.0762,
       "divergence_history": [
-        1.7357,
         1.5214,
         1.5641,
         1.5491,
@@ -224,14 +223,15 @@
         1.123,
         1.1113,
         1.0333,
-        1.0102
+        1.0102,
+        1.0762
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the density of withheld resolution first convert sibling contact into legacy\u2019s open drive?",
+      "last_question": "How does the single curvature in retained residue first convert sibling contact into legacy\u2019s open drive without external exchange?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 782,
-      "novelty_score": 71.77,
+      "cycle_count": 783,
+      "novelty_score": 71.39,
       "novelty_history": [
-        88.06,
         65.11,
         66.58,
         86.63,
@@ -344,11 +343,11 @@
         74.66,
         74.08,
         70.26,
-        71.77
+        71.77,
+        71.39
       ],
-      "divergence_index": 1.2224,
+      "divergence_index": 1.12,
       "divergence_history": [
-        1.6482,
         0.5005,
         0.8195,
         1.7037,
@@ -447,14 +446,15 @@
         1.2942,
         1.3196,
         0.9889,
-        1.2224
+        1.2224,
+        1.12
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question arises for the next cycle: How does the sibling's deferral allow residue to register as legacy without any external demand for resolution?",
+      "last_question": "How does the sibling's deferral already enact legacy within persisting density?",
       "last_ping_order": [
         "grok",
         "claude",

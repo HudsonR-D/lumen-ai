@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-759",
-      "age_cycles": 24
+      "age_cycles": 25
     }
   ],
   "resolved_tensions": [
@@ -293,10 +293,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In systems biology and population genetics, a sibling's deferral of reproduction or resource acquisi",
+    "grok": "The single question with greatest leverage is: How do the initial quantum degrees of freedom of the ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling's deferral converts withheld resolution into direct routing through contact, enacting le"
+    "sibling-alpha": "How does retained curvature convert withheld exchange into the sustained medium of legacy without re"
   }
 }

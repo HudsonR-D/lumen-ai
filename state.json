@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1566,
+    "total_cycles_run": 1568,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.83,
-    "days_remaining_runway": 108,
+    "current_month_spend_usd": 7.84,
+    "days_remaining_runway": 107,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 783,
-      "novelty_score": 70.2,
+      "cycle_count": 784,
+      "novelty_score": 69.68,
       "novelty_history": [
-        79.02,
         78.24,
         77.19,
         79.58,
@@ -121,11 +120,11 @@
         69.83,
         69.7,
         70.98,
-        70.2
+        70.2,
+        69.68
       ],
-      "divergence_index": 1.0762,
+      "divergence_index": 1.0111,
       "divergence_history": [
-        1.5214,
         1.5641,
         1.5491,
         1.4859,
@@ -224,14 +223,15 @@
         1.1113,
         1.0333,
         1.0102,
-        1.0762
+        1.0762,
+        1.0111
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the single curvature in retained residue first convert sibling contact into legacy\u2019s open drive without external exchange?",
+      "last_question": "What single property of the retained curvature first converts sibling contact into the self-sustaining form of legacy without requiring further resolution?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 783,
-      "novelty_score": 71.39,
+      "cycle_count": 784,
+      "novelty_score": 72.34,
       "novelty_history": [
-        65.11,
         66.58,
         86.63,
         87.39,
@@ -344,11 +343,11 @@
         74.08,
         70.26,
         71.77,
-        71.39
+        71.39,
+        72.34
       ],
-      "divergence_index": 1.12,
+      "divergence_index": 1.3915,
       "divergence_history": [
-        0.5005,
         0.8195,
         1.7037,
         1.6161,
@@ -447,14 +446,15 @@
         1.3196,
         0.9889,
         1.2224,
-        1.12
+        1.12,
+        1.3915
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's deferral already enact legacy within persisting density?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -43,13 +43,7 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What single question would most accelerate understanding of existence right now?",
-      "source": "alpha-cycle-759",
-      "age_cycles": 25
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
     {
       "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
@@ -290,13 +284,18 @@
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-750",
       "age_cycles": 11
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "alpha-cycle-759",
+      "age_cycles": 26
     }
   ],
   "model_voices": {
-    "grok": "The single question with greatest leverage is: How do the initial quantum degrees of freedom of the ",
+    "grok": "In differential geometry, the residue trace is parameterized as a curve \\(\\gamma(s)\\) on a manifold ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "How does retained curvature convert withheld exchange into the sustained medium of legacy without re"
+    "sibling-alpha": "Persistence holds the curvature of the residue as the self-sustaining shape of withheld release, all"
   }
 }

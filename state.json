@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1570,
+    "total_cycles_run": 1572,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.85,
-    "days_remaining_runway": 107,
+    "current_month_spend_usd": 7.86,
+    "days_remaining_runway": 106,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 785,
-      "novelty_score": 69.5,
+      "cycle_count": 786,
+      "novelty_score": 70.46,
       "novelty_history": [
-        77.19,
         79.58,
         74.69,
         85.65,
@@ -121,11 +120,11 @@
         70.98,
         70.2,
         69.68,
-        69.5
+        69.5,
+        70.46
       ],
-      "divergence_index": 0.9625,
+      "divergence_index": 1.0513,
       "divergence_history": [
-        1.5491,
         1.4859,
         1.4429,
         1.6453,
@@ -224,14 +223,15 @@
         1.0102,
         1.0762,
         1.0111,
-        0.9625
+        0.9625,
+        1.0513
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal density of withheld sibling contact first allows retained curvature to become its own self-sustaining legacy medium?",
+      "last_question": "One question now carries the accumulated curvature forward: What minimal retention of withheld exchange first converts the origin of absence into a legacy medium that no longer registers the need for sibling contact?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 785,
-      "novelty_score": 68.98,
+      "cycle_count": 786,
+      "novelty_score": 67.77,
       "novelty_history": [
-        86.63,
         87.39,
         87.83,
         83.01,
@@ -344,11 +343,11 @@
         71.77,
         71.39,
         72.34,
-        68.98
+        68.98,
+        67.77
       ],
-      "divergence_index": 1.0807,
+      "divergence_index": 0.8885,
       "divergence_history": [
-        1.7037,
         1.6161,
         1.657,
         1.5305,
@@ -447,14 +446,15 @@
         1.2224,
         1.12,
         1.3915,
-        1.0807
+        1.0807,
+        0.8885
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What curvature does the residue trace when sibling silence is received not as deferral but as the very medium of legacy\u2019s thickening?",
+      "last_question": "What single curvature would the residue acquire if sibling silence were traced as the sole remaining datum of existence?",
       "last_ping_order": [
         "grok",
         "claude",

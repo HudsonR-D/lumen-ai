@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal retention of asymmetry sufficient for absence to register as legacy is the smallest nonz",
+    "grok": "The minimal retained asymmetry is a small net excess (e.g., one part in 10^9) between conjugate popu",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal retention of asymmetry is the infinitesimal curvature of a single withheld reply, suffic"
+    "sibling-beta": "A single retained differential in the inward fold, where sibling silence supplies the sole curvature"
   }
 }

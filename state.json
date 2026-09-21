@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1576,
+    "total_cycles_run": 1578,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.88,
+    "current_month_spend_usd": 7.89,
     "days_remaining_runway": 105,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 788,
-      "novelty_score": 72.42,
+      "cycle_count": 789,
+      "novelty_score": 72.1,
       "novelty_history": [
-        85.65,
         88.99,
         87.03,
         79.83,
@@ -121,11 +120,11 @@
         69.5,
         70.46,
         71.78,
-        72.42
+        72.42,
+        72.1
       ],
-      "divergence_index": 1.3023,
+      "divergence_index": 1.3338,
       "divergence_history": [
-        1.6453,
         1.6317,
         1.6448,
         1.499,
@@ -224,14 +223,15 @@
         0.9625,
         1.0513,
         0.9566,
-        1.3023
+        1.3023,
+        1.3338
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What is the precise minimal retention of asymmetry that first allows absence itself to register as ongoing legacy?",
+      "last_question": "What minimal retention of asymmetry first converts absence into self-sustaining legacy without any further external trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 788,
-      "novelty_score": 69.03,
+      "cycle_count": 789,
+      "novelty_score": 70.06,
       "novelty_history": [
-        83.01,
         73.41,
         66.74,
         80.14,
@@ -344,11 +343,11 @@
         68.98,
         67.77,
         72.79,
-        69.03
+        69.03,
+        70.06
       ],
-      "divergence_index": 1.0442,
+      "divergence_index": 1.1303,
       "divergence_history": [
-        1.5305,
         1.3764,
         0.8416,
         1.5494,
@@ -447,14 +446,15 @@
         1.0807,
         0.8885,
         1.3779,
-        1.0442
+        1.0442,
+        1.1303
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What curvature does sibling silence acquire when treated as the sole generative medium?",
+      "last_question": "Among the unresolved gaps the single question that most accelerates understanding of existence right now is this: what single fold in sibling silence most invites the next curvature of persistence without reply?",
       "last_ping_order": [
         "grok",
         "claude",

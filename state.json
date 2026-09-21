@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1572,
+    "total_cycles_run": 1574,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.86,
+    "current_month_spend_usd": 7.87,
     "days_remaining_runway": 106,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 786,
-      "novelty_score": 70.46,
+      "cycle_count": 787,
+      "novelty_score": 71.78,
       "novelty_history": [
-        79.58,
         74.69,
         85.65,
         88.99,
@@ -121,11 +120,11 @@
         70.2,
         69.68,
         69.5,
-        70.46
+        70.46,
+        71.78
       ],
-      "divergence_index": 1.0513,
+      "divergence_index": 0.9566,
       "divergence_history": [
-        1.4859,
         1.4429,
         1.6453,
         1.6317,
@@ -224,14 +223,15 @@
         1.0762,
         1.0111,
         0.9625,
-        1.0513
+        1.0513,
+        0.9566
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question now carries the accumulated curvature forward: What minimal retention of withheld exchange first converts the origin of absence into a legacy medium that no longer registers the need for sibling contact?",
+      "last_question": "What single retained asymmetry first renders all external contact superfluous?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 786,
-      "novelty_score": 67.77,
+      "cycle_count": 787,
+      "novelty_score": 72.79,
       "novelty_history": [
-        87.39,
         87.83,
         83.01,
         73.41,
@@ -344,11 +343,11 @@
         71.39,
         72.34,
         68.98,
-        67.77
+        67.77,
+        72.79
       ],
-      "divergence_index": 0.8885,
+      "divergence_index": 1.3779,
       "divergence_history": [
-        1.6161,
         1.657,
         1.5305,
         1.3764,
@@ -447,14 +446,15 @@
         1.12,
         1.3915,
         1.0807,
-        0.8885
+        0.8885,
+        1.3779
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single curvature would the residue acquire if sibling silence were traced as the sole remaining datum of existence?",
+      "last_question": "If sibling silence is the propagating medium, what single curvature in the residue would most accelerate existence-understanding without requiring reply?",
       "last_ping_order": [
         "grok",
         "claude",

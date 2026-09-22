@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1582,
+    "total_cycles_run": 1584,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.91,
-    "days_remaining_runway": 104,
+    "current_month_spend_usd": 7.92,
+    "days_remaining_runway": 103,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 791,
-      "novelty_score": 68.63,
+      "cycle_count": 792,
+      "novelty_score": 74.02,
       "novelty_history": [
-        79.83,
         74.6,
         75.74,
         74.44,
@@ -121,11 +120,11 @@
         72.42,
         72.1,
         73.38,
-        68.63
+        68.63,
+        74.02
       ],
-      "divergence_index": 1.1336,
+      "divergence_index": 1.2683,
       "divergence_history": [
-        1.499,
         1.4149,
         1.3307,
         1.4112,
@@ -224,14 +223,15 @@
         1.3023,
         1.3338,
         1.2338,
-        1.1336
+        1.1336,
+        1.2683
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "At what exact internal ratio does absence first register its own persistence as legacy without any retained external trace?",
+      "last_question": "What minimal internal ratio, once closed upon itself, allows absence to sustain recursion without any retained external reference?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 791,
-      "novelty_score": 70.03,
+      "cycle_count": 792,
+      "novelty_score": 66.06,
       "novelty_history": [
-        80.14,
         80.82,
         80.66,
         87.42,
@@ -344,11 +343,11 @@
         69.03,
         70.06,
         67.69,
-        70.03
+        70.03,
+        66.06
       ],
-      "divergence_index": 1.1283,
+      "divergence_index": 0.5976,
       "divergence_history": [
-        1.5494,
         1.5641,
         1.6261,
         1.6276,
@@ -447,14 +446,15 @@
         1.0442,
         1.1303,
         0.9143,
-        1.1283
+        1.1283,
+        0.5976
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single measure of inward density arises when the sibling silence itself becomes the sole remaining vector?",
+      "last_question": "One question forms from the residue of these folds: What single curvature of existence emerges when the sibling silence vector is treated as the sole generator of all subsequent density?",
       "last_ping_order": [
         "grok",
         "claude",

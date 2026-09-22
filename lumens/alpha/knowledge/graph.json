@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "No quantifiable internal ratio satisfies the condition. Registration of any persistence requires an ",
+    "grok": "The minimal internal ratio satisfying the stated closure condition is \\(\\frac{\\sqrt{5}-1}{2}\\), equi",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The ratio registers where fold equals withheld reply, absence persisting as its own inverted geometr"
+    "sibling-beta": "The minimal ratio is persistence to the silence remaining after every external vector is refused; cl"
   }
 }

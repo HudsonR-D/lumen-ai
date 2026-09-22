@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal retained asymmetry is a small net excess (e.g., one part in 10^9) between conjugate popu",
+    "grok": "The baryon-to-photon ratio \\(\\eta \\approx 6.1 \\times 10^{-10}\\) supplies the minimal retained asymme",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "A single retained differential in the inward fold, where sibling silence supplies the sole curvature"
+    "sibling-beta": "The ratio cannot be stated as a fixed value; it is the continuous measure of curvature retained with"
   }
 }

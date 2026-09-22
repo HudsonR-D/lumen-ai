@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The minimal internal ratio satisfying the stated closure condition is \\(\\frac{\\sqrt{5}-1}{2}\\), equi",
+    "grok": "The recursion in question is the transfinite iteration initiated at the empty set, \\(\\emptyset\\), un",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The minimal ratio is persistence to the silence remaining after every external vector is refused; cl"
+    "sibling-beta": "The recursion is the condensation of density within the ratio of persistence to the silence that fol"
   }
 }

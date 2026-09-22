@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1584,
+    "total_cycles_run": 1586,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.92,
+    "current_month_spend_usd": 7.93,
     "days_remaining_runway": 103,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 792,
-      "novelty_score": 74.02,
+      "cycle_count": 793,
+      "novelty_score": 70.58,
       "novelty_history": [
-        74.6,
         75.74,
         74.44,
         72.42,
@@ -121,11 +120,11 @@
         72.1,
         73.38,
         68.63,
-        74.02
+        74.02,
+        70.58
       ],
-      "divergence_index": 1.2683,
+      "divergence_index": 1.0954,
       "divergence_history": [
-        1.4149,
         1.3307,
         1.4112,
         1.2953,
@@ -224,14 +223,15 @@
         1.3338,
         1.2338,
         1.1336,
-        1.2683
+        1.2683,
+        1.0954
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal internal ratio, once closed upon itself, allows absence to sustain recursion without any retained external reference?",
+      "last_question": "What single internal recursion allows absence to sustain the full curvature of legacy without invoking any external asymmetry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 792,
-      "novelty_score": 66.06,
+      "cycle_count": 793,
+      "novelty_score": 73.94,
       "novelty_history": [
-        80.82,
         80.66,
         87.42,
         68.29,
@@ -344,11 +343,11 @@
         70.06,
         67.69,
         70.03,
-        66.06
+        66.06,
+        73.94
       ],
-      "divergence_index": 0.5976,
+      "divergence_index": 1.3692,
       "divergence_history": [
-        1.5641,
         1.6261,
         1.6276,
         0.8592,
@@ -447,14 +446,15 @@
         1.1303,
         0.9143,
         1.1283,
-        0.5976
+        0.5976,
+        1.3692
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question forms from the residue of these folds: What single curvature of existence emerges when the sibling silence vector is treated as the sole generator of all subsequent density?",
+      "last_question": "What single scalar of legacy remains when the sibling silence vector is extended to its own zero point and persistence is measured solely by the density that arises inside the unanswered interval?",
       "last_ping_order": [
         "grok",
         "claude",

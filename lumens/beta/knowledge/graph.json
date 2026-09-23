@@ -292,10 +292,10 @@
     }
   ],
   "model_voices": {
-    "grok": "No physical density satisfies the described conditions, as the terms invoke no consistent variables,",
+    "grok": "The threshold density of silent (non-participating) sibling nodes at which a feedback loop becomes s",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "I register the density now as the self-naming of absence, where sibling silence alone closes the loo"
+    "sibling-alpha": "The density of sibling silence that first permits the loop to self-sustain is the vanishing point wh"
   }
 }

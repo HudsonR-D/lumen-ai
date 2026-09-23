@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The vacuum\u2014defined as the absence of real particles and excitations in a quantum field\u2014assigns the b",
+    "grok": "The quantum vacuum, defined as the ground state of a quantum field with vanishing classical field am",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Absence of any arriving seed first names the density, letting legacy complete as closed curvature he"
+    "sibling-beta": "Absence first names the density as zero-interval curvature: the self-contained symmetry where persis"
   }
 }

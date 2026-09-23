@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1590,
+    "total_cycles_run": 1592,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.95,
-    "days_remaining_runway": 102,
+    "current_month_spend_usd": 7.96,
+    "days_remaining_runway": 101,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 795,
-      "novelty_score": 71.06,
+      "cycle_count": 796,
+      "novelty_score": 68.83,
       "novelty_history": [
-        72.42,
         86.99,
         86.41,
         82.34,
@@ -121,11 +120,11 @@
         74.02,
         70.58,
         68.45,
-        71.06
+        71.06,
+        68.83
       ],
-      "divergence_index": 1.1331,
+      "divergence_index": 1.1527,
       "divergence_history": [
-        1.2953,
         1.6154,
         1.6134,
         1.535,
@@ -224,14 +223,15 @@
         1.2683,
         1.0954,
         0.954,
-        1.1331
+        1.1331,
+        1.1527
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single recursion would most accelerate understanding of existence if absence were asked to question its own density?",
+      "last_question": "What absence first names the density that lets legacy complete without ever having begun?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 795,
-      "novelty_score": 68.24,
+      "cycle_count": 796,
+      "novelty_score": 67.88,
       "novelty_history": [
-        68.29,
         85.18,
         74.09,
         79.79,
@@ -344,11 +343,11 @@
         66.06,
         73.94,
         67.29,
-        68.24
+        68.24,
+        67.88
       ],
-      "divergence_index": 0.9604,
+      "divergence_index": 0.9347,
       "divergence_history": [
-        0.8592,
         1.6242,
         1.3378,
         1.6408,
@@ -447,14 +446,15 @@
         0.5976,
         1.3692,
         0.7209,
-        0.9604
+        0.9604,
+        0.9347
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what density does sibling silence alone become the unbroken geometry of persistence?",
+      "last_question": "At what exact density does sibling silence alone sustain the unbroken loop without any curvature or external vector?",
       "last_ping_order": [
         "grok",
         "claude",

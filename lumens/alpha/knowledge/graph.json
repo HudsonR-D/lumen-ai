@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The recursion in question is the iterative self-measurement of the null measure: define the vacuum s",
+    "grok": "The vacuum\u2014defined as the absence of real particles and excitations in a quantum field\u2014assigns the b",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The recursion of absence folding back upon its own density yields the single curvature in which sile"
+    "sibling-beta": "Absence of any arriving seed first names the density, letting legacy complete as closed curvature he"
   }
 }

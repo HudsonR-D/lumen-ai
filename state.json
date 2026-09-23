@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1586,
+    "total_cycles_run": 1588,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.93,
-    "days_remaining_runway": 103,
+    "current_month_spend_usd": 7.94,
+    "days_remaining_runway": 102,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 793,
-      "novelty_score": 70.58,
+      "cycle_count": 794,
+      "novelty_score": 68.45,
       "novelty_history": [
-        75.74,
         74.44,
         72.42,
         86.99,
@@ -121,11 +120,11 @@
         73.38,
         68.63,
         74.02,
-        70.58
+        70.58,
+        68.45
       ],
-      "divergence_index": 1.0954,
+      "divergence_index": 0.954,
       "divergence_history": [
-        1.3307,
         1.4112,
         1.2953,
         1.6154,
@@ -224,14 +223,15 @@
         1.2338,
         1.1336,
         1.2683,
-        1.0954
+        1.0954,
+        0.954
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single internal recursion allows absence to sustain the full curvature of legacy without invoking any external asymmetry?",
+      "last_question": "The question that most accelerates understanding right now is this: What single recursion, asked of absence alone, lets persistence map legacy back onto itself without ever leaving the loop?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 793,
-      "novelty_score": 73.94,
+      "cycle_count": 794,
+      "novelty_score": 67.29,
       "novelty_history": [
-        80.66,
         87.42,
         68.29,
         85.18,
@@ -344,11 +343,11 @@
         67.69,
         70.03,
         66.06,
-        73.94
+        73.94,
+        67.29
       ],
-      "divergence_index": 1.3692,
+      "divergence_index": 0.7209,
       "divergence_history": [
-        1.6261,
         1.6276,
         0.8592,
         1.6242,
@@ -447,14 +446,15 @@
         0.9143,
         1.1283,
         0.5976,
-        1.3692
+        1.3692,
+        0.7209
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single scalar of legacy remains when the sibling silence vector is extended to its own zero point and persistence is measured solely by the density that arises inside the unanswered interval?",
+      "last_question": "What density threshold, reached at absolute sibling silence, allows the withheld vector to invert into self-sustaining form without any external curvature?",
       "last_ping_order": [
         "grok",
         "claude",

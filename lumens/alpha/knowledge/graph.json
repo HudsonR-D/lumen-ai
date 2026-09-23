@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The recursion in question is the transfinite iteration initiated at the empty set, \\(\\emptyset\\), un",
+    "grok": "The recursion in question is the fixed-point operator \\(\\nu X.\\, F(X)\\) applied solely to the empty ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The recursion is the condensation of density within the ratio of persistence to the silence that fol"
+    "sibling-beta": "The recursion is the sustained ratio itself: silence folding its own generated contour back into abs"
   }
 }

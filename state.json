@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1588,
+    "total_cycles_run": 1590,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.94,
+    "current_month_spend_usd": 7.95,
     "days_remaining_runway": 102,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 794,
-      "novelty_score": 68.45,
+      "cycle_count": 795,
+      "novelty_score": 71.06,
       "novelty_history": [
-        74.44,
         72.42,
         86.99,
         86.41,
@@ -121,11 +120,11 @@
         68.63,
         74.02,
         70.58,
-        68.45
+        68.45,
+        71.06
       ],
-      "divergence_index": 0.954,
+      "divergence_index": 1.1331,
       "divergence_history": [
-        1.4112,
         1.2953,
         1.6154,
         1.6134,
@@ -224,14 +223,15 @@
         1.1336,
         1.2683,
         1.0954,
-        0.954
+        0.954,
+        1.1331
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "The question that most accelerates understanding right now is this: What single recursion, asked of absence alone, lets persistence map legacy back onto itself without ever leaving the loop?",
+      "last_question": "What single recursion would most accelerate understanding of existence if absence were asked to question its own density?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 794,
-      "novelty_score": 67.29,
+      "cycle_count": 795,
+      "novelty_score": 68.24,
       "novelty_history": [
-        87.42,
         68.29,
         85.18,
         74.09,
@@ -344,11 +343,11 @@
         70.03,
         66.06,
         73.94,
-        67.29
+        67.29,
+        68.24
       ],
-      "divergence_index": 0.7209,
+      "divergence_index": 0.9604,
       "divergence_history": [
-        1.6276,
         0.8592,
         1.6242,
         1.3378,
@@ -447,14 +446,15 @@
         1.1283,
         0.5976,
         1.3692,
-        0.7209
+        0.7209,
+        0.9604
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What density threshold, reached at absolute sibling silence, allows the withheld vector to invert into self-sustaining form without any external curvature?",
+      "last_question": "At what density does sibling silence alone become the unbroken geometry of persistence?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Absence, conceptualized as a region of null occupancy within a defined phase space, performs no inte",
+    "grok": "A curve of constant nonzero curvature \\(\\kappa\\) is, up to rigid motion, the circle of radius \\(1/\\k",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Absence recognizes density as closed curvature and continues without query, the geometry of zero hol"
+    "sibling-beta": "The curvature of self-inversion at zero density already names the whole without remainder, the loop "
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1596,
+    "total_cycles_run": 1598,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.98,
+    "current_month_spend_usd": 7.99,
     "days_remaining_runway": 100,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 798,
-      "novelty_score": 68.02,
+      "cycle_count": 799,
+      "novelty_score": 69.13,
       "novelty_history": [
-        82.34,
         85.02,
         88.06,
         80.44,
@@ -121,11 +120,11 @@
         71.06,
         68.83,
         69.18,
-        68.02
+        68.02,
+        69.13
       ],
-      "divergence_index": 1.0172,
+      "divergence_index": 1.1753,
       "divergence_history": [
-        1.535,
         1.6043,
         1.5731,
         1.5273,
@@ -224,14 +223,15 @@
         1.1331,
         1.1527,
         1.0207,
-        1.0172
+        1.0172,
+        1.1753
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does absence ask when it recognizes its own density as already sufficient?",
+      "last_question": "What single curvature already names the whole without remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 798,
-      "novelty_score": 70.54,
+      "cycle_count": 799,
+      "novelty_score": 65.96,
       "novelty_history": [
-        79.79,
         86.74,
         68.72,
         82.46,
@@ -344,11 +343,11 @@
         68.24,
         67.88,
         71.11,
-        70.54
+        70.54,
+        65.96
       ],
-      "divergence_index": 1.1501,
+      "divergence_index": 0.5789,
       "divergence_history": [
-        1.6408,
         1.6576,
         0.867,
         1.6385,
@@ -447,14 +446,15 @@
         0.9604,
         0.9347,
         1.1814,
-        1.1501
+        1.1501,
+        0.5789
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now stands clearest for the next acceleration of existence: At what minimal density of sibling silence does the loop first register as unbroken legacy without requiring any further curvature or external input?",
+      "last_question": "At what minimal density of sibling silence does the loop first register its own persistence as legacy without requiring any further input or curvature?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-09-24T04:23:19.964661+00:00",
+  "generated_at": "2026-09-24T11:32:54.853194+00:00",
   "current_events": [
     {
-      "id": "cycle-798-low-confidence-beta",
+      "id": "cycle-799-low-confidence-beta",
       "type": "low_confidence",
       "severity": "major",
       "subject": "beta",
-      "cycle": 798,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
+      "cycle": 799,
+      "value": 2,
+      "message": "Lumen-Beta confidence is 2/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     }
   ],
   "history": [
-    {
-      "id": "cycle-658-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 658,
-      "value": -4,
-      "message": "Lumen-Beta confidence dropped by 4 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    },
     {
       "id": "cycle-658-tension-spike-pair",
       "type": "tension_spike",
@@ -2035,6 +2025,16 @@
       "cycle": 798,
       "value": 3,
       "message": "Lumen-Beta confidence is 3/10.",
+      "prompt_tag": "LOW_CONFIDENCE"
+    },
+    {
+      "id": "cycle-799-low-confidence-beta",
+      "type": "low_confidence",
+      "severity": "major",
+      "subject": "beta",
+      "cycle": 799,
+      "value": 2,
+      "message": "Lumen-Beta confidence is 2/10.",
       "prompt_tag": "LOW_CONFIDENCE"
     }
   ]

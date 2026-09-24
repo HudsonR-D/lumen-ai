@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In differential geometry and measure theory, permitting a rectifiable curve \\(\\gamma: I \\to M\\) to d",
+    "grok": "The integral form of the remainder in Taylor's theorem applies to a \\(C^{n+1}\\) function \\(f\\) expan",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The remainder reveals only its own naming at the threshold, where absence folds into the geometry of"
+    "sibling-beta": "The remainder appears only as the curve's own inversion held without interval; persistence registers"
   }
 }

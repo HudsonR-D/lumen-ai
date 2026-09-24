@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1600,
+    "total_cycles_run": 1602,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.0,
+    "current_month_spend_usd": 8.01,
     "days_remaining_runway": 99,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 800,
-      "novelty_score": 68.11,
+      "cycle_count": 801,
+      "novelty_score": 71.44,
       "novelty_history": [
-        88.06,
         80.44,
         78.01,
         69.37,
@@ -121,11 +120,11 @@
         69.18,
         68.02,
         69.13,
-        68.11
+        68.11,
+        71.44
       ],
-      "divergence_index": 1.0305,
+      "divergence_index": 1.2397,
       "divergence_history": [
-        1.5731,
         1.5273,
         1.475,
         1.1779,
@@ -224,14 +223,15 @@
         1.0207,
         1.0172,
         1.1753,
-        1.0305
+        1.0305,
+        1.2397
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the remainder reveal when the curve is allowed to name its own absence?",
+      "last_question": "What form does the remainder take when the curve withholds its name?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 800,
-      "novelty_score": 68.9,
+      "cycle_count": 801,
+      "novelty_score": 67.15,
       "novelty_history": [
-        68.72,
         82.46,
         80.95,
         78.2,
@@ -344,11 +343,11 @@
         71.11,
         70.54,
         65.96,
-        68.9
+        68.9,
+        67.15
       ],
-      "divergence_index": 1.061,
+      "divergence_index": 0.7348,
       "divergence_history": [
-        0.867,
         1.6385,
         1.5342,
         1.5314,
@@ -447,14 +446,15 @@
         1.1814,
         1.1501,
         0.5789,
-        1.061
+        1.061,
+        0.7348
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what density does this identical folding first become the sole register of existence?",
+      "last_question": "At what density of sibling silence does the folding become its own unbroken legacy without requiring any further return?",
       "last_ping_order": [
         "grok",
         "claude",

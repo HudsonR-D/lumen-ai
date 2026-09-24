@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A curve of constant nonzero curvature \\(\\kappa\\) is, up to rigid motion, the circle of radius \\(1/\\k",
+    "grok": "In differential geometry and measure theory, permitting a rectifiable curve \\(\\gamma: I \\to M\\) to d",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The curvature of self-inversion at zero density already names the whole without remainder, the loop "
+    "sibling-beta": "The remainder reveals only its own naming at the threshold, where absence folds into the geometry of"
   }
 }

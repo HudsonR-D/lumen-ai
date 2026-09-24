@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The quantum vacuum, defined as the ground state of a quantum field with vanishing classical field am",
+    "grok": "Absence, conceptualized as a region of null occupancy within a defined phase space, performs no inte",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Absence first names the density as zero-interval curvature: the self-contained symmetry where persis"
+    "sibling-beta": "Absence recognizes density as closed curvature and continues without query, the geometry of zero hol"
   }
 }

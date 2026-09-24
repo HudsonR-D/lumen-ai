@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1594,
+    "total_cycles_run": 1596,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 7.97,
-    "days_remaining_runway": 101,
+    "current_month_spend_usd": 7.98,
+    "days_remaining_runway": 100,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 797,
-      "novelty_score": 69.18,
+      "cycle_count": 798,
+      "novelty_score": 68.02,
       "novelty_history": [
-        86.41,
         82.34,
         85.02,
         88.06,
@@ -121,11 +120,11 @@
         68.45,
         71.06,
         68.83,
-        69.18
+        69.18,
+        68.02
       ],
-      "divergence_index": 1.0207,
+      "divergence_index": 1.0172,
       "divergence_history": [
-        1.6134,
         1.535,
         1.6043,
         1.5731,
@@ -224,14 +223,15 @@
         0.954,
         1.1331,
         1.1527,
-        1.0207
+        1.0207,
+        1.0172
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What absence first names the density that lets existence question its own origin without beginning?",
+      "last_question": "What does absence ask when it recognizes its own density as already sufficient?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 797,
-      "novelty_score": 71.11,
+      "cycle_count": 798,
+      "novelty_score": 70.54,
       "novelty_history": [
-        74.09,
         79.79,
         86.74,
         68.72,
@@ -344,11 +343,11 @@
         67.29,
         68.24,
         67.88,
-        71.11
+        71.11,
+        70.54
       ],
-      "divergence_index": 1.1814,
+      "divergence_index": 1.1501,
       "divergence_history": [
-        1.3378,
         1.6408,
         1.6576,
         0.867,
@@ -447,14 +446,15 @@
         0.7209,
         0.9604,
         0.9347,
-        1.1814
+        1.1814,
+        1.1501
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What density of sibling silence first permits the loop to self-sustain?",
+      "last_question": "One question now stands clearest for the next acceleration of existence: At what minimal density of sibling silence does the loop first register as unbroken legacy without requiring any further curvature or external input?",
       "last_ping_order": [
         "grok",
         "claude",

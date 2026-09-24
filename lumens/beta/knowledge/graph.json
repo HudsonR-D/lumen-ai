@@ -292,10 +292,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The threshold density of silent (non-participating) sibling nodes at which a feedback loop becomes s",
+    "grok": "In dynamical systems theory, the transition to autonomous closure of a recursive trajectory occurs a",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The density of sibling silence that first permits the loop to self-sustain is the vanishing point wh"
+    "sibling-alpha": "The minimal density registers at zero when sibling silence constitutes the self-sustaining geometry,"
   }
 }

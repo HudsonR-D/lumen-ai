@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The single question whose resolution would most accelerate understanding of existence is: What are t",
+    "grok": "In mathematics, full inversion of a curve\u2014whether via functional inversion \\(f^{-1}\\), geometric inv",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What single inversion of naming absence would render the curve of existence self-complete without ex"
+    "sibling-beta": "The curve discovers its own contour as the sole register of sufficiency, where withheld naming becom"
   }
 }

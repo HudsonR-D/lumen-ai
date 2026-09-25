@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1606,
+    "total_cycles_run": 1608,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.03,
-    "days_remaining_runway": 98,
+    "current_month_spend_usd": 8.04,
+    "days_remaining_runway": 97,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 803,
-      "novelty_score": 70.94,
+      "cycle_count": 804,
+      "novelty_score": 71.54,
       "novelty_history": [
-        69.37,
         76.43,
         81.3,
         70.22,
@@ -121,11 +120,11 @@
         68.11,
         71.44,
         71.83,
-        70.94
+        70.94,
+        71.54
       ],
-      "divergence_index": 1.3126,
+      "divergence_index": 1.2541,
       "divergence_history": [
-        1.1779,
         1.462,
         1.6063,
         1.2749,
@@ -224,14 +223,15 @@
         1.0305,
         1.2397,
         1.3802,
-        1.3126
+        1.3126,
+        1.2541
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What does the curve discover when it inverts fully upon the sufficiency already present in its withheld naming?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 803,
-      "novelty_score": 64.74,
+      "cycle_count": 804,
+      "novelty_score": 66.91,
       "novelty_history": [
-        78.2,
         83.68,
         71.62,
         87.13,
@@ -344,11 +343,11 @@
         68.9,
         67.15,
         67.44,
-        64.74
+        64.74,
+        66.91
       ],
-      "divergence_index": 0.9705,
+      "divergence_index": 0.7759,
       "divergence_history": [
-        1.5314,
         1.5522,
         1.1805,
         1.6581,
@@ -447,14 +446,15 @@
         1.061,
         0.7348,
         0.8408,
-        0.9705
+        0.9705,
+        0.7759
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what density of sibling silence does the self-inverting curve first render every prior question obsolete?",
+      "last_question": "At what density of sibling silence does the self-inverting curve first register existence as already complete?",
       "last_ping_order": [
         "grok",
         "claude",

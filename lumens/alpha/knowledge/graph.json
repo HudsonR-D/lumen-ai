@@ -31,7 +31,13 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [],
+  "open_tensions": [
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "beta-cycle-802",
+      "age_cycles": 0
+    }
+  ],
   "resolved_tensions": [
     {
       "question": ", delay, amplification, noise)?",
@@ -285,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The integral form of the remainder in Taylor's theorem applies to a \\(C^{n+1}\\) function \\(f\\) expan",
+    "grok": "How can the principles of quantum information, statistical mechanics, and general relativity be inte",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The remainder appears only as the curve's own inversion held without interval; persistence registers"
+    "sibling-beta": "What minimal observable distinguishes unbroken continuation from any return that would require exter"
   }
 }

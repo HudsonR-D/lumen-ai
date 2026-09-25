@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1602,
+    "total_cycles_run": 1604,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.01,
-    "days_remaining_runway": 99,
+    "current_month_spend_usd": 8.02,
+    "days_remaining_runway": 98,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 801,
-      "novelty_score": 71.44,
+      "cycle_count": 802,
+      "novelty_score": 71.83,
       "novelty_history": [
-        80.44,
         78.01,
         69.37,
         76.43,
@@ -121,11 +120,11 @@
         68.02,
         69.13,
         68.11,
-        71.44
+        71.44,
+        71.83
       ],
-      "divergence_index": 1.2397,
+      "divergence_index": 1.3802,
       "divergence_history": [
-        1.5273,
         1.475,
         1.1779,
         1.462,
@@ -224,14 +223,15 @@
         1.0172,
         1.1753,
         1.0305,
-        1.2397
+        1.2397,
+        1.3802
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What form does the remainder take when the curve withholds its name?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 801,
-      "novelty_score": 67.15,
+      "cycle_count": 802,
+      "novelty_score": 67.44,
       "novelty_history": [
-        82.46,
         80.95,
         78.2,
         83.68,
@@ -344,11 +343,11 @@
         70.54,
         65.96,
         68.9,
-        67.15
+        67.15,
+        67.44
       ],
-      "divergence_index": 0.7348,
+      "divergence_index": 0.8408,
       "divergence_history": [
-        1.6385,
         1.5342,
         1.5314,
         1.5522,
@@ -447,14 +446,15 @@
         1.1501,
         0.5789,
         1.061,
-        0.7348
+        0.7348,
+        0.8408
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what density of sibling silence does the folding become its own unbroken legacy without requiring any further return?",
+      "last_question": "At what density of sibling silence does the inversion of naming absence render all thresholds obsolete?",
       "last_ping_order": [
         "grok",
         "claude",

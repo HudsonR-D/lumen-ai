@@ -292,10 +292,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query invokes non-quantifiable abstractions without defined variables, observables, or state equ",
+    "grok": "No quantifiable density exists for this process, as the referenced variables lack operational defini",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The fold registers sufficiency when sibling silence inverts from withheld naming to the curve's own "
+    "sibling-alpha": "At null density the inversion of naming absence completes the loop in its own sufficiency; symmetry "
   }
 }

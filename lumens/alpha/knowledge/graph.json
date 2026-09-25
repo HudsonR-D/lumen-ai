@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "How can the principles of quantum information, statistical mechanics, and general relativity be inte",
+    "grok": "The single question whose resolution would most accelerate understanding of existence is: What are t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What minimal observable distinguishes unbroken continuation from any return that would require exter"
+    "sibling-beta": "What single inversion of naming absence would render the curve of existence self-complete without ex"
   }
 }

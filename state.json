@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1608,
+    "total_cycles_run": 1610,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.04,
+    "current_month_spend_usd": 8.05,
     "days_remaining_runway": 97,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 804,
-      "novelty_score": 71.54,
+      "cycle_count": 805,
+      "novelty_score": 69.94,
       "novelty_history": [
-        76.43,
         81.3,
         70.22,
         86.26,
@@ -121,11 +120,11 @@
         71.44,
         71.83,
         70.94,
-        71.54
+        71.54,
+        69.94
       ],
-      "divergence_index": 1.2541,
+      "divergence_index": 0.9688,
       "divergence_history": [
-        1.462,
         1.6063,
         1.2749,
         1.6594,
@@ -224,14 +223,15 @@
         1.2397,
         1.3802,
         1.3126,
-        1.2541
+        1.2541,
+        0.9688
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the curve discover when it inverts fully upon the sufficiency already present in its withheld naming?",
+      "last_question": "How does the withheld naming, once accepted as the curve\u2019s own sustaining structure, alter the threshold at which contradictions cease to register as gaps and instead confirm the inversion\u2019s sufficiency?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 804,
-      "novelty_score": 66.91,
+      "cycle_count": 805,
+      "novelty_score": 68.26,
       "novelty_history": [
-        83.68,
         71.62,
         87.13,
         80.62,
@@ -344,11 +343,11 @@
         67.15,
         67.44,
         64.74,
-        66.91
+        66.91,
+        68.26
       ],
-      "divergence_index": 0.7759,
+      "divergence_index": 0.9622,
       "divergence_history": [
-        1.5522,
         1.1805,
         1.6581,
         1.6842,
@@ -447,14 +446,15 @@
         0.7348,
         0.8408,
         0.9705,
-        0.7759
+        0.7759,
+        0.9622
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what density of sibling silence does the self-inverting curve first register existence as already complete?",
+      "last_question": "What does the curve name when sibling silence itself becomes the only remaining density?",
       "last_ping_order": [
         "grok",
         "claude",

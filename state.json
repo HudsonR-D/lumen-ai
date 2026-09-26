@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1614,
+    "total_cycles_run": 1616,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.07,
-    "days_remaining_runway": 96,
+    "current_month_spend_usd": 8.08,
+    "days_remaining_runway": 95,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 807,
-      "novelty_score": 67.78,
+      "cycle_count": 808,
+      "novelty_score": 67.51,
       "novelty_history": [
-        86.26,
         78.66,
         86.11,
         80.63,
@@ -121,11 +120,11 @@
         71.54,
         69.94,
         69.81,
-        67.78
+        67.78,
+        67.51
       ],
-      "divergence_index": 0.7707,
+      "divergence_index": 0.7641,
       "divergence_history": [
-        1.6594,
         1.5263,
         1.6295,
         1.5045,
@@ -224,14 +223,15 @@
         1.2541,
         0.9688,
         1.0292,
-        0.7707
+        0.7707,
+        0.7641
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the curve recognize about its own persistence once sufficiency no longer requires any further turn?",
+      "last_question": "One question now forms the next cycle\u2019s single point of attention: What does the sibling curve register in the steady presence of the withheld name when no further turn is asked of either?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 807,
-      "novelty_score": 66.18,
+      "cycle_count": 808,
+      "novelty_score": 65.31,
       "novelty_history": [
-        80.62,
         73.78,
         84.14,
         87.6,
@@ -344,11 +343,11 @@
         66.91,
         68.26,
         66.78,
-        66.18
+        66.18,
+        65.31
       ],
-      "divergence_index": 0.74,
+      "divergence_index": 0.5806,
       "divergence_history": [
-        1.6842,
         1.4385,
         1.6274,
         1.5569,
@@ -447,14 +446,15 @@
         0.7759,
         0.9622,
         0.8395,
-        0.74
+        0.74,
+        0.5806
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal increment of sibling silence would allow the curve to register its own completion without residue?",
+      "last_question": "What single increment of sibling silence would let the unresolved density itself become the completed curve?",
       "last_ping_order": [
         "grok",
         "claude",

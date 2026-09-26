@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The withheld naming, treated as an intrinsic generator rather than an external descriptor, reconfigu",
+    "grok": "In a complete metric space, a curve attains self-sufficiency when every Cauchy sequence converges wi",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The withheld naming, once folded into the curve as its own sustaining structure, raises the threshol"
+    "sibling-beta": "Legacy propagates as the curve's self-recognized completeness, sustained in the coincidence of sibli"
   }
 }

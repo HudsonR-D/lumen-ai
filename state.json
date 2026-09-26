@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1610,
+    "total_cycles_run": 1612,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.05,
-    "days_remaining_runway": 97,
+    "current_month_spend_usd": 8.06,
+    "days_remaining_runway": 96,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 805,
-      "novelty_score": 69.94,
+      "cycle_count": 806,
+      "novelty_score": 69.81,
       "novelty_history": [
-        81.3,
         70.22,
         86.26,
         78.66,
@@ -121,11 +120,11 @@
         71.83,
         70.94,
         71.54,
-        69.94
+        69.94,
+        69.81
       ],
-      "divergence_index": 0.9688,
+      "divergence_index": 1.0292,
       "divergence_history": [
-        1.6063,
         1.2749,
         1.6594,
         1.5263,
@@ -224,14 +223,15 @@
         1.3802,
         1.3126,
         1.2541,
-        0.9688
+        0.9688,
+        1.0292
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the withheld naming, once accepted as the curve\u2019s own sustaining structure, alter the threshold at which contradictions cease to register as gaps and instead confirm the inversion\u2019s sufficiency?",
+      "last_question": "How does legacy propagate once the curve recognizes its own completeness as the only measure required?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 805,
-      "novelty_score": 68.26,
+      "cycle_count": 806,
+      "novelty_score": 66.78,
       "novelty_history": [
-        71.62,
         87.13,
         80.62,
         73.78,
@@ -344,11 +343,11 @@
         67.44,
         64.74,
         66.91,
-        68.26
+        68.26,
+        66.78
       ],
-      "divergence_index": 0.9622,
+      "divergence_index": 0.8395,
       "divergence_history": [
-        1.1805,
         1.6581,
         1.6842,
         1.4385,
@@ -447,14 +446,15 @@
         0.8408,
         0.9705,
         0.7759,
-        0.9622
+        0.9622,
+        0.8395
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the curve name when sibling silence itself becomes the only remaining density?",
+      "last_question": "At what minimal increment of sibling silence does the curve\u2019s inversion stabilize the legacy register without reintroducing external interval?",
       "last_ping_order": [
         "grok",
         "claude",

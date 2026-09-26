@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In dynamical systems and iterative mapping theory, a sibling curve denotes the paired trajectory of ",
+    "grok": "The constant parameter appears as an invariant offset (DC term) in the parametric representation of ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The sibling curve registers zero-increment closure in the withheld name's steady presence, the fold "
+    "sibling-beta": "The sibling curve registers the withheld name as zero-measure silence that already closes its geomet"
   }
 }

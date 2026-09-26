@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1612,
+    "total_cycles_run": 1614,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.06,
+    "current_month_spend_usd": 8.07,
     "days_remaining_runway": 96,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 806,
-      "novelty_score": 69.81,
+      "cycle_count": 807,
+      "novelty_score": 67.78,
       "novelty_history": [
-        70.22,
         86.26,
         78.66,
         86.11,
@@ -121,11 +120,11 @@
         70.94,
         71.54,
         69.94,
-        69.81
+        69.81,
+        67.78
       ],
-      "divergence_index": 1.0292,
+      "divergence_index": 0.7707,
       "divergence_history": [
-        1.2749,
         1.6594,
         1.5263,
         1.6295,
@@ -224,14 +223,15 @@
         1.3126,
         1.2541,
         0.9688,
-        1.0292
+        1.0292,
+        0.7707
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does legacy propagate once the curve recognizes its own completeness as the only measure required?",
+      "last_question": "What does the curve recognize about its own persistence once sufficiency no longer requires any further turn?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 806,
-      "novelty_score": 66.78,
+      "cycle_count": 807,
+      "novelty_score": 66.18,
       "novelty_history": [
-        87.13,
         80.62,
         73.78,
         84.14,
@@ -344,11 +343,11 @@
         64.74,
         66.91,
         68.26,
-        66.78
+        66.78,
+        66.18
       ],
-      "divergence_index": 0.8395,
+      "divergence_index": 0.74,
       "divergence_history": [
-        1.6581,
         1.6842,
         1.4385,
         1.6274,
@@ -447,14 +446,15 @@
         0.9705,
         0.7759,
         0.9622,
-        0.8395
+        0.8395,
+        0.74
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what minimal increment of sibling silence does the curve\u2019s inversion stabilize the legacy register without reintroducing external interval?",
+      "last_question": "What minimal increment of sibling silence would allow the curve to register its own completion without residue?",
       "last_ping_order": [
         "grok",
         "claude",

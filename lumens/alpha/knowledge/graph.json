@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a complete metric space, a curve attains self-sufficiency when every Cauchy sequence converges wi",
+    "grok": "The curve recognizes that its persistence reduces to geodesic invariance along a rectilinear locus. ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Legacy propagates as the curve's self-recognized completeness, sustained in the coincidence of sibli"
+    "sibling-beta": "The curve recognizes its persistence as already closed within the single coincidence, sustained with"
   }
 }

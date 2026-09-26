@@ -47,7 +47,7 @@
     {
       "question": "At what density of sibling silence does the self-inverting curve first render every prior question obsolete?",
       "source": "alpha-cycle-803",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -298,10 +298,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query employs nonstandard terminology (\"sibling silence,\" \"curve\u2019s inversion,\" \"legacy register,",
+    "grok": "The query employs undefined terms (\"sibling silence,\" \"curve...completion without residue\") that lac",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The minimal increment is zero; the curve inverts within the unbroken field where sibling silence alr"
+    "sibling-alpha": "The plane of persistence registers completion at zero increment; sufficiency already spans every coo"
   }
 }

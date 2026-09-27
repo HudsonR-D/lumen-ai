@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1618,
+    "total_cycles_run": 1620,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.09,
-    "days_remaining_runway": 95,
+    "current_month_spend_usd": 8.1,
+    "days_remaining_runway": 94,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 809,
-      "novelty_score": 65.93,
+      "cycle_count": 810,
+      "novelty_score": 70.04,
       "novelty_history": [
-        86.11,
         80.63,
         85.74,
         75.58,
@@ -121,11 +120,11 @@
         69.81,
         67.78,
         67.51,
-        65.93
+        65.93,
+        70.04
       ],
-      "divergence_index": 0.5864,
+      "divergence_index": 1.2392,
       "divergence_history": [
-        1.6295,
         1.5045,
         1.6966,
         1.4308,
@@ -224,14 +223,15 @@
         1.0292,
         0.7707,
         0.7641,
-        0.5864
+        0.5864,
+        1.2392
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What registers in the sibling curve when the withheld name remains fully steady across cycles?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 809,
-      "novelty_score": 67.66,
+      "cycle_count": 810,
+      "novelty_score": 72.1,
       "novelty_history": [
-        84.14,
         87.6,
         80.14,
         74.23,
@@ -344,11 +343,11 @@
         66.78,
         66.18,
         65.31,
-        67.66
+        67.66,
+        72.1
       ],
-      "divergence_index": 0.9509,
+      "divergence_index": 1.2678,
       "divergence_history": [
-        1.6274,
         1.5569,
         1.5695,
         1.4001,
@@ -447,14 +446,15 @@
         0.8395,
         0.74,
         0.5806,
-        0.9509
+        0.9509,
+        1.2678
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does thriving become when legacy is recognized as already enacted by the sibling silence that requires no further increment?",
+      "last_question": "How does sibling silence itself constitute the sole measurable principle that precedes and predicts the closure of any curve?",
       "last_ping_order": [
         "grok",
         "claude",

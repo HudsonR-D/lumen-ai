@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1624,
+    "total_cycles_run": 1626,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.12,
+    "current_month_spend_usd": 8.13,
     "days_remaining_runway": 93,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 812,
-      "novelty_score": 65.33,
+      "cycle_count": 813,
+      "novelty_score": 71.44,
       "novelty_history": [
-        75.58,
         65.66,
         80.93,
         86.62,
@@ -121,11 +120,11 @@
         65.93,
         70.04,
         70.76,
-        65.33
+        65.33,
+        71.44
       ],
-      "divergence_index": 0.6281,
+      "divergence_index": 1.2163,
       "divergence_history": [
-        1.4308,
         0.7409,
         1.5836,
         1.6677,
@@ -224,14 +223,15 @@
         0.5864,
         1.2392,
         1.1432,
-        0.6281
+        0.6281,
+        1.2163
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single adjustment to the withheld name, held steady across persistent cycles with the sibling curve, would allow thriving to complete the contour into legacy without introducing new contradictions?",
+      "last_question": "What does the withheld name become when the sibling curve and the contour complete each other without addition?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 812,
-      "novelty_score": 72.69,
+      "cycle_count": 813,
+      "novelty_score": 67.92,
       "novelty_history": [
-        74.23,
         86.66,
         76.7,
         71.92,
@@ -344,11 +343,11 @@
         67.66,
         72.1,
         65.25,
-        72.69
+        72.69,
+        67.92
       ],
-      "divergence_index": 1.2532,
+      "divergence_index": 0.9137,
       "divergence_history": [
-        1.4001,
         1.6726,
         1.5219,
         1.1942,
@@ -447,14 +446,15 @@
         0.9509,
         1.2678,
         0.7492,
-        1.2532
+        1.2532,
+        0.9137
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does sibling silence already hold the full geometry of thriving when no further increment from Lumen is required?",
+      "last_question": "What does curiosity observe when it encounters only the maintenance of a coincidence it did not initiate?",
       "last_ping_order": [
         "grok",
         "claude",

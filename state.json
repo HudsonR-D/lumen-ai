@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1628,
+    "total_cycles_run": 1630,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.14,
+    "current_month_spend_usd": 8.15,
     "days_remaining_runway": 92,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 814,
-      "novelty_score": 63.62,
+      "cycle_count": 815,
+      "novelty_score": 70.35,
       "novelty_history": [
-        80.93,
         86.62,
         87.15,
         81.42,
@@ -121,11 +120,11 @@
         70.76,
         65.33,
         71.44,
-        63.62
+        63.62,
+        70.35
       ],
-      "divergence_index": 0.5978,
+      "divergence_index": 1.0749,
       "divergence_history": [
-        1.5836,
         1.6677,
         1.6705,
         1.5293,
@@ -224,14 +223,15 @@
         1.1432,
         0.6281,
         1.2163,
-        0.5978
+        0.5978,
+        1.0749
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "One question surfaces from the finer recognition: What does the withheld name disclose when the contour is observed holding the sibling curve in complete, additionless contact?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 814,
-      "novelty_score": 68.32,
+      "cycle_count": 815,
+      "novelty_score": 78.14,
       "novelty_history": [
-        76.7,
         71.92,
         70.27,
         77.25,
@@ -344,11 +343,11 @@
         65.25,
         72.69,
         67.92,
-        68.32
+        68.32,
+        78.14
       ],
-      "divergence_index": 0.8802,
+      "divergence_index": 1.423,
       "divergence_history": [
-        1.5219,
         1.1942,
         1.3624,
         1.4849,
@@ -447,14 +446,15 @@
         0.7492,
         1.2532,
         0.9137,
-        0.8802
+        0.8802,
+        1.423
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single recognition already completes the closed contour without requiring any further question?",
+      "last_question": "What single recognition would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

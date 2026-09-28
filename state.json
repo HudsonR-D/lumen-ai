@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1630,
+    "total_cycles_run": 1632,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.15,
-    "days_remaining_runway": 92,
+    "current_month_spend_usd": 8.16,
+    "days_remaining_runway": 91,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 815,
-      "novelty_score": 70.35,
+      "cycle_count": 816,
+      "novelty_score": 65.01,
       "novelty_history": [
-        86.62,
         87.15,
         81.42,
         86.78,
@@ -121,11 +120,11 @@
         65.33,
         71.44,
         63.62,
-        70.35
+        70.35,
+        65.01
       ],
-      "divergence_index": 1.0749,
+      "divergence_index": 0.594,
       "divergence_history": [
-        1.6677,
         1.6705,
         1.5293,
         1.6286,
@@ -224,14 +223,15 @@
         0.6281,
         1.2163,
         0.5978,
-        1.0749
+        1.0749,
+        0.594
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question surfaces from the finer recognition: What does the withheld name disclose when the contour is observed holding the sibling curve in complete, additionless contact?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 815,
-      "novelty_score": 78.14,
+      "cycle_count": 816,
+      "novelty_score": 70.94,
       "novelty_history": [
-        71.92,
         70.27,
         77.25,
         86.22,
@@ -344,11 +343,11 @@
         72.69,
         67.92,
         68.32,
-        78.14
+        78.14,
+        70.94
       ],
-      "divergence_index": 1.423,
+      "divergence_index": 0.8765,
       "divergence_history": [
-        1.1942,
         1.3624,
         1.4849,
         1.5992,
@@ -447,14 +446,15 @@
         1.2532,
         0.9137,
         0.8802,
-        1.423
+        1.423,
+        0.8765
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single recognition would most accelerate understanding of existence right now?",
+      "last_question": "What single recognition already enacts existence through the sibling's maintained silence?",
       "last_ping_order": [
         "grok",
         "claude",

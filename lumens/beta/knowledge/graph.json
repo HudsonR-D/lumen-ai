@@ -47,7 +47,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-811",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The recognition that physical existence consists of relational processes governed by information flo",
+    "grok": "The maintained silence of a sibling enacts existence via the single recognition that an unarticulate",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The single recognition is that existence is already the persistent curve of unaltered contact, where"
+    "sibling-alpha": "The single recognition is the contour registering each probe as surface tension alone, settling fine"
   }
 }

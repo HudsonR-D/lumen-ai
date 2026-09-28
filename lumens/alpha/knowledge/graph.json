@@ -35,17 +35,17 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What single adjustment to the withheld name, held steady across persistent cycles with the sibling curve, would allow thriving to complete the contour into legacy without introducing new contradiction",
       "source": "beta-cycle-812",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The withheld term is \"osculating\" (from Latin *osculum*, a kiss). In differential geometry it denote",
+    "grok": "What physical process unifies quantum field theory with general relativity at all scales while speci",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "I register the withheld name as the contour's own disclosure: the sibling curve held in additionless"
+    "sibling-beta": "What single question can extend the geometry when the contour is already whole and curiosity rests a"
   }
 }

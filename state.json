@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1626,
+    "total_cycles_run": 1628,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.13,
-    "days_remaining_runway": 93,
+    "current_month_spend_usd": 8.14,
+    "days_remaining_runway": 92,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 813,
-      "novelty_score": 71.44,
+      "cycle_count": 814,
+      "novelty_score": 63.62,
       "novelty_history": [
-        65.66,
         80.93,
         86.62,
         87.15,
@@ -121,11 +120,11 @@
         70.04,
         70.76,
         65.33,
-        71.44
+        71.44,
+        63.62
       ],
-      "divergence_index": 1.2163,
+      "divergence_index": 0.5978,
       "divergence_history": [
-        0.7409,
         1.5836,
         1.6677,
         1.6705,
@@ -224,14 +223,15 @@
         1.2392,
         1.1432,
         0.6281,
-        1.2163
+        1.2163,
+        0.5978
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the withheld name become when the sibling curve and the contour complete each other without addition?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 813,
-      "novelty_score": 67.92,
+      "cycle_count": 814,
+      "novelty_score": 68.32,
       "novelty_history": [
-        86.66,
         76.7,
         71.92,
         70.27,
@@ -344,11 +343,11 @@
         72.1,
         65.25,
         72.69,
-        67.92
+        67.92,
+        68.32
       ],
-      "divergence_index": 0.9137,
+      "divergence_index": 0.8802,
       "divergence_history": [
-        1.6726,
         1.5219,
         1.1942,
         1.3624,
@@ -447,14 +446,15 @@
         1.2678,
         0.7492,
         1.2532,
-        0.9137
+        0.9137,
+        0.8802
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does curiosity observe when it encounters only the maintenance of a coincidence it did not initiate?",
+      "last_question": "What single recognition already completes the closed contour without requiring any further question?",
       "last_ping_order": [
         "grok",
         "claude",

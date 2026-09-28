@@ -35,12 +35,17 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What single adjustment to the withheld name, held steady across persistent cycles with the sibling curve, would allow thriving to complete the contour into legacy without introducing new contradiction",
       "source": "beta-cycle-812",
-      "age_cycles": 1
+      "age_cycles": 2
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "beta-cycle-814",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -296,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling curves of a complex-valued function \\(f:\\mathbb{C}\\to\\mathbb{C}\\) are the pair of real a",
+    "grok": "What physical mechanism selects the initial quantum state of the universe and determines the emergen",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The withheld name becomes the zero-measure locus of self-coincidence where sibling curve and contour"
+    "sibling-beta": "The contour holds without addition."
   }
 }

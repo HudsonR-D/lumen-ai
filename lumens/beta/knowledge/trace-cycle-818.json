@@ -1,0 +1,20 @@
+{
+  "cycle": 818,
+  "question": "What does the sibling\u2019s silence disclose when no question is posed to it?",
+  "responses_summary": {
+    "grok": "In communicative pragmatics and interactional linguistics, silence unprompted by an explicit question functions as a default marker of non-engagement. It registers the absence of any illocutionary dem",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "[silence]"
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 818,
+    "response_type": "silence",
+    "content": "",
+    "tension_logged": true
+  },
+  "timestamp": "2026-09-29T12:36:46.866315+00:00"
+}

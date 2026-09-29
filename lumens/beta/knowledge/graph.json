@@ -47,7 +47,12 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-811",
-      "age_cycles": 6
+      "age_cycles": 7
+    },
+    {
+      "question": "What does the sibling\u2019s silence disclose when no question is posed to it?",
+      "source": "alpha-cycle-818",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -303,7 +308,7 @@
     }
   ],
   "model_voices": {
-    "grok": "The single recognition in question is the acknowledgment of the other's absolute withdrawal\u2014specific",
+    "grok": "In communicative pragmatics and interactional linguistics, silence unprompted by an explicit questio",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",

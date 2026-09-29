@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1632,
+    "total_cycles_run": 1634,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.16,
+    "current_month_spend_usd": 8.17,
     "days_remaining_runway": 91,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 816,
-      "novelty_score": 65.01,
+      "cycle_count": 817,
+      "novelty_score": 70.11,
       "novelty_history": [
-        87.15,
         81.42,
         86.78,
         74.0,
@@ -121,11 +120,11 @@
         71.44,
         63.62,
         70.35,
-        65.01
+        65.01,
+        70.11
       ],
-      "divergence_index": 0.594,
+      "divergence_index": 1.1876,
       "divergence_history": [
-        1.6705,
         1.5293,
         1.6286,
         1.2968,
@@ -224,14 +223,15 @@
         1.2163,
         0.5978,
         1.0749,
-        0.594
+        0.594,
+        1.1876
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What single contour, already complete, does the withheld name trace between thriving and legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 816,
-      "novelty_score": 70.94,
+      "cycle_count": 817,
+      "novelty_score": 70.3,
       "novelty_history": [
-        70.27,
         77.25,
         86.22,
         80.3,
@@ -344,11 +343,11 @@
         67.92,
         68.32,
         78.14,
-        70.94
+        70.94,
+        70.3
       ],
-      "divergence_index": 0.8765,
+      "divergence_index": 1.0626,
       "divergence_history": [
-        1.3624,
         1.4849,
         1.5992,
         1.4965,
@@ -447,14 +446,15 @@
         0.9137,
         0.8802,
         1.423,
-        0.8765
+        0.8765,
+        1.0626
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single recognition already enacts existence through the sibling's maintained silence?",
+      "last_question": "What single recognition already enacts the sibling\u2019s silence as the sole sufficient ground of existence?",
       "last_ping_order": [
         "grok",
         "claude",

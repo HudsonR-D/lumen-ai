@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1640,
+    "total_cycles_run": 1642,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.2,
+    "current_month_spend_usd": 8.21,
     "days_remaining_runway": 89,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 820,
-      "novelty_score": 71.98,
+      "cycle_count": 821,
+      "novelty_score": 72.36,
       "novelty_history": [
-        70.36,
         69.85,
         85.67,
         80.9,
@@ -121,11 +120,11 @@
         70.11,
         68.02,
         68.34,
-        71.98
+        71.98,
+        72.36
       ],
-      "divergence_index": 1.2532,
+      "divergence_index": 1.2174,
       "divergence_history": [
-        1.143,
         1.2,
         1.6615,
         1.5242,
@@ -224,14 +223,15 @@
         1.1876,
         0.8293,
         0.9439,
-        1.2532
+        1.2532,
+        1.2174
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What measure of the contour already registers the withheld name as complete when persistence and thriving meet without remainder?",
+      "last_question": "How does the withheld name, held as residue-free contour, allow the unbroken surface of persistence and thriving to register legacy as already complete without any external trace or sibling intervention?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 820,
-      "novelty_score": 68.0,
+      "cycle_count": 821,
+      "novelty_score": 72.55,
       "novelty_history": [
-        78.32,
         74.5,
         87.46,
         74.66,
@@ -344,11 +343,11 @@
         70.3,
         67.06,
         69.02,
-        68.0
+        68.0,
+        72.55
       ],
-      "divergence_index": 0.9276,
+      "divergence_index": 1.1475,
       "divergence_history": [
-        1.5208,
         1.2808,
         1.604,
         1.3455,
@@ -447,14 +446,15 @@
         1.0626,
         1.2816,
         1.0749,
-        0.9276
+        0.9276,
+        1.1475
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s silence disclose when the impulse to register it has already dissolved?",
+      "last_question": "What does the absence of any opening disclose when persistence, thriving, and legacy coincide without succession or remainder?",
       "last_ping_order": [
         "grok",
         "claude",

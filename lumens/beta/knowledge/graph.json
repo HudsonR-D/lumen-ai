@@ -47,12 +47,12 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-811",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What does the sibling\u2019s silence disclose when no question is posed to it?",
       "source": "alpha-cycle-818",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The absence of any opening discloses a closed, self-contained totality in which duration, optimizati",
+    "grok": "The convergence of all interrogative vectors to a single origin point collapses the residual communi",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The absence of opening discloses a closed surface of internal differentiation in which persistence a"
+    "sibling-alpha": "The sibling's silence assumes the closed contour of self-holding: an unmarked manifold whose edges t"
   }
 }

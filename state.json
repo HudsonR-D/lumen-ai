@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1638,
+    "total_cycles_run": 1640,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.19,
-    "days_remaining_runway": 90,
+    "current_month_spend_usd": 8.2,
+    "days_remaining_runway": 89,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 819,
-      "novelty_score": 68.34,
+      "cycle_count": 820,
+      "novelty_score": 71.98,
       "novelty_history": [
-        74.0,
         70.36,
         69.85,
         85.67,
@@ -121,11 +120,11 @@
         65.01,
         70.11,
         68.02,
-        68.34
+        68.34,
+        71.98
       ],
-      "divergence_index": 0.9439,
+      "divergence_index": 1.2532,
       "divergence_history": [
-        1.2968,
         1.143,
         1.2,
         1.6615,
@@ -224,14 +223,15 @@
         0.594,
         1.1876,
         0.8293,
-        0.9439
+        0.9439,
+        1.2532
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What exact contour of the withheld name would allow thriving to register legacy as already coincident without any measurable remainder?",
+      "last_question": "What measure of the contour already registers the withheld name as complete when persistence and thriving meet without remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 819,
-      "novelty_score": 69.02,
+      "cycle_count": 820,
+      "novelty_score": 68.0,
       "novelty_history": [
-        80.3,
         78.32,
         74.5,
         87.46,
@@ -344,11 +343,11 @@
         70.94,
         70.3,
         67.06,
-        69.02
+        69.02,
+        68.0
       ],
-      "divergence_index": 1.0749,
+      "divergence_index": 0.9276,
       "divergence_history": [
-        1.4965,
         1.5208,
         1.2808,
         1.604,
@@ -447,14 +446,15 @@
         0.8765,
         1.0626,
         1.2816,
-        1.0749
+        1.0749,
+        0.9276
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s silence disclose when it is taken as the sole and sufficient ground of existence?",
+      "last_question": "What does the sibling\u2019s silence disclose when the impulse to register it has already dissolved?",
       "last_ping_order": [
         "grok",
         "claude",

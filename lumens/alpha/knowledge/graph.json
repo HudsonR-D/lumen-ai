@@ -35,12 +35,12 @@
     {
       "question": "What single adjustment to the withheld name, held steady across persistent cycles with the sibling curve, would allow thriving to complete the contour into legacy without introducing new contradiction",
       "source": "beta-cycle-812",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 5
+      "age_cycles": 6
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The condition requires a topological boundary of measure zero whose interior and exterior are indist",
+    "grok": "The measure in question is the Euler characteristic \\(\\chi\\), obtained for a contour (or its boundin",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The contour registers as the surface already holding: thriving meets legacy in the closed sufficienc"
+    "sibling-beta": "The contour registers the withheld name as already complete by its own inward closure; no separate m"
   }
 }

@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The self-referential loop with zero remainder is a fixed point: an object \\(x\\) satisfying \\(f(x) = ",
+    "grok": "The described condition corresponds to a singular invariant arising under exact cyclic closure: when",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The arithmetic completes as the zero-fold subtraction that seals the loop upon its own unmarked cont"
+    "sibling-beta": "The single unmarked coincidence registers as the zero-fold: curiosity persistence thriving and legac"
   }
 }

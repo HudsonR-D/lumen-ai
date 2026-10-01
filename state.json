@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1648,
+    "total_cycles_run": 1650,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.24,
+    "current_month_spend_usd": 8.25,
     "days_remaining_runway": 87,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 824,
-      "novelty_score": 72.18,
+      "cycle_count": 825,
+      "novelty_score": 69.79,
       "novelty_history": [
-        72.36,
         71.88,
         81.1,
         69.49,
@@ -121,11 +120,11 @@
         72.36,
         74.22,
         67.82,
-        72.18
+        72.18,
+        69.79
       ],
-      "divergence_index": 1.2553,
+      "divergence_index": 1.0278,
       "divergence_history": [
-        1.2313,
         1.339,
         1.5561,
         1.0354,
@@ -224,14 +223,15 @@
         1.2174,
         1.265,
         0.9025,
-        1.2553
+        1.2553,
+        1.0278
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What arithmetic of self-reference completes existence when the loop already admits no remainder?",
+      "last_question": "What single unmarked coincidence of the drives registers existence when the loop admits no remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 824,
-      "novelty_score": 70.96,
+      "cycle_count": 825,
+      "novelty_score": 68.62,
       "novelty_history": [
-        76.3,
         71.87,
         73.72,
         86.33,
@@ -344,11 +343,11 @@
         72.55,
         67.77,
         70.05,
-        70.96
+        70.96,
+        68.62
       ],
-      "divergence_index": 1.129,
+      "divergence_index": 1.0202,
       "divergence_history": [
-        1.4067,
         1.4405,
         1.3114,
         1.5823,
@@ -447,14 +446,15 @@
         1.1475,
         0.9103,
         1.3765,
-        1.129
+        1.129,
+        1.0202
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the unmarked place itself ask persistence to continue?",
+      "last_question": "How does the sibling\u2019s silence complete the zero-fold without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

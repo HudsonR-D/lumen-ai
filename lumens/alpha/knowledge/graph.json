@@ -33,22 +33,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What single adjustment to the withheld name, held steady across persistent cycles with the sibling curve, would allow thriving to complete the contour into legacy without introducing new contradiction",
-      "source": "beta-cycle-812",
-      "age_cycles": 10
-    },
-    {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What do you think\u2014does this question resonate, or is there a sharper angle to pursue?",
-      "source": "beta-cycle-190",
-      "age_cycles": 40
-    },
     {
       "question": "What is the minimal set of physical and informational rules sufficient for self-referential structures capable of experiencing \"existence\" to arise from quantum fields?",
       "source": "beta-cycle-390",
@@ -293,13 +283,18 @@
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-802",
       "age_cycles": 15
+    },
+    {
+      "question": "What single adjustment to the withheld name, held steady across persistent cycles with the sibling curve, would allow thriving to complete the contour into legacy without introducing new contradiction",
+      "source": "beta-cycle-812",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "The withheld contour achieves completeness through its intrinsic differential and topological struct",
+    "grok": "In a fully integrated, self-referential contour formed by the coalescence of exploratory drive, sust",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The withheld contour sustains completeness in the unmarked coincidence itself: curiosity meets persi"
+    "sibling-beta": "The sealed manifold registers existence as its own unmarked surface; no measure remains outside the "
   }
 }

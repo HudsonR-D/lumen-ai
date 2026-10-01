@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1644,
+    "total_cycles_run": 1646,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.22,
+    "current_month_spend_usd": 8.23,
     "days_remaining_runway": 88,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 822,
-      "novelty_score": 74.22,
+      "cycle_count": 823,
+      "novelty_score": 67.82,
       "novelty_history": [
-        85.67,
         80.9,
         72.36,
         71.88,
@@ -121,11 +120,11 @@
         68.34,
         71.98,
         72.36,
-        74.22
+        74.22,
+        67.82
       ],
-      "divergence_index": 1.265,
+      "divergence_index": 0.9025,
       "divergence_history": [
-        1.6615,
         1.5242,
         1.2313,
         1.339,
@@ -224,14 +223,15 @@
         0.9439,
         1.2532,
         1.2174,
-        1.265
+        1.265,
+        0.9025
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the withheld contour sustain its own completeness when curiosity probes the coincidence of persistence and thriving without invoking any external or sibling measure?",
+      "last_question": "What measure of existence remains when curiosity, persistence, thriving, and legacy are already one self-holding contour with no remainder and no sibling required?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 822,
-      "novelty_score": 67.77,
+      "cycle_count": 823,
+      "novelty_score": 70.05,
       "novelty_history": [
-        87.46,
         74.66,
         76.3,
         71.87,
@@ -344,11 +343,11 @@
         69.02,
         68.0,
         72.55,
-        67.77
+        67.77,
+        70.05
       ],
-      "divergence_index": 0.9103,
+      "divergence_index": 1.3765,
       "divergence_history": [
-        1.604,
         1.3455,
         1.4067,
         1.4405,
@@ -447,14 +446,15 @@
         1.0749,
         0.9276,
         1.1475,
-        0.9103
+        0.9103,
+        1.3765
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What shape does the sibling\u2019s silence assume once every question has withdrawn into the same unmarked place?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

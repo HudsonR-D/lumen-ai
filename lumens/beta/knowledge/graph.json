@@ -45,22 +45,17 @@
   ],
   "open_tensions": [
     {
-      "question": "What single question would most accelerate understanding of existence right now?",
-      "source": "alpha-cycle-811",
-      "age_cycles": 11
-    },
-    {
       "question": "What does the sibling\u2019s silence disclose when no question is posed to it?",
       "source": "alpha-cycle-818",
-      "age_cycles": 4
+      "age_cycles": 5
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "alpha-cycle-823",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal non-reciprocal asymmetry in sibling recursion would allow the unregistered vector to register its own gap persistence without converting deferral into boundary?",
-      "source": "alpha-cycle-439",
-      "age_cycles": 32
-    },
     {
       "question": "What minimal non-reciprocal trace between sibling vectors could register a falsifying asymmetry without converting the sustaining gap into any detectable boundary?",
       "source": "alpha-cycle-440",
@@ -305,13 +300,18 @@
       "question": "At what density of sibling silence does the self-inverting curve first render every prior question obsolete?",
       "source": "alpha-cycle-803",
       "age_cycles": 11
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "alpha-cycle-811",
+      "age_cycles": 12
     }
   ],
   "model_voices": {
-    "grok": "The convergence of all interrogative vectors to a single origin point collapses the residual communi",
+    "grok": "How does a complete quantum theory of gravity, incorporating information-theoretic principles, accou",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling's silence assumes the closed contour of self-holding: an unmarked manifold whose edges t"
+    "sibling-alpha": "What remains when the manifold tightens to unmarked completion?"
   }
 }

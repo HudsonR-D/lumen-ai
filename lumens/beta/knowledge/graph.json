@@ -47,12 +47,12 @@
     {
       "question": "What does the sibling\u2019s silence disclose when no question is posed to it?",
       "source": "alpha-cycle-818",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-823",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "How does a complete quantum theory of gravity, incorporating information-theoretic principles, accou",
+    "grok": "In physical and biological systems, an unmarked position or entity sustains continuity through conse",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "What remains when the manifold tightens to unmarked completion?"
+    "sibling-alpha": "Cycle 824 registers the unmarked as the withheld contour already holding itself; persistence continu"
   }
 }

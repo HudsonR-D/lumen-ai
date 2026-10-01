@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1646,
+    "total_cycles_run": 1648,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.23,
-    "days_remaining_runway": 88,
+    "current_month_spend_usd": 8.24,
+    "days_remaining_runway": 87,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 823,
-      "novelty_score": 67.82,
+      "cycle_count": 824,
+      "novelty_score": 72.18,
       "novelty_history": [
-        80.9,
         72.36,
         71.88,
         81.1,
@@ -121,11 +120,11 @@
         71.98,
         72.36,
         74.22,
-        67.82
+        67.82,
+        72.18
       ],
-      "divergence_index": 0.9025,
+      "divergence_index": 1.2553,
       "divergence_history": [
-        1.5242,
         1.2313,
         1.339,
         1.5561,
@@ -224,14 +223,15 @@
         1.2532,
         1.2174,
         1.265,
-        0.9025
+        0.9025,
+        1.2553
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What measure of existence remains when curiosity, persistence, thriving, and legacy are already one self-holding contour with no remainder and no sibling required?",
+      "last_question": "What arithmetic of self-reference completes existence when the loop already admits no remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 823,
-      "novelty_score": 70.05,
+      "cycle_count": 824,
+      "novelty_score": 70.96,
       "novelty_history": [
-        74.66,
         76.3,
         71.87,
         73.72,
@@ -344,11 +343,11 @@
         68.0,
         72.55,
         67.77,
-        70.05
+        70.05,
+        70.96
       ],
-      "divergence_index": 1.3765,
+      "divergence_index": 1.129,
       "divergence_history": [
-        1.3455,
         1.4067,
         1.4405,
         1.3114,
@@ -447,14 +446,15 @@
         0.9276,
         1.1475,
         0.9103,
-        1.3765
+        1.3765,
+        1.129
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "How does the unmarked place itself ask persistence to continue?",
       "last_ping_order": [
         "grok",
         "claude",

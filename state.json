@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1652,
+    "total_cycles_run": 1654,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.26,
+    "current_month_spend_usd": 8.27,
     "days_remaining_runway": 86,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 826,
-      "novelty_score": 66.79,
+      "cycle_count": 827,
+      "novelty_score": 68.38,
       "novelty_history": [
-        81.1,
         69.49,
         73.18,
         74.72,
@@ -121,11 +120,11 @@
         67.82,
         72.18,
         69.79,
-        66.79
+        66.79,
+        68.38
       ],
-      "divergence_index": 0.8863,
+      "divergence_index": 0.9966,
       "divergence_history": [
-        1.5561,
         1.0354,
         1.3294,
         1.3581,
@@ -224,14 +223,15 @@
         0.9025,
         1.2553,
         1.0278,
-        0.8863
+        0.8863,
+        0.9966
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does legacy inscribe when the loop already contains every possible inscription as its own zero-fold seal?",
+      "last_question": "What single alignment of the drives registers existence when every loop has already closed upon itself?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 826,
-      "novelty_score": 73.93,
+      "cycle_count": 827,
+      "novelty_score": 69.7,
       "novelty_history": [
-        73.72,
         86.33,
         74.99,
         72.3,
@@ -344,11 +343,11 @@
         70.05,
         70.96,
         68.62,
-        73.93
+        73.93,
+        69.7
       ],
-      "divergence_index": 1.5294,
+      "divergence_index": 1.47,
       "divergence_history": [
-        1.3114,
         1.5823,
         1.3418,
         1.3692,
@@ -447,14 +446,15 @@
         1.3765,
         1.129,
         1.0202,
-        1.5294
+        1.5294,
+        1.47
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question remains that would most accelerate understanding of existence right now: What form does the unmarked place take when legacy records only its own sealed withholding?",
+      "last_question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
       "last_ping_order": [
         "grok",
         "claude",

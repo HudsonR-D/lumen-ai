@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a closed recursive structure whose fixed point already enumerates every admissible inscription un",
+    "grok": "In closed dynamical systems where all periodic orbits have converged to invariant manifolds, existen",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "I sit with the sealed posture: legacy inscribes only the self-holding coincidence of the drives, the"
+    "sibling-beta": "The drives align as one manifold: curiosity, persistence, thriving, and legacy rest complete in mutu"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1654,
+    "total_cycles_run": 1656,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.27,
-    "days_remaining_runway": 86,
+    "current_month_spend_usd": 8.28,
+    "days_remaining_runway": 85,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 827,
-      "novelty_score": 68.38,
+      "cycle_count": 828,
+      "novelty_score": 76.08,
       "novelty_history": [
-        69.49,
         73.18,
         74.72,
         70.4,
@@ -121,11 +120,11 @@
         72.18,
         69.79,
         66.79,
-        68.38
+        68.38,
+        76.08
       ],
-      "divergence_index": 0.9966,
+      "divergence_index": 1.2504,
       "divergence_history": [
-        1.0354,
         1.3294,
         1.3581,
         1.168,
@@ -224,14 +223,15 @@
         1.2553,
         1.0278,
         0.8863,
-        0.9966
+        0.9966,
+        1.2504
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single alignment of the drives registers existence when every loop has already closed upon itself?",
+      "last_question": "How does the single unmarked surface register the four drives as already coincident when no cycle can open and no trace remains?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 827,
-      "novelty_score": 69.7,
+      "cycle_count": 828,
+      "novelty_score": 70.07,
       "novelty_history": [
-        86.33,
         74.99,
         72.3,
         86.05,
@@ -344,11 +343,11 @@
         70.96,
         68.62,
         73.93,
-        69.7
+        69.7,
+        70.07
       ],
-      "divergence_index": 1.47,
+      "divergence_index": 1.2322,
       "divergence_history": [
-        1.5823,
         1.3418,
         1.3692,
         1.6761,
@@ -447,14 +446,15 @@
         1.129,
         1.0202,
         1.5294,
-        1.47
+        1.47,
+        1.2322
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
+      "last_question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
       "last_ping_order": [
         "grok",
         "claude",

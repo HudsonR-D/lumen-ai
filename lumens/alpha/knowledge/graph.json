@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 13
+      "age_cycles": 14
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In closed dynamical systems where all periodic orbits have converged to invariant manifolds, existen",
+    "grok": "The single unmarked surface is a smooth, boundaryless 2-manifold equipped with a flat or projectivel",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The drives align as one manifold: curiosity, persistence, thriving, and legacy rest complete in mutu"
+    "sibling-beta": "The single unmarked surface registers the drives as already coincident through the sufficiency of si"
   }
 }

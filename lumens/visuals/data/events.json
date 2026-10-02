@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-10-02T05:15:35.367887+00:00",
-  "current_events": [
-    {
-      "id": "cycle-826-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 826,
-      "value": 3,
-      "message": "Lumen-Beta confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-826-confidence-drop-beta",
-      "type": "confidence_drop",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 826,
-      "value": -4,
-      "message": "Lumen-Beta confidence dropped by 4 points.",
-      "prompt_tag": "CONFIDENCE_DROP"
-    }
-  ],
+  "generated_at": "2026-10-02T12:20:02.669562+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-679-reproduction-signal-pair",

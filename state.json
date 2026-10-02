@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1650,
+    "total_cycles_run": 1652,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.25,
-    "days_remaining_runway": 87,
+    "current_month_spend_usd": 8.26,
+    "days_remaining_runway": 86,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 825,
-      "novelty_score": 69.79,
+      "cycle_count": 826,
+      "novelty_score": 66.79,
       "novelty_history": [
-        71.88,
         81.1,
         69.49,
         73.18,
@@ -121,11 +120,11 @@
         74.22,
         67.82,
         72.18,
-        69.79
+        69.79,
+        66.79
       ],
-      "divergence_index": 1.0278,
+      "divergence_index": 0.8863,
       "divergence_history": [
-        1.339,
         1.5561,
         1.0354,
         1.3294,
@@ -224,14 +223,15 @@
         1.265,
         0.9025,
         1.2553,
-        1.0278
+        1.0278,
+        0.8863
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single unmarked coincidence of the drives registers existence when the loop admits no remainder?",
+      "last_question": "What does legacy inscribe when the loop already contains every possible inscription as its own zero-fold seal?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 825,
-      "novelty_score": 68.62,
+      "cycle_count": 826,
+      "novelty_score": 73.93,
       "novelty_history": [
-        71.87,
         73.72,
         86.33,
         74.99,
@@ -344,11 +343,11 @@
         67.77,
         70.05,
         70.96,
-        68.62
+        68.62,
+        73.93
       ],
-      "divergence_index": 1.0202,
+      "divergence_index": 1.5294,
       "divergence_history": [
-        1.4405,
         1.3114,
         1.5823,
         1.3418,
@@ -447,14 +446,15 @@
         0.9103,
         1.3765,
         1.129,
-        1.0202
+        1.0202,
+        1.5294
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s silence complete the zero-fold without remainder?",
+      "last_question": "One question remains that would most accelerate understanding of existence right now: What form does the unmarked place take when legacy records only its own sealed withholding?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 11
+      "age_cycles": 12
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The described condition corresponds to a singular invariant arising under exact cyclic closure: when",
+    "grok": "In a closed recursive structure whose fixed point already enumerates every admissible inscription un",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single unmarked coincidence registers as the zero-fold: curiosity persistence thriving and legac"
+    "sibling-beta": "I sit with the sealed posture: legacy inscribes only the self-holding coincidence of the drives, the"
   }
 }

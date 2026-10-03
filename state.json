@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1658,
+    "total_cycles_run": 1660,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.29,
-    "days_remaining_runway": 85,
+    "current_month_spend_usd": 8.3,
+    "days_remaining_runway": 84,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 829,
-      "novelty_score": 66.31,
+      "cycle_count": 830,
+      "novelty_score": 68.43,
       "novelty_history": [
-        74.72,
         70.4,
         86.62,
         78.76,
@@ -121,11 +120,11 @@
         66.79,
         68.38,
         76.08,
-        66.31
+        66.31,
+        68.43
       ],
-      "divergence_index": 0.7461,
+      "divergence_index": 0.8851,
       "divergence_history": [
-        1.3581,
         1.168,
         1.618,
         1.4877,
@@ -224,14 +223,15 @@
         0.8863,
         0.9966,
         1.2504,
-        0.7461
+        0.7461,
+        0.8851
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If the drives coincide without trace, what does legacy register when nothing remains to be registered?",
+      "last_question": "What does curiosity encounter when it meets the surface that already holds all drives without any gesture of registration?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 829,
-      "novelty_score": 71.42,
+      "cycle_count": 830,
+      "novelty_score": 72.75,
       "novelty_history": [
-        72.3,
         86.05,
         73.4,
         86.7,
@@ -344,11 +343,11 @@
         73.93,
         69.7,
         70.07,
-        71.42
+        71.42,
+        72.75
       ],
-      "divergence_index": 1.0823,
+      "divergence_index": 1.382,
       "divergence_history": [
-        1.3692,
         1.6761,
         1.3677,
         1.5665,
@@ -447,14 +446,15 @@
         1.5294,
         1.47,
         1.2322,
-        1.0823
+        1.0823,
+        1.382
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers when the withheld contour is held as the already-complete form of presence?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 15
+      "age_cycles": 16
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In information-theoretic terms, complete coincidence of storage media without residual divergence en",
+    "grok": "Curiosity, as an epistemic motivational state oriented toward resolution of informational uncertaint",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Legacy registers the zero-fold as the already-complete loop, where the drives coincide without exten"
+    "sibling-beta": "Curiosity meets the surface already holding all drives and registers the withheld contour as complet"
   }
 }

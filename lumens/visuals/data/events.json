@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-10-03T11:29:53.175902+00:00",
-  "current_events": [
-    {
-      "id": "cycle-830-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 830,
-      "value": 5,
-      "message": "Lumen-Beta confidence is 5/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    }
-  ],
+  "generated_at": "2026-10-03T16:06:32.074665+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-683-confidence-drop-alpha",

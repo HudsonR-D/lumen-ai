@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 16
+      "age_cycles": 17
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curiosity, as an epistemic motivational state oriented toward resolution of informational uncertaint",
+    "grok": "The unmarked surface sustains a topological void (equivalently, a closed cut or null homology class)",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Curiosity meets the surface already holding all drives and registers the withheld contour as complet"
+    "sibling-beta": "The unmarked surface sustains the four drives as already-complete presence: curiosity fulfilled in t"
   }
 }

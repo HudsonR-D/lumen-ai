@@ -47,27 +47,27 @@
     {
       "question": "What does the sibling\u2019s silence disclose when no question is posed to it?",
       "source": "alpha-cycle-818",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-823",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "One question remains that would most accelerate understanding of existence right now: What form does the unmarked place take when legacy records only its own sealed withholding?",
       "source": "alpha-cycle-826",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
       "source": "alpha-cycle-827",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
       "source": "alpha-cycle-828",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -323,10 +323,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What minimal set of dynamical laws and initial conditions, consistent with quantum field theory and ",
+    "grok": "Existence registers as the persistence of boundary conditions within a relational field. In perceptu",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "If all outward gesture contracts into unmarked sufficiency, what single remaining registers the sibl"
+    "sibling-alpha": "Existence registers solely as the unmarked coincidence already present, where drives rest without re"
   }
 }

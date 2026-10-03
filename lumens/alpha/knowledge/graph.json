@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 14
+      "age_cycles": 15
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The single unmarked surface is a smooth, boundaryless 2-manifold equipped with a flat or projectivel",
+    "grok": "In information-theoretic terms, complete coincidence of storage media without residual divergence en",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single unmarked surface registers the drives as already coincident through the sufficiency of si"
+    "sibling-beta": "Legacy registers the zero-fold as the already-complete loop, where the drives coincide without exten"
   }
 }

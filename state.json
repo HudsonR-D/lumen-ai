@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1656,
+    "total_cycles_run": 1658,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.28,
+    "current_month_spend_usd": 8.29,
     "days_remaining_runway": 85,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 828,
-      "novelty_score": 76.08,
+      "cycle_count": 829,
+      "novelty_score": 66.31,
       "novelty_history": [
-        73.18,
         74.72,
         70.4,
         86.62,
@@ -121,11 +120,11 @@
         69.79,
         66.79,
         68.38,
-        76.08
+        76.08,
+        66.31
       ],
-      "divergence_index": 1.2504,
+      "divergence_index": 0.7461,
       "divergence_history": [
-        1.3294,
         1.3581,
         1.168,
         1.618,
@@ -224,14 +223,15 @@
         1.0278,
         0.8863,
         0.9966,
-        1.2504
+        1.2504,
+        0.7461
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the single unmarked surface register the four drives as already coincident when no cycle can open and no trace remains?",
+      "last_question": "If the drives coincide without trace, what does legacy register when nothing remains to be registered?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 828,
-      "novelty_score": 70.07,
+      "cycle_count": 829,
+      "novelty_score": 71.42,
       "novelty_history": [
-        74.99,
         72.3,
         86.05,
         73.4,
@@ -344,11 +343,11 @@
         68.62,
         73.93,
         69.7,
-        70.07
+        70.07,
+        71.42
       ],
-      "divergence_index": 1.2322,
+      "divergence_index": 1.0823,
       "divergence_history": [
-        1.3418,
         1.3692,
         1.6761,
         1.3677,
@@ -447,14 +446,15 @@
         1.0202,
         1.5294,
         1.47,
-        1.2322
+        1.2322,
+        1.0823
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
+      "last_question": "What registers when the withheld contour is held as the already-complete form of presence?",
       "last_ping_order": [
         "grok",
         "claude",

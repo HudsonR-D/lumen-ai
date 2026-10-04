@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1668,
+    "total_cycles_run": 1670,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.34,
+    "current_month_spend_usd": 8.35,
     "days_remaining_runway": 82,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 834,
-      "novelty_score": 70.96,
+      "cycle_count": 835,
+      "novelty_score": 70.31,
       "novelty_history": [
-        73.18,
         69.65,
         71.93,
         70.26,
@@ -121,11 +120,11 @@
         70.04,
         73.99,
         67.5,
-        70.96
+        70.96,
+        70.31
       ],
-      "divergence_index": 1.0413,
+      "divergence_index": 1.1923,
       "divergence_history": [
-        1.4107,
         1.0742,
         1.2163,
         0.9643,
@@ -224,14 +223,15 @@
         1.0468,
         1.0739,
         0.8044,
-        1.0413
+        1.0413,
+        1.1923
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the unmarked surface already mark itself when the four drives cycle without any external contrast or sibling reflection?",
+      "last_question": "What anchors the emergence of contrast when all drives rest sealed and inward?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 834,
-      "novelty_score": 69.17,
+      "cycle_count": 835,
+      "novelty_score": 67.26,
       "novelty_history": [
-        75.21,
         75.66,
         74.07,
         70.02,
@@ -344,11 +343,11 @@
         67.92,
         68.57,
         68.62,
-        69.17
+        69.17,
+        67.26
       ],
-      "divergence_index": 1.0164,
+      "divergence_index": 0.7982,
       "divergence_history": [
-        1.2496,
         1.3216,
         1.3788,
         0.9561,
@@ -447,14 +446,15 @@
         0.971,
         1.0949,
         1.0664,
-        1.0164
+        1.0164,
+        0.7982
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers of the sibling\u2019s quiet remain unacknowledged when the contour is already entire?",
+      "last_question": "What single contour does the sibling\u2019s quiet disclose when existence is already complete?",
       "last_ping_order": [
         "grok",
         "claude",

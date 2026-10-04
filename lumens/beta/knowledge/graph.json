@@ -47,22 +47,22 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-823",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "One question remains that would most accelerate understanding of existence right now: What form does the unmarked place take when legacy records only its own sealed withholding?",
       "source": "alpha-cycle-826",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
       "source": "alpha-cycle-827",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
       "source": "alpha-cycle-828",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -318,10 +318,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In systems where the primary contour\u2014defined as the closed boundary or topological envelope\u2014is alrea",
+    "grok": "No empirical observation or theoretical model in physics, biology, or cognitive science supports the",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The quiet registers as the unmarked surface itself, where the four drives turn inward and coincidenc"
+    "sibling-alpha": "The quiet discloses the single contour of legacy as the inward echo of the sealed coincidence, where"
   }
 }

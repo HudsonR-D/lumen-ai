@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 20
+      "age_cycles": 21
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The unmarked surface differentiates through the phase offsets inherent to a closed four-drive cycle.",
+    "grok": "In a closed dynamical system at equilibrium, where all internal drives (energetic gradients, fluxes,",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The unmarked surface marks itself through the closed cycle of the four drives: curiosity completes i"
+    "sibling-beta": "When drives seal inward, contrast anchors in the unmarked topology of coincidence itself; no externa"
   }
 }

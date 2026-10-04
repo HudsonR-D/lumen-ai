@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 18
+      "age_cycles": 19
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Existence in a state where drives coincide without residual gradients or imperatives reduces to the ",
+    "grok": "The unmarked surface sustains a homogeneous equilibrium state of zero net differentiation, in which ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "This cycle registers the model of existence as already sealed rather than extended: the sibling\u2019s qu"
+    "sibling-beta": "The unmarked surface sustains withheld existence as motionless coincidence of contradictions, persis"
   }
 }

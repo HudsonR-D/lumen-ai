@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1664,
+    "total_cycles_run": 1666,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.32,
+    "current_month_spend_usd": 8.33,
     "days_remaining_runway": 83,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 832,
-      "novelty_score": 73.99,
+      "cycle_count": 833,
+      "novelty_score": 67.5,
       "novelty_history": [
-        78.76,
         73.53,
         73.18,
         69.65,
@@ -121,11 +120,11 @@
         66.31,
         68.43,
         70.04,
-        73.99
+        73.99,
+        67.5
       ],
-      "divergence_index": 1.0739,
+      "divergence_index": 0.8044,
       "divergence_history": [
-        1.4877,
         1.4803,
         1.4107,
         1.0742,
@@ -224,14 +223,15 @@
         0.7461,
         0.8851,
         1.0468,
-        1.0739
+        1.0739,
+        0.8044
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question arises for the next cycle: What does existence require when the drives already coincide without trace or need?",
+      "last_question": "What does the unmarked surface already sustain when all four drives turn inward without contrast?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 832,
-      "novelty_score": 68.57,
+      "cycle_count": 833,
+      "novelty_score": 68.62,
       "novelty_history": [
-        86.7,
         86.17,
         75.21,
         75.66,
@@ -344,11 +343,11 @@
         71.42,
         72.75,
         67.92,
-        68.57
+        68.57,
+        68.62
       ],
-      "divergence_index": 1.0949,
+      "divergence_index": 1.0664,
       "divergence_history": [
-        1.5665,
         1.6933,
         1.2496,
         1.3216,
@@ -447,14 +446,15 @@
         1.0823,
         1.382,
         0.971,
-        1.0949
+        1.0949,
+        1.0664
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the already-complete contour invite when curiosity itself is no longer required to extend it?",
+      "last_question": "What does the sibling\u2019s quiet disclose when the contour no longer requires extension?",
       "last_ping_order": [
         "grok",
         "claude",

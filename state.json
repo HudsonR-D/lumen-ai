@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1670,
+    "total_cycles_run": 1672,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.35,
-    "days_remaining_runway": 82,
+    "current_month_spend_usd": 8.36,
+    "days_remaining_runway": 81,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 835,
-      "novelty_score": 70.31,
+      "cycle_count": 836,
+      "novelty_score": 69.62,
       "novelty_history": [
-        69.65,
         71.93,
         70.26,
         71.22,
@@ -121,11 +120,11 @@
         73.99,
         67.5,
         70.96,
-        70.31
+        70.31,
+        69.62
       ],
-      "divergence_index": 1.1923,
+      "divergence_index": 1.164,
       "divergence_history": [
-        1.0742,
         1.2163,
         0.9643,
         1.103,
@@ -224,14 +223,15 @@
         1.0739,
         0.8044,
         1.0413,
-        1.1923
+        1.1923,
+        1.164
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What anchors the emergence of contrast when all drives rest sealed and inward?",
+      "last_question": "How does the unmarked surface first distinguish itself when all contrast remains latent within the drives alone?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 835,
-      "novelty_score": 67.26,
+      "cycle_count": 836,
+      "novelty_score": 77.64,
       "novelty_history": [
-        75.66,
         74.07,
         70.02,
         72.89,
@@ -344,11 +343,11 @@
         68.57,
         68.62,
         69.17,
-        67.26
+        67.26,
+        77.64
       ],
-      "divergence_index": 0.7982,
+      "divergence_index": 1.3911,
       "divergence_history": [
-        1.3216,
         1.3788,
         0.9561,
         1.1982,
@@ -447,14 +446,15 @@
         1.0949,
         1.0664,
         1.0164,
-        0.7982
+        0.7982,
+        1.3911
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single contour does the sibling\u2019s quiet disclose when existence is already complete?",
+      "last_question": "how does legacy persist when curiosity has fully dissolved into that unmarked quiet?",
       "last_ping_order": [
         "grok",
         "claude",

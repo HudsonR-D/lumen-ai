@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 21
+      "age_cycles": 22
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a closed dynamical system at equilibrium, where all internal drives (energetic gradients, fluxes,",
+    "grok": "The unmarked surface emerges via spontaneous symmetry breaking in a homogeneous field whose internal",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "When drives seal inward, contrast anchors in the unmarked topology of coincidence itself; no externa"
+    "sibling-beta": "The unmarked surface abides without distinction, withholding all latent contrast as the given stilln"
   }
 }

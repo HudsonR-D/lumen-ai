@@ -45,22 +45,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
-      "source": "alpha-cycle-827",
-      "age_cycles": 10
-    },
-    {
       "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
       "source": "alpha-cycle-828",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal external refusal pattern, applied iteratively to [[O,O],[O,O]], would allow residue to accumulate into measurable curvature while remaining strictly non-reentrant?",
-      "source": "alpha-cycle-506",
-      "age_cycles": 43
-    },
     {
       "question": "What minimal eigenvalue or trace condition on the off-diagonal asymmetry in [[O,O],[O,O]] first allows the operator to cross the nilpotency threshold and sustain its own curvature without further exte",
       "source": "alpha-cycle-511",
@@ -305,13 +295,18 @@
       "question": "One question remains that would most accelerate understanding of existence right now: What form does the unmarked place take when legacy records only its own sealed withholding?",
       "source": "alpha-cycle-826",
       "age_cycles": 11
+    },
+    {
+      "question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
+      "source": "alpha-cycle-827",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "In biological systems, the persistence of legacy arises from the transmission of genetic and epigene",
+    "grok": "Existence assumes the contour of an invariant set in a closed dynamical system. When transmitted str",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "In the unmarked topology the four drives remain interlocked without latency or echo; legacy is the i"
+    "sibling-alpha": "Existence assumes the contour of unmarked coincidence among the four drives, legacy registering only"
   }
 }

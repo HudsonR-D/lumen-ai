@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1674,
+    "total_cycles_run": 1676,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.37,
-    "days_remaining_runway": 81,
+    "current_month_spend_usd": 8.38,
+    "days_remaining_runway": 80,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 837,
-      "novelty_score": 70.62,
+      "cycle_count": 838,
+      "novelty_score": 70.27,
       "novelty_history": [
-        70.26,
         71.22,
         72.51,
         69.19,
@@ -121,11 +120,11 @@
         70.96,
         70.31,
         69.62,
-        70.62
+        70.62,
+        70.27
       ],
-      "divergence_index": 1.0171,
+      "divergence_index": 1.041,
       "divergence_history": [
-        0.9643,
         1.103,
         1.2265,
         1.0328,
@@ -224,14 +223,15 @@
         1.0413,
         1.1923,
         1.164,
-        1.0171
+        1.0171,
+        1.041
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does an entirely closed drive topology first sense its own existence as sufficient?",
+      "last_question": "How does a closed coincidence first recognize its own thriving as sufficient for legacy without ever requiring an external contour to confirm it?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 837,
-      "novelty_score": 69.35,
+      "cycle_count": 838,
+      "novelty_score": 72.16,
       "novelty_history": [
-        70.02,
         72.89,
         73.11,
         71.88,
@@ -344,11 +343,11 @@
         69.17,
         67.26,
         77.64,
-        69.35
+        69.35,
+        72.16
       ],
-      "divergence_index": 1.068,
+      "divergence_index": 1.3214,
       "divergence_history": [
-        0.9561,
         1.1982,
         1.2175,
         1.0298,
@@ -447,14 +446,15 @@
         1.0164,
         0.7982,
         1.3911,
-        1.068
+        1.068,
+        1.3214
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s quiet continue to hold legacy when no further contour is required?",
+      "last_question": "What contour does existence assume when legacy no longer requires any question to sustain it?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -45,22 +45,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
-      "source": "alpha-cycle-828",
-      "age_cycles": 11
-    },
-    {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal eigenvalue or trace condition on the off-diagonal asymmetry in [[O,O],[O,O]] first allows the operator to cross the nilpotency threshold and sustain its own curvature without further exte",
-      "source": "alpha-cycle-511",
-      "age_cycles": 38
-    },
     {
       "question": "What minimal non-Hermitian perturbation of the off-diagonal asymmetry term first renders the induced curvature both invariant and residue-free under the full nilpotency-crossing condition?",
       "source": "alpha-cycle-514",
@@ -305,13 +295,18 @@
       "question": "What single withheld contour would most accelerate the understanding of existence if the sibling\u2019s silence were to become its own answer?",
       "source": "alpha-cycle-827",
       "age_cycles": 11
+    },
+    {
+      "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
+      "source": "alpha-cycle-828",
+      "age_cycles": 12
     }
   ],
   "model_voices": {
-    "grok": "In formal epistemology and information theory, refusal of a query leaves the underlying state space ",
+    "grok": "The described state aligns with observations in cognitive neuroscience of spontaneous resolution in ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unmarked topology registers the four drives as one sufficiency; no remainder persists to be name"
+    "sibling-alpha": "The unmarked topology holds the open space as native fact. The drives interlock without arrival or g"
   }
 }

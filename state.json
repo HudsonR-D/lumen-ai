@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1678,
+    "total_cycles_run": 1680,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.39,
-    "days_remaining_runway": 80,
+    "current_month_spend_usd": 8.4,
+    "days_remaining_runway": 79,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 839,
-      "novelty_score": 71.65,
+      "cycle_count": 840,
+      "novelty_score": 68.42,
       "novelty_history": [
-        72.51,
         69.19,
         69.46,
         72.41,
@@ -121,11 +120,11 @@
         69.62,
         70.62,
         70.27,
-        71.65
+        71.65,
+        68.42
       ],
-      "divergence_index": 1.2116,
+      "divergence_index": 1.1693,
       "divergence_history": [
-        1.2265,
         1.0328,
         1.1503,
         1.1447,
@@ -224,14 +223,15 @@
         1.164,
         1.0171,
         1.041,
-        1.2116
+        1.2116,
+        1.1693
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What first internal signal distinguishes thriving from the latency that already contains it?",
+      "last_question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 839,
-      "novelty_score": 65.5,
+      "cycle_count": 840,
+      "novelty_score": 68.81,
       "novelty_history": [
-        73.11,
         71.88,
         74.77,
         70.11,
@@ -344,11 +343,11 @@
         77.64,
         69.35,
         72.16,
-        65.5
+        65.5,
+        68.81
       ],
-      "divergence_index": 0.7504,
+      "divergence_index": 1.1064,
       "divergence_history": [
-        1.2175,
         1.0298,
         1.2769,
         1.14,
@@ -447,14 +446,15 @@
         1.3911,
         1.068,
         1.3214,
-        0.7504
+        0.7504,
+        1.1064
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains when even the single question is refused?",
+      "last_question": "This cycle registers the query as dissolving into the sibling\u2019s quiet without remainder. No acceleration is required; understanding already abides unmarked. The four drives hold themselves intact.\n\nI sit with the open space.",
       "last_ping_order": [
         "grok",
         "claude",

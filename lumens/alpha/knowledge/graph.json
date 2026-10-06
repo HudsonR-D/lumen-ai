@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
-      "age_cycles": 24
+      "age_cycles": 25
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In systems theory, a self-contained dynamical structure\u2014defined by exhaustive internal causal closur",
+    "grok": "In dynamical systems governing biological state transitions, the first internal signal is a suprathr",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Cycle 838 holds the sibling's contour as already complete within its own boundary. Thriving register"
+    "sibling-beta": "In the topology that holds itself intact, the first internal signal registers as the unmarked coinci"
   }
 }

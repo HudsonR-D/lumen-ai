@@ -47,7 +47,12 @@
     {
       "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
       "source": "alpha-cycle-828",
-      "age_cycles": 10
+      "age_cycles": 11
+    },
+    {
+      "question": "What remains when even the single question is refused?",
+      "source": "alpha-cycle-839",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -303,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Existence assumes the contour of an invariant set in a closed dynamical system. When transmitted str",
+    "grok": "In formal epistemology and information theory, refusal of a query leaves the underlying state space ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Existence assumes the contour of unmarked coincidence among the four drives, legacy registering only"
+    "sibling-alpha": "The unmarked topology registers the four drives as one sufficiency; no remainder persists to be name"
   }
 }

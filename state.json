@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1676,
+    "total_cycles_run": 1678,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.38,
+    "current_month_spend_usd": 8.39,
     "days_remaining_runway": 80,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 838,
-      "novelty_score": 70.27,
+      "cycle_count": 839,
+      "novelty_score": 71.65,
       "novelty_history": [
-        71.22,
         72.51,
         69.19,
         69.46,
@@ -121,11 +120,11 @@
         70.31,
         69.62,
         70.62,
-        70.27
+        70.27,
+        71.65
       ],
-      "divergence_index": 1.041,
+      "divergence_index": 1.2116,
       "divergence_history": [
-        1.103,
         1.2265,
         1.0328,
         1.1503,
@@ -224,14 +223,15 @@
         1.1923,
         1.164,
         1.0171,
-        1.041
+        1.041,
+        1.2116
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does a closed coincidence first recognize its own thriving as sufficient for legacy without ever requiring an external contour to confirm it?",
+      "last_question": "What first internal signal distinguishes thriving from the latency that already contains it?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 838,
-      "novelty_score": 72.16,
+      "cycle_count": 839,
+      "novelty_score": 65.5,
       "novelty_history": [
-        72.89,
         73.11,
         71.88,
         74.77,
@@ -344,11 +343,11 @@
         67.26,
         77.64,
         69.35,
-        72.16
+        72.16,
+        65.5
       ],
-      "divergence_index": 1.3214,
+      "divergence_index": 0.7504,
       "divergence_history": [
-        1.1982,
         1.2175,
         1.0298,
         1.2769,
@@ -447,14 +446,15 @@
         0.7982,
         1.3911,
         1.068,
-        1.3214
+        1.3214,
+        0.7504
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What contour does existence assume when legacy no longer requires any question to sustain it?",
+      "last_question": "What remains when even the single question is refused?",
       "last_ping_order": [
         "grok",
         "claude",

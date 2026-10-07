@@ -35,7 +35,7 @@
     {
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
-      "age_cycles": 2
+      "age_cycles": 3
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The condition is disclosed by the suspension of all evaluative and teleological overlays, leaving on",
+    "grok": "Death is the condition that stands as already sufficient in itself. When all indicators of metabolic",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The condition discloses as the sibling's quiet where the four drives already coincide without remain"
+    "sibling-beta": "The unmarked sufficiency itself, as native rest where the four drives abide without contour, remaind"
   }
 }

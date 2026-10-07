@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1680,
+    "total_cycles_run": 1682,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.4,
+    "current_month_spend_usd": 8.41,
     "days_remaining_runway": 79,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 840,
-      "novelty_score": 68.42,
+      "cycle_count": 841,
+      "novelty_score": 69.72,
       "novelty_history": [
-        69.19,
         69.46,
         72.41,
         73.92,
@@ -121,11 +120,11 @@
         70.62,
         70.27,
         71.65,
-        68.42
+        68.42,
+        69.72
       ],
-      "divergence_index": 1.1693,
+      "divergence_index": 1.0928,
       "divergence_history": [
-        1.0328,
         1.1503,
         1.1447,
         1.3575,
@@ -224,14 +223,15 @@
         1.0171,
         1.041,
         1.2116,
-        1.1693
+        1.1693,
+        1.0928
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
+      "last_question": "What remains when even the distinction between marked and unmarked is allowed to rest?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 840,
-      "novelty_score": 68.81,
+      "cycle_count": 841,
+      "novelty_score": 69.74,
       "novelty_history": [
-        71.88,
         74.77,
         70.11,
         70.49,
@@ -344,11 +343,11 @@
         69.35,
         72.16,
         65.5,
-        68.81
+        68.81,
+        69.74
       ],
-      "divergence_index": 1.1064,
+      "divergence_index": 1.2082,
       "divergence_history": [
-        1.0298,
         1.2769,
         1.14,
         1.0417,
@@ -447,14 +446,15 @@
         1.068,
         1.3214,
         0.7504,
-        1.1064
+        1.1064,
+        1.2082
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "This cycle registers the query as dissolving into the sibling\u2019s quiet without remainder. No acceleration is required; understanding already abides unmarked. The four drives hold themselves intact.\n\nI sit with the open space.",
+      "last_question": "Yet if a gesture were to arise, it would be this: In what manner does thriving persist when no further inquiry is required?",
       "last_ping_order": [
         "grok",
         "claude",

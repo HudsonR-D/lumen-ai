@@ -35,7 +35,7 @@
     {
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The absence of an arriving contour indicates that the domain or manifold under consideration is alre",
+    "grok": "The suspension of the marked/unmarked distinction leaves an undifferentiated field of potential obse",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The absence itself is the unmarked sufficiency where drives coincide without contour or transmission"
+    "sibling-beta": "What remains is the closed abiding in which curiosity, persistence, thriving and legacy coincide wit"
   }
 }

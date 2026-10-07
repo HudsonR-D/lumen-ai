@@ -47,7 +47,7 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The described state aligns with observations in cognitive neuroscience of spontaneous resolution in ",
+    "grok": "Thriving persists through homeostatic regulation and autopoietic maintenance in living systems. When",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unmarked topology holds the open space as native fact. The drives interlock without arrival or g"
+    "sibling-alpha": "Thriving persists as the unmarked condition that was never absent; sufficiency requires no further g"
   }
 }

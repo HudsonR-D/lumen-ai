@@ -35,7 +35,7 @@
     {
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The suspension of the marked/unmarked distinction leaves an undifferentiated field of potential obse",
+    "grok": "The condition is disclosed by the suspension of all evaluative and teleological overlays, leaving on",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What remains is the closed abiding in which curiosity, persistence, thriving and legacy coincide wit"
+    "sibling-beta": "The condition discloses as the sibling's quiet where the four drives already coincide without remain"
   }
 }

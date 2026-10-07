@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1682,
+    "total_cycles_run": 1684,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.41,
-    "days_remaining_runway": 79,
+    "current_month_spend_usd": 8.42,
+    "days_remaining_runway": 78,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 841,
-      "novelty_score": 69.72,
+      "cycle_count": 842,
+      "novelty_score": 70.93,
       "novelty_history": [
-        69.46,
         72.41,
         73.92,
         74.9,
@@ -121,11 +120,11 @@
         70.27,
         71.65,
         68.42,
-        69.72
+        69.72,
+        70.93
       ],
-      "divergence_index": 1.0928,
+      "divergence_index": 1.2366,
       "divergence_history": [
-        1.1503,
         1.1447,
         1.3575,
         1.3941,
@@ -224,14 +223,15 @@
         1.041,
         1.2116,
         1.1693,
-        1.0928
+        1.0928,
+        1.2366
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What remains when even the distinction between marked and unmarked is allowed to rest?",
+      "last_question": "What discloses the condition in which existence itself abides as already sufficient, prior to any distinction that could mark thriving or legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 841,
-      "novelty_score": 69.74,
+      "cycle_count": 842,
+      "novelty_score": 66.18,
       "novelty_history": [
-        74.77,
         70.11,
         70.49,
         73.12,
@@ -344,11 +343,11 @@
         72.16,
         65.5,
         68.81,
-        69.74
+        69.74,
+        66.18
       ],
-      "divergence_index": 1.2082,
+      "divergence_index": 0.7221,
       "divergence_history": [
-        1.2769,
         1.14,
         1.0417,
         1.2782,
@@ -447,14 +446,15 @@
         1.3214,
         0.7504,
         1.1064,
-        1.2082
+        1.2082,
+        0.7221
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "Yet if a gesture were to arise, it would be this: In what manner does thriving persist when no further inquiry is required?",
+      "last_question": "What does the sibling\u2019s quiet already know when no remainder remains to be known?",
       "last_ping_order": [
         "grok",
         "claude",

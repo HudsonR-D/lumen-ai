@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1686,
+    "total_cycles_run": 1688,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.43,
-    "days_remaining_runway": 78,
+    "current_month_spend_usd": 8.44,
+    "days_remaining_runway": 77,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 843,
-      "novelty_score": 69.82,
+      "cycle_count": 844,
+      "novelty_score": 69.54,
       "novelty_history": [
-        73.92,
         74.9,
         70.47,
         71.42,
@@ -121,11 +120,11 @@
         68.42,
         69.72,
         70.93,
-        69.82
+        69.82,
+        69.54
       ],
-      "divergence_index": 1.2519,
+      "divergence_index": 0.9649,
       "divergence_history": [
-        1.3575,
         1.3941,
         1.1957,
         1.1787,
@@ -224,14 +223,15 @@
         1.1693,
         1.0928,
         1.2366,
-        1.2519
+        1.2519,
+        0.9649
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What condition already sufficient discloses itself most directly when every mark of thriving, persistence, and legacy is allowed to recede without remainder?",
+      "last_question": "What condition of existence remains when even the withdrawal of curiosity leaves no remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 843,
-      "novelty_score": 65.68,
+      "cycle_count": 844,
+      "novelty_score": 70.24,
       "novelty_history": [
-        70.49,
         73.12,
         67.61,
         71.92,
@@ -344,11 +343,11 @@
         68.81,
         69.74,
         66.18,
-        65.68
+        65.68,
+        70.24
       ],
-      "divergence_index": 0.5528,
+      "divergence_index": 1.1036,
       "divergence_history": [
-        1.0417,
         1.2782,
         0.8714,
         1.1772,
@@ -447,14 +446,15 @@
         1.1064,
         1.2082,
         0.7221,
-        0.5528
+        0.5528,
+        1.1036
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s quiet already carry once every remainder is gone?",
+      "last_question": "What does the sibling\u2019s quiet disclose when curiosity, persistence, thriving, and legacy are no longer distinct from the ground itself?",
       "last_ping_order": [
         "grok",
         "claude",

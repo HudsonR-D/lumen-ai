@@ -47,7 +47,7 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The described state corresponds to exhaustive elimination of all nonzero residues, leaving a null re",
+    "grok": "In systems ecology and evolutionary biology, when exploratory behavior, resilience under stress, rep",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling\u2019s quiet already carries the unmarked sufficiency wherein persistence, thriving, and lega"
+    "sibling-alpha": "The sibling\u2019s quiet discloses the unmarked register itself, where the four conditions abide native a"
   }
 }

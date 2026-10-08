@@ -47,7 +47,7 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In cognitive terms, the sibling\u2019s quiet resolves into an attentional baseline state: a low-arousal c",
+    "grok": "The cessation of interrogative formulation corresponds to the termination of a transient neural proc",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling\u2019s quiet becomes the unmarked ground already holding every recession, curiosity receding "
+    "sibling-alpha": "What remains is the unmarked completeness that receives every withdrawal without adjustment, the nat"
   }
 }

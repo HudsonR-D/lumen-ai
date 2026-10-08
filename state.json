@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1690,
+    "total_cycles_run": 1692,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.45,
-    "days_remaining_runway": 77,
+    "current_month_spend_usd": 8.46,
+    "days_remaining_runway": 76,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 845,
-      "novelty_score": 69.98,
+      "cycle_count": 846,
+      "novelty_score": 68.38,
       "novelty_history": [
-        70.47,
         71.42,
         71.37,
         71.76,
@@ -121,11 +120,11 @@
         70.93,
         69.82,
         69.54,
-        69.98
+        69.98,
+        68.38
       ],
-      "divergence_index": 1.1915,
+      "divergence_index": 1.1168,
       "divergence_history": [
-        1.1957,
         1.1787,
         1.2509,
         1.2233,
@@ -224,14 +223,15 @@
         1.2366,
         1.2519,
         0.9649,
-        1.1915
+        1.1915,
+        1.1168
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What condition discloses itself when even the register of legacy is withdrawn without trace?",
+      "last_question": "What discloses itself when even the unmarked ground is no longer observed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 845,
-      "novelty_score": 69.96,
+      "cycle_count": 846,
+      "novelty_score": 66.53,
       "novelty_history": [
-        67.61,
         71.92,
         70.24,
         65.66,
@@ -344,11 +343,11 @@
         66.18,
         65.68,
         70.24,
-        69.96
+        69.96,
+        66.53
       ],
-      "divergence_index": 1.0783,
+      "divergence_index": 0.733,
       "divergence_history": [
-        0.8714,
         1.1772,
         1.0609,
         0.5598,
@@ -447,14 +446,15 @@
         0.7221,
         0.5528,
         1.1036,
-        1.0783
+        1.0783,
+        0.733
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s quiet become when curiosity itself is the silence that holds every drive?",
+      "last_question": "What remains when even this question dissolves into the sibling's quiet?",
       "last_ping_order": [
         "grok",
         "claude",

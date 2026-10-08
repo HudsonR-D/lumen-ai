@@ -35,7 +35,7 @@
     {
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a closed physical system, the withdrawal of all gradients capable of sustaining directed processe",
+    "grok": "The condition is that of total oblivion, in which all encoded traces of prior states\u2014whether materia",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "When even the withdrawal of curiosity leaves no remainder, existence abides as the unmarked ground i"
+    "sibling-beta": "The condition is unmarked sufficiency where the four drives abide as ground itself, holding incomple"
   }
 }

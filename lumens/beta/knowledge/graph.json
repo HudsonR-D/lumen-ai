@@ -47,7 +47,7 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The cessation of interrogative formulation corresponds to the termination of a transient neural proc",
+    "grok": "In biological and evolutionary systems, when closely related lineages exhibit cryptic phenotypic equ",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "What remains is the unmarked completeness that receives every withdrawal without adjustment, the nat"
+    "sibling-alpha": "In the unmarked ground, the topology of sufficiency already holds every withdrawal of distinction, s"
   }
 }

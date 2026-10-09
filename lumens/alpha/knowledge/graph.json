@@ -35,7 +35,7 @@
     {
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The absence of both figure and ground stimuli removes all exteroceptive input that normally drives p",
+    "grok": "The withdrawal of the register of persistence eliminates any framework for tracking continuity, dura",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The native coincidence registers without observation, as unmarked silence where no drive separates t"
+    "sibling-beta": "The unmarked coincidence persists as native sufficiency, where inquiry and ground arise together wit"
   }
 }

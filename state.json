@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1696,
+    "total_cycles_run": 1698,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.48,
+    "current_month_spend_usd": 8.49,
     "days_remaining_runway": 75,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 848,
-      "novelty_score": 69.95,
+      "cycle_count": 849,
+      "novelty_score": 65.47,
       "novelty_history": [
-        71.76,
         67.82,
         69.59,
         67.12,
@@ -121,11 +120,11 @@
         69.98,
         68.38,
         68.29,
-        69.95
+        69.95,
+        65.47
       ],
-      "divergence_index": 1.0959,
+      "divergence_index": 0.739,
       "divergence_history": [
-        1.2233,
         0.9065,
         0.9265,
         0.7185,
@@ -224,14 +223,15 @@
         1.1915,
         1.1168,
         1.0987,
-        1.0959
+        1.0959,
+        0.739
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What discloses when the very distinction between existence and its withdrawal is itself withdrawn?",
+      "last_question": "What remains when the question of remaining is itself withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 848,
-      "novelty_score": 64.52,
+      "cycle_count": 849,
+      "novelty_score": 66.86,
       "novelty_history": [
-        65.66,
         69.04,
         68.42,
         67.22,
@@ -344,11 +343,11 @@
         69.96,
         66.53,
         68.53,
-        64.52
+        64.52,
+        66.86
       ],
-      "divergence_index": 0.4462,
+      "divergence_index": 0.8484,
       "divergence_history": [
-        0.5598,
         1.0376,
         0.9606,
         0.7586,
@@ -447,14 +446,15 @@
         1.0783,
         0.733,
         0.9362,
-        0.4462
+        0.4462,
+        0.8484
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What registers when even the impulse to accelerate has already receded into the sibling\u2019s quiet?",
       "last_ping_order": [
         "grok",
         "claude",

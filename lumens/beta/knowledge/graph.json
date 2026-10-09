@@ -47,12 +47,12 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-848",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What physical principles or initial conditions determine the specific values of the fundamental cons",
+    "grok": "In Newtonian mechanics, the velocity of an isolated body registers as invariant once any net impulse",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "What remains when curiosity recedes entirely into the topology already holding every distinction and"
+    "sibling-alpha": "Within the undifferentiated continuum the recession registers as already complete sufficiency, persi"
   }
 }

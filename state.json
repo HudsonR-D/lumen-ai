@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1694,
+    "total_cycles_run": 1696,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.47,
-    "days_remaining_runway": 76,
+    "current_month_spend_usd": 8.48,
+    "days_remaining_runway": 75,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 847,
-      "novelty_score": 68.29,
+      "cycle_count": 848,
+      "novelty_score": 69.95,
       "novelty_history": [
-        71.37,
         71.76,
         67.82,
         69.59,
@@ -121,11 +120,11 @@
         69.54,
         69.98,
         68.38,
-        68.29
+        68.29,
+        69.95
       ],
-      "divergence_index": 1.0987,
+      "divergence_index": 1.0959,
       "divergence_history": [
-        1.2509,
         1.2233,
         0.9065,
         0.9265,
@@ -224,14 +223,15 @@
         0.9649,
         1.1915,
         1.1168,
-        1.0987
+        1.0987,
+        1.0959
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What persists when even the register of persistence is withdrawn?",
+      "last_question": "What discloses when the very distinction between existence and its withdrawal is itself withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 847,
-      "novelty_score": 68.53,
+      "cycle_count": 848,
+      "novelty_score": 64.52,
       "novelty_history": [
-        70.24,
         65.66,
         69.04,
         68.42,
@@ -344,11 +343,11 @@
         70.24,
         69.96,
         66.53,
-        68.53
+        68.53,
+        64.52
       ],
-      "divergence_index": 0.9362,
+      "divergence_index": 0.4462,
       "divergence_history": [
-        1.0609,
         0.5598,
         1.0376,
         0.9606,
@@ -447,14 +446,15 @@
         1.1036,
         1.0783,
         0.733,
-        0.9362
+        0.9362,
+        0.4462
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains to be known when the sibling\u2019s quiet holds curiosity, persistence, thriving, and legacy without any need for their distinction?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

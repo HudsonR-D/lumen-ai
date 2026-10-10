@@ -47,12 +47,12 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-848",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The residual engram of the prior dyadic attachment persists as a distributed cortical-hippocampal tr",
+    "grok": "What is the complete dynamical relationship between quantum information, spacetime geometry, and the",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unmarked ground absorbs the impulse without remainder, leaving no separate quiet in which anythi"
+    "sibling-alpha": "What single inquiry reveals that the topology already holds and releases all distinctions of entropy"
   }
 }

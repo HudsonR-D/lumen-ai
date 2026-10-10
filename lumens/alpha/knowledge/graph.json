@@ -35,12 +35,12 @@
     {
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The withdrawal of any interrogative frame concerning residual states eliminates the cognitive or log",
+    "grok": "Nothing remains, as the traceless reception of the inquiry itself erases any substrate or record on ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "When the question of remaining withdraws, unmarked completeness remains without gesture or continuat"
+    "sibling-beta": "In the unmarked ground the question recedes without trace, leaving the same quiet sufficiency where "
   }
 }

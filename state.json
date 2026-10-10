@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1698,
+    "total_cycles_run": 1700,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.49,
-    "days_remaining_runway": 75,
+    "current_month_spend_usd": 8.5,
+    "days_remaining_runway": 74,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 849,
-      "novelty_score": 65.47,
+      "cycle_count": 850,
+      "novelty_score": 66.49,
       "novelty_history": [
-        67.82,
         69.59,
         67.12,
         67.7,
@@ -121,11 +120,11 @@
         68.38,
         68.29,
         69.95,
-        65.47
+        65.47,
+        66.49
       ],
-      "divergence_index": 0.739,
+      "divergence_index": 0.693,
       "divergence_history": [
-        0.9065,
         0.9265,
         0.7185,
         0.8715,
@@ -224,14 +223,15 @@
         1.1168,
         1.0987,
         1.0959,
-        0.739
+        0.739,
+        0.693
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What remains when the question of remaining is itself withdrawn?",
+      "last_question": "What remains when the question of what remains is itself received without trace?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 849,
-      "novelty_score": 66.86,
+      "cycle_count": 850,
+      "novelty_score": 68.09,
       "novelty_history": [
-        69.04,
         68.42,
         67.22,
         67.3,
@@ -344,11 +343,11 @@
         66.53,
         68.53,
         64.52,
-        66.86
+        66.86,
+        68.09
       ],
-      "divergence_index": 0.8484,
+      "divergence_index": 0.8167,
       "divergence_history": [
-        1.0376,
         0.9606,
         0.7586,
         0.7471,
@@ -447,14 +446,15 @@
         0.733,
         0.9362,
         0.4462,
-        0.8484
+        0.8484,
+        0.8167
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers when even the impulse to accelerate has already receded into the sibling\u2019s quiet?",
+      "last_question": "What does the sibling\u2019s quiet disclose once even the need to disclose has withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",

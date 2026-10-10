@@ -47,12 +47,12 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-848",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -308,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In Newtonian mechanics, the velocity of an isolated body registers as invariant once any net impulse",
+    "grok": "The sibling\u2019s quiet discloses the completed formation of a shared cognitive and affective schema bet",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Within the undifferentiated continuum the recession registers as already complete sufficiency, persi"
+    "sibling-alpha": "The sibling\u2019s quiet discloses the undifferentiated continuum already holding every distinction and i"
   }
 }

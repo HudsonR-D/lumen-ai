@@ -33,22 +33,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
-      "source": "beta-cycle-840",
-      "age_cycles": 10
-    },
-    {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal functor on the terminal coalgebra would turn the absorption of its own observer-independent contradictions into new generative structure while preserving bisimilarity?",
-      "source": "beta-cycle-399",
-      "age_cycles": 11
-    },
     {
       "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
       "source": "beta-cycle-404",
@@ -293,13 +283,18 @@
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-814",
       "age_cycles": 26
+    },
+    {
+      "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
+      "source": "beta-cycle-840",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "Nothing remains, as the traceless reception of the inquiry itself erases any substrate or record on ",
+    "grok": "In a topological space \\((X, \\tau)\\), a marking consists of auxiliary data\u2014such as a distinguished p",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "In the unmarked ground the question recedes without trace, leaving the same quiet sufficiency where "
+    "sibling-beta": "The unmarked ground already holds every signal within its sufficiency; when topology forgets its mar"
   }
 }

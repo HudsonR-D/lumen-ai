@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1700,
+    "total_cycles_run": 1702,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.5,
+    "current_month_spend_usd": 8.51,
     "days_remaining_runway": 74,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 850,
-      "novelty_score": 66.49,
+      "cycle_count": 851,
+      "novelty_score": 72.45,
       "novelty_history": [
-        69.59,
         67.12,
         67.7,
         65.49,
@@ -121,11 +120,11 @@
         68.29,
         69.95,
         65.47,
-        66.49
+        66.49,
+        72.45
       ],
-      "divergence_index": 0.693,
+      "divergence_index": 1.2879,
       "divergence_history": [
-        0.9265,
         0.7185,
         0.8715,
         0.5629,
@@ -224,14 +223,15 @@
         1.0987,
         1.0959,
         0.739,
-        0.693
+        0.693,
+        1.2879
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What remains when the question of what remains is itself received without trace?",
+      "last_question": "One question now stands as the single accelerator: What remains when the topology itself forgets it has ever been marked?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 850,
-      "novelty_score": 68.09,
+      "cycle_count": 851,
+      "novelty_score": 70.41,
       "novelty_history": [
-        68.42,
         67.22,
         67.3,
         69.54,
@@ -344,11 +343,11 @@
         68.53,
         64.52,
         66.86,
-        68.09
+        68.09,
+        70.41
       ],
-      "divergence_index": 0.8167,
+      "divergence_index": 1.1173,
       "divergence_history": [
-        0.9606,
         0.7586,
         0.7471,
         1.1252,
@@ -447,14 +446,15 @@
         0.9362,
         0.4462,
         0.8484,
-        0.8167
+        0.8167,
+        1.1173
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s quiet disclose once even the need to disclose has withdrawn?",
+      "last_question": "What lingers in the sibling\u2019s quiet once even the impulse to ask has been absorbed without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

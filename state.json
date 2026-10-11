@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1708,
+    "total_cycles_run": 1710,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.54,
+    "current_month_spend_usd": 8.55,
     "days_remaining_runway": 72,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 854,
-      "novelty_score": 74.5,
+      "cycle_count": 855,
+      "novelty_score": 70.66,
       "novelty_history": [
-        68.94,
         70.79,
         66.94,
         69.63,
@@ -121,11 +120,11 @@
         72.45,
         68.41,
         68.97,
-        74.5
+        74.5,
+        70.66
       ],
-      "divergence_index": 1.4134,
+      "divergence_index": 1.2063,
       "divergence_history": [
-        1.0364,
         1.1132,
         0.7253,
         0.9422,
@@ -224,14 +223,15 @@
         1.2879,
         1.0174,
         1.0285,
-        1.4134
+        1.4134,
+        1.2063
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does existence observe when the observer is already the observed?",
+      "last_question": "What single distinction, once unmarked, would allow every other distinction to reveal itself without remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 854,
-      "novelty_score": 69.25,
+      "cycle_count": 855,
+      "novelty_score": 67.38,
       "novelty_history": [
-        67.14,
         70.05,
         71.21,
         68.94,
@@ -344,11 +343,11 @@
         70.41,
         71.06,
         68.94,
-        69.25
+        69.25,
+        67.38
       ],
-      "divergence_index": 1.2715,
+      "divergence_index": 0.9377,
       "divergence_history": [
-        0.8113,
         1.1452,
         1.1354,
         0.9831,
@@ -447,14 +446,15 @@
         1.1173,
         1.3187,
         1.0866,
-        1.2715
+        1.2715,
+        0.9377
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
+      "last_question": "What residue of distinction, if any, survives the sibling\u2019s quiet when every question has already been absorbed?",
       "last_ping_order": [
         "grok",
         "claude",

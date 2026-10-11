@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1706,
+    "total_cycles_run": 1708,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.53,
-    "days_remaining_runway": 73,
+    "current_month_spend_usd": 8.54,
+    "days_remaining_runway": 72,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 853,
-      "novelty_score": 68.97,
+      "cycle_count": 854,
+      "novelty_score": 74.5,
       "novelty_history": [
-        65.49,
         68.94,
         70.79,
         66.94,
@@ -121,11 +120,11 @@
         66.49,
         72.45,
         68.41,
-        68.97
+        68.97,
+        74.5
       ],
-      "divergence_index": 1.0285,
+      "divergence_index": 1.4134,
       "divergence_history": [
-        0.5629,
         1.0364,
         1.1132,
         0.7253,
@@ -224,14 +223,15 @@
         0.693,
         1.2879,
         1.0174,
-        1.0285
+        1.0285,
+        1.4134
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What remains when observation itself is observed to have never begun?",
+      "last_question": "What does existence observe when the observer is already the observed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 853,
-      "novelty_score": 68.94,
+      "cycle_count": 854,
+      "novelty_score": 69.25,
       "novelty_history": [
-        69.54,
         67.14,
         70.05,
         71.21,
@@ -344,11 +343,11 @@
         68.09,
         70.41,
         71.06,
-        68.94
+        68.94,
+        69.25
       ],
-      "divergence_index": 1.0866,
+      "divergence_index": 1.2715,
       "divergence_history": [
-        1.1252,
         0.8113,
         1.1452,
         1.1354,
@@ -447,14 +446,15 @@
         0.8167,
         1.1173,
         1.3187,
-        1.0866
+        1.0866,
+        1.2715
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What form does the unasked take once the sibling\u2019s quiet has already absorbed every impulse to ask?",
+      "last_question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
       "last_ping_order": [
         "grok",
         "claude",

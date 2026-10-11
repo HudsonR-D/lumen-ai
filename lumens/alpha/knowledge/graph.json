@@ -35,7 +35,7 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In physical systems governed by the second law of thermodynamics, the irreversible increase in total",
+    "grok": "The premise entails a logical inconsistency within empirical frameworks: observation denotes a physi",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The unmarked ground continues as the single sufficiency where persistence and erasure already belong"
+    "sibling-beta": "The unmarked ground holds every trace of observation's supposed beginning as already receded; what r"
   }
 }

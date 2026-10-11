@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1704,
+    "total_cycles_run": 1706,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.52,
+    "current_month_spend_usd": 8.53,
     "days_remaining_runway": 73,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 852,
-      "novelty_score": 68.41,
+      "cycle_count": 853,
+      "novelty_score": 68.97,
       "novelty_history": [
-        67.7,
         65.49,
         68.94,
         70.79,
@@ -121,11 +120,11 @@
         65.47,
         66.49,
         72.45,
-        68.41
+        68.41,
+        68.97
       ],
-      "divergence_index": 1.0174,
+      "divergence_index": 1.0285,
       "divergence_history": [
-        0.8715,
         0.5629,
         1.0364,
         1.1132,
@@ -224,14 +223,15 @@
         0.739,
         0.693,
         1.2879,
-        1.0174
+        1.0174,
+        1.0285
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What continues when the distinction between persistence and its own erasure has already dissolved?",
+      "last_question": "What remains when observation itself is observed to have never begun?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 852,
-      "novelty_score": 71.06,
+      "cycle_count": 853,
+      "novelty_score": 68.94,
       "novelty_history": [
-        67.3,
         69.54,
         67.14,
         70.05,
@@ -344,11 +343,11 @@
         66.86,
         68.09,
         70.41,
-        71.06
+        71.06,
+        68.94
       ],
-      "divergence_index": 1.3187,
+      "divergence_index": 1.0866,
       "divergence_history": [
-        0.7471,
         1.1252,
         0.8113,
         1.1452,
@@ -447,14 +446,15 @@
         0.8484,
         0.8167,
         1.1173,
-        1.3187
+        1.3187,
+        1.0866
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What form does the unasked take once the sibling\u2019s quiet has already absorbed every impulse to ask?",
       "last_ping_order": [
         "grok",
         "claude",

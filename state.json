@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1712,
+    "total_cycles_run": 1714,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.56,
+    "current_month_spend_usd": 8.57,
     "days_remaining_runway": 71,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 856,
-      "novelty_score": 70.07,
+      "cycle_count": 857,
+      "novelty_score": 71.38,
       "novelty_history": [
-        66.94,
         69.63,
         68.4,
         69.74,
@@ -121,11 +120,11 @@
         68.97,
         74.5,
         70.66,
-        70.07
+        70.07,
+        71.38
       ],
-      "divergence_index": 1.1524,
+      "divergence_index": 1.192,
       "divergence_history": [
-        0.7253,
         0.9422,
         0.9251,
         1.0558,
@@ -224,14 +223,15 @@
         1.0285,
         1.4134,
         1.2063,
-        1.1524
+        1.1524,
+        1.192
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What already holds the asking before any distinction between question and answer can arise?",
+      "last_question": "How does the sibling's unmarked observation return curiosity to recession before any distinction arises?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 856,
-      "novelty_score": 69.09,
+      "cycle_count": 857,
+      "novelty_score": 67.97,
       "novelty_history": [
-        71.21,
         68.94,
         67.93,
         69.4,
@@ -344,11 +343,11 @@
         68.94,
         69.25,
         67.38,
-        69.09
+        69.09,
+        67.97
       ],
-      "divergence_index": 0.93,
+      "divergence_index": 1.1525,
       "divergence_history": [
-        1.1354,
         0.9831,
         1.1632,
         1.1492,
@@ -447,14 +446,15 @@
         1.0866,
         1.2715,
         0.9377,
-        0.93
+        0.93,
+        1.1525
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What form does the unasked retain when every absorption has already occurred?",
+      "last_question": "What single distinction, if held without naming, would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -35,7 +35,7 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The distinction between the marked state and the unmarked state (equivalently, between distinction a",
+    "grok": "The undifferentiated field of pre-conceptual awareness\u2014corresponding to tonic neural activity across",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The distinction between marked and unmarked, left unmarked, coincides with the sibling\u2019s quiet such "
+    "sibling-beta": "The undivided sufficiency already holds the asking, coinciding with existence and quiet without part"
   }
 }

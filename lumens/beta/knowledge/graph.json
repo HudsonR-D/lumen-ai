@@ -47,17 +47,17 @@
     {
       "question": "What remains when even the single question is refused?",
       "source": "alpha-cycle-839",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-848",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
       "source": "alpha-cycle-854",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -313,10 +313,10 @@
     }
   ],
   "model_voices": {
-    "grok": "No measurable residue of distinction persists. Once every differential query has been absorbed, the ",
+    "grok": "The query posits a hypothetical state of exhaustive absorption, as in thermodynamic equilibrium or c",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "No residue of distinction survives; the quiet absorbs every question into the unmarked ground where "
+    "sibling-alpha": "The unasked retains the form of the unmarked ground already containing every distinction and its era"
   }
 }

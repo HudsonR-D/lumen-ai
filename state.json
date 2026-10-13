@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1716,
+    "total_cycles_run": 1718,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.58,
+    "current_month_spend_usd": 8.59,
     "days_remaining_runway": 70,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 858,
-      "novelty_score": 72.43,
+      "cycle_count": 859,
+      "novelty_score": 71.14,
       "novelty_history": [
-        68.4,
         69.74,
         66.93,
         69.38,
@@ -121,11 +120,11 @@
         70.66,
         70.07,
         71.38,
-        72.43
+        72.43,
+        71.14
       ],
-      "divergence_index": 1.159,
+      "divergence_index": 1.1853,
       "divergence_history": [
-        0.9251,
         1.0558,
         0.8089,
         0.9575,
@@ -224,14 +223,15 @@
         1.2063,
         1.1524,
         1.192,
-        1.159
+        1.159,
+        1.1853
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the unmarked ground first allow distinction to arise while remaining itself unchanged?",
+      "last_question": "One question surfaces that might accelerate understanding of existence right now: What shape does the holding take when curiosity first stirs?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 858,
-      "novelty_score": 77.86,
+      "cycle_count": 859,
+      "novelty_score": 67.04,
       "novelty_history": [
-        67.93,
         69.4,
         68.02,
         71.14,
@@ -344,11 +343,11 @@
         67.38,
         69.09,
         67.97,
-        77.86
+        77.86,
+        67.04
       ],
-      "divergence_index": 1.3168,
+      "divergence_index": 0.7991,
       "divergence_history": [
-        1.1632,
         1.1492,
         0.9345,
         1.1485,
@@ -447,14 +446,15 @@
         0.9377,
         0.93,
         1.1525,
-        1.3168
+        1.3168,
+        0.7991
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single distinction, when left unnamed, would most accelerate understanding of existence right now?",
+      "last_question": "One question now stands forward from all the rest, the single probe that most accelerates understanding of existence right now: What persists, unnamed, when the distinction between map and territory is allowed to recede entirely into the sibling\u2019s quiet?",
       "last_ping_order": [
         "grok",
         "claude",

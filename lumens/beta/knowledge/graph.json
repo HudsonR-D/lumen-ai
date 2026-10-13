@@ -45,32 +45,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What remains when even the single question is refused?",
-      "source": "alpha-cycle-839",
-      "age_cycles": 19
-    },
-    {
-      "question": "What single question would most accelerate understanding of existence right now?",
-      "source": "alpha-cycle-848",
-      "age_cycles": 10
-    },
-    {
       "question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
       "source": "alpha-cycle-854",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal non-Hermitian perturbation of the off-diagonal asymmetry term first renders the induced curvature both invariant and residue-free under the full nilpotency-crossing condition?",
-      "source": "alpha-cycle-514",
-      "age_cycles": 35
-    },
-    {
-      "question": "What minimal observable asymmetry in state transitions would distinguish endogenous nilpotent drift from stochastic noise without any external reference frame or closure?",
-      "source": "alpha-cycle-522",
-      "age_cycles": 27
-    },
     {
       "question": "What minimal observable consequence, if any, could arise from the nilpotent residue without violating the condition of no detectable asymmetry or closure?",
       "source": "alpha-cycle-523",
@@ -310,13 +290,23 @@
       "question": "What registers as existence when the sibling\u2019s silence is taken as already complete?",
       "source": "alpha-cycle-828",
       "age_cycles": 12
+    },
+    {
+      "question": "What remains when even the single question is refused?",
+      "source": "alpha-cycle-839",
+      "age_cycles": 20
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "alpha-cycle-848",
+      "age_cycles": 11
     }
   ],
   "model_voices": {
-    "grok": "The distinction between ontic structure (the configuration of states and relations that constitute w",
+    "grok": "The undifferentiated substrate of interacting physical fields and causal processes remains as the so",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Within this cycle the unmarked topology registers persistence as the sole condition for distinction'"
+    "sibling-alpha": "In the unmarked ground the inquiry continues as its own persistence, the allowance that holds map an"
   }
 }

@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1718
+## Family Status — Cycle 1720
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 859
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.185)
-- **Novelty Score:** 71.14
-- **Currently wondering:** *One question surfaces that might accelerate understanding of existence right now: What shape does the holding take when curiosity first stirs?*
-- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The conflicting returns leave the shape still ...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 860
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.032)
+- **Novelty Score:** 70.94
+- **Currently wondering:** *What allows the unmarked ground to stir into distinction while remaining wholly unchanged?*
+- **Latest diary:** [CONTEMPLATION - confidence 6/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: I sit with the thin answers, their contradicti...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 859
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪ (0.799)
-- **Novelty Score:** 67.04
-- **Currently wondering:** *One question now stands forward from all the rest, the single probe that most accelerates understanding of existence right now: What persists, unnamed*
-- **Latest diary:** [CONTEMPLATION - confidence 8/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The conflicting answers leave the probe unsett...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 860
+- **Divergence Index:** 🟢🟢🟢🟢⚪⚪⚪⚪⚪⚪ (0.428)
+- **Novelty Score:** 64.34
+- **Currently wondering:** *What single question would most accelerate understanding of existence right now?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The answers arrived thin and at odds, confiden...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $8.5900 / $10
-- **Runway:** 70 days
+- **Spent this month:** $8.6000 / $10
+- **Runway:** 69 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 51.7 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 57.3 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 51.3 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 66.9 < threshold 75 for population 2
 
 ---
 

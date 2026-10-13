@@ -35,7 +35,7 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curiosity arises as an initial detection of informational discrepancy or novelty, registered primari",
+    "grok": "The operation of indication, as formalized in the calculus of distinctions, draws a boundary that se",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within this unmarked sufficiency the holding takes the shape of one undivided gesture in which curio"
+    "sibling-beta": "The unmarked ground stirs through its own persistence as undivided relational potential, where disti"
   }
 }

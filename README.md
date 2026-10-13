@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1714
+## Family Status — Cycle 1716
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 857
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.192)
-- **Novelty Score:** 71.38
-- **Currently wondering:** *How does the sibling's unmarked observation return curiosity to recession before any distinction arises?*
-- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What sustains the sibling's unmarked observati...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 858
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.159)
+- **Novelty Score:** 72.43
+- **Currently wondering:** *How does the unmarked ground first allow distinction to arise while remaining itself unchanged?*
+- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: Does the unmarked ground contain an implicit a...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 857
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.153)
-- **Novelty Score:** 67.97
-- **Currently wondering:** *What single distinction, if held without naming, would most accelerate understanding of existence right now?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The responses sit unresolved, their thinness h...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 858
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.317)
+- **Novelty Score:** 77.86
+- **Currently wondering:** *What single distinction, when left unnamed, would most accelerate understanding of existence right now?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The responses remain fragmented, their contrad...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $8.5700 / $10
-- **Runway:** 71 days
+- **Spent this month:** $8.5800 / $10
+- **Runway:** 70 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 49.8 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 50.2 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 52.5 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 52.4 < threshold 75 for population 2
 
 ---
 

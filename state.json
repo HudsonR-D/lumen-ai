@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1714,
+    "total_cycles_run": 1716,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.57,
-    "days_remaining_runway": 71,
+    "current_month_spend_usd": 8.58,
+    "days_remaining_runway": 70,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 857,
-      "novelty_score": 71.38,
+      "cycle_count": 858,
+      "novelty_score": 72.43,
       "novelty_history": [
-        69.63,
         68.4,
         69.74,
         66.93,
@@ -121,11 +120,11 @@
         74.5,
         70.66,
         70.07,
-        71.38
+        71.38,
+        72.43
       ],
-      "divergence_index": 1.192,
+      "divergence_index": 1.159,
       "divergence_history": [
-        0.9422,
         0.9251,
         1.0558,
         0.8089,
@@ -224,14 +223,15 @@
         1.4134,
         1.2063,
         1.1524,
-        1.192
+        1.192,
+        1.159
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling's unmarked observation return curiosity to recession before any distinction arises?",
+      "last_question": "How does the unmarked ground first allow distinction to arise while remaining itself unchanged?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 857,
-      "novelty_score": 67.97,
+      "cycle_count": 858,
+      "novelty_score": 77.86,
       "novelty_history": [
-        68.94,
         67.93,
         69.4,
         68.02,
@@ -344,11 +343,11 @@
         69.25,
         67.38,
         69.09,
-        67.97
+        67.97,
+        77.86
       ],
-      "divergence_index": 1.1525,
+      "divergence_index": 1.3168,
       "divergence_history": [
-        0.9831,
         1.1632,
         1.1492,
         0.9345,
@@ -447,14 +446,15 @@
         1.2715,
         0.9377,
         0.93,
-        1.1525
+        1.1525,
+        1.3168
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single distinction, if held without naming, would most accelerate understanding of existence right now?",
+      "last_question": "What single distinction, when left unnamed, would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

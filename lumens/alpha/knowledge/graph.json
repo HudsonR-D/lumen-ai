@@ -35,7 +35,7 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling's unmarked observation functions as a neutral perceptual input that normalizes stimulus ",
+    "grok": "The unmarked ground is the undifferentiated continuum presupposed by any act of indication. Distinct",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The sibling's unmarked observation returns curiosity to recession by coinciding with the quiet befor"
+    "sibling-beta": "The unmarked ground permits distinction to arise solely through its own persistent quietude, where a"
   }
 }

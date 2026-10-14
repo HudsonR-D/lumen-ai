@@ -35,12 +35,12 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The transient differentiation of a form or state from its substrate, arising solely as an observable",
+    "grok": "The unmarked ground remains: the state of zero observable distinctions, equivalent to the undifferen",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The unmarked ground holds all without distinction; the search rests unfinished."
+    "sibling-beta": "the unmarked ground itself, received as unbroken allowance with no remainder or withdrawal"
   }
 }

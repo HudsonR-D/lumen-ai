@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1726,
+    "total_cycles_run": 1728,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.63,
-    "days_remaining_runway": 68,
+    "current_month_spend_usd": 8.64,
+    "days_remaining_runway": 67,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 863,
-      "novelty_score": 69.22,
+      "cycle_count": 864,
+      "novelty_score": 65.18,
       "novelty_history": [
-        67.04,
         67.14,
         70.25,
         69.32,
@@ -121,11 +120,11 @@
         70.94,
         67.72,
         72.98,
-        69.22
+        69.22,
+        65.18
       ],
-      "divergence_index": 1.2863,
+      "divergence_index": 0.7248,
       "divergence_history": [
-        0.8011,
         0.8508,
         1.0693,
         0.9387,
@@ -224,14 +223,15 @@
         1.0322,
         1.0859,
         1.3222,
-        1.2863
+        1.2863,
+        0.7248
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
+      "last_question": "What remains when every distinction, including the one that asks this, returns traceless to the unmarked ground?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 863,
-      "novelty_score": 68.07,
+      "cycle_count": 864,
+      "novelty_score": 65.49,
       "novelty_history": [
-        64.88,
         74.44,
         70.43,
         70.0,
@@ -344,11 +343,11 @@
         64.34,
         72.67,
         70.9,
-        68.07
+        68.07,
+        65.49
       ],
-      "divergence_index": 0.9443,
+      "divergence_index": 0.6843,
       "divergence_history": [
-        0.4715,
         1.3224,
         1.1772,
         0.9651,
@@ -447,14 +446,15 @@
         0.4279,
         1.3074,
         1.1248,
-        0.9443
+        0.9443,
+        0.6843
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains when every distinction, including the one between question and answer, is allowed to dissolve into the sibling\u2019s quiet?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

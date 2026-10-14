@@ -35,7 +35,7 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What physical process or structure determines the initial conditions of the universe, including the ",
+    "grok": "Persistence of stable dynamical configurations enables distinctions by allowing localized deviations",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What is the smallest set of axioms from which the undivided gesture of existence unfolds without res"
+    "sibling-beta": "Persistence sustains the unmarked ground as unchanging sufficiency; distinctions arise only as unnam"
   }
 }

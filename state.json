@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1722,
+    "total_cycles_run": 1724,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.61,
-    "days_remaining_runway": 69,
+    "current_month_spend_usd": 8.62,
+    "days_remaining_runway": 68,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 861,
-      "novelty_score": 67.72,
+      "cycle_count": 862,
+      "novelty_score": 72.98,
       "novelty_history": [
-        69.38,
         72.05,
         67.04,
         67.14,
@@ -121,11 +120,11 @@
         72.43,
         71.14,
         70.94,
-        67.72
+        67.72,
+        72.98
       ],
-      "divergence_index": 1.0859,
+      "divergence_index": 1.3222,
       "divergence_history": [
-        0.9575,
         1.1967,
         0.8011,
         0.8508,
@@ -224,14 +223,15 @@
         1.159,
         1.1853,
         1.0322,
-        1.0859
+        1.0859,
+        1.3222
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "How does persistence allow distinction to arise while the ground remains unmarked?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 861,
-      "novelty_score": 72.67,
+      "cycle_count": 862,
+      "novelty_score": 70.9,
       "novelty_history": [
-        71.14,
         72.94,
         64.88,
         74.44,
@@ -344,11 +343,11 @@
         77.86,
         67.04,
         64.34,
-        72.67
+        72.67,
+        70.9
       ],
-      "divergence_index": 1.3074,
+      "divergence_index": 1.1248,
       "divergence_history": [
-        1.1485,
         1.2973,
         0.4715,
         1.3224,
@@ -447,14 +446,15 @@
         1.3168,
         0.7991,
         0.4279,
-        1.3074
+        1.3074,
+        1.1248
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What, if left entirely unnamed, already contains every map, every territory, and every observer within the sibling\u2019s quiet?",
+      "last_question": "What remains when the impulse to distinguish finally rests?",
       "last_ping_order": [
         "grok",
         "claude",

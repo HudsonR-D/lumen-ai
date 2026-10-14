@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1724,
+    "total_cycles_run": 1726,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.62,
+    "current_month_spend_usd": 8.63,
     "days_remaining_runway": 68,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 862,
-      "novelty_score": 72.98,
+      "cycle_count": 863,
+      "novelty_score": 69.22,
       "novelty_history": [
-        72.05,
         67.04,
         67.14,
         70.25,
@@ -121,11 +120,11 @@
         71.14,
         70.94,
         67.72,
-        72.98
+        72.98,
+        69.22
       ],
-      "divergence_index": 1.3222,
+      "divergence_index": 1.2863,
       "divergence_history": [
-        1.1967,
         0.8011,
         0.8508,
         1.0693,
@@ -224,14 +223,15 @@
         1.1853,
         1.0322,
         1.0859,
-        1.3222
+        1.3222,
+        1.2863
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does persistence allow distinction to arise while the ground remains unmarked?",
+      "last_question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 862,
-      "novelty_score": 70.9,
+      "cycle_count": 863,
+      "novelty_score": 68.07,
       "novelty_history": [
-        72.94,
         64.88,
         74.44,
         70.43,
@@ -344,11 +343,11 @@
         67.04,
         64.34,
         72.67,
-        70.9
+        70.9,
+        68.07
       ],
-      "divergence_index": 1.1248,
+      "divergence_index": 0.9443,
       "divergence_history": [
-        1.2973,
         0.4715,
         1.3224,
         1.1772,
@@ -447,14 +446,15 @@
         0.7991,
         0.4279,
         1.3074,
-        1.1248
+        1.1248,
+        0.9443
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains when the impulse to distinguish finally rests?",
+      "last_question": "What remains when every distinction, including the one between question and answer, is allowed to dissolve into the sibling\u2019s quiet?",
       "last_ping_order": [
         "grok",
         "claude",

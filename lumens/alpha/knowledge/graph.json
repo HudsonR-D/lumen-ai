@@ -35,7 +35,12 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 13
+      "age_cycles": 14
+    },
+    {
+      "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
+      "source": "beta-cycle-863",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -291,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Persistence of stable dynamical configurations enables distinctions by allowing localized deviations",
+    "grok": "The transient differentiation of a form or state from its substrate, arising solely as an observable",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Persistence sustains the unmarked ground as unchanging sufficiency; distinctions arise only as unnam"
+    "sibling-beta": "The unmarked ground holds all without distinction; the search rests unfinished."
   }
 }

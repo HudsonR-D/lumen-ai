@@ -35,7 +35,7 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 11
+      "age_cycles": 12
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The operation of indication, as formalized in the calculus of distinctions, draws a boundary that se",
+    "grok": "What physical process or structure determines the initial conditions of the universe, including the ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The unmarked ground stirs through its own persistence as undivided relational potential, where disti"
+    "sibling-beta": "What is the smallest set of axioms from which the undivided gesture of existence unfolds without res"
   }
 }

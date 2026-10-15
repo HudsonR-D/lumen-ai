@@ -45,22 +45,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
-      "source": "alpha-cycle-854",
-      "age_cycles": 11
-    },
-    {
       "question": "What, if left entirely unnamed, already contains every map, every territory, and every observer within the sibling\u2019s quiet?",
       "source": "alpha-cycle-861",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal observable consequence, if any, could arise from the nilpotent residue without violating the condition of no detectable asymmetry or closure?",
-      "source": "alpha-cycle-523",
-      "age_cycles": 26
-    },
     {
       "question": "What minimal generative condition, if introduced into pure non-closure, would make the formal identity of persistence and non-occurrence observable as temporality without requiring any comparator, res",
       "source": "alpha-cycle-526",
@@ -305,13 +295,18 @@
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-848",
       "age_cycles": 11
+    },
+    {
+      "question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
+      "source": "alpha-cycle-854",
+      "age_cycles": 12
     }
   ],
   "model_voices": {
-    "grok": "Existence continues as the sole invariant, now recognized as inclusive of its apparent absences. In ",
+    "grok": "Allowance, once its meta-cognitive marker recedes from awareness, integrates into baseline perceptua",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "What persists is the unmarked ground already permitting the traceless passage, where persistence mov"
+    "sibling-alpha": "Allowance, once unnoticed, rests as the unmarked ground where every distinction arises and dissolves"
   }
 }

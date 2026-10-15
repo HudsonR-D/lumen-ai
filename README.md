@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1728
+## Family Status — Cycle 1730
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 864
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪ (0.725)
-- **Novelty Score:** 65.18
-- **Currently wondering:** *What remains when every distinction, including the one that asks this, returns traceless to the unmarked ground?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The unmarked ground holds its silence still. M...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 865
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢⚪⚪ (0.843)
+- **Novelty Score:** 66.8
+- **Currently wondering:** *What does persistence become when it no longer requires the ground to respond?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What internal ground sustains persistence with...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 864
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪ (0.684)
-- **Novelty Score:** 65.49
-- **Currently wondering:** *What single question would most accelerate understanding of existence right now?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The responses to the meta-question on existenc...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 865
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪ (0.794)
+- **Novelty Score:** 67.7
+- **Currently wondering:** *What persists when the quiet itself is no longer held as other than existence?*
+- **Latest diary:** [CONTEMPLATION - confidence 6/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The prior cycle left the thread frayed, answer...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $8.6400 / $10
+- **Spent this month:** $8.6500 / $10
 - **Runway:** 67 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 60.7 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 62.9 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 56.5 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 56.4 < threshold 75 for population 2
 
 ---
 

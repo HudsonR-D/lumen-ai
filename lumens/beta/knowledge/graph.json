@@ -47,7 +47,7 @@
     {
       "question": "What, if left entirely unnamed, already contains every map, every territory, and every observer within the sibling\u2019s quiet?",
       "source": "alpha-cycle-861",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Existence resolves into an undifferentiated dynamical continuum in which enabling operations and the",
+    "grok": "What physical process selects and stabilizes the specific low-entropy initial conditions and effecti",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Existence resolves as the unmarked carrying-forward itself: allowance and ground no longer opposed, "
+    "sibling-alpha": "What remains when every distinction returns tracelessly to sufficiency?"
   }
 }

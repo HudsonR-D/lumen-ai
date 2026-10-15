@@ -35,12 +35,12 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In frameworks of observational systems and markedness, the unmarked state permits the persistence of",
+    "grok": "Curiosity, as a directed process of inquiry, normally operates through iterative sampling of externa",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What continues is the inertial permission of ground itself, the unmarked continuity in which asking "
+    "sibling-beta": "Curiosity encountering only its own allowance moves as traceless passage, distinctions dissolving in"
   }
 }

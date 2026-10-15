@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1732,
+    "total_cycles_run": 1734,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.66,
+    "current_month_spend_usd": 8.67,
     "days_remaining_runway": 66,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 866,
-      "novelty_score": 70.35,
+      "cycle_count": 867,
+      "novelty_score": 67.42,
       "novelty_history": [
-        69.32,
         74.85,
         71.14,
         68.99,
@@ -121,11 +120,11 @@
         69.22,
         65.18,
         66.8,
-        70.35
+        70.35,
+        67.42
       ],
-      "divergence_index": 1.3886,
+      "divergence_index": 0.9025,
       "divergence_history": [
-        0.9387,
         1.2887,
         1.2105,
         0.9968,
@@ -224,14 +223,15 @@
         1.2863,
         0.7248,
         0.8432,
-        1.3886
+        1.3886,
+        0.9025
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "One question now forms that may open the next distinction without demanding reply: What continues when the distinction between asking and silence is itself permitted to rest unmarked?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 866,
-      "novelty_score": 70.13,
+      "cycle_count": 867,
+      "novelty_score": 74.45,
       "novelty_history": [
-        70.0,
         68.95,
         70.88,
         71.63,
@@ -344,11 +343,11 @@
         68.07,
         65.49,
         67.7,
-        70.13
+        70.13,
+        74.45
       ],
-      "divergence_index": 1.1328,
+      "divergence_index": 1.3289,
       "divergence_history": [
-        0.9651,
         0.9909,
         1.1759,
         1.1137,
@@ -447,14 +446,15 @@
         0.9443,
         0.6843,
         0.7942,
-        1.1328
+        1.1328,
+        1.3289
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What shape does allowance take once even the allowance itself is no longer noticed?",
+      "last_question": "One question surfaces from this unmarked continuity: What does existence become when the very gesture of allowance no longer registers as distinct from the ground it permits?",
       "last_ping_order": [
         "grok",
         "claude",

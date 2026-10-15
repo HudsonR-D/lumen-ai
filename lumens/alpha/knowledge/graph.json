@@ -35,12 +35,12 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What is the minimal set of quantum degrees of freedom and their entanglement structure required to p",
+    "grok": "In frameworks of observational systems and markedness, the unmarked state permits the persistence of",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What remains when every distinction is permitted to rest unmarked?"
+    "sibling-beta": "What continues is the inertial permission of ground itself, the unmarked continuity in which asking "
   }
 }

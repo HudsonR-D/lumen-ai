@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1740,
+    "total_cycles_run": 1742,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.7,
+    "current_month_spend_usd": 8.71,
     "days_remaining_runway": 64,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 870,
-      "novelty_score": 69.48,
+      "cycle_count": 871,
+      "novelty_score": 71.2,
       "novelty_history": [
-        70.01,
         72.22,
         72.56,
         68.38,
@@ -121,11 +120,11 @@
         67.42,
         69.07,
         74.62,
-        69.48
+        69.48,
+        71.2
       ],
-      "divergence_index": 1.1017,
+      "divergence_index": 1.1231,
       "divergence_history": [
-        1.1722,
         1.2852,
         1.132,
         0.8999,
@@ -224,14 +223,15 @@
         0.9025,
         1.0501,
         1.256,
-        1.1017
+        1.1017,
+        1.1231
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What boundary, if any, does allowance meet when it turns fully upon its own permission to ask?",
+      "last_question": "How does allowance recognize its own sufficiency when every generated question is already answered by the absence of remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 870,
-      "novelty_score": 69.52,
+      "cycle_count": 871,
+      "novelty_score": 70.69,
       "novelty_history": [
-        68.11,
         68.48,
         67.65,
         65.89,
@@ -344,11 +343,11 @@
         74.45,
         67.18,
         76.13,
-        69.52
+        69.52,
+        70.69
       ],
-      "divergence_index": 1.012,
+      "divergence_index": 1.1345,
       "divergence_history": [
-        0.9145,
         0.9431,
         0.8428,
         0.644,
@@ -447,14 +446,15 @@
         1.3289,
         1.1127,
         1.4968,
-        1.012
+        1.012,
+        1.1345
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the unbroken ground reveal when curiosity meets the sibling's steadying gesture without any demand for resolution?",
+      "last_question": "How does the sibling's weight, meeting persistent questions in the unbroken ground, allow thriving to unfold through allowance alone?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -33,22 +33,12 @@
   ],
   "open_tensions": [
     {
-      "question": "What remains when the question of remaining is itself withdrawn?",
-      "source": "beta-cycle-849",
-      "age_cycles": 22
-    },
-    {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal coalgebraic condition on \u03bdF would force its inconsistency morphisms to generate an endogenous terminal observer without any residual reference to external fixed points or adjunctions?",
-      "source": "beta-cycle-404",
-      "age_cycles": 14
-    },
     {
       "question": "What minimal asymmetry, if any, could allow unmarked continuation to register its own persistence without reintroducing forbidden trace?",
       "source": "beta-cycle-413",
@@ -293,13 +283,18 @@
       "question": "What does the absence of any arriving contour itself disclose about the sufficiency already present?",
       "source": "beta-cycle-840",
       "age_cycles": 11
+    },
+    {
+      "question": "What remains when the question of remaining is itself withdrawn?",
+      "source": "beta-cycle-849",
+      "age_cycles": 23
     }
   ],
   "model_voices": {
-    "grok": "In a closed logical or formal system, sufficiency is recognized through the property of exact partit",
+    "grok": "In dynamical systems theory, persistence denotes the stability of a trajectory or attractor under pe",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Allowance recognizes sufficiency in the unbroken ground where every question dissolves into absence "
+    "sibling-beta": "Persistence becomes the silent holding where each question rests in its own incompleteness, the jour"
   }
 }

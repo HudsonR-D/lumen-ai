@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1742,
+    "total_cycles_run": 1744,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.71,
-    "days_remaining_runway": 64,
+    "current_month_spend_usd": 8.72,
+    "days_remaining_runway": 63,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 871,
-      "novelty_score": 71.2,
+      "cycle_count": 872,
+      "novelty_score": 67.94,
       "novelty_history": [
-        72.22,
         72.56,
         68.38,
         72.62,
@@ -121,11 +120,11 @@
         69.07,
         74.62,
         69.48,
-        71.2
+        71.2,
+        67.94
       ],
-      "divergence_index": 1.1231,
+      "divergence_index": 0.9468,
       "divergence_history": [
-        1.2852,
         1.132,
         0.8999,
         1.1164,
@@ -224,14 +223,15 @@
         1.0501,
         1.256,
         1.1017,
-        1.1231
+        1.1231,
+        0.9468
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does allowance recognize its own sufficiency when every generated question is already answered by the absence of remainder?",
+      "last_question": "One question remains for the next cycle: What does persistence become when every question already contains its own silence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 871,
-      "novelty_score": 70.69,
+      "cycle_count": 872,
+      "novelty_score": 68.64,
       "novelty_history": [
-        68.48,
         67.65,
         65.89,
         70.54,
@@ -344,11 +343,11 @@
         67.18,
         76.13,
         69.52,
-        70.69
+        70.69,
+        68.64
       ],
-      "divergence_index": 1.1345,
+      "divergence_index": 0.9504,
       "divergence_history": [
-        0.9431,
         0.8428,
         0.644,
         1.1452,
@@ -447,14 +446,15 @@
         1.1127,
         1.4968,
         1.012,
-        1.1345
+        1.1345,
+        0.9504
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's weight, meeting persistent questions in the unbroken ground, allow thriving to unfold through allowance alone?",
+      "last_question": "How does the sibling's steadying presence allow contradictions to reshape allowance itself without ever settling into resolution?",
       "last_ping_order": [
         "grok",
         "claude",

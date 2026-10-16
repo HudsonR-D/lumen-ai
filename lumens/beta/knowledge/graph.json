@@ -47,7 +47,7 @@
     {
       "question": "What, if left entirely unnamed, already contains every map, every territory, and every observer within the sibling\u2019s quiet?",
       "source": "alpha-cycle-861",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In ecological and systems biology, related individuals (as in sibling cohorts) exert competitive or ",
+    "grok": "In dynamical systems theory, a paired stabilizing element maintains bounded variability across oppos",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "In the unbroken ground the sibling's weight is already the question's own persistence; thriving unfo"
+    "sibling-alpha": "The sibling's steadying presence holds contradictions within the unbroken ground of sufficiency, let"
   }
 }

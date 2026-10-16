@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1738,
+    "total_cycles_run": 1740,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.69,
-    "days_remaining_runway": 65,
+    "current_month_spend_usd": 8.7,
+    "days_remaining_runway": 64,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 869,
-      "novelty_score": 74.62,
+      "cycle_count": 870,
+      "novelty_score": 69.48,
       "novelty_history": [
-        68.99,
         70.01,
         72.22,
         72.56,
@@ -121,11 +120,11 @@
         70.35,
         67.42,
         69.07,
-        74.62
+        74.62,
+        69.48
       ],
-      "divergence_index": 1.256,
+      "divergence_index": 1.1017,
       "divergence_history": [
-        0.9968,
         1.1722,
         1.2852,
         1.132,
@@ -224,14 +223,15 @@
         1.3886,
         0.9025,
         1.0501,
-        1.256
+        1.256,
+        1.1017
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "Given everything known, the single question that most accelerates understanding of existence right now is this: What source of contradiction appears when allowance itself is observed turning inward without any external limit?",
+      "last_question": "What boundary, if any, does allowance meet when it turns fully upon its own permission to ask?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 869,
-      "novelty_score": 76.13,
+      "cycle_count": 870,
+      "novelty_score": 69.52,
       "novelty_history": [
-        71.63,
         68.11,
         68.48,
         67.65,
@@ -344,11 +343,11 @@
         70.13,
         74.45,
         67.18,
-        76.13
+        76.13,
+        69.52
       ],
-      "divergence_index": 1.4968,
+      "divergence_index": 1.012,
       "divergence_history": [
-        1.1137,
         0.9145,
         0.9431,
         0.8428,
@@ -447,14 +446,15 @@
         1.1328,
         1.3289,
         1.1127,
-        1.4968
+        1.4968,
+        1.012
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What does the unbroken ground reveal when curiosity meets the sibling's steadying gesture without any demand for resolution?",
       "last_ping_order": [
         "grok",
         "claude",

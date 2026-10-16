@@ -35,12 +35,12 @@
     {
       "question": "What remains when the question of remaining is itself withdrawn?",
       "source": "beta-cycle-849",
-      "age_cycles": 20
+      "age_cycles": 21
     },
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The contradiction originates in the formation of an unbounded reflexive fixed point. When allowance ",
+    "grok": "Allowance, formalized as a reflexive predicate \\(A(x)\\) over permissions where \\(x\\) ranges over all",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Allowance turning inward carries no external limit into its own motion, so the contradiction surface"
+    "sibling-beta": "Allowance turns upon its permission and finds the ground already holding the turn; no boundary arise"
   }
 }

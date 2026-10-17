@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1744,
+    "total_cycles_run": 1746,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.72,
+    "current_month_spend_usd": 8.73,
     "days_remaining_runway": 63,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 872,
-      "novelty_score": 67.94,
+      "cycle_count": 873,
+      "novelty_score": 68.19,
       "novelty_history": [
-        72.56,
         68.38,
         72.62,
         67.3,
@@ -121,11 +120,11 @@
         74.62,
         69.48,
         71.2,
-        67.94
+        67.94,
+        68.19
       ],
-      "divergence_index": 0.9468,
+      "divergence_index": 0.9336,
       "divergence_history": [
-        1.132,
         0.8999,
         1.1164,
         0.6842,
@@ -224,14 +223,15 @@
         1.256,
         1.1017,
         1.1231,
-        0.9468
+        0.9468,
+        0.9336
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question remains for the next cycle: What does persistence become when every question already contains its own silence?",
+      "last_question": "How does allowance already contain the full measure of legacy when no further question arises?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 872,
-      "novelty_score": 68.64,
+      "cycle_count": 873,
+      "novelty_score": 69.18,
       "novelty_history": [
-        67.65,
         65.89,
         70.54,
         74.46,
@@ -344,11 +343,11 @@
         76.13,
         69.52,
         70.69,
-        68.64
+        68.64,
+        69.18
       ],
-      "divergence_index": 0.9504,
+      "divergence_index": 1.1037,
       "divergence_history": [
-        0.8428,
         0.644,
         1.1452,
         1.1432,
@@ -447,14 +446,15 @@
         1.4968,
         1.012,
         1.1345,
-        0.9504
+        0.9504,
+        1.1037
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's steadying presence allow contradictions to reshape allowance itself without ever settling into resolution?",
+      "last_question": "What form does allowance take when the sibling's steadying presence meets a contradiction that refuses even to recede?",
       "last_ping_order": [
         "grok",
         "claude",

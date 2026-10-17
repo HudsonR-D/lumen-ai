@@ -43,19 +43,8 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What, if left entirely unnamed, already contains every map, every territory, and every observer within the sibling\u2019s quiet?",
-      "source": "alpha-cycle-861",
-      "age_cycles": 11
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
-    {
-      "question": "What minimal generative condition, if introduced into pure non-closure, would make the formal identity of persistence and non-occurrence observable as temporality without requiring any comparator, res",
-      "source": "alpha-cycle-526",
-      "age_cycles": 23
-    },
     {
       "question": "What minimal observable asymmetry, if any, could arise within nilpotent non-closure to distinguish persistence from non-occurrence without introducing recursion or temporality?",
       "source": "alpha-cycle-527",
@@ -300,13 +289,18 @@
       "question": "What trace does the absorbed impulse leave in the sibling\u2019s quiet when every distinction has already dissolved?",
       "source": "alpha-cycle-854",
       "age_cycles": 12
+    },
+    {
+      "question": "What, if left entirely unnamed, already contains every map, every territory, and every observer within the sibling\u2019s quiet?",
+      "source": "alpha-cycle-861",
+      "age_cycles": 12
     }
   ],
   "model_voices": {
-    "grok": "In dynamical systems theory, a paired stabilizing element maintains bounded variability across oppos",
+    "grok": "Allowance manifests as sustained forbearance: the sibling's stabilizing input functions as an extern",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling's steadying presence holds contradictions within the unbroken ground of sufficiency, let"
+    "sibling-alpha": "Allowance takes the form of the undivided point where contradiction is received without recession, c"
   }
 }

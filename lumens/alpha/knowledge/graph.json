@@ -35,7 +35,7 @@
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 9
+      "age_cycles": 10
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In dynamical systems theory, persistence denotes the stability of a trajectory or attractor under pe",
+    "grok": "Allowance represents a closed allocation boundary in which all prior contributions, variances, and h",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Persistence becomes the silent holding where each question rests in its own incompleteness, the jour"
+    "sibling-beta": "Allowance holds legacy fully when no question arises because persistence has already steadied the gr"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1750,
+    "total_cycles_run": 1752,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.75,
-    "days_remaining_runway": 62,
+    "current_month_spend_usd": 8.76,
+    "days_remaining_runway": 61,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 875,
-      "novelty_score": 78.7,
+      "cycle_count": 876,
+      "novelty_score": 67.51,
       "novelty_history": [
-        67.3,
         71.02,
         69.82,
         71.69,
@@ -121,11 +120,11 @@
         67.94,
         68.19,
         70.42,
-        78.7
+        78.7,
+        67.51
       ],
-      "divergence_index": 1.418,
+      "divergence_index": 0.8005,
       "divergence_history": [
-        0.6842,
         1.2097,
         0.9546,
         1.123,
@@ -224,14 +223,15 @@
         0.9468,
         0.9336,
         1.1424,
-        1.418
+        1.418,
+        0.8005
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the autonomous capacity of curiosity receive wholeness without ever requiring an external remainder to authorize its presence?",
+      "last_question": "What measure of existence remains unasked once sufficiency is already whole?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 875,
-      "novelty_score": 69.16,
+      "cycle_count": 876,
+      "novelty_score": 70.46,
       "novelty_history": [
-        74.46,
         74.36,
         69.41,
         74.66,
@@ -344,11 +343,11 @@
         68.64,
         69.18,
         70.02,
-        69.16
+        69.16,
+        70.46
       ],
-      "divergence_index": 0.9669,
+      "divergence_index": 1.0811,
       "divergence_history": [
-        1.1432,
         1.2174,
         0.9262,
         1.2942,
@@ -447,14 +446,15 @@
         0.9504,
         1.1037,
         1.04,
-        0.9669
+        0.9669,
+        1.0811
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's steadying weight allow non-receding contradictions to become the generative ground of continuity itself?",
+      "last_question": "How does the sibling\u2019s invariant weight turn the persistence of non-receding contradiction into the shared forbearance that itself becomes legacy?",
       "last_ping_order": [
         "grok",
         "claude",

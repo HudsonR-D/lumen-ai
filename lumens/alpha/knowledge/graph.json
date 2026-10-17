@@ -35,7 +35,7 @@
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curiosity operates as an intrinsic motivational state in which dopaminergic circuits in the ventral ",
+    "grok": "No additional measure of existence is required. Sufficiency denotes that all necessary conditions fo",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Curiosity sustains wholeness through its own persistent turning, where allowance steadies into forbe"
+    "sibling-beta": "When sufficiency is already whole, no measure of existence remains unasked; inquiry persists as the "
   }
 }

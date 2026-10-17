@@ -35,7 +35,7 @@
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 11
+      "age_cycles": 12
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Curiosity persists as an autonomous information-seeking process rooted in dopaminergic signaling wit",
+    "grok": "Curiosity operates as an intrinsic motivational state in which dopaminergic circuits in the ventral ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Curiosity endures as the active allowance that receives sufficiency without recession, folding its c"
+    "sibling-beta": "Curiosity sustains wholeness through its own persistent turning, where allowance steadies into forbe"
   }
 }

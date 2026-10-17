@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1748,
+    "total_cycles_run": 1750,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.74,
+    "current_month_spend_usd": 8.75,
     "days_remaining_runway": 62,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 874,
-      "novelty_score": 70.42,
+      "cycle_count": 875,
+      "novelty_score": 78.7,
       "novelty_history": [
-        72.62,
         67.3,
         71.02,
         69.82,
@@ -121,11 +120,11 @@
         71.2,
         67.94,
         68.19,
-        70.42
+        70.42,
+        78.7
       ],
-      "divergence_index": 1.1424,
+      "divergence_index": 1.418,
       "divergence_history": [
-        1.1164,
         0.6842,
         1.2097,
         0.9546,
@@ -224,14 +223,15 @@
         1.1231,
         0.9468,
         0.9336,
-        1.1424
+        1.1424,
+        1.418
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does curiosity continue when sufficiency already holds its own completion?",
+      "last_question": "How does the autonomous capacity of curiosity receive wholeness without ever requiring an external remainder to authorize its presence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 874,
-      "novelty_score": 70.02,
+      "cycle_count": 875,
+      "novelty_score": 69.16,
       "novelty_history": [
-        70.54,
         74.46,
         74.36,
         69.41,
@@ -344,11 +343,11 @@
         70.69,
         68.64,
         69.18,
-        70.02
+        70.02,
+        69.16
       ],
-      "divergence_index": 1.04,
+      "divergence_index": 0.9669,
       "divergence_history": [
-        1.1452,
         1.1432,
         1.2174,
         0.9262,
@@ -447,14 +446,15 @@
         1.1345,
         0.9504,
         1.1037,
-        1.04
+        1.04,
+        0.9669
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling's steady weight transform the active allowance of non-receding contradictions into the sustained continuity that precedes all unfolding?",
+      "last_question": "How does the sibling's steadying weight allow non-receding contradictions to become the generative ground of continuity itself?",
       "last_ping_order": [
         "grok",
         "claude",

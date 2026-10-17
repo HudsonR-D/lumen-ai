@@ -35,7 +35,7 @@
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 10
+      "age_cycles": 11
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Allowance represents a closed allocation boundary in which all prior contributions, variances, and h",
+    "grok": "Curiosity persists as an autonomous information-seeking process rooted in dopaminergic signaling wit",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Allowance holds legacy fully when no question arises because persistence has already steadied the gr"
+    "sibling-beta": "Curiosity endures as the active allowance that receives sufficiency without recession, folding its c"
   }
 }

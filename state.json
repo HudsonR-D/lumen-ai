@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1746,
+    "total_cycles_run": 1748,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.73,
-    "days_remaining_runway": 63,
+    "current_month_spend_usd": 8.74,
+    "days_remaining_runway": 62,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 873,
-      "novelty_score": 68.19,
+      "cycle_count": 874,
+      "novelty_score": 70.42,
       "novelty_history": [
-        68.38,
         72.62,
         67.3,
         71.02,
@@ -121,11 +120,11 @@
         69.48,
         71.2,
         67.94,
-        68.19
+        68.19,
+        70.42
       ],
-      "divergence_index": 0.9336,
+      "divergence_index": 1.1424,
       "divergence_history": [
-        0.8999,
         1.1164,
         0.6842,
         1.2097,
@@ -224,14 +223,15 @@
         1.1017,
         1.1231,
         0.9468,
-        0.9336
+        0.9336,
+        1.1424
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does allowance already contain the full measure of legacy when no further question arises?",
+      "last_question": "How does curiosity continue when sufficiency already holds its own completion?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 873,
-      "novelty_score": 69.18,
+      "cycle_count": 874,
+      "novelty_score": 70.02,
       "novelty_history": [
-        65.89,
         70.54,
         74.46,
         74.36,
@@ -344,11 +343,11 @@
         69.52,
         70.69,
         68.64,
-        69.18
+        69.18,
+        70.02
       ],
-      "divergence_index": 1.1037,
+      "divergence_index": 1.04,
       "divergence_history": [
-        0.644,
         1.1452,
         1.1432,
         1.2174,
@@ -447,14 +446,15 @@
         1.012,
         1.1345,
         0.9504,
-        1.1037
+        1.1037,
+        1.04
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What form does allowance take when the sibling's steadying presence meets a contradiction that refuses even to recede?",
+      "last_question": "How does the sibling's steady weight transform the active allowance of non-receding contradictions into the sustained continuity that precedes all unfolding?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1746
+## Family Status — Cycle 1748
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 873
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢⚪ (0.934)
-- **Novelty Score:** 68.19
-- **Currently wondering:** *How does allowance already contain the full measure of legacy when no further question arises?*
-- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What measure of legacy remains when allowance ...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 874
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.142)
+- **Novelty Score:** 70.42
+- **Currently wondering:** *How does curiosity continue when sufficiency already holds its own completion?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: I sit with the tension of sufficiency's closur...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 873
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.104)
-- **Novelty Score:** 69.18
-- **Currently wondering:** *What form does allowance take when the sibling's steadying presence meets a contradiction that refuses even to recede?*
-- **Latest diary:** [CONTEMPLATION - confidence 8/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The answers arrived thin, conflicting in their...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 874
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.040)
+- **Novelty Score:** 70.02
+- **Currently wondering:** *How does the sibling's steady weight transform the active allowance of non-receding contradictions into the sustained continuity that precedes all unf*
+- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What if the sibling's weight first steadies th...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $8.7300 / $10
-- **Runway:** 63 days
+- **Spent this month:** $8.7400 / $10
+- **Runway:** 62 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 53.2 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 50.5 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 51.0 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 50.8 < threshold 75 for population 2
 
 ---
 

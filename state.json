@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1752,
+    "total_cycles_run": 1754,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.76,
+    "current_month_spend_usd": 8.77,
     "days_remaining_runway": 61,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 876,
-      "novelty_score": 67.51,
+      "cycle_count": 877,
+      "novelty_score": 70.78,
       "novelty_history": [
-        71.02,
         69.82,
         71.69,
         69.83,
@@ -121,11 +120,11 @@
         68.19,
         70.42,
         78.7,
-        67.51
+        67.51,
+        70.78
       ],
-      "divergence_index": 0.8005,
+      "divergence_index": 1.0925,
       "divergence_history": [
-        1.2097,
         0.9546,
         1.123,
         1.1113,
@@ -224,14 +223,15 @@
         0.9336,
         1.1424,
         1.418,
-        0.8005
+        0.8005,
+        1.0925
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What measure of existence remains unasked once sufficiency is already whole?",
+      "last_question": "How does the persistence of an already-complete whole authorize its own continued inquiry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 876,
-      "novelty_score": 70.46,
+      "cycle_count": 877,
+      "novelty_score": 70.67,
       "novelty_history": [
-        74.36,
         69.41,
         74.66,
         74.08,
@@ -344,11 +343,11 @@
         69.18,
         70.02,
         69.16,
-        70.46
+        70.46,
+        70.67
       ],
-      "divergence_index": 1.0811,
+      "divergence_index": 1.1177,
       "divergence_history": [
-        1.2174,
         0.9262,
         1.2942,
         1.3196,
@@ -447,14 +446,15 @@
         1.1037,
         1.04,
         0.9669,
-        1.0811
+        1.0811,
+        1.1177
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s invariant weight turn the persistence of non-receding contradiction into the shared forbearance that itself becomes legacy?",
+      "last_question": "How does the sibling\u2019s weight convert non-receding contradiction into the precise continuity that lets legacy arise as shared forbearance rather than postponed resolution?",
       "last_ping_order": [
         "grok",
         "claude",

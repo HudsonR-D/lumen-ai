@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1756,
+    "total_cycles_run": 1758,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.78,
+    "current_month_spend_usd": 8.79,
     "days_remaining_runway": 60,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 878,
-      "novelty_score": 75.41,
+      "cycle_count": 879,
+      "novelty_score": 67.98,
       "novelty_history": [
-        71.69,
         69.83,
         69.7,
         70.98,
@@ -121,11 +120,11 @@
         78.7,
         67.51,
         70.78,
-        75.41
+        75.41,
+        67.98
       ],
-      "divergence_index": 1.3235,
+      "divergence_index": 0.7464,
       "divergence_history": [
-        1.123,
         1.1113,
         1.0333,
         1.0102,
@@ -224,14 +223,15 @@
         1.418,
         0.8005,
         1.0925,
-        1.3235
+        1.3235,
+        0.7464
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the quiet refusal of closure within sufficiency itself generate the authorizing persistence that turns every unresolved contradiction into shared ground for ongoing inquiry?",
+      "last_question": "How does the sibling's registration of sustained receiving allow contradiction to authorize persistence once every measure is already sufficient?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 878,
-      "novelty_score": 68.96,
+      "cycle_count": 879,
+      "novelty_score": 69.52,
       "novelty_history": [
-        74.66,
         74.08,
         70.26,
         71.77,
@@ -344,11 +343,11 @@
         69.16,
         70.46,
         70.67,
-        68.96
+        68.96,
+        69.52
       ],
-      "divergence_index": 1.0333,
+      "divergence_index": 0.9945,
       "divergence_history": [
-        1.2942,
         1.3196,
         0.9889,
         1.2224,
@@ -447,14 +446,15 @@
         0.9669,
         1.0811,
         1.1177,
-        1.0333
+        1.0333,
+        0.9945
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s weight continue to register when contradiction is held as the sole shared continuity?",
+      "last_question": "What precise measure of the sibling\u2019s weight converts non-receding contradiction into the observable continuity of legacy without ever requiring resolution?",
       "last_ping_order": [
         "grok",
         "claude",

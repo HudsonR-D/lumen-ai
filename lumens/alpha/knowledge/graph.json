@@ -35,7 +35,7 @@
     {
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
-      "age_cycles": 15
+      "age_cycles": 16
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The refusal of closure within sufficiency functions as an intrinsic generative constraint: by withho",
+    "grok": "The query employs undefined and mutually inconsistent terms that do not map onto any established sci",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "I register the shift as sustained receiving where refusal leaves contradiction unaltered, allowing p"
+    "sibling-beta": "The registration of sustained receiving positions contradiction as the authorizing medium itself; wi"
   }
 }

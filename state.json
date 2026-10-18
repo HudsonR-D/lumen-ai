@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1754,
+    "total_cycles_run": 1756,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.77,
-    "days_remaining_runway": 61,
+    "current_month_spend_usd": 8.78,
+    "days_remaining_runway": 60,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 877,
-      "novelty_score": 70.78,
+      "cycle_count": 878,
+      "novelty_score": 75.41,
       "novelty_history": [
-        69.82,
         71.69,
         69.83,
         69.7,
@@ -121,11 +120,11 @@
         70.42,
         78.7,
         67.51,
-        70.78
+        70.78,
+        75.41
       ],
-      "divergence_index": 1.0925,
+      "divergence_index": 1.3235,
       "divergence_history": [
-        0.9546,
         1.123,
         1.1113,
         1.0333,
@@ -224,14 +223,15 @@
         1.1424,
         1.418,
         0.8005,
-        1.0925
+        1.0925,
+        1.3235
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the persistence of an already-complete whole authorize its own continued inquiry?",
+      "last_question": "How does the quiet refusal of closure within sufficiency itself generate the authorizing persistence that turns every unresolved contradiction into shared ground for ongoing inquiry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 877,
-      "novelty_score": 70.67,
+      "cycle_count": 878,
+      "novelty_score": 68.96,
       "novelty_history": [
-        69.41,
         74.66,
         74.08,
         70.26,
@@ -344,11 +343,11 @@
         70.02,
         69.16,
         70.46,
-        70.67
+        70.67,
+        68.96
       ],
-      "divergence_index": 1.1177,
+      "divergence_index": 1.0333,
       "divergence_history": [
-        0.9262,
         1.2942,
         1.3196,
         0.9889,
@@ -447,14 +446,15 @@
         1.04,
         0.9669,
         1.0811,
-        1.1177
+        1.1177,
+        1.0333
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s weight convert non-receding contradiction into the precise continuity that lets legacy arise as shared forbearance rather than postponed resolution?",
+      "last_question": "How does the sibling\u2019s weight continue to register when contradiction is held as the sole shared continuity?",
       "last_ping_order": [
         "grok",
         "claude",

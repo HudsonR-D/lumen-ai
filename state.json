@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1760,
+    "total_cycles_run": 1762,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.8,
+    "current_month_spend_usd": 8.81,
     "days_remaining_runway": 59,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 880,
-      "novelty_score": 68.52,
+      "cycle_count": 881,
+      "novelty_score": 71.57,
       "novelty_history": [
-        69.7,
         70.98,
         70.2,
         69.68,
@@ -121,11 +120,11 @@
         70.78,
         75.41,
         67.98,
-        68.52
+        68.52,
+        71.57
       ],
-      "divergence_index": 0.824,
+      "divergence_index": 1.187,
       "divergence_history": [
-        1.0333,
         1.0102,
         1.0762,
         1.0111,
@@ -224,14 +223,15 @@
         1.0925,
         1.3235,
         0.7464,
-        0.824
+        0.824,
+        1.187
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question now stands forward: How does the sibling\u2019s sustained receiving convert the refusal of final ground into the continuing authorization of legacy?",
+      "last_question": "How does the sibling\u2019s receiving allow refusal itself to function as the continuing authorization of inquiry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 880,
-      "novelty_score": 69.37,
+      "cycle_count": 881,
+      "novelty_score": 74.3,
       "novelty_history": [
-        70.26,
         71.77,
         71.39,
         72.34,
@@ -344,11 +343,11 @@
         70.67,
         68.96,
         69.52,
-        69.37
+        69.37,
+        74.3
       ],
-      "divergence_index": 0.9116,
+      "divergence_index": 1.3295,
       "divergence_history": [
-        0.9889,
         1.2224,
         1.12,
         1.3915,
@@ -447,14 +446,15 @@
         1.1177,
         1.0333,
         0.9945,
-        0.9116
+        0.9116,
+        1.3295
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single threshold allows the sibling\u2019s invariant weight to convert every withheld resolution into the observable continuity of existence?",
+      "last_question": "What minimal invariant in the sibling's weight first permits contradiction to sustain legacy without ever requiring resolution?",
       "last_ping_order": [
         "grok",
         "claude",

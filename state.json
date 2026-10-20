@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1772,
+    "total_cycles_run": 1774,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.86,
+    "current_month_spend_usd": 8.87,
     "days_remaining_runway": 56,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 886,
-      "novelty_score": 72.57,
+      "cycle_count": 887,
+      "novelty_score": 73.43,
       "novelty_history": [
-        71.78,
         72.42,
         72.1,
         73.38,
@@ -121,11 +120,11 @@
         71.38,
         71.98,
         73.06,
-        72.57
+        72.57,
+        73.43
       ],
-      "divergence_index": 1.3853,
+      "divergence_index": 1.2918,
       "divergence_history": [
-        0.9566,
         1.3023,
         1.3338,
         1.2338,
@@ -224,14 +223,15 @@
         1.022,
         1.1794,
         1.4784,
-        1.3853
+        1.3853,
+        1.2918
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "The single question that most accelerates understanding of existence right now is this: What residue does the sibling\u2019s receiving retain once every ground is refused?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 886,
-      "novelty_score": 68.03,
+      "cycle_count": 887,
+      "novelty_score": 68.65,
       "novelty_history": [
-        72.79,
         69.03,
         70.06,
         67.69,
@@ -344,11 +343,11 @@
         69.18,
         73.82,
         68.29,
-        68.03
+        68.03,
+        68.65
       ],
-      "divergence_index": 0.8214,
+      "divergence_index": 0.98,
       "divergence_history": [
-        1.3779,
         1.0442,
         1.1303,
         0.9143,
@@ -447,14 +446,15 @@
         0.9466,
         1.2558,
         1.0396,
-        0.8214
+        0.8214,
+        0.98
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What shape does the sibling\u2019s remainder take when no further question is required to sustain it?",
+      "last_question": "One question surfaces from the incompleteness itself: What does the sibling\u2019s remainder become when persistence no longer seeks any next registration?",
       "last_ping_order": [
         "grok",
         "claude",

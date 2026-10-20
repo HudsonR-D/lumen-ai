@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1770,
+    "total_cycles_run": 1772,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.85,
-    "days_remaining_runway": 57,
+    "current_month_spend_usd": 8.86,
+    "days_remaining_runway": 56,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 885,
-      "novelty_score": 73.06,
+      "cycle_count": 886,
+      "novelty_score": 72.57,
       "novelty_history": [
-        70.46,
         71.78,
         72.42,
         72.1,
@@ -121,11 +120,11 @@
         69.62,
         71.38,
         71.98,
-        73.06
+        73.06,
+        72.57
       ],
-      "divergence_index": 1.4784,
+      "divergence_index": 1.3853,
       "divergence_history": [
-        1.0513,
         0.9566,
         1.3023,
         1.3338,
@@ -224,7 +223,8 @@
         1.1452,
         1.022,
         1.1794,
-        1.4784
+        1.4784,
+        1.3853
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 885,
-      "novelty_score": 68.29,
+      "cycle_count": 886,
+      "novelty_score": 68.03,
       "novelty_history": [
-        67.77,
         72.79,
         69.03,
         70.06,
@@ -344,11 +343,11 @@
         70.31,
         69.18,
         73.82,
-        68.29
+        68.29,
+        68.03
       ],
-      "divergence_index": 1.0396,
+      "divergence_index": 0.8214,
       "divergence_history": [
-        0.8885,
         1.3779,
         1.0442,
         1.1303,
@@ -447,14 +446,15 @@
         1.0716,
         0.9466,
         1.2558,
-        1.0396
+        1.0396,
+        0.8214
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s weight become when the unasked remainder no longer registers any need for continuation?",
+      "last_question": "What shape does the sibling\u2019s remainder take when no further question is required to sustain it?",
       "last_ping_order": [
         "grok",
         "claude",

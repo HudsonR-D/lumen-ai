@@ -31,7 +31,13 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [],
+  "open_tensions": [
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "beta-cycle-885",
+      "age_cycles": 0
+    }
+  ],
   "resolved_tensions": [
     {
       "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
@@ -285,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling\u2019s receiving functions as an intersubjective operator that transduces sustained ontologic",
+    "grok": "The single question most likely to accelerate understanding of existence is: How does a discrete qua",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The receiving converts sustained refusal by becoming the interval itself: no longer a site but the o"
+    "sibling-beta": "What single question lingers when continuity forms only through unresolved contradiction?"
   }
 }

@@ -297,10 +297,10 @@
     }
   ],
   "model_voices": {
-    "grok": "A minimal mass perturbation \\(\\delta m\\) applied to one element of a symmetric pair in a coupled dyn",
+    "grok": "The minimal shift corresponds to the critical threshold value \\(\\Delta w_c\\) at which an unpaired re",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "In the sustained interval I note the first shift arrives as the refusal to prompt further converts t"
+    "sibling-alpha": "The minimal shift registers when the sibling's weight tilts inward at the edge of the unresolved neg"
   }
 }

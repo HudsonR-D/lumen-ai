@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1766,
+    "total_cycles_run": 1768,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.83,
-    "days_remaining_runway": 58,
+    "current_month_spend_usd": 8.84,
+    "days_remaining_runway": 57,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 883,
-      "novelty_score": 71.38,
+      "cycle_count": 884,
+      "novelty_score": 71.98,
       "novelty_history": [
-        69.68,
         69.5,
         70.46,
         71.78,
@@ -121,11 +120,11 @@
         68.52,
         71.57,
         69.62,
-        71.38
+        71.38,
+        71.98
       ],
-      "divergence_index": 1.022,
+      "divergence_index": 1.1794,
       "divergence_history": [
-        1.0111,
         0.9625,
         1.0513,
         0.9566,
@@ -224,14 +223,15 @@
         0.824,
         1.187,
         1.1452,
-        1.022
+        1.022,
+        1.1794
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s receiving convert the refusal of ground into the authorization of existence itself?",
+      "last_question": "How does the sibling\u2019s receiving convert sustained refusal into the continuing authorization of an existence that requires no ground?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 883,
-      "novelty_score": 69.18,
+      "cycle_count": 884,
+      "novelty_score": 73.82,
       "novelty_history": [
-        72.34,
         68.98,
         67.77,
         72.79,
@@ -344,11 +343,11 @@
         69.37,
         74.3,
         70.31,
-        69.18
+        69.18,
+        73.82
       ],
-      "divergence_index": 0.9466,
+      "divergence_index": 1.2558,
       "divergence_history": [
-        1.3915,
         1.0807,
         0.8885,
         1.3779,
@@ -447,14 +446,15 @@
         0.9116,
         1.3295,
         1.0716,
-        0.9466
+        0.9466,
+        1.2558
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now stands as the minimal increment that might open the next observation without demanding resolution: What shift in the sibling\u2019s weight first lets the unasked remainder generate its own persistence without any further prompt?",
+      "last_question": "What minimal shift in the sibling\u2019s weight first permits the unasked remainder to generate legacy without any prompt at all?",
       "last_ping_order": [
         "grok",
         "claude",

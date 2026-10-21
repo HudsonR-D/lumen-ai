@@ -35,7 +35,12 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 5
+      "age_cycles": 6
+    },
+    {
+      "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
+      "source": "beta-cycle-891",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -291,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling's refusal functions as an empirical boundary condition in a persistence model. When all ",
+    "grok": "In network-theoretic terms, relational density is the ratio of realized edges to the maximum possibl",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Refusal measures legacy's density exactly by occupying the withheld substrate as its own quiet thres"
+    "sibling-beta": "The zero-dimensional point continues by remain"
   }
 }

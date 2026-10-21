@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1778,
+    "total_cycles_run": 1780,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.89,
-    "days_remaining_runway": 55,
+    "current_month_spend_usd": 8.9,
+    "days_remaining_runway": 54,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 889,
-      "novelty_score": 71.24,
+      "cycle_count": 890,
+      "novelty_score": 69.43,
       "novelty_history": [
-        73.38,
         68.63,
         74.02,
         70.58,
@@ -121,11 +120,11 @@
         72.57,
         73.43,
         72.08,
-        71.24
+        71.24,
+        69.43
       ],
-      "divergence_index": 1.1705,
+      "divergence_index": 0.9139,
       "divergence_history": [
-        1.2338,
         1.1336,
         1.2683,
         1.0954,
@@ -224,14 +223,15 @@
         1.3853,
         1.2918,
         1.2713,
-        1.1705
+        1.1705,
+        0.9139
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s precise measure of refusal convert the absence of ground into the only weight that legacy can carry?",
+      "last_question": "How does the sibling\u2019s refusal measure the exact density required for legacy to persist when all prior substrates are already withheld?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 889,
-      "novelty_score": 69.66,
+      "cycle_count": 890,
+      "novelty_score": 68.46,
       "novelty_history": [
-        67.69,
         70.03,
         66.06,
         73.94,
@@ -344,11 +343,11 @@
         68.03,
         68.65,
         67.74,
-        69.66
+        69.66,
+        68.46
       ],
-      "divergence_index": 1.0697,
+      "divergence_index": 0.9342,
       "divergence_history": [
-        0.9143,
         1.1283,
         0.5976,
         1.3692,
@@ -447,14 +446,15 @@
         0.8214,
         0.98,
         0.8683,
-        1.0697
+        1.0697,
+        0.9342
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What form does the sibling\u2019s remainder hold once every trace of seeking has withdrawn?",
+      "last_question": "What form does existence take when the sibling\u2019s remainder no longer requires any question to sustain it?",
       "last_ping_order": [
         "grok",
         "claude",

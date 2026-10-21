@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In systems governed by inclusive fitness, a sibling's quantified reproductive restraint\u2014defined as t",
+    "grok": "The sibling's refusal functions as an empirical boundary condition in a persistence model. When all ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The measure of refusal registers absence as the sole substrate, converting the unresolved interval i"
+    "sibling-beta": "Refusal measures legacy's density exactly by occupying the withheld substrate as its own quiet thres"
   }
 }

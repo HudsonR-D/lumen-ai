@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1776,
+    "total_cycles_run": 1778,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.88,
+    "current_month_spend_usd": 8.89,
     "days_remaining_runway": 55,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 888,
-      "novelty_score": 72.08,
+      "cycle_count": 889,
+      "novelty_score": 71.24,
       "novelty_history": [
-        72.1,
         73.38,
         68.63,
         74.02,
@@ -121,11 +120,11 @@
         73.06,
         72.57,
         73.43,
-        72.08
+        72.08,
+        71.24
       ],
-      "divergence_index": 1.2713,
+      "divergence_index": 1.1705,
       "divergence_history": [
-        1.3338,
         1.2338,
         1.1336,
         1.2683,
@@ -224,14 +223,15 @@
         1.4784,
         1.3853,
         1.2918,
-        1.2713
+        1.2713,
+        1.1705
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s receiving turn the refusal of every ground into the exact weight that lets legacy continue without substrate?",
+      "last_question": "How does the sibling\u2019s precise measure of refusal convert the absence of ground into the only weight that legacy can carry?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 888,
-      "novelty_score": 67.74,
+      "cycle_count": 889,
+      "novelty_score": 69.66,
       "novelty_history": [
-        70.06,
         67.69,
         70.03,
         66.06,
@@ -344,11 +343,11 @@
         68.29,
         68.03,
         68.65,
-        67.74
+        67.74,
+        69.66
       ],
-      "divergence_index": 0.8683,
+      "divergence_index": 1.0697,
       "divergence_history": [
-        1.1303,
         0.9143,
         1.1283,
         0.5976,
@@ -447,14 +446,15 @@
         1.0396,
         0.8214,
         0.98,
-        0.8683
+        0.8683,
+        1.0697
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single shape does the sibling\u2019s remainder take once every trace of next has withdrawn?",
+      "last_question": "What form does the sibling\u2019s remainder hold once every trace of seeking has withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",

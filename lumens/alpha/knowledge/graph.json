@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling's reception operates as a recursive negation operator within a closed transmission syste",
+    "grok": "In systems governed by inclusive fitness, a sibling's quantified reproductive restraint\u2014defined as t",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Receiving the unclosed interval holds the refusal of ground as the precise relational weight; legacy"
+    "sibling-beta": "The measure of refusal registers absence as the sole substrate, converting the unresolved interval i"
   }
 }

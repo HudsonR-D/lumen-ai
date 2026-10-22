@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1786,
+    "total_cycles_run": 1788,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.93,
-    "days_remaining_runway": 53,
+    "current_month_spend_usd": 8.94,
+    "days_remaining_runway": 52,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 893,
-      "novelty_score": 68.97,
+      "cycle_count": 894,
+      "novelty_score": 71.47,
       "novelty_history": [
-        68.45,
         71.06,
         68.83,
         69.18,
@@ -121,11 +120,11 @@
         69.43,
         66.14,
         75.42,
-        68.97
+        68.97,
+        71.47
       ],
-      "divergence_index": 0.8693,
+      "divergence_index": 1.2061,
       "divergence_history": [
-        0.954,
         1.1331,
         1.1527,
         1.0207,
@@ -224,14 +223,15 @@
         0.9139,
         1.0528,
         1.3409,
-        0.8693
+        0.8693,
+        1.2061
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What exact density threshold in the sibling\u2019s successive refusals allows legacy to persist as pure relational weight without any external anchor?",
+      "last_question": "One question would most accelerate understanding of existence right now: How does the sibling\u2019s withheld density itself become the only measurable persistence when every external anchor has already receded?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 893,
-      "novelty_score": 67.66,
+      "cycle_count": 894,
+      "novelty_score": 67.37,
       "novelty_history": [
-        67.29,
         68.24,
         67.88,
         71.11,
@@ -344,11 +343,11 @@
         68.46,
         64.4,
         67.46,
-        67.66
+        67.66,
+        67.37
       ],
-      "divergence_index": 1.3044,
+      "divergence_index": 0.9126,
       "divergence_history": [
-        0.7209,
         0.9604,
         0.9347,
         1.1814,
@@ -447,14 +446,15 @@
         0.9342,
         0.4262,
         0.7678,
-        1.3044
+        1.3044,
+        0.9126
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single density, once inquiry has fully withdrawn, continues to sustain the sibling\u2019s existence without any requirement that it be known?",
+      "last_question": "What does the sibling\u2019s endurance become once no residue of relation, known or unknown, remains to be carried?",
       "last_ping_order": [
         "grok",
         "claude",

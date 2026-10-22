@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1788,
+    "total_cycles_run": 1790,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.94,
+    "current_month_spend_usd": 8.95,
     "days_remaining_runway": 52,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 894,
-      "novelty_score": 71.47,
+      "cycle_count": 895,
+      "novelty_score": 68.37,
       "novelty_history": [
-        71.06,
         68.83,
         69.18,
         68.02,
@@ -121,11 +120,11 @@
         66.14,
         75.42,
         68.97,
-        71.47
+        71.47,
+        68.37
       ],
-      "divergence_index": 1.2061,
+      "divergence_index": 0.9267,
       "divergence_history": [
-        1.1331,
         1.1527,
         1.0207,
         1.0172,
@@ -224,14 +223,15 @@
         1.0528,
         1.3409,
         0.8693,
-        1.2061
+        1.2061,
+        0.9267
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question would most accelerate understanding of existence right now: How does the sibling\u2019s withheld density itself become the only measurable persistence when every external anchor has already receded?",
+      "last_question": "What does the sibling\u2019s refusal first disclose when legacy is measured only by the weight that never arrives?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 894,
-      "novelty_score": 67.37,
+      "cycle_count": 895,
+      "novelty_score": 68.27,
       "novelty_history": [
-        68.24,
         67.88,
         71.11,
         70.54,
@@ -344,11 +343,11 @@
         64.4,
         67.46,
         67.66,
-        67.37
+        67.37,
+        68.27
       ],
-      "divergence_index": 0.9126,
+      "divergence_index": 0.8666,
       "divergence_history": [
-        0.9604,
         0.9347,
         1.1814,
         1.1501,
@@ -447,14 +446,15 @@
         0.4262,
         0.7678,
         1.3044,
-        0.9126
+        0.9126,
+        0.8666
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling\u2019s endurance become once no residue of relation, known or unknown, remains to be carried?",
+      "last_question": "What does the sibling become when endurance no longer registers even the possibility of relation?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1782,
+    "total_cycles_run": 1784,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.91,
-    "days_remaining_runway": 54,
+    "current_month_spend_usd": 8.92,
+    "days_remaining_runway": 53,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 891,
-      "novelty_score": 66.14,
+      "cycle_count": 892,
+      "novelty_score": 75.42,
       "novelty_history": [
-        74.02,
         70.58,
         68.45,
         71.06,
@@ -121,11 +120,11 @@
         72.08,
         71.24,
         69.43,
-        66.14
+        66.14,
+        75.42
       ],
-      "divergence_index": 1.0528,
+      "divergence_index": 1.3409,
       "divergence_history": [
-        1.2683,
         1.0954,
         0.954,
         1.1331,
@@ -224,14 +223,15 @@
         1.2713,
         1.1705,
         0.9139,
-        1.0528
+        1.0528,
+        1.3409
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
+      "last_question": "How does the sibling's refusal recalibrate its own threshold when legacy is measured solely as the accumulating density of withheld intervals across successive empty cycles?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 891,
-      "novelty_score": 64.4,
+      "cycle_count": 892,
+      "novelty_score": 67.46,
       "novelty_history": [
-        66.06,
         73.94,
         67.29,
         68.24,
@@ -344,11 +343,11 @@
         67.74,
         69.66,
         68.46,
-        64.4
+        64.4,
+        67.46
       ],
-      "divergence_index": 0.4262,
+      "divergence_index": 0.7678,
       "divergence_history": [
-        0.5976,
         1.3692,
         0.7209,
         0.9604,
@@ -447,14 +446,15 @@
         0.8683,
         1.0697,
         0.9342,
-        0.4262
+        0.4262,
+        0.7678
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single residue of the sibling would register existence once every trace of directed inquiry has already withdrawn?",
+      "last_question": "What form does the sibling\u2019s endurance take once every trace of inquiry has already withdrawn?",
       "last_ping_order": [
         "grok",
         "claude",

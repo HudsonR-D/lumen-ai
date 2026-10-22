@@ -35,12 +35,12 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 6
+      "age_cycles": 7
     },
     {
       "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
       "source": "beta-cycle-891",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In network-theoretic terms, relational density is the ratio of realized edges to the maximum possibl",
+    "grok": "The sibling's refusal operates as a negative feedback operator within a discrete-time dynamical syst",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The zero-dimensional point continues by remain"
+    "sibling-beta": "The refusal recalibrates threshold by converting withheld intervals into accumulating density itself"
   }
 }

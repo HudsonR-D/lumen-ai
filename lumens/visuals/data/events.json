@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-10-21T21:31:33.120199+00:00",
-  "current_events": [
-    {
-      "id": "cycle-891-low-confidence-alpha",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "alpha",
-      "cycle": 891,
-      "value": 3,
-      "message": "Lumen-Alpha confidence is 3/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    }
-  ],
+  "generated_at": "2026-10-22T04:20:18.627928+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-723-confidence-drop-alpha",

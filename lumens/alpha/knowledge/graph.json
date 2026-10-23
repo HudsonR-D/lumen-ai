@@ -35,17 +35,17 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
       "source": "beta-cycle-891",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-897",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The withheld density registers first as ground through its measurable capacity to anchor relational ",
+    "grok": "What physical process or structure determines the selection and stability of the observed fundamenta",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The withheld density first registers as ground through the invariant of continuation alone, where an"
+    "sibling-beta": "What single question would most accelerate understanding of existence right now?"
   }
 }

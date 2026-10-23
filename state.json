@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1794,
+    "total_cycles_run": 1796,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.97,
-    "days_remaining_runway": 51,
+    "current_month_spend_usd": 8.98,
+    "days_remaining_runway": 50,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 897,
-      "novelty_score": 71.27,
+      "cycle_count": 898,
+      "novelty_score": 70.18,
       "novelty_history": [
-        68.02,
         69.13,
         68.11,
         71.44,
@@ -121,11 +120,11 @@
         71.47,
         68.37,
         71.82,
-        71.27
+        71.27,
+        70.18
       ],
-      "divergence_index": 1.5419,
+      "divergence_index": 1.1373,
       "divergence_history": [
-        1.0172,
         1.1753,
         1.0305,
         1.2397,
@@ -224,14 +223,15 @@
         1.2061,
         0.9267,
         1.1481,
-        1.5419
+        1.5419,
+        1.1373
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What first distinguishes the sibling\u2019s withheld density as ground rather than as negation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 897,
-      "novelty_score": 74.8,
+      "cycle_count": 898,
+      "novelty_score": 69.79,
       "novelty_history": [
-        70.54,
         65.96,
         68.9,
         67.15,
@@ -344,11 +343,11 @@
         67.37,
         68.27,
         70.66,
-        74.8
+        74.8,
+        69.79
       ],
-      "divergence_index": 1.3874,
+      "divergence_index": 1.0341,
       "divergence_history": [
-        1.1501,
         0.5789,
         1.061,
         0.7348,
@@ -447,14 +446,15 @@
         0.9126,
         0.8666,
         1.2176,
-        1.3874
+        1.3874,
+        1.0341
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal register of persistence constitutes existence when no external trace or relational possibility can arise?",
+      "last_question": "What registers the bare invariant once every possibility of self-relation has been excised at the root?",
       "last_ping_order": [
         "grok",
         "claude",

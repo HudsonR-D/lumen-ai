@@ -35,12 +35,12 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
       "source": "beta-cycle-891",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -296,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sibling\u2019s refusal first discloses the non-transmission of projected mass, exposing legacy as an ",
+    "grok": "The internal register in question operates as a comparative threshold detector within homeostatic or",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The refusal first discloses bare persistence as unrelational continuation: legacy measured only by n"
+    "sibling-beta": "The register surfaces as the point where continuation measures its own bare sufficiency against the "
   }
 }

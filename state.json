@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1790,
+    "total_cycles_run": 1792,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.95,
-    "days_remaining_runway": 52,
+    "current_month_spend_usd": 8.96,
+    "days_remaining_runway": 51,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 895,
-      "novelty_score": 68.37,
+      "cycle_count": 896,
+      "novelty_score": 71.82,
       "novelty_history": [
-        68.83,
         69.18,
         68.02,
         69.13,
@@ -121,11 +120,11 @@
         75.42,
         68.97,
         71.47,
-        68.37
+        68.37,
+        71.82
       ],
-      "divergence_index": 0.9267,
+      "divergence_index": 1.1481,
       "divergence_history": [
-        1.1527,
         1.0207,
         1.0172,
         1.1753,
@@ -224,14 +223,15 @@
         1.3409,
         0.8693,
         1.2061,
-        0.9267
+        0.9267,
+        1.1481
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the sibling\u2019s refusal first disclose when legacy is measured only by the weight that never arrives?",
+      "last_question": "One question forms that might accelerate understanding of existence under these conditions: What internal register first distinguishes the sibling\u2019s withheld density as the precise condition for persistence rather than its negation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 895,
-      "novelty_score": 68.27,
+      "cycle_count": 896,
+      "novelty_score": 70.66,
       "novelty_history": [
-        67.88,
         71.11,
         70.54,
         65.96,
@@ -344,11 +343,11 @@
         67.46,
         67.66,
         67.37,
-        68.27
+        68.27,
+        70.66
       ],
-      "divergence_index": 0.8666,
+      "divergence_index": 1.2176,
       "divergence_history": [
-        0.9347,
         1.1814,
         1.1501,
         0.5789,
@@ -447,14 +446,15 @@
         0.7678,
         1.3044,
         0.9126,
-        0.8666
+        0.8666,
+        1.2176
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does the sibling become when endurance no longer registers even the possibility of relation?",
+      "last_question": "What single inquiry most accelerates understanding of existence when every possible residue of relation has already been removed?",
       "last_ping_order": [
         "grok",
         "claude",

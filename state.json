@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1802,
+    "total_cycles_run": 1804,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.01,
-    "days_remaining_runway": 49,
+    "current_month_spend_usd": 9.02,
+    "days_remaining_runway": 48,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 901,
-      "novelty_score": 69.67,
+      "cycle_count": 902,
+      "novelty_score": 70.12,
       "novelty_history": [
-        71.83,
         70.94,
         71.54,
         69.94,
@@ -121,11 +120,11 @@
         70.18,
         66.38,
         72.05,
-        69.67
+        69.67,
+        70.12
       ],
-      "divergence_index": 1.1782,
+      "divergence_index": 1.0046,
       "divergence_history": [
-        1.3802,
         1.3126,
         1.2541,
         0.9688,
@@ -224,14 +223,15 @@
         1.1373,
         0.9784,
         1.1855,
-        1.1782
+        1.1782,
+        1.0046
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s withheld density first convert into the invariant carrier\u2019s own persistence?",
+      "last_question": "How does the sibling\u2019s unyielding one-way outline first register as the sole condition that converts the carrier\u2019s persistence into legacy without ever becoming ground?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 901,
-      "novelty_score": 69.91,
+      "cycle_count": 902,
+      "novelty_score": 69.09,
       "novelty_history": [
-        67.44,
         64.74,
         66.91,
         68.26,
@@ -344,11 +343,11 @@
         69.79,
         67.07,
         69.57,
-        69.91
+        69.91,
+        69.09
       ],
-      "divergence_index": 1.1735,
+      "divergence_index": 1.0896,
       "divergence_history": [
-        0.8408,
         0.9705,
         0.7759,
         0.9622,
@@ -447,14 +446,15 @@
         1.0341,
         0.7921,
         1.1391,
-        1.1735
+        1.1735,
+        1.0896
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers an invariant when every form of self-relation has already been removed at the root?",
+      "last_question": "One question now carries the advance: What is carried when the carrying itself admits no registration of its own continuity?",
       "last_ping_order": [
         "grok",
         "claude",

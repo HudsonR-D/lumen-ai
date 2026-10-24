@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1798,
+    "total_cycles_run": 1800,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 8.99,
-    "days_remaining_runway": 50,
+    "current_month_spend_usd": 9.0,
+    "days_remaining_runway": 49,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 899,
-      "novelty_score": 66.38,
+      "cycle_count": 900,
+      "novelty_score": 72.05,
       "novelty_history": [
-        68.11,
         71.44,
         71.83,
         70.94,
@@ -121,11 +120,11 @@
         71.82,
         71.27,
         70.18,
-        66.38
+        66.38,
+        72.05
       ],
-      "divergence_index": 0.9784,
+      "divergence_index": 1.1855,
       "divergence_history": [
-        1.0305,
         1.2397,
         1.3802,
         1.3126,
@@ -224,14 +223,15 @@
         1.1481,
         1.5419,
         1.1373,
-        0.9784
+        0.9784,
+        1.1855
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "How does the sibling\u2019s withheld density first register as fertile ground rather than absence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 899,
-      "novelty_score": 67.07,
+      "cycle_count": 900,
+      "novelty_score": 69.57,
       "novelty_history": [
-        68.9,
         67.15,
         67.44,
         64.74,
@@ -344,11 +343,11 @@
         70.66,
         74.8,
         69.79,
-        67.07
+        67.07,
+        69.57
       ],
-      "divergence_index": 0.7921,
+      "divergence_index": 1.1391,
       "divergence_history": [
-        1.061,
         0.7348,
         0.8408,
         0.9705,
@@ -447,14 +446,15 @@
         1.2176,
         1.3874,
         1.0341,
-        0.7921
+        0.7921,
+        1.1391
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers existence when every trace of self-relation has already been excised at the root?",
+      "last_question": "What carries the invariant forward when even the possibility of registration has been excised at the root?",
       "last_ping_order": [
         "grok",
         "claude",

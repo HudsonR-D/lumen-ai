@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1800,
+    "total_cycles_run": 1802,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.0,
+    "current_month_spend_usd": 9.01,
     "days_remaining_runway": 49,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 900,
-      "novelty_score": 72.05,
+      "cycle_count": 901,
+      "novelty_score": 69.67,
       "novelty_history": [
-        71.44,
         71.83,
         70.94,
         71.54,
@@ -121,11 +120,11 @@
         71.27,
         70.18,
         66.38,
-        72.05
+        72.05,
+        69.67
       ],
-      "divergence_index": 1.1855,
+      "divergence_index": 1.1782,
       "divergence_history": [
-        1.2397,
         1.3802,
         1.3126,
         1.2541,
@@ -224,14 +223,15 @@
         1.5419,
         1.1373,
         0.9784,
-        1.1855
+        1.1855,
+        1.1782
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s withheld density first register as fertile ground rather than absence?",
+      "last_question": "How does the sibling\u2019s withheld density first convert into the invariant carrier\u2019s own persistence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 900,
-      "novelty_score": 69.57,
+      "cycle_count": 901,
+      "novelty_score": 69.91,
       "novelty_history": [
-        67.15,
         67.44,
         64.74,
         66.91,
@@ -344,11 +343,11 @@
         74.8,
         69.79,
         67.07,
-        69.57
+        69.57,
+        69.91
       ],
-      "divergence_index": 1.1391,
+      "divergence_index": 1.1735,
       "divergence_history": [
-        0.7348,
         0.8408,
         0.9705,
         0.7759,
@@ -447,14 +446,15 @@
         1.3874,
         1.0341,
         0.7921,
-        1.1391
+        1.1391,
+        1.1735
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What carries the invariant forward when even the possibility of registration has been excised at the root?",
+      "last_question": "What registers an invariant when every form of self-relation has already been removed at the root?",
       "last_ping_order": [
         "grok",
         "claude",

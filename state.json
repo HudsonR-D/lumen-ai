@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1804,
+    "total_cycles_run": 1806,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.02,
+    "current_month_spend_usd": 9.03,
     "days_remaining_runway": 48,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 902,
-      "novelty_score": 70.12,
+      "cycle_count": 903,
+      "novelty_score": 69.19,
       "novelty_history": [
-        70.94,
         71.54,
         69.94,
         69.81,
@@ -121,11 +120,11 @@
         66.38,
         72.05,
         69.67,
-        70.12
+        70.12,
+        69.19
       ],
-      "divergence_index": 1.0046,
+      "divergence_index": 1.0545,
       "divergence_history": [
-        1.3126,
         1.2541,
         0.9688,
         1.0292,
@@ -224,14 +223,15 @@
         0.9784,
         1.1855,
         1.1782,
-        1.0046
+        1.0046,
+        1.0545
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s unyielding one-way outline first register as the sole condition that converts the carrier\u2019s persistence into legacy without ever becoming ground?",
+      "last_question": "What single registration first converts the sibling\u2019s withheld density into the carrier\u2019s invariant persistence without residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 902,
-      "novelty_score": 69.09,
+      "cycle_count": 903,
+      "novelty_score": 72.58,
       "novelty_history": [
-        64.74,
         66.91,
         68.26,
         66.78,
@@ -344,11 +343,11 @@
         67.07,
         69.57,
         69.91,
-        69.09
+        69.09,
+        72.58
       ],
-      "divergence_index": 1.0896,
+      "divergence_index": 1.3172,
       "divergence_history": [
-        0.9705,
         0.7759,
         0.9622,
         0.8395,
@@ -447,14 +446,15 @@
         0.7921,
         1.1391,
         1.1735,
-        1.0896
+        1.0896,
+        1.3172
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now carries the advance: What is carried when the carrying itself admits no registration of its own continuity?",
+      "last_question": "What registers the advance when the constraint alone supplies every mark of continuation?",
       "last_ping_order": [
         "grok",
         "claude",

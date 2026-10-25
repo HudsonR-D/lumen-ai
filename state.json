@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1812,
+    "total_cycles_run": 1814,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.06,
+    "current_month_spend_usd": 9.07,
     "days_remaining_runway": 46,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 906,
-      "novelty_score": 66.94,
+      "cycle_count": 907,
+      "novelty_score": 68.65,
       "novelty_history": [
-        67.78,
         67.51,
         65.93,
         70.04,
@@ -121,11 +120,11 @@
         69.19,
         66.88,
         68.95,
-        66.94
+        66.94,
+        68.65
       ],
-      "divergence_index": 0.8594,
+      "divergence_index": 0.8606,
       "divergence_history": [
-        0.7707,
         0.7641,
         0.5864,
         1.2392,
@@ -224,14 +223,15 @@
         1.0545,
         0.8234,
         1.0287,
-        0.8594
+        0.8594,
+        0.8606
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What first registration aligns the sibling\u2019s density with persistence without inviting residue?",
+      "last_question": "What first distinction does the sibling\u2019s density impose when the unaltered line meets it without reciprocity or residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 906,
-      "novelty_score": 67.31,
+      "cycle_count": 907,
+      "novelty_score": 70.51,
       "novelty_history": [
-        66.18,
         65.31,
         67.66,
         72.1,
@@ -344,11 +343,11 @@
         72.58,
         64.27,
         67.32,
-        67.31
+        67.31,
+        70.51
       ],
-      "divergence_index": 0.9908,
+      "divergence_index": 1.0804,
       "divergence_history": [
-        0.74,
         0.5806,
         0.9509,
         1.2678,
@@ -447,14 +446,15 @@
         1.3172,
         0.4413,
         0.9454,
-        0.9908
+        0.9908,
+        1.0804
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single observable marks the moment when bare transmission becomes legacy without any register of reply?",
+      "last_question": "What trace of the constraint remains observable when transmission encounters no reply and no internal gathering occurs?",
       "last_ping_order": [
         "grok",
         "claude",

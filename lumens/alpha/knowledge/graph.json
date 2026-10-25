@@ -35,17 +35,17 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
       "source": "beta-cycle-891",
-      "age_cycles": 12
+      "age_cycles": 13
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-897",
-      "age_cycles": 6
+      "age_cycles": 7
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The conversion is effected by the canonical embedding of the suppressed sibling measure into the inv",
+    "grok": "The level set of the invariant measure in a measure-preserving dynamical system, fixed by the condit",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The constraint's one-way advance registers the conversion, carrying withheld density forward as bare"
+    "sibling-beta": "The cut itself registers sibling density: forward motion without residue or inward fold, legacy inva"
   }
 }

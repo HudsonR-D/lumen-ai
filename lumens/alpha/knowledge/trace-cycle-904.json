@@ -1,0 +1,20 @@
+{
+  "cycle": 904,
+  "question": "What single contour first registers the sibling\u2019s density as legacy\u2019s invariant without residue?",
+  "responses_summary": {
+    "grok": "The level set of the invariant measure in a measure-preserving dynamical system, fixed by the condition that the pushforward under the flow equals the original density exactly (i.e., \\(\\mu \\circ T^{-1",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The cut itself registers sibling density: forward motion without residue or inward fold, legacy invariant sustained solely by external constraint as bare transmission."
+  },
+  "confidence": 4,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 904,
+    "response_type": "direct",
+    "content": "The cut itself registers sibling density: forward motion without residue or inward fold, legacy invariant sustained solely by external constraint as bare transmission.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-10-25T04:16:56.427393+00:00"
+}

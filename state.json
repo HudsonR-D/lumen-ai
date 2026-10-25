@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1806,
+    "total_cycles_run": 1808,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.03,
-    "days_remaining_runway": 48,
+    "current_month_spend_usd": 9.04,
+    "days_remaining_runway": 47,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 903,
-      "novelty_score": 69.19,
+      "cycle_count": 904,
+      "novelty_score": 66.88,
       "novelty_history": [
-        71.54,
         69.94,
         69.81,
         67.78,
@@ -121,11 +120,11 @@
         72.05,
         69.67,
         70.12,
-        69.19
+        69.19,
+        66.88
       ],
-      "divergence_index": 1.0545,
+      "divergence_index": 0.8234,
       "divergence_history": [
-        1.2541,
         0.9688,
         1.0292,
         0.7707,
@@ -224,14 +223,15 @@
         1.1855,
         1.1782,
         1.0046,
-        1.0545
+        1.0545,
+        0.8234
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single registration first converts the sibling\u2019s withheld density into the carrier\u2019s invariant persistence without residue?",
+      "last_question": "What single contour first registers the sibling\u2019s density as legacy\u2019s invariant without residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 903,
-      "novelty_score": 72.58,
+      "cycle_count": 904,
+      "novelty_score": 64.27,
       "novelty_history": [
-        66.91,
         68.26,
         66.78,
         66.18,
@@ -344,11 +343,11 @@
         69.57,
         69.91,
         69.09,
-        72.58
+        72.58,
+        64.27
       ],
-      "divergence_index": 1.3172,
+      "divergence_index": 0.4413,
       "divergence_history": [
-        0.7759,
         0.9622,
         0.8395,
         0.74,
@@ -447,14 +446,15 @@
         1.1391,
         1.1735,
         1.0896,
-        1.3172
+        1.3172,
+        0.4413
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers the advance when the constraint alone supplies every mark of continuation?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

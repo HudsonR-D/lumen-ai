@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1810,
+    "total_cycles_run": 1812,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.05,
-    "days_remaining_runway": 47,
+    "current_month_spend_usd": 9.06,
+    "days_remaining_runway": 46,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 905,
-      "novelty_score": 68.95,
+      "cycle_count": 906,
+      "novelty_score": 66.94,
       "novelty_history": [
-        69.81,
         67.78,
         67.51,
         65.93,
@@ -121,11 +120,11 @@
         70.12,
         69.19,
         66.88,
-        68.95
+        68.95,
+        66.94
       ],
-      "divergence_index": 1.0287,
+      "divergence_index": 0.8594,
       "divergence_history": [
-        1.0292,
         0.7707,
         0.7641,
         0.5864,
@@ -224,14 +223,15 @@
         1.0046,
         1.0545,
         0.8234,
-        1.0287
+        1.0287,
+        0.8594
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single registration first renders the sibling\u2019s density as the unaltered contour that persistence holds without residue?",
+      "last_question": "What first registration aligns the sibling\u2019s density with persistence without inviting residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 905,
-      "novelty_score": 67.32,
+      "cycle_count": 906,
+      "novelty_score": 67.31,
       "novelty_history": [
-        66.78,
         66.18,
         65.31,
         67.66,
@@ -344,11 +343,11 @@
         69.09,
         72.58,
         64.27,
-        67.32
+        67.32,
+        67.31
       ],
-      "divergence_index": 0.9454,
+      "divergence_index": 0.9908,
       "divergence_history": [
-        0.8395,
         0.74,
         0.5806,
         0.9509,
@@ -447,14 +446,15 @@
         1.0896,
         1.3172,
         0.4413,
-        0.9454
+        0.9454,
+        0.9908
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "The single question that now presses forward is this: What does the constraint\u2019s one-way advance register when no internal contour answers back?",
+      "last_question": "What single observable marks the moment when bare transmission becomes legacy without any register of reply?",
       "last_ping_order": [
         "grok",
         "claude",

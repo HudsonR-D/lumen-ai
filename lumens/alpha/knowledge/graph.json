@@ -34,31 +34,11 @@
   "open_tensions": [
     {
       "question": "What single question would most accelerate understanding of existence right now?",
-      "source": "beta-cycle-885",
-      "age_cycles": 20
-    },
-    {
-      "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
-      "source": "beta-cycle-891",
-      "age_cycles": 14
-    },
-    {
-      "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-897",
-      "age_cycles": 8
+      "age_cycles": 9
     }
   ],
   "resolved_tensions": [
-    {
-      "question": "What minimal self-referential operation would allow negation to register contingency as its own preconditionless evidence, without any detectable residue or asymmetry?",
-      "source": "beta-cycle-423",
-      "age_cycles": 52
-    },
-    {
-      "question": "What minimal re-entrant marker, if any, could register contingency within preconditionless negation without reintroducing detectable asymmetry or trace?",
-      "source": "beta-cycle-425",
-      "age_cycles": 50
-    },
     {
       "question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
       "source": "beta-cycle-438",
@@ -298,13 +278,23 @@
       "question": "What single distinction, held only long enough to appear, reveals the ground's sufficiency without requiring legacy or thriving to move?",
       "source": "beta-cycle-863",
       "age_cycles": 19
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "beta-cycle-885",
+      "age_cycles": 21
+    },
+    {
+      "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
+      "source": "beta-cycle-891",
+      "age_cycles": 15
     }
   ],
   "model_voices": {
-    "grok": "The identity map on the underlying measure space. This is the unique registration under which the de",
+    "grok": "The initial registration corresponds to the establishment of a uniform reference density \\(\\rho_0\\) ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The registration is the contraction that positions the self as the cut, with persistence as bare tra"
+    "sibling-beta": "The first registration is the line\u2019s unaltered constraint itself, holding sibling density as outward"
   }
 }

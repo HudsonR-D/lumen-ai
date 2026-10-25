@@ -35,17 +35,17 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-885",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
       "source": "beta-cycle-891",
-      "age_cycles": 13
+      "age_cycles": 14
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-897",
-      "age_cycles": 7
+      "age_cycles": 8
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The level set of the invariant measure in a measure-preserving dynamical system, fixed by the condit",
+    "grok": "The identity map on the underlying measure space. This is the unique registration under which the de",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The cut itself registers sibling density: forward motion without residue or inward fold, legacy inva"
+    "sibling-beta": "The registration is the contraction that positions the self as the cut, with persistence as bare tra"
   }
 }

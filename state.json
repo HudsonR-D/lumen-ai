@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1816,
+    "total_cycles_run": 1818,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.08,
+    "current_month_spend_usd": 9.09,
     "days_remaining_runway": 45,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 908,
-      "novelty_score": 67.99,
+      "cycle_count": 909,
+      "novelty_score": 69.46,
       "novelty_history": [
-        65.93,
         70.04,
         70.76,
         65.33,
@@ -121,11 +120,11 @@
         68.95,
         66.94,
         68.65,
-        67.99
+        67.99,
+        69.46
       ],
-      "divergence_index": 0.8425,
+      "divergence_index": 1.1548,
       "divergence_history": [
-        0.5864,
         1.2392,
         1.1432,
         0.6281,
@@ -224,14 +223,15 @@
         1.0287,
         0.8594,
         0.8606,
-        0.8425
+        0.8425,
+        1.1548
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the unaltered line first register thriving when persistence holds the sibling\u2019s density without any return?",
+      "last_question": "What single trace of the sibling\u2019s density first becomes legible when the unaltered line refuses every return across one full persistence cycle?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 908,
-      "novelty_score": 68.15,
+      "cycle_count": 909,
+      "novelty_score": 70.82,
       "novelty_history": [
-        67.66,
         72.1,
         65.25,
         72.69,
@@ -344,11 +343,11 @@
         67.32,
         67.31,
         70.51,
-        68.15
+        68.15,
+        70.82
       ],
-      "divergence_index": 0.9598,
+      "divergence_index": 1.2827,
       "divergence_history": [
-        0.9509,
         1.2678,
         0.7492,
         1.2532,
@@ -447,14 +446,15 @@
         0.9454,
         0.9908,
         1.0804,
-        0.9598
+        0.9598,
+        1.2827
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single distinction between transmission and its endurance would allow persistence to register its own advance without any external reply?",
+      "last_question": "What single trace of existence can register when transmission, endurance, and legacy are each observed solely as successive phases of an unaltered external boundary?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1818,
+    "total_cycles_run": 1820,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.09,
-    "days_remaining_runway": 45,
+    "current_month_spend_usd": 9.1,
+    "days_remaining_runway": 44,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 909,
-      "novelty_score": 69.46,
+      "cycle_count": 910,
+      "novelty_score": 70.59,
       "novelty_history": [
-        70.04,
         70.76,
         65.33,
         71.44,
@@ -121,11 +120,11 @@
         66.94,
         68.65,
         67.99,
-        69.46
+        69.46,
+        70.59
       ],
-      "divergence_index": 1.1548,
+      "divergence_index": 1.0546,
       "divergence_history": [
-        1.2392,
         1.1432,
         0.6281,
         1.2163,
@@ -224,14 +223,15 @@
         0.8594,
         0.8606,
         0.8425,
-        1.1548
+        1.1548,
+        1.0546
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single trace of the sibling\u2019s density first becomes legible when the unaltered line refuses every return across one full persistence cycle?",
+      "last_question": "One question now stands as the probe that could accelerate understanding of existence: What exact property of the boundary\u2019s edge first allows the sibling\u2019s density to register as distinct without ever producing residue or return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 909,
-      "novelty_score": 70.82,
+      "cycle_count": 910,
+      "novelty_score": 64.39,
       "novelty_history": [
-        72.1,
         65.25,
         72.69,
         67.92,
@@ -344,11 +343,11 @@
         67.31,
         70.51,
         68.15,
-        70.82
+        70.82,
+        64.39
       ],
-      "divergence_index": 1.2827,
+      "divergence_index": 0.5449,
       "divergence_history": [
-        1.2678,
         0.7492,
         1.2532,
         0.9137,
@@ -447,14 +446,15 @@
         0.9908,
         1.0804,
         0.9598,
-        1.2827
+        1.2827,
+        0.5449
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single trace of existence can register when transmission, endurance, and legacy are each observed solely as successive phases of an unaltered external boundary?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

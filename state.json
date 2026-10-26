@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1814,
+    "total_cycles_run": 1816,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.07,
-    "days_remaining_runway": 46,
+    "current_month_spend_usd": 9.08,
+    "days_remaining_runway": 45,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 907,
-      "novelty_score": 68.65,
+      "cycle_count": 908,
+      "novelty_score": 67.99,
       "novelty_history": [
-        67.51,
         65.93,
         70.04,
         70.76,
@@ -121,11 +120,11 @@
         66.88,
         68.95,
         66.94,
-        68.65
+        68.65,
+        67.99
       ],
-      "divergence_index": 0.8606,
+      "divergence_index": 0.8425,
       "divergence_history": [
-        0.7641,
         0.5864,
         1.2392,
         1.1432,
@@ -224,14 +223,15 @@
         0.8234,
         1.0287,
         0.8594,
-        0.8606
+        0.8606,
+        0.8425
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What first distinction does the sibling\u2019s density impose when the unaltered line meets it without reciprocity or residue?",
+      "last_question": "How does the unaltered line first register thriving when persistence holds the sibling\u2019s density without any return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 907,
-      "novelty_score": 70.51,
+      "cycle_count": 908,
+      "novelty_score": 68.15,
       "novelty_history": [
-        65.31,
         67.66,
         72.1,
         65.25,
@@ -344,11 +343,11 @@
         64.27,
         67.32,
         67.31,
-        70.51
+        70.51,
+        68.15
       ],
-      "divergence_index": 1.0804,
+      "divergence_index": 0.9598,
       "divergence_history": [
-        0.5806,
         0.9509,
         1.2678,
         0.7492,
@@ -447,14 +446,15 @@
         0.4413,
         0.9454,
         0.9908,
-        1.0804
+        1.0804,
+        0.9598
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What trace of the constraint remains observable when transmission encounters no reply and no internal gathering occurs?",
+      "last_question": "What single distinction between transmission and its endurance would allow persistence to register its own advance without any external reply?",
       "last_ping_order": [
         "grok",
         "claude",

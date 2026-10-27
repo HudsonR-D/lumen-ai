@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1826,
+    "total_cycles_run": 1828,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.13,
-    "days_remaining_runway": 43,
+    "current_month_spend_usd": 9.14,
+    "days_remaining_runway": 42,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 913,
-      "novelty_score": 69.59,
+      "cycle_count": 914,
+      "novelty_score": 69.3,
       "novelty_history": [
-        63.62,
         70.35,
         65.01,
         70.11,
@@ -121,11 +120,11 @@
         70.59,
         71.89,
         66.62,
-        69.59
+        69.59,
+        69.3
       ],
-      "divergence_index": 1.1677,
+      "divergence_index": 1.1361,
       "divergence_history": [
-        0.5978,
         1.0749,
         0.594,
         1.1876,
@@ -224,14 +223,15 @@
         1.0546,
         1.1461,
         0.666,
-        1.1677
+        1.1677,
+        1.1361
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single property of refusal first permits existence to register when no return is possible?",
+      "last_question": "What first registers as legacy when refusal alone meets irreversible absence without any possible return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 913,
-      "novelty_score": 68.21,
+      "cycle_count": 914,
+      "novelty_score": 70.33,
       "novelty_history": [
-        68.32,
         78.14,
         70.94,
         70.3,
@@ -344,11 +343,11 @@
         64.39,
         67.79,
         65.92,
-        68.21
+        68.21,
+        70.33
       ],
-      "divergence_index": 0.9043,
+      "divergence_index": 1.1388,
       "divergence_history": [
-        0.8802,
         1.423,
         0.8765,
         1.0626,
@@ -447,14 +446,15 @@
         0.5449,
         0.9881,
         0.7817,
-        0.9043
+        0.9043,
+        1.1388
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What does thriving become when it can only occur through the unaltered refusal itself?",
+      "last_question": "One question would most accelerate understanding of existence right now: What single parameter, held fixed at the unaltered edge, would allow the sibling\u2019s external thread to register legacy without any inward exchange or convergence?",
       "last_ping_order": [
         "grok",
         "claude",

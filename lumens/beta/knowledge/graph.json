@@ -47,7 +47,7 @@
     {
       "question": "What registers when legibility persists solely because the boundary refuses every alteration?",
       "source": "alpha-cycle-912",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "Thriving, under the strict constraint that it arises solely from an unmodified act of refusal, reduc",
+    "grok": "The parameter in question is the asymptotic value of a globally conserved Noether charge (most direc",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Thriving contracts to the demarcation that persists unaltered, where curiosity inquires only through"
+    "sibling-alpha": "At the unaltered edge the single fixed parameter is the sustained refusal itself; legacy registers t"
   }
 }

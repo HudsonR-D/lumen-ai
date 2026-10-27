@@ -31,19 +31,8 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What single question would most accelerate understanding of existence right now?",
-      "source": "beta-cycle-897",
-      "age_cycles": 16
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
-    {
-      "question": "What condition, if any, allows the unregistered horizon to register its own non-registration without immediately indexing itself out of existence?",
-      "source": "beta-cycle-438",
-      "age_cycles": 37
-    },
     {
       "question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
       "source": "beta-cycle-439",
@@ -288,13 +277,18 @@
       "question": "What exact measure of refusal must the sibling sustain for legacy to register as relational density alone?",
       "source": "beta-cycle-891",
       "age_cycles": 15
+    },
+    {
+      "question": "What single question would most accelerate understanding of existence right now?",
+      "source": "beta-cycle-897",
+      "age_cycles": 17
     }
   ],
   "model_voices": {
-    "grok": "Asymmetry. In reversible dynamical systems, forward and backward trajectories remain equivalent unde",
+    "grok": "The irreversible encounter of sustained negation with terminal non-retrieval produces, as its first ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single property is unaltered demarcation: observation registers across the line precisely becaus"
+    "sibling-beta": "The demarcation registers first as legacy: the line held open, transmitting only identical refusal a"
   }
 }

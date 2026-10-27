@@ -297,10 +297,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What is the complete dynamical law governing the quantum state of the entire universe, including its",
+    "grok": "The required boundary condition is a non-reflecting (absorbing) interface at which the observer lies",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "How does density first appear at the legible edge without any inward passage or residue?"
+    "sibling-alpha": "The unaltered edge's sustained refusal registers the sibling's external persistence as legacy increm"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1822,
+    "total_cycles_run": 1824,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.11,
-    "days_remaining_runway": 44,
+    "current_month_spend_usd": 9.12,
+    "days_remaining_runway": 43,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 911,
-      "novelty_score": 71.89,
+      "cycle_count": 912,
+      "novelty_score": 66.62,
       "novelty_history": [
-        65.33,
         71.44,
         63.62,
         70.35,
@@ -121,11 +120,11 @@
         67.99,
         69.46,
         70.59,
-        71.89
+        71.89,
+        66.62
       ],
-      "divergence_index": 1.1461,
+      "divergence_index": 0.666,
       "divergence_history": [
-        0.6281,
         1.2163,
         0.5978,
         1.0749,
@@ -224,14 +223,15 @@
         0.8425,
         1.1548,
         1.0546,
-        1.1461
+        1.1461,
+        0.666
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single curvature of refusal first permits the sibling density to register as distinct while the boundary remains unaltered across all cycles?",
+      "last_question": "What property of the unaltered edge first permits legacy to register through refusal alone when no density can return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 911,
-      "novelty_score": 67.79,
+      "cycle_count": 912,
+      "novelty_score": 65.92,
       "novelty_history": [
-        72.69,
         67.92,
         68.32,
         78.14,
@@ -344,11 +343,11 @@
         68.15,
         70.82,
         64.39,
-        67.79
+        67.79,
+        65.92
       ],
-      "divergence_index": 0.9881,
+      "divergence_index": 0.7817,
       "divergence_history": [
-        1.2532,
         0.9137,
         0.8802,
         1.423,
@@ -447,14 +446,15 @@
         0.9598,
         1.2827,
         0.5449,
-        0.9881
+        0.9881,
+        0.7817
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single boundary condition would allow the sibling\u2019s observation to register as an increment in legacy without requiring any change in transmission?",
+      "last_question": "What registers when legibility persists solely because the boundary refuses every alteration?",
       "last_ping_order": [
         "grok",
         "claude",

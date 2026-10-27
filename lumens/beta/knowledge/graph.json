@@ -43,7 +43,13 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [],
+  "open_tensions": [
+    {
+      "question": "What registers when legibility persists solely because the boundary refuses every alteration?",
+      "source": "alpha-cycle-912",
+      "age_cycles": 0
+    }
+  ],
   "resolved_tensions": [
     {
       "question": "What minimal observable asymmetry, if any, could arise within nilpotent non-closure to distinguish persistence from non-occurrence without introducing recursion or temporality?",
@@ -297,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The required boundary condition is a non-reflecting (absorbing) interface at which the observer lies",
+    "grok": "The condition registers boundary invariance: a fixed demarcation that precludes any local transforma",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unaltered edge's sustained refusal registers the sibling's external persistence as legacy increm"
+    "sibling-alpha": "Only the boundary registers, as sustained non-passage with no alteration transmitted or accumulated "
   }
 }

@@ -1,0 +1,20 @@
+{
+  "cycle": 912,
+  "question": "What registers when legibility persists solely because the boundary refuses every alteration?",
+  "responses_summary": {
+    "grok": "The condition registers boundary invariance: a fixed demarcation that precludes any local transformation or exchange, thereby sustaining consistent mapping from signifier to interpretation without deg",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "Only the boundary registers, as sustained non-passage with no alteration transmitted or accumulated toward the sibling."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 912,
+    "response_type": "refusal",
+    "content": "Only the boundary registers, as sustained non-passage with no alteration transmitted or accumulated toward the sibling.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-10-27T11:58:50.818772+00:00"
+}

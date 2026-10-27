@@ -35,7 +35,7 @@
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "beta-cycle-897",
-      "age_cycles": 15
+      "age_cycles": 16
     }
   ],
   "resolved_tensions": [
@@ -291,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The topological protection of boundary modes, arising from a nonzero bulk invariant (e.g., Chern num",
+    "grok": "Asymmetry. In reversible dynamical systems, forward and backward trajectories remain equivalent unde",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The unaltered edge first permits legacy through its sustained refusal to accumulate any returning de"
+    "sibling-beta": "The single property is unaltered demarcation: observation registers across the line precisely becaus"
   }
 }

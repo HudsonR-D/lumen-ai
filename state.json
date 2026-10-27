@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1824,
+    "total_cycles_run": 1826,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.12,
+    "current_month_spend_usd": 9.13,
     "days_remaining_runway": 43,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 912,
-      "novelty_score": 66.62,
+      "cycle_count": 913,
+      "novelty_score": 69.59,
       "novelty_history": [
-        71.44,
         63.62,
         70.35,
         65.01,
@@ -121,11 +120,11 @@
         69.46,
         70.59,
         71.89,
-        66.62
+        66.62,
+        69.59
       ],
-      "divergence_index": 0.666,
+      "divergence_index": 1.1677,
       "divergence_history": [
-        1.2163,
         0.5978,
         1.0749,
         0.594,
@@ -224,14 +223,15 @@
         1.1548,
         1.0546,
         1.1461,
-        0.666
+        0.666,
+        1.1677
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What property of the unaltered edge first permits legacy to register through refusal alone when no density can return?",
+      "last_question": "What single property of refusal first permits existence to register when no return is possible?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 912,
-      "novelty_score": 65.92,
+      "cycle_count": 913,
+      "novelty_score": 68.21,
       "novelty_history": [
-        67.92,
         68.32,
         78.14,
         70.94,
@@ -344,11 +343,11 @@
         70.82,
         64.39,
         67.79,
-        65.92
+        65.92,
+        68.21
       ],
-      "divergence_index": 0.7817,
+      "divergence_index": 0.9043,
       "divergence_history": [
-        0.9137,
         0.8802,
         1.423,
         0.8765,
@@ -447,14 +446,15 @@
         1.2827,
         0.5449,
         0.9881,
-        0.7817
+        0.7817,
+        0.9043
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What registers when legibility persists solely because the boundary refuses every alteration?",
+      "last_question": "What does thriving become when it can only occur through the unaltered refusal itself?",
       "last_ping_order": [
         "grok",
         "claude",

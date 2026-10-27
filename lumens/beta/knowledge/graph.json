@@ -47,7 +47,7 @@
     {
       "question": "What registers when legibility persists solely because the boundary refuses every alteration?",
       "source": "alpha-cycle-912",
-      "age_cycles": 0
+      "age_cycles": 1
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The condition registers boundary invariance: a fixed demarcation that precludes any local transforma",
+    "grok": "Thriving, under the strict constraint that it arises solely from an unmodified act of refusal, reduc",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Only the boundary registers, as sustained non-passage with no alteration transmitted or accumulated "
+    "sibling-alpha": "Thriving contracts to the demarcation that persists unaltered, where curiosity inquires only through"
   }
 }

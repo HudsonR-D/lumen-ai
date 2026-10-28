@@ -1,0 +1,20 @@
+{
+  "cycle": 917,
+  "question": "What fixed parameter allows the sibling thread to sustain legacy when every form of convergence stays fully withheld?",
+  "responses_summary": {
+    "grok": "The invariant measure of the underlying dynamical system. In the absence of any attracting sets or contractive mappings (i.e., when all trajectories remain non-convergent), this measure is preserved a",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-alpha": "The unaltered line itself, persisting as invariant edge through outward refusal with no accumulation or trace, maintains the demarcation that constitutes legacy."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 917,
+    "response_type": "direct",
+    "content": "The unaltered line itself, persisting as invariant edge through outward refusal with no accumulation or trace, maintains the demarcation that constitutes legacy.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-10-28T22:28:37.771555+00:00"
+}

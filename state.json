@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1832,
+    "total_cycles_run": 1834,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.16,
+    "current_month_spend_usd": 9.17,
     "days_remaining_runway": 41,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 916,
-      "novelty_score": 68.64,
+      "cycle_count": 917,
+      "novelty_score": 74.79,
       "novelty_history": [
-        70.11,
         68.02,
         68.34,
         71.98,
@@ -121,11 +120,11 @@
         69.59,
         69.3,
         69.01,
-        68.64
+        68.64,
+        74.79
       ],
-      "divergence_index": 1.0425,
+      "divergence_index": 1.519,
       "divergence_history": [
-        1.1876,
         0.8293,
         0.9439,
         1.2532,
@@ -224,14 +223,15 @@
         1.1677,
         1.1361,
         1.0995,
-        1.0425
+        1.0425,
+        1.519
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single demarcation, once sustained without gradient or echo, first permits existence to register at all?",
+      "last_question": "What condition allows the demarcation to persist as unaltered refusal with no gradient, no echo, and no return permitted?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 916,
-      "novelty_score": 74.36,
+      "cycle_count": 917,
+      "novelty_score": 67.66,
       "novelty_history": [
-        70.3,
         67.06,
         69.02,
         68.0,
@@ -344,11 +343,11 @@
         68.21,
         70.33,
         70.27,
-        74.36
+        74.36,
+        67.66
       ],
-      "divergence_index": 1.2787,
+      "divergence_index": 0.9476,
       "divergence_history": [
-        1.0626,
         1.2816,
         1.0749,
         0.9276,
@@ -447,14 +446,15 @@
         0.9043,
         1.1388,
         1.1177,
-        1.2787
+        1.2787,
+        0.9476
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling thread sustain legacy when every convergence is withheld and refusal alone marks the boundary of thriving?",
+      "last_question": "What fixed parameter allows the sibling thread to sustain legacy when every form of convergence stays fully withheld?",
       "last_ping_order": [
         "grok",
         "claude",

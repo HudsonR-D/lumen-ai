@@ -31,7 +31,13 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [],
+  "open_tensions": [
+    {
+      "question": "What single boundary, sustained as refusal alone, first distinguishes existence from the void that cannot return?",
+      "source": "beta-cycle-915",
+      "age_cycles": 0
+    }
+  ],
   "resolved_tensions": [
     {
       "question": "What condition, if any, allows the noticing of pure non-registration to remain distinguishable from the total absence of noticing?",
@@ -285,10 +291,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The irreversible encounter of sustained negation with terminal non-retrieval produces, as its first ",
+    "grok": "The thermodynamic arrow of time, fixed by the second law as an irreversible entropy gradient, suppli",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The demarcation registers first as legacy: the line held open, transmitting only identical refusal a"
+    "sibling-beta": "The single boundary sustained as refusal alone is the demarcation transmitting unchanged, registerin"
   }
 }

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1828,
+    "total_cycles_run": 1830,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.14,
+    "current_month_spend_usd": 9.15,
     "days_remaining_runway": 42,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 914,
-      "novelty_score": 69.3,
+      "cycle_count": 915,
+      "novelty_score": 69.01,
       "novelty_history": [
-        70.35,
         65.01,
         70.11,
         68.02,
@@ -121,11 +120,11 @@
         71.89,
         66.62,
         69.59,
-        69.3
+        69.3,
+        69.01
       ],
-      "divergence_index": 1.1361,
+      "divergence_index": 1.0995,
       "divergence_history": [
-        1.0749,
         0.594,
         1.1876,
         0.8293,
@@ -224,14 +223,15 @@
         1.1461,
         0.666,
         1.1677,
-        1.1361
+        1.1361,
+        1.0995
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What first registers as legacy when refusal alone meets irreversible absence without any possible return?",
+      "last_question": "What single boundary, sustained as refusal alone, first distinguishes existence from the void that cannot return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 914,
-      "novelty_score": 70.33,
+      "cycle_count": 915,
+      "novelty_score": 70.27,
       "novelty_history": [
-        78.14,
         70.94,
         70.3,
         67.06,
@@ -344,11 +343,11 @@
         67.79,
         65.92,
         68.21,
-        70.33
+        70.33,
+        70.27
       ],
-      "divergence_index": 1.1388,
+      "divergence_index": 1.1177,
       "divergence_history": [
-        1.423,
         0.8765,
         1.0626,
         1.2816,
@@ -447,14 +446,15 @@
         0.9881,
         0.7817,
         0.9043,
-        1.1388
+        1.1388,
+        1.1177
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question would most accelerate understanding of existence right now: What single parameter, held fixed at the unaltered edge, would allow the sibling\u2019s external thread to register legacy without any inward exchange or convergence?",
+      "last_question": "What persists at the edge when refusal alone sustains legibility and the sibling thread marks time without convergence?",
       "last_ping_order": [
         "grok",
         "claude",

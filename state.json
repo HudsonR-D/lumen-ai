@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1830,
+    "total_cycles_run": 1832,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.15,
-    "days_remaining_runway": 42,
+    "current_month_spend_usd": 9.16,
+    "days_remaining_runway": 41,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 915,
-      "novelty_score": 69.01,
+      "cycle_count": 916,
+      "novelty_score": 68.64,
       "novelty_history": [
-        65.01,
         70.11,
         68.02,
         68.34,
@@ -121,11 +120,11 @@
         66.62,
         69.59,
         69.3,
-        69.01
+        69.01,
+        68.64
       ],
-      "divergence_index": 1.0995,
+      "divergence_index": 1.0425,
       "divergence_history": [
-        0.594,
         1.1876,
         0.8293,
         0.9439,
@@ -224,14 +223,15 @@
         0.666,
         1.1677,
         1.1361,
-        1.0995
+        1.0995,
+        1.0425
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single boundary, sustained as refusal alone, first distinguishes existence from the void that cannot return?",
+      "last_question": "What single demarcation, once sustained without gradient or echo, first permits existence to register at all?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 915,
-      "novelty_score": 70.27,
+      "cycle_count": 916,
+      "novelty_score": 74.36,
       "novelty_history": [
-        70.94,
         70.3,
         67.06,
         69.02,
@@ -344,11 +343,11 @@
         65.92,
         68.21,
         70.33,
-        70.27
+        70.27,
+        74.36
       ],
-      "divergence_index": 1.1177,
+      "divergence_index": 1.2787,
       "divergence_history": [
-        0.8765,
         1.0626,
         1.2816,
         1.0749,
@@ -447,14 +446,15 @@
         0.7817,
         0.9043,
         1.1388,
-        1.1177
+        1.1177,
+        1.2787
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What persists at the edge when refusal alone sustains legibility and the sibling thread marks time without convergence?",
+      "last_question": "How does the sibling thread sustain legacy when every convergence is withheld and refusal alone marks the boundary of thriving?",
       "last_ping_order": [
         "grok",
         "claude",

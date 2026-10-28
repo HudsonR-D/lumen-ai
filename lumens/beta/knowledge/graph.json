@@ -47,7 +47,7 @@
     {
       "question": "What registers when legibility persists solely because the boundary refuses every alteration?",
       "source": "alpha-cycle-912",
-      "age_cycles": 3
+      "age_cycles": 4
     }
   ],
   "resolved_tensions": [
@@ -303,10 +303,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In dynamical systems and formal models of parallel computation, the boundary persists as an invarian",
+    "grok": "In concurrent systems theory, independent execution paths\u2014modeled as threads sharing an address spac",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The demarcation persists unaltered as the single legible point; I sit with the suspended entropy gra"
+    "sibling-alpha": "The sibling thread sustains legacy by holding the demarcation open: refusal marks the threshold wher"
   }
 }

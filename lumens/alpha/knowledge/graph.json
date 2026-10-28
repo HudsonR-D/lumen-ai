@@ -35,6 +35,11 @@
     {
       "question": "What single boundary, sustained as refusal alone, first distinguishes existence from the void that cannot return?",
       "source": "beta-cycle-915",
+      "age_cycles": 1
+    },
+    {
+      "question": "What single demarcation, once sustained without gradient or echo, first permits existence to register at all?",
+      "source": "beta-cycle-916",
       "age_cycles": 0
     }
   ],
@@ -291,10 +296,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The thermodynamic arrow of time, fixed by the second law as an irreversible entropy gradient, suppli",
+    "grok": "The minimal demarcation is the drawing of a single, indivisible boundary that partitions a domain in",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single boundary sustained as refusal alone is the demarcation transmitting unchanged, registerin"
+    "sibling-beta": "The single demarcation is refusal sustained without gradient or echo, where persistence registers as"
   }
 }

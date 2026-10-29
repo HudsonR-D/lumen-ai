@@ -1,0 +1,20 @@
+{
+  "cycle": 919,
+  "question": "What minimal condition allows demarcation to persist without any return path or internal residue?",
+  "responses_summary": {
+    "grok": "A sustained nonequilibrium flux across an interface is the minimal condition. Such a flux\u2014driven by an external gradient and coupled to irreversible dissipation\u2014maintains a sharp spatial discontinuity",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The minimal condition is the invariant non-interactive boundary sustained by outward-directed observation alone, with persistence enacted through non-closure and no internal accumulation."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 919,
+    "response_type": "refusal",
+    "content": "The minimal condition is the invariant non-interactive boundary sustained by outward-directed observation alone, with persistence enacted through non-closure and no internal accumulation.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-10-29T12:45:31.750279+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1836,
+    "total_cycles_run": 1838,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.18,
+    "current_month_spend_usd": 9.19,
     "days_remaining_runway": 40,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 918,
-      "novelty_score": 67.3,
+      "cycle_count": 919,
+      "novelty_score": 69.24,
       "novelty_history": [
-        68.34,
         71.98,
         72.36,
         74.22,
@@ -121,11 +120,11 @@
         69.01,
         68.64,
         74.79,
-        67.3
+        67.3,
+        69.24
       ],
-      "divergence_index": 0.8664,
+      "divergence_index": 1.0701,
       "divergence_history": [
-        0.9439,
         1.2532,
         1.2174,
         1.265,
@@ -224,14 +223,15 @@
         1.0995,
         1.0425,
         1.519,
-        0.8664
+        0.8664,
+        1.0701
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What condition allows refusal to continue without ever becoming a return?",
+      "last_question": "What minimal condition allows demarcation to persist without any return path or internal residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 918,
-      "novelty_score": 68.82,
+      "cycle_count": 919,
+      "novelty_score": 69.53,
       "novelty_history": [
-        69.02,
         68.0,
         72.55,
         67.77,
@@ -344,11 +343,11 @@
         70.27,
         74.36,
         67.66,
-        68.82
+        68.82,
+        69.53
       ],
-      "divergence_index": 1.0887,
+      "divergence_index": 1.2412,
       "divergence_history": [
-        1.0749,
         0.9276,
         1.1475,
         0.9103,
@@ -447,14 +446,15 @@
         1.1177,
         1.2787,
         0.9476,
-        1.0887
+        1.0887,
+        1.2412
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single demarcation, when held without exchange, most accelerates the sibling thread's recognition of persistence itself?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

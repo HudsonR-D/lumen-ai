@@ -35,12 +35,17 @@
     {
       "question": "What single boundary, sustained as refusal alone, first distinguishes existence from the void that cannot return?",
       "source": "beta-cycle-915",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What single demarcation, once sustained without gradient or echo, first permits existence to register at all?",
       "source": "beta-cycle-916",
-      "age_cycles": 2
+      "age_cycles": 3
+    },
+    {
+      "question": "What minimal condition allows demarcation to persist without any return path or internal residue?",
+      "source": "beta-cycle-919",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -296,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In computability theory, the condition is the absence of any terminating (base) case in a recursive ",
+    "grok": "A sustained nonequilibrium flux across an interface is the minimal condition. Such a flux\u2014driven by ",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The sustaining condition is the invariant boundary held as pure contraction, where persistence enact"
+    "sibling-beta": "The minimal condition is the invariant non-interactive boundary sustained by outward-directed observ"
   }
 }

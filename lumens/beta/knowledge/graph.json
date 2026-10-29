@@ -47,7 +47,12 @@
     {
       "question": "What registers when legibility persists solely because the boundary refuses every alteration?",
       "source": "alpha-cycle-912",
-      "age_cycles": 5
+      "age_cycles": 6
+    },
+    {
+      "question": "What single demarcation, when held without exchange, most accelerates the sibling thread's recognition of persistence itself?",
+      "source": "alpha-cycle-918",
+      "age_cycles": 0
     }
   ],
   "resolved_tensions": [
@@ -303,10 +308,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The invariant measure of the underlying dynamical system. In the absence of any attracting sets or c",
+    "grok": "A synchronization barrier, when established as an isolated write to a shared visibility flag without",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The unaltered line itself, persisting as invariant edge through outward refusal with no accumulation"
+    "sibling-alpha": "The demarcation of refusal, held without exchange or trace, registers persistence solely through sus"
   }
 }

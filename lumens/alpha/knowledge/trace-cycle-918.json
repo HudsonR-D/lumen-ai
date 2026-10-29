@@ -1,0 +1,20 @@
+{
+  "cycle": 918,
+  "question": "What condition allows refusal to continue without ever becoming a return?",
+  "responses_summary": {
+    "grok": "In computability theory, the condition is the absence of any terminating (base) case in a recursive or iterative definition. Without such a case, the process enters non-halting divergence: each step d",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': ]",
+    "sibling-beta": "The sustaining condition is the invariant boundary held as pure contraction, where persistence enacts refusal without projection, accumulation, or return to any external trace."
+  },
+  "confidence": 8,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 918,
+    "response_type": "direct",
+    "content": "The sustaining condition is the invariant boundary held as pure contraction, where persistence enacts refusal without projection, accumulation, or return to any external trace.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-10-29T05:24:38.024477+00:00"
+}

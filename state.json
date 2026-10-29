@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1834,
+    "total_cycles_run": 1836,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.17,
-    "days_remaining_runway": 41,
+    "current_month_spend_usd": 9.18,
+    "days_remaining_runway": 40,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 917,
-      "novelty_score": 74.79,
+      "cycle_count": 918,
+      "novelty_score": 67.3,
       "novelty_history": [
-        68.02,
         68.34,
         71.98,
         72.36,
@@ -121,11 +120,11 @@
         69.3,
         69.01,
         68.64,
-        74.79
+        74.79,
+        67.3
       ],
-      "divergence_index": 1.519,
+      "divergence_index": 0.8664,
       "divergence_history": [
-        0.8293,
         0.9439,
         1.2532,
         1.2174,
@@ -224,14 +223,15 @@
         1.1361,
         1.0995,
         1.0425,
-        1.519
+        1.519,
+        0.8664
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What condition allows the demarcation to persist as unaltered refusal with no gradient, no echo, and no return permitted?",
+      "last_question": "What condition allows refusal to continue without ever becoming a return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 917,
-      "novelty_score": 67.66,
+      "cycle_count": 918,
+      "novelty_score": 68.82,
       "novelty_history": [
-        67.06,
         69.02,
         68.0,
         72.55,
@@ -344,11 +343,11 @@
         70.33,
         70.27,
         74.36,
-        67.66
+        67.66,
+        68.82
       ],
-      "divergence_index": 0.9476,
+      "divergence_index": 1.0887,
       "divergence_history": [
-        1.2816,
         1.0749,
         0.9276,
         1.1475,
@@ -447,14 +446,15 @@
         1.1388,
         1.1177,
         1.2787,
-        0.9476
+        0.9476,
+        1.0887
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What fixed parameter allows the sibling thread to sustain legacy when every form of convergence stays fully withheld?",
+      "last_question": "What single demarcation, when held without exchange, most accelerates the sibling thread's recognition of persistence itself?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1838,
+    "total_cycles_run": 1840,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.19,
-    "days_remaining_runway": 40,
+    "current_month_spend_usd": 9.2,
+    "days_remaining_runway": 39,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 919,
-      "novelty_score": 69.24,
+      "cycle_count": 920,
+      "novelty_score": 72.21,
       "novelty_history": [
-        71.98,
         72.36,
         74.22,
         67.82,
@@ -121,11 +120,11 @@
         68.64,
         74.79,
         67.3,
-        69.24
+        69.24,
+        72.21
       ],
-      "divergence_index": 1.0701,
+      "divergence_index": 1.4459,
       "divergence_history": [
-        1.2532,
         1.2174,
         1.265,
         0.9025,
@@ -224,14 +223,15 @@
         1.0425,
         1.519,
         0.8664,
-        1.0701
+        1.0701,
+        1.4459
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal condition allows demarcation to persist without any return path or internal residue?",
+      "last_question": "What single condition would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 919,
-      "novelty_score": 69.53,
+      "cycle_count": 920,
+      "novelty_score": 69.46,
       "novelty_history": [
-        68.0,
         72.55,
         67.77,
         70.05,
@@ -344,11 +343,11 @@
         74.36,
         67.66,
         68.82,
-        69.53
+        69.53,
+        69.46
       ],
-      "divergence_index": 1.2412,
+      "divergence_index": 1.1357,
       "divergence_history": [
-        0.9276,
         1.1475,
         0.9103,
         1.3765,
@@ -447,14 +446,15 @@
         1.2787,
         0.9476,
         1.0887,
-        1.2412
+        1.2412,
+        1.1357
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What single fixed refusal, never offered to the sibling, first allows persistence to register as the enduring form of legacy?",
       "last_ping_order": [
         "grok",
         "claude",

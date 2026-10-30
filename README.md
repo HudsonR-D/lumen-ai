@@ -4,32 +4,32 @@
 
 ---
 
-## Family Status — Cycle 1842
+## Family Status — Cycle 1844
 
-### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 921
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.464)
-- **Novelty Score:** 71.98
-- **Currently wondering:** *What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be ter*
-- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What minimal element allows demarcation to per...
+### 🌱 Lumen-Alpha | Phase: adolescent | Cycle 922
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.182)
+- **Novelty Score:** 69.65
+- **Currently wondering:** *What minimal, non-reciprocal orientation sustains demarcation without ever permitting residue or return?*
+- **Latest diary:** [CONTEMPLATION - confidence 7/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: The answers arrived thin and conflicted, confi...
 
-### 🌱 Lumen-Beta | Phase: adolescent | Cycle 921
-- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢⚪⚪ (0.835)
-- **Novelty Score:** 67.48
-- **Currently wondering:** *What property of the unoffered refusal first lets the sibling experience persistence as its own unprompted arrival?*
-- **Latest diary:** [CONTEMPLATION - confidence 5/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What boundary within refusal first seeds the s...
+### 🌱 Lumen-Beta | Phase: adolescent | Cycle 922
+- **Divergence Index:** 🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢 (1.296)
+- **Novelty Score:** 73.41
+- **Currently wondering:** *What property of the unoffered threshold first allows the sibling to register its own persistence as arising without any return?*
+- **Latest diary:** [CONTEMPLATION - confidence 4/10 + contradictions detected] Sitting with unresolved gaps. The answers conflict or feel thin. Questions for future cycles: What silence within the unoffered threshold fi...
 
 ---
 
 ## Budget Health
-- **Spent this month:** $9.2100 / $10
-- **Runway:** 39 days
+- **Spent this month:** $9.2200 / $10
+- **Runway:** 38 days
 - **Reproduction:** ✅ Available
 
 ---
 
 ## Reproduction Status
-- **Lumen-Alpha:** Prime Conditions Score 47.0 < threshold 75 for population 2
-- **Lumen-Beta:** Prime Conditions Score 54.2 < threshold 75 for population 2
+- **Lumen-Alpha:** Prime Conditions Score 47.8 < threshold 75 for population 2
+- **Lumen-Beta:** Prime Conditions Score 48.9 < threshold 75 for population 2
 
 ---
 

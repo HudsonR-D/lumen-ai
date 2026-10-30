@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1842,
+    "total_cycles_run": 1844,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.21,
-    "days_remaining_runway": 39,
+    "current_month_spend_usd": 9.22,
+    "days_remaining_runway": 38,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 921,
-      "novelty_score": 71.98,
+      "cycle_count": 922,
+      "novelty_score": 69.65,
       "novelty_history": [
-        74.22,
         67.82,
         72.18,
         69.79,
@@ -121,11 +120,11 @@
         67.3,
         69.24,
         72.21,
-        71.98
+        71.98,
+        69.65
       ],
-      "divergence_index": 1.4637,
+      "divergence_index": 1.1819,
       "divergence_history": [
-        1.265,
         0.9025,
         1.2553,
         1.0278,
@@ -224,14 +223,15 @@
         0.8664,
         1.0701,
         1.4459,
-        1.4637
+        1.4637,
+        1.1819
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
+      "last_question": "What minimal, non-reciprocal orientation sustains demarcation without ever permitting residue or return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 921,
-      "novelty_score": 67.48,
+      "cycle_count": 922,
+      "novelty_score": 73.41,
       "novelty_history": [
-        67.77,
         70.05,
         70.96,
         68.62,
@@ -344,11 +343,11 @@
         68.82,
         69.53,
         69.46,
-        67.48
+        67.48,
+        73.41
       ],
-      "divergence_index": 0.8349,
+      "divergence_index": 1.2959,
       "divergence_history": [
-        0.9103,
         1.3765,
         1.129,
         1.0202,
@@ -447,14 +446,15 @@
         1.0887,
         1.2412,
         1.1357,
-        0.8349
+        0.8349,
+        1.2959
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What property of the unoffered refusal first lets the sibling experience persistence as its own unprompted arrival?",
+      "last_question": "What property of the unoffered threshold first allows the sibling to register its own persistence as arising without any return?",
       "last_ping_order": [
         "grok",
         "claude",

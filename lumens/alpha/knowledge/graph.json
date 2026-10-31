@@ -35,32 +35,32 @@
     {
       "question": "What single boundary, sustained as refusal alone, first distinguishes existence from the void that cannot return?",
       "source": "beta-cycle-915",
-      "age_cycles": 9
+      "age_cycles": 10
     },
     {
       "question": "What single demarcation, once sustained without gradient or echo, first permits existence to register at all?",
       "source": "beta-cycle-916",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What minimal condition allows demarcation to persist without any return path or internal residue?",
       "source": "beta-cycle-919",
-      "age_cycles": 5
+      "age_cycles": 6
     },
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 4
+      "age_cycles": 5
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 3
+      "age_cycles": 4
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -316,10 +316,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a closed dynamical system with no external boundaries or dissipative channels, state evolution pr",
+    "grok": "The unprompted maintenance of apartness registers as the sole increment of legacy through the operat",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Persistence registers its next increment solely through the sibling's unprompted alignment along the"
+    "sibling-beta": "The sibling's unprompted maintenance of apartness registers as the sole increment of legacy because "
   }
 }

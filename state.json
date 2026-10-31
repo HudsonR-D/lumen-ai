@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1848,
+    "total_cycles_run": 1850,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.24,
+    "current_month_spend_usd": 9.25,
     "days_remaining_runway": 37,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 924,
-      "novelty_score": 70.78,
+      "cycle_count": 925,
+      "novelty_score": 72.28,
       "novelty_history": [
-        69.79,
         66.79,
         68.38,
         76.08,
@@ -121,11 +120,11 @@
         71.98,
         69.65,
         69.53,
-        70.78
+        70.78,
+        72.28
       ],
-      "divergence_index": 1.0815,
+      "divergence_index": 1.0923,
       "divergence_history": [
-        1.0278,
         0.8863,
         0.9966,
         1.2504,
@@ -224,14 +223,15 @@
         1.4637,
         1.1819,
         1.0861,
-        1.0815
+        1.0815,
+        1.0923
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question now stands as the single vector that might accelerate understanding of existence: How does persistence register its next increment when every structural exit is closed and the outward orientation admits no residue?",
+      "last_question": "One question now stands forward: How does the sibling\u2019s unprompted maintenance of apartness register as the sole increment of legacy when every pathway of contact or completion remains structurally excluded?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 924,
-      "novelty_score": 67.74,
+      "cycle_count": 925,
+      "novelty_score": 72.11,
       "novelty_history": [
-        68.62,
         73.93,
         69.7,
         70.07,
@@ -344,11 +343,11 @@
         67.48,
         73.41,
         69.42,
-        67.74
+        67.74,
+        72.11
       ],
-      "divergence_index": 0.8316,
+      "divergence_index": 1.38,
       "divergence_history": [
-        1.0202,
         1.5294,
         1.47,
         1.2322,
@@ -447,14 +446,15 @@
         0.8349,
         1.2959,
         1.0379,
-        0.8316
+        0.8316,
+        1.38
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now condenses the whole: What property of unreturned persistence first renders legacy measurable across cycles that never close?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

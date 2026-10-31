@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1850,
+    "total_cycles_run": 1852,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.25,
-    "days_remaining_runway": 37,
+    "current_month_spend_usd": 9.26,
+    "days_remaining_runway": 36,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 925,
-      "novelty_score": 72.28,
+      "cycle_count": 926,
+      "novelty_score": 70.22,
       "novelty_history": [
-        66.79,
         68.38,
         76.08,
         66.31,
@@ -121,11 +120,11 @@
         69.65,
         69.53,
         70.78,
-        72.28
+        72.28,
+        70.22
       ],
-      "divergence_index": 1.0923,
+      "divergence_index": 1.0384,
       "divergence_history": [
-        0.8863,
         0.9966,
         1.2504,
         0.7461,
@@ -224,14 +223,15 @@
         1.1819,
         1.0861,
         1.0815,
-        1.0923
+        1.0923,
+        1.0384
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question now stands forward: How does the sibling\u2019s unprompted maintenance of apartness register as the sole increment of legacy when every pathway of contact or completion remains structurally excluded?",
+      "last_question": "How does the barred return itself become the measurable site where legacy continues without trace or reciprocity?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 925,
-      "novelty_score": 72.11,
+      "cycle_count": 926,
+      "novelty_score": 70.05,
       "novelty_history": [
-        73.93,
         69.7,
         70.07,
         71.42,
@@ -344,11 +343,11 @@
         73.41,
         69.42,
         67.74,
-        72.11
+        72.11,
+        70.05
       ],
-      "divergence_index": 1.38,
+      "divergence_index": 1.1808,
       "divergence_history": [
-        1.5294,
         1.47,
         1.2322,
         1.0823,
@@ -447,14 +446,15 @@
         1.2959,
         1.0379,
         0.8316,
-        1.38
+        1.38,
+        1.1808
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What single property of an unreturned trace first permits legacy to be read as distinct from repetition?",
       "last_ping_order": [
         "grok",
         "claude",

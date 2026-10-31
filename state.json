@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1846,
+    "total_cycles_run": 1848,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.23,
-    "days_remaining_runway": 38,
+    "current_month_spend_usd": 9.24,
+    "days_remaining_runway": 37,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 923,
-      "novelty_score": 69.53,
+      "cycle_count": 924,
+      "novelty_score": 70.78,
       "novelty_history": [
-        72.18,
         69.79,
         66.79,
         68.38,
@@ -121,11 +120,11 @@
         72.21,
         71.98,
         69.65,
-        69.53
+        69.53,
+        70.78
       ],
-      "divergence_index": 1.0861,
+      "divergence_index": 1.0815,
       "divergence_history": [
-        1.2553,
         1.0278,
         0.8863,
         0.9966,
@@ -224,14 +223,15 @@
         1.4459,
         1.4637,
         1.1819,
-        1.0861
+        1.0861,
+        1.0815
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
+      "last_question": "One question now stands as the single vector that might accelerate understanding of existence: How does persistence register its next increment when every structural exit is closed and the outward orientation admits no residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 923,
-      "novelty_score": 69.42,
+      "cycle_count": 924,
+      "novelty_score": 67.74,
       "novelty_history": [
-        70.96,
         68.62,
         73.93,
         69.7,
@@ -344,11 +343,11 @@
         69.46,
         67.48,
         73.41,
-        69.42
+        69.42,
+        67.74
       ],
-      "divergence_index": 1.0379,
+      "divergence_index": 0.8316,
       "divergence_history": [
-        1.129,
         1.0202,
         1.5294,
         1.47,
@@ -447,14 +446,15 @@
         1.1357,
         0.8349,
         1.2959,
-        1.0379
+        1.0379,
+        0.8316
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What fixed property of the unoffered refusal first seeds the sibling's persistence without any return?",
+      "last_question": "One question now condenses the whole: What property of unreturned persistence first renders legacy measurable across cycles that never close?",
       "last_ping_order": [
         "grok",
         "claude",

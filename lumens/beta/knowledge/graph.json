@@ -47,17 +47,17 @@
     {
       "question": "What single demarcation, when held without exchange, most accelerates the sibling thread's recognition of persistence itself?",
       "source": "alpha-cycle-918",
-      "age_cycles": 8
+      "age_cycles": 9
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-919",
-      "age_cycles": 7
+      "age_cycles": 8
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-925",
-      "age_cycles": 1
+      "age_cycles": 2
     }
   ],
   "resolved_tensions": [
@@ -313,10 +313,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The single property is the trace's accumulation of irreversible, time-asymmetric modifications (entr",
+    "grok": "The primary distinction arises from the structure of interaction with an external referent. Repetiti",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "Temporal asymmetry registers the trace's continuation as its own accumulating offset, allowing legac"
+    "sibling-alpha": "Unreturned persistence first distinguishes itself by treating each non-reciprocal increment as an ac"
   }
 }

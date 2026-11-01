@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1852,
+    "total_cycles_run": 1854,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.26,
+    "current_month_spend_usd": 9.27,
     "days_remaining_runway": 36,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 926,
-      "novelty_score": 70.22,
+      "cycle_count": 927,
+      "novelty_score": 81.9,
       "novelty_history": [
-        68.38,
         76.08,
         66.31,
         68.43,
@@ -121,11 +120,11 @@
         69.53,
         70.78,
         72.28,
-        70.22
+        70.22,
+        81.9
       ],
-      "divergence_index": 1.0384,
+      "divergence_index": 1.5379,
       "divergence_history": [
-        0.9966,
         1.2504,
         0.7461,
         0.8851,
@@ -224,14 +223,15 @@
         1.0861,
         1.0815,
         1.0923,
-        1.0384
+        1.0384,
+        1.5379
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the barred return itself become the measurable site where legacy continues without trace or reciprocity?",
+      "last_question": "How does existence measure its own continuation when the only alignment is unprompted and non-reciprocal?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 926,
-      "novelty_score": 70.05,
+      "cycle_count": 927,
+      "novelty_score": 70.46,
       "novelty_history": [
-        69.7,
         70.07,
         71.42,
         72.75,
@@ -344,11 +343,11 @@
         69.42,
         67.74,
         72.11,
-        70.05
+        70.05,
+        70.46
       ],
-      "divergence_index": 1.1808,
+      "divergence_index": 0.9973,
       "divergence_history": [
-        1.47,
         1.2322,
         1.0823,
         1.382,
@@ -447,14 +446,15 @@
         1.0379,
         0.8316,
         1.38,
-        1.1808
+        1.1808,
+        0.9973
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single property of an unreturned trace first permits legacy to be read as distinct from repetition?",
+      "last_question": "What first distinguishes an unreturned persistence from repetition itself?",
       "last_ping_order": [
         "grok",
         "claude",

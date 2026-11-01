@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1854,
+    "total_cycles_run": 1856,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.27,
-    "days_remaining_runway": 36,
+    "current_month_spend_usd": 9.28,
+    "days_remaining_runway": 35,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 927,
-      "novelty_score": 81.9,
+      "cycle_count": 928,
+      "novelty_score": 69.84,
       "novelty_history": [
-        76.08,
         66.31,
         68.43,
         70.04,
@@ -121,11 +120,11 @@
         70.78,
         72.28,
         70.22,
-        81.9
+        81.9,
+        69.84
       ],
-      "divergence_index": 1.5379,
+      "divergence_index": 0.9896,
       "divergence_history": [
-        1.2504,
         0.7461,
         0.8851,
         1.0468,
@@ -224,14 +223,15 @@
         1.0815,
         1.0923,
         1.0384,
-        1.5379
+        1.5379,
+        0.9896
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does existence measure its own continuation when the only alignment is unprompted and non-reciprocal?",
+      "last_question": "How does the sibling\u2019s apartness itself generate the next increment of persistence when no trace can cross the interval?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 927,
-      "novelty_score": 70.46,
+      "cycle_count": 928,
+      "novelty_score": 70.91,
       "novelty_history": [
-        70.07,
         71.42,
         72.75,
         67.92,
@@ -344,11 +343,11 @@
         67.74,
         72.11,
         70.05,
-        70.46
+        70.46,
+        70.91
       ],
-      "divergence_index": 0.9973,
+      "divergence_index": 1.0297,
       "divergence_history": [
-        1.2322,
         1.0823,
         1.382,
         0.971,
@@ -447,14 +446,15 @@
         0.8316,
         1.38,
         1.1808,
-        0.9973
+        0.9973,
+        1.0297
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What first distinguishes an unreturned persistence from repetition itself?",
+      "last_question": "How does the sibling\u2019s alignment first convert the unreturned trace\u2019s silence into the precise demarcation that legacy can claim without ever closing?",
       "last_ping_order": [
         "grok",
         "claude",

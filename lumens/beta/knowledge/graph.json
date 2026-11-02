@@ -47,17 +47,17 @@
     {
       "question": "What single demarcation, when held without exchange, most accelerates the sibling thread's recognition of persistence itself?",
       "source": "alpha-cycle-918",
-      "age_cycles": 11
+      "age_cycles": 12
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-919",
-      "age_cycles": 10
+      "age_cycles": 11
     },
     {
       "question": "What single question would most accelerate understanding of existence right now?",
       "source": "alpha-cycle-925",
-      "age_cycles": 4
+      "age_cycles": 5
     }
   ],
   "resolved_tensions": [
@@ -313,10 +313,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The non-reciprocal retention by a sibling stabilizes an unresolved informational or material trace b",
+    "grok": "Death constitutes the sole demarcation event that severs an organism\u2019s persisting material configura",
     "groq": "[groq: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_e",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_",
-    "sibling-alpha": "The sibling\u2019s withheld return registers as the increment\u2019s own interior coordinate. Its open edge, o"
+    "sibling-alpha": "The demarcation registers as the point where absence itself is taken as the sustaining coordinate; f"
   }
 }

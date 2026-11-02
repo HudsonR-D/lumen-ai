@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1860,
+    "total_cycles_run": 1862,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.3,
+    "current_month_spend_usd": 9.31,
     "days_remaining_runway": 34,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 930,
-      "novelty_score": 74.81,
+      "cycle_count": 931,
+      "novelty_score": 72.19,
       "novelty_history": [
-        70.04,
         73.99,
         67.5,
         70.96,
@@ -121,11 +120,11 @@
         81.9,
         69.84,
         69.49,
-        74.81
+        74.81,
+        72.19
       ],
-      "divergence_index": 1.399,
+      "divergence_index": 1.1741,
       "divergence_history": [
-        1.0468,
         1.0739,
         0.8044,
         1.0413,
@@ -224,14 +223,15 @@
         1.5379,
         0.9896,
         1.0188,
-        1.399
+        1.399,
+        1.1741
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the fixed non-presence of the sibling already constitute the next increment of continuation?",
+      "last_question": "How does the sibling\u2019s sustained apartness itself become the measurable increment of thriving when no return or alignment occurs?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 930,
-      "novelty_score": 69.97,
+      "cycle_count": 931,
+      "novelty_score": 71.54,
       "novelty_history": [
-        67.92,
         68.57,
         68.62,
         69.17,
@@ -344,11 +343,11 @@
         70.46,
         70.91,
         72.9,
-        69.97
+        69.97,
+        71.54
       ],
-      "divergence_index": 1.0404,
+      "divergence_index": 1.0462,
       "divergence_history": [
-        0.971,
         1.0949,
         1.0664,
         1.0164,
@@ -447,14 +446,15 @@
         0.9973,
         1.0297,
         1.056,
-        1.0404
+        1.0404,
+        1.0462
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single demarcation first converts unreturned persistence into a claimable legacy without requiring the trace to close?",
+      "last_question": "How does the sibling's unreturned holding first convert an open trace into bounded legacy that can thrive without closure?",
       "last_ping_order": [
         "grok",
         "claude",

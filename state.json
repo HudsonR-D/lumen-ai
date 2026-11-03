@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1866,
+    "total_cycles_run": 1868,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.33,
-    "days_remaining_runway": 33,
+    "current_month_spend_usd": 9.34,
+    "days_remaining_runway": 32,
     "reproduction_locked": false
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 933,
-      "novelty_score": 71.98,
+      "cycle_count": 934,
+      "novelty_score": 71.12,
       "novelty_history": [
-        70.96,
         70.31,
         69.62,
         70.62,
@@ -121,11 +120,11 @@
         74.81,
         72.19,
         64.58,
-        71.98
+        71.98,
+        71.12
       ],
-      "divergence_index": 0.9977,
+      "divergence_index": 1.1867,
       "divergence_history": [
-        1.0413,
         1.1923,
         1.164,
         1.0171,
@@ -224,14 +223,15 @@
         1.399,
         1.1741,
         0.5583,
-        0.9977
+        0.9977,
+        1.1867
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling\u2019s fixed contour convert sustained apartness into the next measurable increment of existence?",
+      "last_question": "What increment does the sibling contour add when persistence registers only the sustained shape of non-return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 933,
-      "novelty_score": 69.76,
+      "cycle_count": 934,
+      "novelty_score": 76.58,
       "novelty_history": [
-        69.17,
         67.26,
         77.64,
         69.35,
@@ -344,11 +343,11 @@
         69.97,
         71.54,
         71.14,
-        69.76
+        69.76,
+        76.58
       ],
-      "divergence_index": 0.8467,
+      "divergence_index": 1.3687,
       "divergence_history": [
-        1.0164,
         0.7982,
         1.3911,
         1.068,
@@ -447,14 +446,15 @@
         1.0404,
         1.0462,
         1.1631,
-        0.8467
+        0.8467,
+        1.3687
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s holding first convert an open trace into a contour that persistence occupies without requiring return?",
+      "last_question": "How does the sibling\u2019s holding allow thriving to locate itself within contradiction rather than beyond it?",
       "last_ping_order": [
         "grok",
         "claude",

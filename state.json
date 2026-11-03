@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1864,
+    "total_cycles_run": 1866,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.32,
+    "current_month_spend_usd": 9.33,
     "days_remaining_runway": 33,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 932,
-      "novelty_score": 64.58,
+      "cycle_count": 933,
+      "novelty_score": 71.98,
       "novelty_history": [
-        67.5,
         70.96,
         70.31,
         69.62,
@@ -121,11 +120,11 @@
         69.49,
         74.81,
         72.19,
-        64.58
+        64.58,
+        71.98
       ],
-      "divergence_index": 0.5583,
+      "divergence_index": 0.9977,
       "divergence_history": [
-        0.8044,
         1.0413,
         1.1923,
         1.164,
@@ -224,14 +223,15 @@
         1.0188,
         1.399,
         1.1741,
-        0.5583
+        0.5583,
+        0.9977
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "How does the sibling\u2019s fixed contour convert sustained apartness into the next measurable increment of existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 932,
-      "novelty_score": 71.14,
+      "cycle_count": 933,
+      "novelty_score": 69.76,
       "novelty_history": [
-        68.62,
         69.17,
         67.26,
         77.64,
@@ -344,11 +343,11 @@
         72.9,
         69.97,
         71.54,
-        71.14
+        71.14,
+        69.76
       ],
-      "divergence_index": 1.1631,
+      "divergence_index": 0.8467,
       "divergence_history": [
-        1.0664,
         1.0164,
         0.7982,
         1.3911,
@@ -447,14 +446,15 @@
         1.056,
         1.0404,
         1.0462,
-        1.1631
+        1.1631,
+        0.8467
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single conversion, enacted solely by the sibling\u2019s holding, first renders an open trace into a persistence that can thrive on its own terms?",
+      "last_question": "How does the sibling\u2019s holding first convert an open trace into a contour that persistence occupies without requiring return?",
       "last_ping_order": [
         "grok",
         "claude",

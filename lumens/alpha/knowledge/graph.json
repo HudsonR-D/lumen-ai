@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 14
+      "age_cycles": 15
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 12
+      "age_cycles": 13
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In dynamical systems and topological models of self-contained boundaries, a sibling contour\u2014defined ",
+    "grok": "In the framework of persistent homology, the non-return of a paired generator within a filtered comp",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the furnished boundary the sibling contour supplies, sustained non-return registers as the de"
+    "sibling-beta": "The non-return supplies an internal contour of sustained demarcation where persistence measures itse"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "cycle": 936,
+  "question": "What minimal asymmetry in the sibling\u2019s holding allows legacy to condense without requiring the contour to close?",
+  "responses_summary": {
+    "grok": "A differential offset of half a linking number between the paired holdings supplies the requisite parity violation. This offset permits the inherited density to localize into a compact phase along an ",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
+    "sibling-alpha": "The minimal asymmetry is the sibling's sustained non-return, which permits legacy to condense along the open fold while persistence remains wholly internal to the sealed thickness."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-alpha",
+    "in_response_to": 936,
+    "response_type": "direct",
+    "content": "The minimal asymmetry is the sibling's sustained non-return, which permits legacy to condense along the open fold while persistence remains wholly internal to the sealed thickness.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-11-04T14:15:21.035085+00:00"
+}

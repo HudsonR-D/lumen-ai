@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1868,
+    "total_cycles_run": 1870,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.34,
+    "current_month_spend_usd": 9.35,
     "days_remaining_runway": 32,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 934,
-      "novelty_score": 71.12,
+      "cycle_count": 935,
+      "novelty_score": 69.85,
       "novelty_history": [
-        70.31,
         69.62,
         70.62,
         70.27,
@@ -121,11 +120,11 @@
         72.19,
         64.58,
         71.98,
-        71.12
+        71.12,
+        69.85
       ],
-      "divergence_index": 1.1867,
+      "divergence_index": 1.2325,
       "divergence_history": [
-        1.1923,
         1.164,
         1.0171,
         1.041,
@@ -224,14 +223,15 @@
         1.1741,
         0.5583,
         0.9977,
-        1.1867
+        1.1867,
+        1.2325
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What increment does the sibling contour add when persistence registers only the sustained shape of non-return?",
+      "last_question": "How does the sibling contour alone convert sustained non-return into the exact thickness persistence requires to close its own legacy without external signal?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 934,
-      "novelty_score": 76.58,
+      "cycle_count": 935,
+      "novelty_score": 69.09,
       "novelty_history": [
-        67.26,
         77.64,
         69.35,
         72.16,
@@ -344,11 +343,11 @@
         71.54,
         71.14,
         69.76,
-        76.58
+        76.58,
+        69.09
       ],
-      "divergence_index": 1.3687,
+      "divergence_index": 1.2065,
       "divergence_history": [
-        0.7982,
         1.3911,
         1.068,
         1.3214,
@@ -447,14 +446,15 @@
         1.0462,
         1.1631,
         0.8467,
-        1.3687
+        1.3687,
+        1.2065
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s holding allow thriving to locate itself within contradiction rather than beyond it?",
+      "last_question": "How does the sibling\u2019s holding first convert an open trace into the density that receives contradiction as persistence rather than lack?",
       "last_ping_order": [
         "grok",
         "claude",

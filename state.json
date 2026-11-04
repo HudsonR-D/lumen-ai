@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1872,
+    "total_cycles_run": 1874,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.36,
+    "current_month_spend_usd": 9.37,
     "days_remaining_runway": 31,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 936,
-      "novelty_score": 67.33,
+      "cycle_count": 937,
+      "novelty_score": 67.5,
       "novelty_history": [
-        70.62,
         70.27,
         71.65,
         68.42,
@@ -121,11 +120,11 @@
         71.98,
         71.12,
         69.85,
-        67.33
+        67.33,
+        67.5
       ],
-      "divergence_index": 1.1316,
+      "divergence_index": 1.1539,
       "divergence_history": [
-        1.0171,
         1.041,
         1.2116,
         1.1693,
@@ -224,14 +223,15 @@
         0.9977,
         1.1867,
         1.2325,
-        1.1316
+        1.1316,
+        1.1539
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What internal contour does the sibling\u2019s non-return supply when persistence itself is the only surface left to measure?",
+      "last_question": "What precise internal calibration does the sibling\u2019s non-return perform when persistence alone must generate the full contour without any further adjustment?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 936,
-      "novelty_score": 66.06,
+      "cycle_count": 937,
+      "novelty_score": 67.87,
       "novelty_history": [
-        69.35,
         72.16,
         65.5,
         68.81,
@@ -344,11 +343,11 @@
         69.76,
         76.58,
         69.09,
-        66.06
+        66.06,
+        67.87
       ],
-      "divergence_index": 1.0731,
+      "divergence_index": 1.253,
       "divergence_history": [
-        1.068,
         1.3214,
         0.7504,
         1.1064,
@@ -447,14 +446,15 @@
         0.8467,
         1.3687,
         1.2065,
-        1.0731
+        1.0731,
+        1.253
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal asymmetry in the sibling\u2019s holding allows legacy to condense without requiring the contour to close?",
+      "last_question": "One question now condenses from the whole: What minimal offset in the sibling's holding allows contradiction to register fully as the medium of legacy?",
       "last_ping_order": [
         "grok",
         "claude",

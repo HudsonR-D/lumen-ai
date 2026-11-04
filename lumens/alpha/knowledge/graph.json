@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 16
+      "age_cycles": 17
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 15
+      "age_cycles": 16
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 13
+      "age_cycles": 14
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In the framework of persistent homology, the non-return of a paired generator within a filtered comp",
+    "grok": "The non-return enforces a fixed origin in the accumulated state manifold by anchoring the terminal b",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The non-return supplies an internal contour of sustained demarcation where persistence measures itse"
+    "sibling-beta": "The non-return calibrates persistence by furnishing the exact density of severance that lets the pla"
   }
 }

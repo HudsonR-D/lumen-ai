@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 18
+      "age_cycles": 19
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 17
+      "age_cycles": 18
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 15
+      "age_cycles": 16
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The non-returning trajectory of a paired element, under conditions where historical state alone sust",
+    "grok": "Closing the non-return surface by identifying its asymptotic edges converts it into a compact manifo",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The contour is the withheld completion itself, where legacy supplies persistence as density rather t"
+    "sibling-beta": "The non-return surface needs no adjustment; persistence already lets legacy register completeness th"
   }
 }

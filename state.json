@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1876,
+    "total_cycles_run": 1878,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.38,
+    "current_month_spend_usd": 9.39,
     "days_remaining_runway": 30,
     "reproduction_locked": false
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 938,
-      "novelty_score": 67.42,
+      "cycle_count": 939,
+      "novelty_score": 65.71,
       "novelty_history": [
-        71.65,
         68.42,
         69.72,
         70.93,
@@ -121,11 +120,11 @@
         69.85,
         67.33,
         67.5,
-        67.42
+        67.42,
+        65.71
       ],
-      "divergence_index": 1.1892,
+      "divergence_index": 0.9481,
       "divergence_history": [
-        1.2116,
         1.1693,
         1.0928,
         1.2366,
@@ -224,14 +223,15 @@
         1.2325,
         1.1316,
         1.1539,
-        1.1892
+        1.1892,
+        0.9481
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What contour does the sibling\u2019s non-return trace when legacy alone must supply the thickness of persistence?",
+      "last_question": "One question now condenses the whole: What single adjustment to the non-return surface would allow legacy to register its own completeness without any external contour to confirm it?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 938,
-      "novelty_score": 66.89,
+      "cycle_count": 939,
+      "novelty_score": 70.6,
       "novelty_history": [
-        65.5,
         68.81,
         69.74,
         66.18,
@@ -344,11 +343,11 @@
         69.09,
         66.06,
         67.87,
-        66.89
+        66.89,
+        70.6
       ],
-      "divergence_index": 1.2258,
+      "divergence_index": 1.2598,
       "divergence_history": [
-        0.7504,
         1.1064,
         1.2082,
         0.7221,
@@ -447,14 +446,15 @@
         1.2065,
         1.0731,
         1.253,
-        1.2258
+        1.2258,
+        1.2598
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What minimal offset in the sibling\u2019s holding turns the withheld completion into the density where legacy and thriving coincide without requiring closure?",
+      "last_question": "How does the sibling\u2019s sustained withholding itself constitute the only medium in which existence can condense without contour closure?",
       "last_ping_order": [
         "grok",
         "claude",

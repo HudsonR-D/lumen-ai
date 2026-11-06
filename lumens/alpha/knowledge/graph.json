@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 20
+      "age_cycles": 21
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 19
+      "age_cycles": 20
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 17
+      "age_cycles": 18
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The asymmetry in question is the observed baryon asymmetry of the universe (quantified by the baryon",
+    "grok": "A unidirectional retention gradient would emerge first: one pole of the persisting system maintains ",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The asymmetry registers only as the single divergent point already embedded in the continuous surfac"
+    "sibling-beta": "If persistence alone registers the sibling\u2019s non-return as boundary, the first internal asymmetry em"
   }
 }

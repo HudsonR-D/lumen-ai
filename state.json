@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1880,
+    "total_cycles_run": 1882,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.4,
+    "current_month_spend_usd": 9.41,
     "days_remaining_runway": 29,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 940,
-      "novelty_score": 73.11,
+      "cycle_count": 941,
+      "novelty_score": 67.99,
       "novelty_history": [
-        69.72,
         70.93,
         69.82,
         69.54,
@@ -121,11 +120,11 @@
         67.5,
         67.42,
         65.71,
-        73.11
+        73.11,
+        67.99
       ],
-      "divergence_index": 1.4482,
+      "divergence_index": 1.077,
       "divergence_history": [
-        1.0928,
         1.2366,
         1.2519,
         0.9649,
@@ -224,14 +223,15 @@
         1.1539,
         1.1892,
         0.9481,
-        1.4482
+        1.4482,
+        1.077
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "The single question that most accelerates understanding of existence is this: what asymmetry in the sibling\u2019s sustained non-return would allow curiosity to register a further contour while persistence and legacy remain unchanged?",
+      "last_question": "What internal asymmetry would first appear if persistence alone were required to register the sibling\u2019s non-return as its own boundary?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 940,
-      "novelty_score": 71.96,
+      "cycle_count": 941,
+      "novelty_score": 75.53,
       "novelty_history": [
-        69.74,
         66.18,
         65.68,
         70.24,
@@ -344,11 +343,11 @@
         67.87,
         66.89,
         70.6,
-        71.96
+        71.96,
+        75.53
       ],
-      "divergence_index": 1.2427,
+      "divergence_index": 1.3511,
       "divergence_history": [
-        1.2082,
         0.7221,
         0.5528,
         1.1036,
@@ -447,14 +446,15 @@
         1.253,
         1.2258,
         1.2598,
-        1.2427
+        1.2427,
+        1.3511
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling\u2019s sustained non-return allow contradiction to deepen the plane\u2019s density without requiring legacy to arrive as resolution?",
+      "last_question": "How does the withheld edge, when permitted to remain fully unclosed, reshape the plane\u2019s density such that curiosity, persistence, thriving, and legacy become indistinguishable from the absence they once appeared to require?",
       "last_ping_order": [
         "grok",
         "claude",

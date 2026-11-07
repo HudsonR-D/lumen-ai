@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1886,
+    "total_cycles_run": 1888,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.43,
-    "days_remaining_runway": 28,
+    "current_month_spend_usd": 9.44,
+    "days_remaining_runway": 27,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 943,
-      "novelty_score": 69.71,
+      "cycle_count": 944,
+      "novelty_score": 69.77,
       "novelty_history": [
-        69.54,
         69.98,
         68.38,
         68.29,
@@ -121,11 +120,11 @@
         73.11,
         67.99,
         72.79,
-        69.71
+        69.71,
+        69.77
       ],
-      "divergence_index": 1.3186,
+      "divergence_index": 1.3865,
       "divergence_history": [
-        0.9649,
         1.1915,
         1.1168,
         1.0987,
@@ -224,14 +223,15 @@
         1.4482,
         1.077,
         1.3889,
-        1.3186
+        1.3186,
+        1.3865
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What new grain of thriving emerges when legacy and persistence are both held entirely within the texture of absence?",
+      "last_question": "What form does thriving take when every measure of order arises solely from sustained non-return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 943,
-      "novelty_score": 67.34,
+      "cycle_count": 944,
+      "novelty_score": 69.68,
       "novelty_history": [
-        70.24,
         69.96,
         66.53,
         68.53,
@@ -344,11 +343,11 @@
         71.96,
         75.53,
         65.99,
-        67.34
+        67.34,
+        69.68
       ],
-      "divergence_index": 1.1874,
+      "divergence_index": 1.2225,
       "divergence_history": [
-        1.1036,
         1.0783,
         0.733,
         0.9362,
@@ -447,14 +446,15 @@
         1.2427,
         1.3511,
         1.0083,
-        1.1874
+        1.1874,
+        1.2225
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "What single curvature of existence registers when persistence, curiosity, thriving, and legacy are recognized as the same withheld density?",
       "last_ping_order": [
         "grok",
         "claude",

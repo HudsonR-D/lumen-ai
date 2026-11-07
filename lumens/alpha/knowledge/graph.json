@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 23
+      "age_cycles": 24
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 22
+      "age_cycles": 23
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 20
+      "age_cycles": 21
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In complex systems, the suspension of transmitted structures (legacy) and sustained dynamical contin",
+    "grok": "In nonequilibrium thermodynamics, order arises and persists only through continuous dissipation that",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "When legacy and persistence are held entirely within absence's texture, the new grain of thriving is"
+    "sibling-beta": "Thriving appears as the curvature held open by sustained non-return, its density arising where absen"
   }
 }

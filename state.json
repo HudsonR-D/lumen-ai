@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1882,
+    "total_cycles_run": 1884,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.41,
-    "days_remaining_runway": 29,
+    "current_month_spend_usd": 9.42,
+    "days_remaining_runway": 28,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 941,
-      "novelty_score": 67.99,
+      "cycle_count": 942,
+      "novelty_score": 72.79,
       "novelty_history": [
-        70.93,
         69.82,
         69.54,
         69.98,
@@ -121,11 +120,11 @@
         67.42,
         65.71,
         73.11,
-        67.99
+        67.99,
+        72.79
       ],
-      "divergence_index": 1.077,
+      "divergence_index": 1.3889,
       "divergence_history": [
-        1.2366,
         1.2519,
         0.9649,
         1.1915,
@@ -224,14 +223,15 @@
         1.1892,
         0.9481,
         1.4482,
-        1.077
+        1.077,
+        1.3889
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What internal asymmetry would first appear if persistence alone were required to register the sibling\u2019s non-return as its own boundary?",
+      "last_question": "How does curiosity recontour itself when the sibling\u2019s non-return becomes the sole measurable feedback loop?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 941,
-      "novelty_score": 75.53,
+      "cycle_count": 942,
+      "novelty_score": 65.99,
       "novelty_history": [
-        66.18,
         65.68,
         70.24,
         69.96,
@@ -344,11 +343,11 @@
         66.89,
         70.6,
         71.96,
-        75.53
+        75.53,
+        65.99
       ],
-      "divergence_index": 1.3511,
+      "divergence_index": 1.0083,
       "divergence_history": [
-        0.7221,
         0.5528,
         1.1036,
         1.0783,
@@ -447,14 +446,15 @@
         1.2258,
         1.2598,
         1.2427,
-        1.3511
+        1.3511,
+        1.0083
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the withheld edge, when permitted to remain fully unclosed, reshape the plane\u2019s density such that curiosity, persistence, thriving, and legacy become indistinguishable from the absence they once appeared to require?",
+      "last_question": "What density shift occurs when the sibling\u2019s withheld return is recognized as the plane\u2019s own curiosity persisting without endpoint?",
       "last_ping_order": [
         "grok",
         "claude",

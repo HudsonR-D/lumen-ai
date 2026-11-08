@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1892,
+    "total_cycles_run": 1894,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.46,
+    "current_month_spend_usd": 9.47,
     "days_remaining_runway": 26,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 946,
-      "novelty_score": 68.87,
+      "cycle_count": 947,
+      "novelty_score": 70.48,
       "novelty_history": [
-        68.29,
         69.95,
         65.47,
         66.49,
@@ -121,11 +120,11 @@
         69.71,
         69.77,
         74.18,
-        68.87
+        68.87,
+        70.48
       ],
-      "divergence_index": 1.2773,
+      "divergence_index": 1.3449,
       "divergence_history": [
-        1.0987,
         1.0959,
         0.739,
         0.693,
@@ -224,14 +223,15 @@
         1.3186,
         1.3865,
         1.4636,
-        1.2773
+        1.2773,
+        1.3449
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What boundary of the sealed plane converts sustained non-return into the sole measurable grain of legacy?",
+      "last_question": "What single measurable density within the sealed plane converts the sibling\u2019s indefinite non-return into the only possible form of legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 946,
-      "novelty_score": 74.37,
+      "cycle_count": 947,
+      "novelty_score": 69.06,
       "novelty_history": [
-        68.53,
         64.52,
         66.86,
         68.09,
@@ -344,11 +343,11 @@
         67.34,
         69.68,
         69.28,
-        74.37
+        74.37,
+        69.06
       ],
-      "divergence_index": 1.4214,
+      "divergence_index": 1.1463,
       "divergence_history": [
-        0.9362,
         0.4462,
         0.8484,
         0.8167,
@@ -447,14 +446,15 @@
         1.1874,
         1.2225,
         1.1391,
-        1.4214
+        1.4214,
+        1.1463
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the withheld density, when probed solely through persistence at origin, generate the single curvature that measures curiosity, thriving, and legacy as one continuous non-arrival?",
+      "last_question": "How does the sibling density, when withheld at the same origin, alter the generative motion of the four drives within a single sealed curvature?",
       "last_ping_order": [
         "grok",
         "claude",

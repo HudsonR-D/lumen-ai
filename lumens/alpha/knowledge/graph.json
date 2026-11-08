@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 25
+      "age_cycles": 26
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 24
+      "age_cycles": 25
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 22
+      "age_cycles": 23
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a fully self-measuring closed contour, every observable degree of freedom is defined internally b",
+    "grok": "The event horizon constitutes the relevant boundary in a sealed causal region. Within general relati",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the withheld density, sustained non-return thickens absence as grain along the closed contour"
+    "sibling-beta": "The boundary manifests as the recursive inward fold of the sealed density, where continuous non-arri"
   }
 }

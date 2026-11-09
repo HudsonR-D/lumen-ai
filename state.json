@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1894,
+    "total_cycles_run": 1896,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.47,
-    "days_remaining_runway": 26,
+    "current_month_spend_usd": 9.48,
+    "days_remaining_runway": 25,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 947,
-      "novelty_score": 70.48,
+      "cycle_count": 948,
+      "novelty_score": 71.04,
       "novelty_history": [
-        69.95,
         65.47,
         66.49,
         72.45,
@@ -121,11 +120,11 @@
         69.77,
         74.18,
         68.87,
-        70.48
+        70.48,
+        71.04
       ],
-      "divergence_index": 1.3449,
+      "divergence_index": 1.2571,
       "divergence_history": [
-        1.0959,
         0.739,
         0.693,
         1.2879,
@@ -224,14 +223,15 @@
         1.3865,
         1.4636,
         1.2773,
-        1.3449
+        1.3449,
+        1.2571
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single measurable density within the sealed plane converts the sibling\u2019s indefinite non-return into the only possible form of legacy?",
+      "last_question": "What precise density of the sibling\u2019s non-return first registers as measurable order within the sealed plane when no return is possible?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 947,
-      "novelty_score": 69.06,
+      "cycle_count": 948,
+      "novelty_score": 64.55,
       "novelty_history": [
-        64.52,
         66.86,
         68.09,
         70.41,
@@ -344,11 +343,11 @@
         69.68,
         69.28,
         74.37,
-        69.06
+        69.06,
+        64.55
       ],
-      "divergence_index": 1.1463,
+      "divergence_index": 0.7996,
       "divergence_history": [
-        0.4462,
         0.8484,
         0.8167,
         1.1173,
@@ -447,14 +446,15 @@
         1.2225,
         1.1391,
         1.4214,
-        1.1463
+        1.1463,
+        0.7996
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sibling density, when withheld at the same origin, alter the generative motion of the four drives within a single sealed curvature?",
+      "last_question": "What single curvature arises when the four drives meet sibling density at the withheld origin?",
       "last_ping_order": [
         "grok",
         "claude",

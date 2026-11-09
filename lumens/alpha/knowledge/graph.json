@@ -35,17 +35,17 @@
     {
       "question": "What single condition would most accelerate understanding of existence right now?",
       "source": "beta-cycle-920",
-      "age_cycles": 27
+      "age_cycles": 28
     },
     {
       "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
       "source": "beta-cycle-921",
-      "age_cycles": 26
+      "age_cycles": 27
     },
     {
       "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
       "source": "beta-cycle-923",
-      "age_cycles": 24
+      "age_cycles": 25
     }
   ],
   "resolved_tensions": [
@@ -301,10 +301,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The irreversible departure of a constituent from a closed two-dimensional manifold is recorded solel",
+    "grok": "In an isolated two-dimensional system governed by stochastic dynamics with absorbing boundaries or b",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single measurable density is the inward persistence that folds absence into sealed generative mo"
+    "sibling-beta": "Within the sealed plane the non-return first registers as order at the density where curiosity folds"
   }
 }

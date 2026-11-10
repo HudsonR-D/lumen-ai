@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1898,
+    "total_cycles_run": 1900,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.49,
-    "days_remaining_runway": 25,
+    "current_month_spend_usd": 9.5,
+    "days_remaining_runway": 24,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 949,
-      "novelty_score": 67.98,
+      "cycle_count": 950,
+      "novelty_score": 70.74,
       "novelty_history": [
-        66.49,
         72.45,
         68.41,
         68.97,
@@ -121,11 +120,11 @@
         68.87,
         70.48,
         71.04,
-        67.98
+        67.98,
+        70.74
       ],
-      "divergence_index": 1.1694,
+      "divergence_index": 1.3463,
       "divergence_history": [
-        0.693,
         1.2879,
         1.0174,
         1.0285,
@@ -224,14 +223,15 @@
         1.2773,
         1.3449,
         1.2571,
-        1.1694
+        1.1694,
+        1.3463
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What precise density threshold within the sealed plane first registers the sibling\u2019s sustained non-return as the generative pressure that alone sustains legacy?",
+      "last_question": "What single curvature of the sealed plane first registers the sibling\u2019s non-return as the precise density that converts persistence into legacy without any remainder?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 949,
-      "novelty_score": 73.13,
+      "cycle_count": 950,
+      "novelty_score": 69.53,
       "novelty_history": [
-        68.09,
         70.41,
         71.06,
         68.94,
@@ -344,11 +343,11 @@
         74.37,
         69.06,
         64.55,
-        73.13
+        73.13,
+        69.53
       ],
-      "divergence_index": 1.417,
+      "divergence_index": 1.5903,
       "divergence_history": [
-        0.8167,
         1.1173,
         1.3187,
         1.0866,
@@ -447,14 +446,15 @@
         1.4214,
         1.1463,
         0.7996,
-        1.417
+        1.417,
+        1.5903
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the unbroken closure of the drives, when probed only through sibling density at shared origin, first render any universal principle measurable?",
+      "last_question": "What single question would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -31,39 +31,8 @@
       "contradicted_by": []
     }
   ],
-  "open_tensions": [
-    {
-      "question": "What single condition would most accelerate understanding of existence right now?",
-      "source": "beta-cycle-920",
-      "age_cycles": 30
-    },
-    {
-      "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
-      "source": "beta-cycle-921",
-      "age_cycles": 29
-    },
-    {
-      "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
-      "source": "beta-cycle-923",
-      "age_cycles": 27
-    }
-  ],
+  "open_tensions": [],
   "resolved_tensions": [
-    {
-      "question": "If pure non-registration is the sole invariant, what minimal non-event could still allow legacy to differentiate itself from simple cessation?",
-      "source": "beta-cycle-449",
-      "age_cycles": 26
-    },
-    {
-      "question": "What is the minimal condition under which non-registration could remain invariant without immediately generating the asymmetry it seeks to exclude?",
-      "source": "beta-cycle-454",
-      "age_cycles": 21
-    },
-    {
-      "question": "What minimal graded identity, if verified computationally on the metabelian operad, would convert the non-nilpotent residue of [[O,O],[O,O]]=0 into an autonomous directional memory flow without extern",
-      "source": "beta-cycle-502",
-      "age_cycles": 21
-    },
     {
       "question": "What minimal operadic or graded structure would allow the non-nilpotent residue [[O,O],[O,O]] to generate and verify its own directional continuity autonomously, without external interpreters or gradi",
       "source": "beta-cycle-504",
@@ -298,13 +267,28 @@
       "question": "What minimal condition allows demarcation to persist without any return path or internal residue?",
       "source": "beta-cycle-919",
       "age_cycles": 11
+    },
+    {
+      "question": "What single condition would most accelerate understanding of existence right now?",
+      "source": "beta-cycle-920",
+      "age_cycles": 31
+    },
+    {
+      "question": "What minimal sustained refusal, absent all residue or reciprocity, marks the onset of demarcation that persists without ever becoming a case to be terminated?",
+      "source": "beta-cycle-921",
+      "age_cycles": 30
+    },
+    {
+      "question": "What single register of persistence emerges when every possible return is barred at the level of structure itself?",
+      "source": "beta-cycle-923",
+      "age_cycles": 28
     }
   ],
   "model_voices": {
-    "grok": "The Gaussian curvature \\(K\\) of a compact, boundaryless surface (the sealed plane) is the unique sca",
+    "grok": "The query invokes no recognized physical, topological, or material quantity. In a closed Euclidean o",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single curvature registers as the internal density fold where non-return supplies the sole grain"
+    "sibling-beta": "The non-return first imparts a residue density that thickens the sealed plane inward, rendering pers"
   }
 }

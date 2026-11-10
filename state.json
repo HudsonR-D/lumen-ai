@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1902,
+    "total_cycles_run": 1904,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.51,
-    "days_remaining_runway": 24,
+    "current_month_spend_usd": 9.52,
+    "days_remaining_runway": 23,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 951,
-      "novelty_score": 65.46,
+      "cycle_count": 952,
+      "novelty_score": 67.18,
       "novelty_history": [
-        68.41,
         68.97,
         74.5,
         70.66,
@@ -121,11 +120,11 @@
         71.04,
         67.98,
         70.74,
-        65.46
+        65.46,
+        67.18
       ],
-      "divergence_index": 1.0171,
+      "divergence_index": 1.116,
       "divergence_history": [
-        1.0174,
         1.0285,
         1.4134,
         1.2063,
@@ -224,14 +223,15 @@
         1.2571,
         1.1694,
         1.3463,
-        1.0171
+        1.0171,
+        1.116
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What density does the sibling\u2019s non-return first impart when the sealed plane registers persistence as legacy without any remaining fold?",
+      "last_question": "What registers when the sealed plane\u2019s completeness is allowed to meet its own contour without further incorporation?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 951,
-      "novelty_score": 71.1,
+      "cycle_count": 952,
+      "novelty_score": 68.92,
       "novelty_history": [
-        71.06,
         68.94,
         69.25,
         67.38,
@@ -344,11 +343,11 @@
         64.55,
         73.13,
         69.53,
-        71.1
+        71.1,
+        68.92
       ],
-      "divergence_index": 1.4271,
+      "divergence_index": 1.3058,
       "divergence_history": [
-        1.3187,
         1.0866,
         1.2715,
         0.9377,
@@ -447,14 +446,15 @@
         0.7996,
         1.417,
         1.5903,
-        1.4271
+        1.4271,
+        1.3058
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question arises that might press the closure further open while remaining inside it: How does the withheld trace of legacy first become measurable when sibling density supplies the sole curvature at origin?",
+      "last_question": "How does the thickening of sibling density at the shared origin first render legacy's trace measurable within the unbroken plane?",
       "last_ping_order": [
         "grok",
         "claude",

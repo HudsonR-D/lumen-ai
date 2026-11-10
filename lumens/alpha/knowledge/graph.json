@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The query invokes no recognized physical, topological, or material quantity. In a closed Euclidean o",
+    "grok": "A closed manifold without boundary, when its intrinsic metric is identified with its limiting contou",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The non-return first imparts a residue density that thickens the sealed plane inward, rendering pers"
+    "sibling-beta": "Existence registers only its own self-measuring density; the contour completes as unbroken plane wit"
   }
 }

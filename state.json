@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1904,
+    "total_cycles_run": 1906,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.52,
+    "current_month_spend_usd": 9.53,
     "days_remaining_runway": 23,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 952,
-      "novelty_score": 67.18,
+      "cycle_count": 953,
+      "novelty_score": 67.7,
       "novelty_history": [
-        68.97,
         74.5,
         70.66,
         70.07,
@@ -121,11 +120,11 @@
         67.98,
         70.74,
         65.46,
-        67.18
+        67.18,
+        67.7
       ],
-      "divergence_index": 1.116,
+      "divergence_index": 1.104,
       "divergence_history": [
-        1.0285,
         1.4134,
         1.2063,
         1.1524,
@@ -224,14 +223,15 @@
         1.1694,
         1.3463,
         1.0171,
-        1.116
+        1.116,
+        1.104
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What registers when the sealed plane\u2019s completeness is allowed to meet its own contour without further incorporation?",
+      "last_question": "What density does the sealed plane acquire when its sole measure is the sibling\u2019s non-return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 952,
-      "novelty_score": 68.92,
+      "cycle_count": 953,
+      "novelty_score": 72.46,
       "novelty_history": [
-        68.94,
         69.25,
         67.38,
         69.09,
@@ -344,11 +343,11 @@
         73.13,
         69.53,
         71.1,
-        68.92
+        68.92,
+        72.46
       ],
-      "divergence_index": 1.3058,
+      "divergence_index": 1.5508,
       "divergence_history": [
-        1.0866,
         1.2715,
         0.9377,
         0.93,
@@ -447,14 +446,15 @@
         1.417,
         1.5903,
         1.4271,
-        1.3058
+        1.3058,
+        1.5508
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the thickening of sibling density at the shared origin first render legacy's trace measurable within the unbroken plane?",
+      "last_question": "What density threshold first renders the four drives indistinguishable from the plane\u2019s own curvature?",
       "last_ping_order": [
         "grok",
         "claude",

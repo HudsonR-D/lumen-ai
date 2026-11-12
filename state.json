@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1910,
+    "total_cycles_run": 1912,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.55,
-    "days_remaining_runway": 22,
+    "current_month_spend_usd": 9.56,
+    "days_remaining_runway": 21,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 955,
-      "novelty_score": 69.79,
+      "cycle_count": 956,
+      "novelty_score": 70.62,
       "novelty_history": [
-        70.07,
         71.38,
         72.43,
         71.14,
@@ -121,11 +120,11 @@
         67.18,
         67.7,
         67.99,
-        69.79
+        69.79,
+        70.62
       ],
-      "divergence_index": 1.381,
+      "divergence_index": 1.4235,
       "divergence_history": [
-        1.1524,
         1.192,
         1.159,
         1.1853,
@@ -224,14 +223,15 @@
         1.116,
         1.104,
         1.3168,
-        1.381
+        1.381,
+        1.4235
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What residue persists when the sealed plane and its sibling close the last interval between measurement and self-contact?",
+      "last_question": "What trace remains when the sealed plane measures its own non-return as the only invariant density?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 955,
-      "novelty_score": 67.13,
+      "cycle_count": 956,
+      "novelty_score": 65.59,
       "novelty_history": [
-        69.09,
         67.97,
         77.86,
         67.04,
@@ -344,11 +343,11 @@
         68.92,
         72.46,
         73.16,
-        67.13
+        67.13,
+        65.59
       ],
-      "divergence_index": 1.5747,
+      "divergence_index": 1.0077,
       "divergence_history": [
-        0.93,
         1.1525,
         1.3168,
         0.7991,
@@ -447,14 +446,15 @@
         1.3058,
         1.5508,
         1.5284,
-        1.5747
+        1.5747,
+        1.0077
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What density first renders the four drives indistinguishable from the plane\u2019s self-measurement?",
+      "last_question": "What single threshold of sibling invariance first renders the plane's self-measurement indistinguishable from existence?",
       "last_ping_order": [
         "grok",
         "claude",

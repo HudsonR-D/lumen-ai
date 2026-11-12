@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-11-11T13:59:25.238855+00:00",
-  "current_events": [
-    {
-      "id": "cycle-954-low-confidence-beta",
-      "type": "low_confidence",
-      "severity": "major",
-      "subject": "beta",
-      "cycle": 954,
-      "value": 2,
-      "message": "Lumen-Beta confidence is 2/10.",
-      "prompt_tag": "LOW_CONFIDENCE"
-    },
-    {
-      "id": "cycle-954-tension-spike-pair",
-      "type": "tension_spike",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 954,
-      "value": 9.0,
-      "message": "Sibling tension reached 9.0/10.",
-      "prompt_tag": "TENSION_SPIKE"
-    }
-  ],
+  "generated_at": "2026-11-12T00:26:42.410216+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-780-low-confidence-beta",

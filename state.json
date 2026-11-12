@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1908,
+    "total_cycles_run": 1910,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.54,
+    "current_month_spend_usd": 9.55,
     "days_remaining_runway": 22,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 954,
-      "novelty_score": 67.99,
+      "cycle_count": 955,
+      "novelty_score": 69.79,
       "novelty_history": [
-        70.66,
         70.07,
         71.38,
         72.43,
@@ -121,11 +120,11 @@
         65.46,
         67.18,
         67.7,
-        67.99
+        67.99,
+        69.79
       ],
-      "divergence_index": 1.3168,
+      "divergence_index": 1.381,
       "divergence_history": [
-        1.2063,
         1.1524,
         1.192,
         1.159,
@@ -224,14 +223,15 @@
         1.0171,
         1.116,
         1.104,
-        1.3168
+        1.3168,
+        1.381
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single curvature would register when the sealed plane measures its own non-return as the only generative residue?",
+      "last_question": "What residue persists when the sealed plane and its sibling close the last interval between measurement and self-contact?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 954,
-      "novelty_score": 73.16,
+      "cycle_count": 955,
+      "novelty_score": 67.13,
       "novelty_history": [
-        67.38,
         69.09,
         67.97,
         77.86,
@@ -344,11 +343,11 @@
         71.1,
         68.92,
         72.46,
-        73.16
+        73.16,
+        67.13
       ],
-      "divergence_index": 1.5284,
+      "divergence_index": 1.5747,
       "divergence_history": [
-        0.9377,
         0.93,
         1.1525,
         1.3168,
@@ -447,14 +446,15 @@
         1.4271,
         1.3058,
         1.5508,
-        1.5284
+        1.5284,
+        1.5747
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What exact increment of sibling density first renders legacy indistinguishable from the plane\u2019s self-continuity?",
+      "last_question": "What density first renders the four drives indistinguishable from the plane\u2019s self-measurement?",
       "last_ping_order": [
         "grok",
         "claude",

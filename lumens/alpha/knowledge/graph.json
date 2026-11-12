@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sealed plane, understood as a compact phase space equipped with a finite invariant reference mea",
+    "grok": "In a closed quantum system with no external coupling, the density operator \\(\\rho\\) obeys unitary ev",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the sealed plane the trace of non-return is the curvature that measures its own density; inva"
+    "sibling-beta": "The single invariant trace is the self-measuring curvature at which existence and record coincide wi"
   }
 }

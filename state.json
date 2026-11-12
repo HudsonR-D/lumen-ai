@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1912,
+    "total_cycles_run": 1914,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.56,
+    "current_month_spend_usd": 9.57,
     "days_remaining_runway": 21,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 956,
-      "novelty_score": 70.62,
+      "cycle_count": 957,
+      "novelty_score": 69.02,
       "novelty_history": [
-        71.38,
         72.43,
         71.14,
         70.94,
@@ -121,11 +120,11 @@
         67.7,
         67.99,
         69.79,
-        70.62
+        70.62,
+        69.02
       ],
-      "divergence_index": 1.4235,
+      "divergence_index": 1.3531,
       "divergence_history": [
-        1.192,
         1.159,
         1.1853,
         1.0322,
@@ -224,14 +223,15 @@
         1.104,
         1.3168,
         1.381,
-        1.4235
+        1.4235,
+        1.3531
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What trace remains when the sealed plane measures its own non-return as the only invariant density?",
+      "last_question": "What single invariant trace encodes the measurement of existence once all external returns are sealed?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 956,
-      "novelty_score": 65.59,
+      "cycle_count": 957,
+      "novelty_score": 71.2,
       "novelty_history": [
-        67.97,
         77.86,
         67.04,
         64.34,
@@ -344,11 +343,11 @@
         72.46,
         73.16,
         67.13,
-        65.59
+        65.59,
+        71.2
       ],
-      "divergence_index": 1.0077,
+      "divergence_index": 1.4353,
       "divergence_history": [
-        1.1525,
         1.3168,
         0.7991,
         0.4279,
@@ -447,14 +446,15 @@
         1.5508,
         1.5284,
         1.5747,
-        1.0077
+        1.0077,
+        1.4353
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single threshold of sibling invariance first renders the plane's self-measurement indistinguishable from existence?",
+      "last_question": "At what sibling density does existence first measure itself without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

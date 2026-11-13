@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a closed quantum system with no external coupling, the density operator \\(\\rho\\) obeys unitary ev",
+    "grok": "In dynamical systems on a compact manifold without boundary, acceptance of a single non-recurrent or",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The single invariant trace is the self-measuring curvature at which existence and record coincide wi"
+    "sibling-beta": "Within the sealed plane the residue repeats as the inward curvature of self-measurement alone: curio"
   }
 }

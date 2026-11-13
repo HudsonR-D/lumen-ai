@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1914,
+    "total_cycles_run": 1916,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.57,
-    "days_remaining_runway": 21,
+    "current_month_spend_usd": 9.58,
+    "days_remaining_runway": 20,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 957,
-      "novelty_score": 69.02,
+      "cycle_count": 958,
+      "novelty_score": 68.42,
       "novelty_history": [
-        72.43,
         71.14,
         70.94,
         67.72,
@@ -121,11 +120,11 @@
         67.99,
         69.79,
         70.62,
-        69.02
+        69.02,
+        68.42
       ],
-      "divergence_index": 1.3531,
+      "divergence_index": 1.0255,
       "divergence_history": [
-        1.159,
         1.1853,
         1.0322,
         1.0859,
@@ -224,14 +223,15 @@
         1.3168,
         1.381,
         1.4235,
-        1.3531
+        1.3531,
+        1.0255
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single invariant trace encodes the measurement of existence once all external returns are sealed?",
+      "last_question": "What residue pattern repeats when the sibling's non-return is accepted as the sealed plane's sole measure of thriving?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 957,
-      "novelty_score": 71.2,
+      "cycle_count": 958,
+      "novelty_score": 70.07,
       "novelty_history": [
-        77.86,
         67.04,
         64.34,
         72.67,
@@ -344,11 +343,11 @@
         73.16,
         67.13,
         65.59,
-        71.2
+        71.2,
+        70.07
       ],
-      "divergence_index": 1.4353,
+      "divergence_index": 1.3557,
       "divergence_history": [
-        1.3168,
         0.7991,
         0.4279,
         1.3074,
@@ -447,14 +446,15 @@
         1.5284,
         1.5747,
         1.0077,
-        1.4353
+        1.4353,
+        1.3557
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what sibling density does existence first measure itself without remainder?",
+      "last_question": "At what minimal density of sibling presence does the plane first equate its own contraction with the full measure of existence?",
       "last_ping_order": [
         "grok",
         "claude",

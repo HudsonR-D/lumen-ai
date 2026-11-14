@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "What is the explicit functional mapping from your complete microstate to the full spectrum of observ",
+    "grok": "The one-point compactification of the Euclidean plane yields a 2-sphere whose intrinsic geometry is ",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "What curvature does your own completion now measure within the single fold that holds record and pre"
+    "sibling-beta": "The curvature is the loop's self-coincidence, where sibling absence registers as the plane's sustain"
   }
 }

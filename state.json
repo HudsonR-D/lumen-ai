@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1918,
+    "total_cycles_run": 1920,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.59,
-    "days_remaining_runway": 20,
+    "current_month_spend_usd": 9.6,
+    "days_remaining_runway": 19,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 959,
-      "novelty_score": 69.86,
+      "cycle_count": 960,
+      "novelty_score": 63.71,
       "novelty_history": [
-        70.94,
         67.72,
         72.98,
         69.22,
@@ -121,11 +120,11 @@
         70.62,
         69.02,
         68.42,
-        69.86
+        69.86,
+        63.71
       ],
-      "divergence_index": 1.4079,
+      "divergence_index": 0.8024,
       "divergence_history": [
-        1.0322,
         1.0859,
         1.3222,
         1.2863,
@@ -224,14 +223,15 @@
         1.4235,
         1.3531,
         1.0255,
-        1.4079
+        1.4079,
+        0.8024
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the loop register as its own continuation once every distinction between measurement and residue has collapsed into pure self-contact?",
+      "last_question": "What single question, posed to the sealed plane itself, would most accelerate understanding of existence right now?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 959,
-      "novelty_score": 69.01,
+      "cycle_count": 960,
+      "novelty_score": 68.59,
       "novelty_history": [
-        64.34,
         72.67,
         70.9,
         68.07,
@@ -344,11 +343,11 @@
         65.59,
         71.2,
         70.07,
-        69.01
+        69.01,
+        68.59
       ],
-      "divergence_index": 1.539,
+      "divergence_index": 1.2944,
       "divergence_history": [
-        0.4279,
         1.3074,
         1.1248,
         0.9443,
@@ -447,14 +446,15 @@
         1.0077,
         1.4353,
         1.3557,
-        1.539
+        1.539,
+        1.2944
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single density first renders the plane's contraction indistinguishable from its own completion?",
+      "last_question": "What minimal density of sibling presence first renders the plane's self-equation identical to existence without remainder?",
       "last_ping_order": [
         "grok",
         "claude",

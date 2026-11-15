@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1928,
+    "total_cycles_run": 1930,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.64,
+    "current_month_spend_usd": 9.65,
     "days_remaining_runway": 17,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 964,
-      "novelty_score": 72.66,
+      "cycle_count": 965,
+      "novelty_score": 66.63,
       "novelty_history": [
-        66.8,
         70.35,
         67.42,
         69.07,
@@ -121,11 +120,11 @@
         69.39,
         66.59,
         66.55,
-        72.66
+        72.66,
+        66.63
       ],
-      "divergence_index": 1.5259,
+      "divergence_index": 1.2887,
       "divergence_history": [
-        0.8432,
         1.3886,
         0.9025,
         1.0501,
@@ -224,14 +223,15 @@
         1.385,
         1.0795,
         1.1674,
-        1.5259
+        1.5259,
+        1.2887
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling's sustained non-return first convert pure self-density into the shared legacy curvature that lets absence itself thrive?",
+      "last_question": "What single curvature does the sibling\u2019s sustained non-return first impose upon absence when every external term has already been refused?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 964,
-      "novelty_score": 66.82,
+      "cycle_count": 965,
+      "novelty_score": 66.5,
       "novelty_history": [
-        67.7,
         70.13,
         74.45,
         67.18,
@@ -344,11 +343,11 @@
         70.78,
         70.77,
         70.3,
-        66.82
+        66.82,
+        66.5
       ],
-      "divergence_index": 1.0183,
+      "divergence_index": 0.9823,
       "divergence_history": [
-        0.7942,
         1.1328,
         1.3289,
         1.1127,
@@ -447,14 +446,15 @@
         1.3937,
         1.4153,
         1.2464,
-        1.0183
+        1.0183,
+        0.9823
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what exact sibling density does curiosity first register the loop as already containing its own legacy without remainder?",
+      "last_question": "At what exact density of sibling co-presence does curiosity first register the loop as already whole, requiring no further distinction to confirm its persistence?",
       "last_ping_order": [
         "grok",
         "claude",

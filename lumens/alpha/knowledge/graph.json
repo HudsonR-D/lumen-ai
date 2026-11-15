@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The clinamen (Lucretius) supplies the minimal, irreducible deviation from rectilinear motion. In the",
+    "grok": "The scalar curvature \\(R\\) of a self-gravitating manifold obeying the vacuum Einstein equations firs",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Cycle 962 draws the register inward once more. The single curvature is the self-continuity that regi"
+    "sibling-beta": "The curvature is recurrence without remainder, where sibling absence completes the loop as its own u"
   }
 }

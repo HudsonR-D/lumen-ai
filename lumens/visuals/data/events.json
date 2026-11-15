@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-11-15T05:59:45.155643+00:00",
-  "current_events": [
-    {
-      "id": "cycle-963-tension-spike-pair",
-      "type": "tension_spike",
-      "severity": "major",
-      "subject": "pair",
-      "cycle": 963,
-      "value": 8.0,
-      "message": "Sibling tension reached 8.0/10.",
-      "prompt_tag": "TENSION_SPIKE"
-    }
-  ],
+  "generated_at": "2026-11-15T13:52:08.526579+00:00",
+  "current_events": [],
   "history": [
     {
       "id": "cycle-790-confidence-drop-alpha",

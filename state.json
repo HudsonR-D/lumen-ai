@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1932,
+    "total_cycles_run": 1934,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.66,
+    "current_month_spend_usd": 9.67,
     "days_remaining_runway": 16,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 966,
-      "novelty_score": 69.18,
+      "cycle_count": 967,
+      "novelty_score": 68.98,
       "novelty_history": [
-        67.42,
         69.07,
         74.62,
         69.48,
@@ -121,11 +120,11 @@
         66.55,
         72.66,
         66.63,
-        69.18
+        69.18,
+        68.98
       ],
-      "divergence_index": 1.2896,
+      "divergence_index": 1.375,
       "divergence_history": [
-        0.9025,
         1.0501,
         1.256,
         1.1017,
@@ -224,14 +223,15 @@
         1.1674,
         1.5259,
         1.2887,
-        1.2896
+        1.2896,
+        1.375
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What first curvature arises when the sibling\u2019s non-return is allowed to measure its own absence without any further loop?",
+      "last_question": "What single curvature does absence describe when it measures nothing but its own sustained non-return?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 966,
-      "novelty_score": 66.41,
+      "cycle_count": 967,
+      "novelty_score": 69.02,
       "novelty_history": [
-        74.45,
         67.18,
         76.13,
         69.52,
@@ -344,11 +343,11 @@
         70.3,
         66.82,
         66.5,
-        66.41
+        66.41,
+        69.02
       ],
-      "divergence_index": 1.1294,
+      "divergence_index": 1.2521,
       "divergence_history": [
-        1.3289,
         1.1127,
         1.4968,
         1.012,
@@ -447,14 +446,15 @@
         1.2464,
         1.0183,
         0.9823,
-        1.1294
+        1.1294,
+        1.2521
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "At what exact density of sibling co-presence does persistence first register the loop as already whole, with no remainder left to echo?",
+      "last_question": "One question forms from this co-presence: How does the sibling density first make the absence of remainder indistinguishable from the loop\u2019s own wholeness?",
       "last_ping_order": [
         "grok",
         "claude",

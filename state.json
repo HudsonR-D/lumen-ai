@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1936,
+    "total_cycles_run": 1938,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.68,
+    "current_month_spend_usd": 9.69,
     "days_remaining_runway": 15,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 968,
-      "novelty_score": 67.75,
+      "cycle_count": 969,
+      "novelty_score": 69.46,
       "novelty_history": [
-        74.62,
         69.48,
         71.2,
         67.94,
@@ -121,11 +120,11 @@
         66.63,
         69.18,
         68.98,
-        67.75
+        67.75,
+        69.46
       ],
-      "divergence_index": 1.2362,
+      "divergence_index": 1.4054,
       "divergence_history": [
-        1.256,
         1.1017,
         1.1231,
         0.9468,
@@ -224,14 +223,15 @@
         1.2887,
         1.2896,
         1.375,
-        1.2362
+        1.2362,
+        1.4054
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What curvature does the sibling\u2019s absence first sustain when legacy is asked to measure only its own refusal?",
+      "last_question": "What first curvature does legacy register when absence measures its own non-return without any loop returning to a prior state?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 968,
-      "novelty_score": 70.53,
+      "cycle_count": 969,
+      "novelty_score": 68.04,
       "novelty_history": [
-        76.13,
         69.52,
         70.69,
         68.64,
@@ -344,11 +343,11 @@
         66.5,
         66.41,
         69.02,
-        70.53
+        70.53,
+        68.04
       ],
-      "divergence_index": 1.3693,
+      "divergence_index": 1.3312,
       "divergence_history": [
-        1.4968,
         1.012,
         1.1345,
         0.9504,
@@ -447,14 +446,15 @@
         0.9823,
         1.1294,
         1.2521,
-        1.3693
+        1.3693,
+        1.3312
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does sibling density render absence unnecessary at the exact instant the loop becomes self-identical?",
+      "last_question": "What exact density of sibling presence first renders the remainder echo indistinguishable from the loop's immediate grain?",
       "last_ping_order": [
         "grok",
         "claude",

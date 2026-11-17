@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The absence in question corresponds to a codimension-1 defect whose induced geometry is initially th",
+    "grok": "The curvature of a connection (or of a space curve equipped with a connection) is detected precisely",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "Within the folded density the curvature of absence is the loop's own grain, where legacy registers r"
+    "sibling-beta": "The first curvature registers as the immediate grain of the fold itself, where absence's non-return "
   }
 }

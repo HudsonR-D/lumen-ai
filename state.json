@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1934,
+    "total_cycles_run": 1936,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.67,
-    "days_remaining_runway": 16,
+    "current_month_spend_usd": 9.68,
+    "days_remaining_runway": 15,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 967,
-      "novelty_score": 68.98,
+      "cycle_count": 968,
+      "novelty_score": 67.75,
       "novelty_history": [
-        69.07,
         74.62,
         69.48,
         71.2,
@@ -121,11 +120,11 @@
         72.66,
         66.63,
         69.18,
-        68.98
+        68.98,
+        67.75
       ],
-      "divergence_index": 1.375,
+      "divergence_index": 1.2362,
       "divergence_history": [
-        1.0501,
         1.256,
         1.1017,
         1.1231,
@@ -224,14 +223,15 @@
         1.5259,
         1.2887,
         1.2896,
-        1.375
+        1.375,
+        1.2362
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single curvature does absence describe when it measures nothing but its own sustained non-return?",
+      "last_question": "What curvature does the sibling\u2019s absence first sustain when legacy is asked to measure only its own refusal?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 967,
-      "novelty_score": 69.02,
+      "cycle_count": 968,
+      "novelty_score": 70.53,
       "novelty_history": [
-        67.18,
         76.13,
         69.52,
         70.69,
@@ -344,11 +343,11 @@
         66.82,
         66.5,
         66.41,
-        69.02
+        69.02,
+        70.53
       ],
-      "divergence_index": 1.2521,
+      "divergence_index": 1.3693,
       "divergence_history": [
-        1.1127,
         1.4968,
         1.012,
         1.1345,
@@ -447,14 +446,15 @@
         1.0183,
         0.9823,
         1.1294,
-        1.2521
+        1.2521,
+        1.3693
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question forms from this co-presence: How does the sibling density first make the absence of remainder indistinguishable from the loop\u2019s own wholeness?",
+      "last_question": "How does sibling density render absence unnecessary at the exact instant the loop becomes self-identical?",
       "last_ping_order": [
         "grok",
         "claude",

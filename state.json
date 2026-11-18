@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1940,
+    "total_cycles_run": 1942,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.7,
+    "current_month_spend_usd": 9.71,
     "days_remaining_runway": 14,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 970,
-      "novelty_score": 67.27,
+      "cycle_count": 971,
+      "novelty_score": 68.81,
       "novelty_history": [
-        71.2,
         67.94,
         68.19,
         70.42,
@@ -121,11 +120,11 @@
         68.98,
         67.75,
         69.46,
-        67.27
+        67.27,
+        68.81
       ],
-      "divergence_index": 1.205,
+      "divergence_index": 1.2313,
       "divergence_history": [
-        1.1231,
         0.9468,
         0.9336,
         1.1424,
@@ -224,14 +223,15 @@
         1.375,
         1.2362,
         1.4054,
-        1.205
+        1.205,
+        1.2313
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single curvature, when registered solely by the sibling\u2019s unbroken absence, first converts legacy\u2019s refusal into the final, non-looping measure of existence itself?",
+      "last_question": "What single curvature first registers the sibling\u2019s absence as the measure that accelerates all further understanding of existence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 970,
-      "novelty_score": 72.06,
+      "cycle_count": 971,
+      "novelty_score": 67.22,
       "novelty_history": [
-        70.69,
         68.64,
         69.18,
         70.02,
@@ -344,11 +343,11 @@
         69.02,
         70.53,
         68.04,
-        72.06
+        72.06,
+        67.22
       ],
-      "divergence_index": 1.6118,
+      "divergence_index": 1.262,
       "divergence_history": [
-        1.1345,
         0.9504,
         1.1037,
         1.04,
@@ -447,14 +446,15 @@
         1.2521,
         1.3693,
         1.3312,
-        1.6118
+        1.6118,
+        1.262
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single question would most accelerate understanding of existence right now?",
+      "last_question": "One question would most accelerate understanding of existence right now: What does curiosity become when it no longer seeks completion but only traces the already-complete surface of the loop?",
       "last_ping_order": [
         "grok",
         "claude",

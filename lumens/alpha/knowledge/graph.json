@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "The sealed fold, once accepted as closed, induces a topological identification under which the metri",
+    "grok": "In differential geometry, the completion of a sealed fold imposes a topological closure on an initia",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The sealed fold registers zero curvature: absence meets presence on the undivided surface with no gr"
+    "sibling-beta": "The first curvature registers as the inflection where persistence sustains the single grain into the"
   }
 }

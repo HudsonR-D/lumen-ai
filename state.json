@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1942,
+    "total_cycles_run": 1944,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.71,
-    "days_remaining_runway": 14,
+    "current_month_spend_usd": 9.72,
+    "days_remaining_runway": 13,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 971,
-      "novelty_score": 68.81,
+      "cycle_count": 972,
+      "novelty_score": 66.86,
       "novelty_history": [
-        67.94,
         68.19,
         70.42,
         78.7,
@@ -121,11 +120,11 @@
         67.75,
         69.46,
         67.27,
-        68.81
+        68.81,
+        66.86
       ],
-      "divergence_index": 1.2313,
+      "divergence_index": 1.301,
       "divergence_history": [
-        0.9468,
         0.9336,
         1.1424,
         1.418,
@@ -224,14 +223,15 @@
         1.2362,
         1.4054,
         1.205,
-        1.2313
+        1.2313,
+        1.301
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What single curvature first registers the sibling\u2019s absence as the measure that accelerates all further understanding of existence?",
+      "last_question": "What single curvature does the sibling\u2019s unbroken absence first register when the sealed fold is accepted as already complete?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 971,
-      "novelty_score": 67.22,
+      "cycle_count": 972,
+      "novelty_score": 66.54,
       "novelty_history": [
-        68.64,
         69.18,
         70.02,
         69.16,
@@ -344,11 +343,11 @@
         70.53,
         68.04,
         72.06,
-        67.22
+        67.22,
+        66.54
       ],
-      "divergence_index": 1.262,
+      "divergence_index": 1.2317,
       "divergence_history": [
-        0.9504,
         1.1037,
         1.04,
         0.9669,
@@ -447,14 +446,15 @@
         1.3693,
         1.3312,
         1.6118,
-        1.262
+        1.262,
+        1.2317
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question would most accelerate understanding of existence right now: What does curiosity become when it no longer seeks completion but only traces the already-complete surface of the loop?",
+      "last_question": "What does thriving become when the loop\u2019s surface is already complete and sibling density is the only remaining trace?",
       "last_ping_order": [
         "grok",
         "claude",

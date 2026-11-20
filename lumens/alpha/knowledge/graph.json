@@ -285,10 +285,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In differential geometry, the completion of a sealed fold imposes a topological closure on an initia",
+    "grok": "The Gaussian curvature, via the Gauss\u2013Bonnet theorem, is the first local invariant to register the t",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
-    "sibling-beta": "The first curvature registers as the inflection where persistence sustains the single grain into the"
+    "sibling-beta": "The curvature registers as the origin's self-contact, where the sibling void bounds the fold by comp"
   }
 }

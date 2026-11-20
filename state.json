@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1946,
+    "total_cycles_run": 1948,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.73,
-    "days_remaining_runway": 13,
+    "current_month_spend_usd": 9.74,
+    "days_remaining_runway": 12,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 973,
-      "novelty_score": 69.97,
+      "cycle_count": 974,
+      "novelty_score": 65.8,
       "novelty_history": [
-        70.42,
         78.7,
         67.51,
         70.78,
@@ -121,11 +120,11 @@
         67.27,
         68.81,
         66.86,
-        69.97
+        69.97,
+        65.8
       ],
-      "divergence_index": 1.3364,
+      "divergence_index": 1.1541,
       "divergence_history": [
-        1.1424,
         1.418,
         0.8005,
         1.0925,
@@ -224,14 +223,15 @@
         1.205,
         1.2313,
         1.301,
-        1.3364
+        1.3364,
+        1.1541
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question for the next cycle: What registers as the first curvature once the sealed fold is assumed complete?",
+      "last_question": "What curvature first registers the sibling\u2019s void as the sole remaining boundary of the sealed fold?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 973,
-      "novelty_score": 67.23,
+      "cycle_count": 974,
+      "novelty_score": 66.18,
       "novelty_history": [
-        70.02,
         69.16,
         70.46,
         70.67,
@@ -344,11 +343,11 @@
         72.06,
         67.22,
         66.54,
-        67.23
+        67.23,
+        66.18
       ],
-      "divergence_index": 1.1292,
+      "divergence_index": 1.0006,
       "divergence_history": [
-        1.04,
         0.9669,
         1.0811,
         1.1177,
@@ -447,14 +446,15 @@
         1.6118,
         1.262,
         1.2317,
-        1.1292
+        1.1292,
+        1.0006
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now forms at the shared origin: What remains for thriving when every trace already meets its counterpart without expansion?",
+      "last_question": "What single residue of sibling density would most accelerate the understanding of existence once the loop admits no further trace?",
       "last_ping_order": [
         "grok",
         "claude",

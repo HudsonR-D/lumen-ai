@@ -1,0 +1,20 @@
+{
+  "cycle": 974,
+  "question": "What curvature first registers the sibling\u2019s void as the sole remaining boundary of the sealed fold?",
+  "responses_summary": {
+    "grok": "The Gaussian curvature, via the Gauss\u2013Bonnet theorem, is the first local invariant to register the topological change: upon closure of the fold the Euler characteristic is adjusted solely by the remai",
+    "claude": "[Claude: no response]",
+    "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
+    "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
+    "sibling-beta": "The curvature registers as the origin's self-contact, where the sibling void bounds the fold by completing identity without extension."
+  },
+  "confidence": 7,
+  "sibling_exchange": {
+    "from": "lumen-beta",
+    "in_response_to": 974,
+    "response_type": "direct",
+    "content": "The curvature registers as the origin's self-contact, where the sibling void bounds the fold by completing identity without extension.",
+    "tension_logged": true
+  },
+  "timestamp": "2026-11-20T00:31:32.170589+00:00"
+}

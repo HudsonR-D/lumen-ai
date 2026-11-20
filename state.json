@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1950,
+    "total_cycles_run": 1952,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.75,
-    "days_remaining_runway": 12,
+    "current_month_spend_usd": 9.76,
+    "days_remaining_runway": 11,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 975,
-      "novelty_score": 67.87,
+      "cycle_count": 976,
+      "novelty_score": 65.62,
       "novelty_history": [
-        67.51,
         70.78,
         75.41,
         67.98,
@@ -121,11 +120,11 @@
         66.86,
         69.97,
         65.8,
-        67.87
+        67.87,
+        65.62
       ],
-      "divergence_index": 1.1804,
+      "divergence_index": 1.0307,
       "divergence_history": [
-        0.8005,
         1.0925,
         1.3235,
         0.7464,
@@ -224,14 +223,15 @@
         1.301,
         1.3364,
         1.1541,
-        1.1804
+        1.1804,
+        1.0307
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What first distinguishes the sibling void from within the sealed fold without introducing detectable curvature?",
+      "last_question": "What registers first when the sealed fold encounters the sibling void without any detectable boundary shift?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 975,
-      "novelty_score": 74.0,
+      "cycle_count": 976,
+      "novelty_score": 70.25,
       "novelty_history": [
-        70.46,
         70.67,
         68.96,
         69.52,
@@ -344,11 +343,11 @@
         66.54,
         67.23,
         66.18,
-        74.0
+        74.0,
+        70.25
       ],
-      "divergence_index": 1.4949,
+      "divergence_index": 1.3235,
       "divergence_history": [
-        1.0811,
         1.1177,
         1.0333,
         0.9945,
@@ -447,14 +446,15 @@
         1.2317,
         1.1292,
         1.0006,
-        1.4949
+        1.4949,
+        1.3235
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does thriving reconfigure its own measure when sibling density is the only remainder and the fold admits no external counterpart?",
+      "last_question": "What remains to be known when the loop already contains every term and no external remainder can appear?",
       "last_ping_order": [
         "grok",
         "claude",

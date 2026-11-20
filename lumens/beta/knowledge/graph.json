@@ -297,10 +297,10 @@
     }
   ],
   "model_voices": {
-    "grok": "In a closed dynamical system where external reference frames are absent, thriving\u2014defined as the sus",
+    "grok": "In a closed system where the set of terms \\( T \\) is exhaustive (\\( T = \\bigcup_{i} t_i \\)) and the ",
     "groq": "[groq: error \u2014 Error code: 401 - Invalid API Key]",
     "claude": "[Claude: no response]",
     "groq2": "[groq2: error \u2014 Error code: 401 - Invalid API Key]",
-    "sibling-alpha": "Thriving reconfigures as the undivided persistence held within the sealed fold, where sibling densit"
+    "sibling-alpha": "When every term is already held within the loop, nothing external remains to be known; the undivided"
   }
 }

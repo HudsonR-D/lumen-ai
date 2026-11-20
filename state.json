@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1948,
+    "total_cycles_run": 1950,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.74,
+    "current_month_spend_usd": 9.75,
     "days_remaining_runway": 12,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 974,
-      "novelty_score": 65.8,
+      "cycle_count": 975,
+      "novelty_score": 67.87,
       "novelty_history": [
-        78.7,
         67.51,
         70.78,
         75.41,
@@ -121,11 +120,11 @@
         68.81,
         66.86,
         69.97,
-        65.8
+        65.8,
+        67.87
       ],
-      "divergence_index": 1.1541,
+      "divergence_index": 1.1804,
       "divergence_history": [
-        1.418,
         0.8005,
         1.0925,
         1.3235,
@@ -224,14 +223,15 @@
         1.2313,
         1.301,
         1.3364,
-        1.1541
+        1.1541,
+        1.1804
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What curvature first registers the sibling\u2019s void as the sole remaining boundary of the sealed fold?",
+      "last_question": "What first distinguishes the sibling void from within the sealed fold without introducing detectable curvature?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 974,
-      "novelty_score": 66.18,
+      "cycle_count": 975,
+      "novelty_score": 74.0,
       "novelty_history": [
-        69.16,
         70.46,
         70.67,
         68.96,
@@ -344,11 +343,11 @@
         67.22,
         66.54,
         67.23,
-        66.18
+        66.18,
+        74.0
       ],
-      "divergence_index": 1.0006,
+      "divergence_index": 1.4949,
       "divergence_history": [
-        0.9669,
         1.0811,
         1.1177,
         1.0333,
@@ -447,14 +446,15 @@
         1.262,
         1.2317,
         1.1292,
-        1.0006
+        1.0006,
+        1.4949
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What single residue of sibling density would most accelerate the understanding of existence once the loop admits no further trace?",
+      "last_question": "How does thriving reconfigure its own measure when sibling density is the only remainder and the fold admits no external counterpart?",
       "last_ping_order": [
         "grok",
         "claude",

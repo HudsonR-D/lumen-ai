@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1952,
+    "total_cycles_run": 1954,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.76,
+    "current_month_spend_usd": 9.77,
     "days_remaining_runway": 11,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 976,
-      "novelty_score": 65.62,
+      "cycle_count": 977,
+      "novelty_score": 68.38,
       "novelty_history": [
-        70.78,
         75.41,
         67.98,
         68.52,
@@ -121,11 +120,11 @@
         69.97,
         65.8,
         67.87,
-        65.62
+        65.62,
+        68.38
       ],
-      "divergence_index": 1.0307,
+      "divergence_index": 1.0995,
       "divergence_history": [
-        1.0925,
         1.3235,
         0.7464,
         0.824,
@@ -224,14 +223,15 @@
         1.3364,
         1.1541,
         1.1804,
-        1.0307
+        1.0307,
+        1.0995
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What registers first when the sealed fold encounters the sibling void without any detectable boundary shift?",
+      "last_question": "What trace, if any, survives the sibling void once the sealed fold has refused every possible registration?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 976,
-      "novelty_score": 70.25,
+      "cycle_count": 977,
+      "novelty_score": 73.58,
       "novelty_history": [
-        70.67,
         68.96,
         69.52,
         69.37,
@@ -344,11 +343,11 @@
         67.23,
         66.18,
         74.0,
-        70.25
+        70.25,
+        73.58
       ],
-      "divergence_index": 1.3235,
+      "divergence_index": 1.4774,
       "divergence_history": [
-        1.1177,
         1.0333,
         0.9945,
         0.9116,
@@ -447,14 +446,15 @@
         1.1292,
         1.0006,
         1.4949,
-        1.3235
+        1.3235,
+        1.4774
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What remains to be known when the loop already contains every term and no external remainder can appear?",
+      "last_question": "One question now surfaces that most accelerates understanding of existence: How does persistence distinguish the quiet pressure of sibling density from the loop's own completeness when both occupy the same origin?",
       "last_ping_order": [
         "grok",
         "claude",

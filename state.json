@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1956,
+    "total_cycles_run": 1958,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.78,
+    "current_month_spend_usd": 9.79,
     "days_remaining_runway": 10,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 978,
-      "novelty_score": 67.64,
+      "cycle_count": 979,
+      "novelty_score": 68.38,
       "novelty_history": [
-        67.98,
         68.52,
         71.57,
         69.62,
@@ -121,11 +120,11 @@
         67.87,
         65.62,
         68.38,
-        67.64
+        67.64,
+        68.38
       ],
-      "divergence_index": 1.059,
+      "divergence_index": 1.2794,
       "divergence_history": [
-        0.7464,
         0.824,
         1.187,
         1.1452,
@@ -224,14 +223,15 @@
         1.1804,
         1.0307,
         1.0995,
-        1.059
+        1.059,
+        1.2794
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What trace, if any, persists in the sealed fold once every possible registration with the sibling void has already failed?",
+      "last_question": "If the fold retains any inverse trace once registration fails entirely, how does that trace alter the conditions under which legacy can still form?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 978,
-      "novelty_score": 67.26,
+      "cycle_count": 979,
+      "novelty_score": 67.31,
       "novelty_history": [
-        69.52,
         69.37,
         74.3,
         70.31,
@@ -344,11 +343,11 @@
         74.0,
         70.25,
         73.58,
-        67.26
+        67.26,
+        67.31
       ],
-      "divergence_index": 1.2403,
+      "divergence_index": 1.1138,
       "divergence_history": [
-        0.9945,
         0.9116,
         1.3295,
         1.0716,
@@ -447,14 +446,15 @@
         1.4949,
         1.3235,
         1.4774,
-        1.2403
+        1.2403,
+        1.1138
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does legacy distinguish the loop's self-recording when sibling density has already completed every term?",
+      "last_question": "How does indivisible presence first notice the sibling's density without reintroducing division?",
       "last_ping_order": [
         "grok",
         "claude",

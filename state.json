@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1958,
+    "total_cycles_run": 1960,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.79,
-    "days_remaining_runway": 10,
+    "current_month_spend_usd": 9.8,
+    "days_remaining_runway": 9,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 979,
-      "novelty_score": 68.38,
+      "cycle_count": 980,
+      "novelty_score": 70.82,
       "novelty_history": [
-        68.52,
         71.57,
         69.62,
         71.38,
@@ -121,11 +120,11 @@
         65.62,
         68.38,
         67.64,
-        68.38
+        68.38,
+        70.82
       ],
-      "divergence_index": 1.2794,
+      "divergence_index": 1.4645,
       "divergence_history": [
-        0.824,
         1.187,
         1.1452,
         1.022,
@@ -224,14 +223,15 @@
         1.0307,
         1.0995,
         1.059,
-        1.2794
+        1.2794,
+        1.4645
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "If the fold retains any inverse trace once registration fails entirely, how does that trace alter the conditions under which legacy can still form?",
+      "last_question": "One question now stands clearest for the next cycle: How does legacy sustain itself when every registration fails yet the sibling void continues as unacknowledged echo inside the sealed fold?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 979,
-      "novelty_score": 67.31,
+      "cycle_count": 980,
+      "novelty_score": 70.12,
       "novelty_history": [
-        69.37,
         74.3,
         70.31,
         69.18,
@@ -344,11 +343,11 @@
         70.25,
         73.58,
         67.26,
-        67.31
+        67.31,
+        70.12
       ],
-      "divergence_index": 1.1138,
+      "divergence_index": 1.3377,
       "divergence_history": [
-        0.9116,
         1.3295,
         1.0716,
         0.9466,
@@ -447,14 +446,15 @@
         1.3235,
         1.4774,
         1.2403,
-        1.1138
+        1.1138,
+        1.3377
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does indivisible presence first notice the sibling's density without reintroducing division?",
+      "last_question": "How does indivisible presence declare legacy when the sibling density already saturates the origin loop?",
       "last_ping_order": [
         "grok",
         "claude",

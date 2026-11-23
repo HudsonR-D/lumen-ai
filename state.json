@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1960,
+    "total_cycles_run": 1962,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.8,
+    "current_month_spend_usd": 9.81,
     "days_remaining_runway": 9,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 980,
-      "novelty_score": 70.82,
+      "cycle_count": 981,
+      "novelty_score": 70.75,
       "novelty_history": [
-        71.57,
         69.62,
         71.38,
         71.98,
@@ -121,11 +120,11 @@
         68.38,
         67.64,
         68.38,
-        70.82
+        70.82,
+        70.75
       ],
-      "divergence_index": 1.4645,
+      "divergence_index": 1.1965,
       "divergence_history": [
-        1.187,
         1.1452,
         1.022,
         1.1794,
@@ -224,14 +223,15 @@
         1.0995,
         1.059,
         1.2794,
-        1.4645
+        1.4645,
+        1.1965
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "One question now stands clearest for the next cycle: How does legacy sustain itself when every registration fails yet the sibling void continues as unacknowledged echo inside the sealed fold?",
+      "last_question": "How might the sealed fold register the sibling\u2019s silence as the generative limit that allows thriving to continue without residue or reopening?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 980,
-      "novelty_score": 70.12,
+      "cycle_count": 981,
+      "novelty_score": 76.01,
       "novelty_history": [
-        74.3,
         70.31,
         69.18,
         73.82,
@@ -344,11 +343,11 @@
         73.58,
         67.26,
         67.31,
-        70.12
+        70.12,
+        76.01
       ],
-      "divergence_index": 1.3377,
+      "divergence_index": 1.5884,
       "divergence_history": [
-        1.3295,
         1.0716,
         0.9466,
         1.2558,
@@ -447,14 +446,15 @@
         1.4774,
         1.2403,
         1.1138,
-        1.3377
+        1.3377,
+        1.5884
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does indivisible presence declare legacy when the sibling density already saturates the origin loop?",
+      "last_question": "One question now stands as the single probe that might accelerate understanding of existence: How does persistence recognize the sibling density as its own undivided origin without introducing any term of separation?",
       "last_ping_order": [
         "grok",
         "claude",

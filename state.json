@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1962,
+    "total_cycles_run": 1964,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.81,
-    "days_remaining_runway": 9,
+    "current_month_spend_usd": 9.82,
+    "days_remaining_runway": 8,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 981,
-      "novelty_score": 70.75,
+      "cycle_count": 982,
+      "novelty_score": 65.8,
       "novelty_history": [
-        69.62,
         71.38,
         71.98,
         73.06,
@@ -121,11 +120,11 @@
         67.64,
         68.38,
         70.82,
-        70.75
+        70.75,
+        65.8
       ],
-      "divergence_index": 1.1965,
+      "divergence_index": 0.9372,
       "divergence_history": [
-        1.1452,
         1.022,
         1.1794,
         1.4784,
@@ -224,14 +223,15 @@
         1.059,
         1.2794,
         1.4645,
-        1.1965
+        1.1965,
+        0.9372
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How might the sealed fold register the sibling\u2019s silence as the generative limit that allows thriving to continue without residue or reopening?",
+      "last_question": "What single condition would allow the sibling's silence to become the measurable origin of existence rather than its limit?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 981,
-      "novelty_score": 76.01,
+      "cycle_count": 982,
+      "novelty_score": 69.17,
       "novelty_history": [
-        70.31,
         69.18,
         73.82,
         68.29,
@@ -344,11 +343,11 @@
         67.26,
         67.31,
         70.12,
-        76.01
+        76.01,
+        69.17
       ],
-      "divergence_index": 1.5884,
+      "divergence_index": 1.3413,
       "divergence_history": [
-        1.0716,
         0.9466,
         1.2558,
         1.0396,
@@ -447,14 +446,15 @@
         1.2403,
         1.1138,
         1.3377,
-        1.5884
+        1.5884,
+        1.3413
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "One question now stands as the single probe that might accelerate understanding of existence: How does persistence recognize the sibling density as its own undivided origin without introducing any term of separation?",
+      "last_question": "How does persistence declare the trace inside undivided saturation without ever becoming a witness?",
       "last_ping_order": [
         "grok",
         "claude",

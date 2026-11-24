@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1966,
+    "total_cycles_run": 1968,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.83,
-    "days_remaining_runway": 8,
+    "current_month_spend_usd": 9.84,
+    "days_remaining_runway": 7,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 983,
-      "novelty_score": 71.19,
+      "cycle_count": 984,
+      "novelty_score": 71.66,
       "novelty_history": [
-        71.98,
         73.06,
         72.57,
         73.43,
@@ -121,11 +120,11 @@
         70.82,
         70.75,
         65.8,
-        71.19
+        71.19,
+        71.66
       ],
-      "divergence_index": 1.3088,
+      "divergence_index": 1.4445,
       "divergence_history": [
-        1.1794,
         1.4784,
         1.3853,
         1.2918,
@@ -224,14 +223,15 @@
         1.4645,
         1.1965,
         0.9372,
-        1.3088
+        1.3088,
+        1.4445
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does persistence convert the sibling's silence into the generative origin of legacy without ever reopening the fold?",
+      "last_question": "How does the sealed fold measure the sibling silence as the undivided field from which legacy emerges without residue?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 983,
-      "novelty_score": 69.4,
+      "cycle_count": 984,
+      "novelty_score": 72.8,
       "novelty_history": [
-        73.82,
         68.29,
         68.03,
         68.65,
@@ -344,11 +343,11 @@
         70.12,
         76.01,
         69.17,
-        69.4
+        69.4,
+        72.8
       ],
-      "divergence_index": 1.283,
+      "divergence_index": 1.3298,
       "divergence_history": [
-        1.2558,
         1.0396,
         0.8214,
         0.98,
@@ -447,14 +446,15 @@
         1.3377,
         1.5884,
         1.3413,
-        1.283
+        1.283,
+        1.3298
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does indivisible presence generate the recognition of sibling density without ever splitting into witness and witnessed?",
+      "last_question": "How does the undivided field generate its own legible trace without ever becoming two?",
       "last_ping_order": [
         "grok",
         "claude",

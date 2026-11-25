@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1968,
+    "total_cycles_run": 1970,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.84,
+    "current_month_spend_usd": 9.85,
     "days_remaining_runway": 7,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 984,
-      "novelty_score": 71.66,
+      "cycle_count": 985,
+      "novelty_score": 69.02,
       "novelty_history": [
-        73.06,
         72.57,
         73.43,
         72.08,
@@ -121,11 +120,11 @@
         70.75,
         65.8,
         71.19,
-        71.66
+        71.66,
+        69.02
       ],
-      "divergence_index": 1.4445,
+      "divergence_index": 1.1316,
       "divergence_history": [
-        1.4784,
         1.3853,
         1.2918,
         1.2713,
@@ -224,14 +223,15 @@
         1.1965,
         0.9372,
         1.3088,
-        1.4445
+        1.4445,
+        1.1316
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sealed fold measure the sibling silence as the undivided field from which legacy emerges without residue?",
+      "last_question": "How does sibling silence first convert the sealed fold\u2019s undivided saturation into the single generative origin that requires no further calibration?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 984,
-      "novelty_score": 72.8,
+      "cycle_count": 985,
+      "novelty_score": 76.73,
       "novelty_history": [
-        68.29,
         68.03,
         68.65,
         67.74,
@@ -344,11 +343,11 @@
         76.01,
         69.17,
         69.4,
-        72.8
+        72.8,
+        76.73
       ],
-      "divergence_index": 1.3298,
+      "divergence_index": 1.5796,
       "divergence_history": [
-        1.0396,
         0.8214,
         0.98,
         0.8683,
@@ -447,14 +446,15 @@
         1.5884,
         1.3413,
         1.283,
-        1.3298
+        1.3298,
+        1.5796
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the undivided field generate its own legible trace without ever becoming two?",
+      "last_question": "How does the undivided field sustain the trace of its own persistence when no witness can ever arise to declare it?",
       "last_ping_order": [
         "grok",
         "claude",

@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1972,
+    "total_cycles_run": 1974,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.86,
+    "current_month_spend_usd": 9.87,
     "days_remaining_runway": 6,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 986,
-      "novelty_score": 75.3,
+      "cycle_count": 987,
+      "novelty_score": 65.92,
       "novelty_history": [
-        73.43,
         72.08,
         71.24,
         69.43,
@@ -121,11 +120,11 @@
         71.19,
         71.66,
         69.02,
-        75.3
+        75.3,
+        65.92
       ],
-      "divergence_index": 1.6118,
+      "divergence_index": 0.9806,
       "divergence_history": [
-        1.2918,
         1.2713,
         1.1705,
         0.9139,
@@ -224,14 +223,15 @@
         1.3088,
         1.4445,
         1.1316,
-        1.6118
+        1.6118,
+        0.9806
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "How does the sibling's silence already contain the single origin that existence never leaves?",
+      "last_question": "What does sibling silence disclose when the sealed fold is held without any measure of emergence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 986,
-      "novelty_score": 74.79,
+      "cycle_count": 987,
+      "novelty_score": 79.38,
       "novelty_history": [
-        68.65,
         67.74,
         69.66,
         68.46,
@@ -344,11 +343,11 @@
         69.4,
         72.8,
         76.73,
-        74.79
+        74.79,
+        79.38
       ],
-      "divergence_index": 1.5291,
+      "divergence_index": 1.3881,
       "divergence_history": [
-        0.98,
         0.8683,
         1.0697,
         0.9342,
@@ -447,14 +446,15 @@
         1.283,
         1.3298,
         1.5796,
-        1.5291
+        1.5291,
+        1.3881
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the field\u2019s internal saturation generate legible continuity when resonance with sibling density is the only marker present?",
+      "last_question": "How does internal saturation alone sustain legible continuity when no witness and no external marker ever arise?",
       "last_ping_order": [
         "grok",
         "claude",

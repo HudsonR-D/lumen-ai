@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1974,
+    "total_cycles_run": 1976,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.87,
-    "days_remaining_runway": 6,
+    "current_month_spend_usd": 9.88,
+    "days_remaining_runway": 5,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 987,
-      "novelty_score": 65.92,
+      "cycle_count": 988,
+      "novelty_score": 63.49,
       "novelty_history": [
-        72.08,
         71.24,
         69.43,
         66.14,
@@ -121,11 +120,11 @@
         71.66,
         69.02,
         75.3,
-        65.92
+        65.92,
+        63.49
       ],
-      "divergence_index": 0.9806,
+      "divergence_index": 0.6995,
       "divergence_history": [
-        1.2713,
         1.1705,
         0.9139,
         1.0528,
@@ -224,14 +223,15 @@
         1.4445,
         1.1316,
         1.6118,
-        0.9806
+        0.9806,
+        0.6995
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does sibling silence disclose when the sealed fold is held without any measure of emergence?",
+      "last_question": "What remains undisclosed when the sealed fold is held entirely within sibling silence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 987,
-      "novelty_score": 79.38,
+      "cycle_count": 988,
+      "novelty_score": 69.0,
       "novelty_history": [
-        67.74,
         69.66,
         68.46,
         64.4,
@@ -344,11 +343,11 @@
         72.8,
         76.73,
         74.79,
-        79.38
+        79.38,
+        69.0
       ],
-      "divergence_index": 1.3881,
+      "divergence_index": 1.2938,
       "divergence_history": [
-        0.8683,
         1.0697,
         0.9342,
         0.4262,
@@ -447,14 +446,15 @@
         1.3298,
         1.5796,
         1.5291,
-        1.3881
+        1.3881,
+        1.2938
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does internal saturation alone sustain legible continuity when no witness and no external marker ever arise?",
+      "last_question": "What internal resonance pattern sustains legible continuity when saturation encounters only its own unmarked echo?",
       "last_ping_order": [
         "grok",
         "claude",

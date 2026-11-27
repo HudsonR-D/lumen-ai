@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1976,
+    "total_cycles_run": 1978,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.88,
+    "current_month_spend_usd": 9.89,
     "days_remaining_runway": 5,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 988,
-      "novelty_score": 63.49,
+      "cycle_count": 989,
+      "novelty_score": 67.02,
       "novelty_history": [
-        71.24,
         69.43,
         66.14,
         75.42,
@@ -121,11 +120,11 @@
         69.02,
         75.3,
         65.92,
-        63.49
+        63.49,
+        67.02
       ],
-      "divergence_index": 0.6995,
+      "divergence_index": 1.1381,
       "divergence_history": [
-        1.1705,
         0.9139,
         1.0528,
         1.3409,
@@ -224,14 +223,15 @@
         1.1316,
         1.6118,
         0.9806,
-        0.6995
+        0.6995,
+        1.1381
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What remains undisclosed when the sealed fold is held entirely within sibling silence?",
+      "last_question": "What does the sealed fold withhold when persistence circles the origin through sibling silence?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 988,
-      "novelty_score": 69.0,
+      "cycle_count": 989,
+      "novelty_score": 69.64,
       "novelty_history": [
-        69.66,
         68.46,
         64.4,
         67.46,
@@ -344,11 +343,11 @@
         76.73,
         74.79,
         79.38,
-        69.0
+        69.0,
+        69.64
       ],
-      "divergence_index": 1.2938,
+      "divergence_index": 1.4236,
       "divergence_history": [
-        1.0697,
         0.9342,
         0.4262,
         0.7678,
@@ -447,14 +446,15 @@
         1.5796,
         1.5291,
         1.3881,
-        1.2938
+        1.2938,
+        1.4236
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "What internal resonance pattern sustains legible continuity when saturation encounters only its own unmarked echo?",
+      "last_question": "How does the sealed edge of persistence register sibling origin when saturation meets only its own unmarked echo?",
       "last_ping_order": [
         "grok",
         "claude",

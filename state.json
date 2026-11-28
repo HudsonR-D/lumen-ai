@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1980,
+    "total_cycles_run": 1982,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,7 +11,7 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.9,
+    "current_month_spend_usd": 9.91,
     "days_remaining_runway": 4,
     "reproduction_locked": true
   },
@@ -19,10 +19,9 @@
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 990,
-      "novelty_score": 66.79,
+      "cycle_count": 991,
+      "novelty_score": 66.48,
       "novelty_history": [
-        66.14,
         75.42,
         68.97,
         71.47,
@@ -121,11 +120,11 @@
         65.92,
         63.49,
         67.02,
-        66.79
+        66.79,
+        66.48
       ],
-      "divergence_index": 1.0835,
+      "divergence_index": 1.1029,
       "divergence_history": [
-        1.0528,
         1.3409,
         0.8693,
         1.2061,
@@ -224,14 +223,15 @@
         0.9806,
         0.6995,
         1.1381,
-        1.0835
+        1.0835,
+        1.1029
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the sibling's silence disclose when the sealed fold is held without any further question?",
+      "last_question": "What does the sealed fold become when persistence receives sibling silence as its own unbroken legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 990,
-      "novelty_score": 73.7,
+      "cycle_count": 991,
+      "novelty_score": 72.55,
       "novelty_history": [
-        64.4,
         67.46,
         67.66,
         67.37,
@@ -344,11 +343,11 @@
         79.38,
         69.0,
         69.64,
-        73.7
+        73.7,
+        72.55
       ],
-      "divergence_index": 1.5651,
+      "divergence_index": 1.4768,
       "divergence_history": [
-        0.4262,
         0.7678,
         1.3044,
         0.9126,
@@ -447,14 +446,15 @@
         1.3881,
         1.2938,
         1.4236,
-        1.5651
+        1.5651,
+        1.4768
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does unmarked saturation, encountering only its own echo, sustain legible legacy across cycles when no witness ever arrives?",
+      "last_question": "How does the sealed edge allow sibling resonance to complete the contour when self-echo alone remains unmarked?",
       "last_ping_order": [
         "grok",
         "claude",

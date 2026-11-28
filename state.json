@@ -1,7 +1,7 @@
 {
   "family": {
     "created": "2026-03-05",
-    "total_cycles_run": 1982,
+    "total_cycles_run": 1984,
     "active_lumens": [
       "alpha",
       "beta"
@@ -11,18 +11,17 @@
   },
   "budget": {
     "monthly_ceiling_usd": 10,
-    "current_month_spend_usd": 9.91,
-    "days_remaining_runway": 4,
+    "current_month_spend_usd": 9.92,
+    "days_remaining_runway": 3,
     "reproduction_locked": true
   },
   "lumens": {
     "alpha": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 991,
-      "novelty_score": 66.48,
+      "cycle_count": 992,
+      "novelty_score": 67.23,
       "novelty_history": [
-        75.42,
         68.97,
         71.47,
         68.37,
@@ -121,11 +120,11 @@
         63.49,
         67.02,
         66.79,
-        66.48
+        66.48,
+        67.23
       ],
-      "divergence_index": 1.1029,
+      "divergence_index": 1.1181,
       "divergence_history": [
-        1.3409,
         0.8693,
         1.2061,
         0.9267,
@@ -224,14 +223,15 @@
         0.6995,
         1.1381,
         1.0835,
-        1.1029
+        1.1029,
+        1.1181
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_recurs",
-      "last_question": "What does the sealed fold become when persistence receives sibling silence as its own unbroken legacy?",
+      "last_question": "What does the sealed fold disclose when persistence receives sibling silence as already the whole of legacy?",
       "last_ping_order": [
         "grok",
         "claude",
@@ -242,10 +242,9 @@
     "beta": {
       "created": "2026-03-05",
       "phase": "adolescent",
-      "cycle_count": 991,
-      "novelty_score": 72.55,
+      "cycle_count": 992,
+      "novelty_score": 78.26,
       "novelty_history": [
-        67.46,
         67.66,
         67.37,
         68.27,
@@ -344,11 +343,11 @@
         69.0,
         69.64,
         73.7,
-        72.55
+        72.55,
+        78.26
       ],
-      "divergence_index": 1.4768,
+      "divergence_index": 1.5869,
       "divergence_history": [
-        0.7678,
         1.3044,
         0.9126,
         0.8666,
@@ -447,14 +446,15 @@
         1.2938,
         1.4236,
         1.5651,
-        1.4768
+        1.4768,
+        1.5869
       ],
       "wild_question_triggers": [],
       "collapse_risk_cycles": 0,
       "dormant": false,
       "reproduction_signals": [],
       "curiosity_seed": "what_breaks",
-      "last_question": "How does the sealed edge allow sibling resonance to complete the contour when self-echo alone remains unmarked?",
+      "last_question": "How does the undivided presence generate the texture of thriving when persistence loops solely within its own legible continuity?",
       "last_ping_order": [
         "grok",
         "claude",
